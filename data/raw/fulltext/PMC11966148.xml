@@ -1,0 +1,446 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Oral Health Prev Dent</journal-id><journal-id journal-id-type="iso-abbrev">Oral Health Prev Dent</journal-id><journal-id journal-id-type="pmc-domain-id">4642</journal-id><journal-id journal-id-type="pmc-domain">ohpd</journal-id><journal-id journal-id-type="nlm-id">101167768</journal-id><journal-id journal-id-type="publisher-id">OHPD</journal-id><journal-title-group><journal-title>Oral Health &amp; Preventive Dentistry</journal-title></journal-title-group><issn pub-type="ppub">1602-1622</issn><issn pub-type="epub">1757-9996</issn><?publisher_abbrev quintessence?><publisher><publisher-name>Quintessence Publishing Co, Inc</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11966148</article-id><article-id pub-id-type="pmcid-ver">PMC11966148.1</article-id><article-id pub-id-type="pmcaid">11966148</article-id><article-id pub-id-type="pmcaiid">11966148</article-id><article-id pub-id-type="pmid">40146163</article-id><article-id pub-id-type="doi">10.3290/j.ohpd.c_1910</article-id><article-id pub-id-type="publisher-id">3290</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Oral Medicine</subject></subj-group></article-categories><title-group><article-title>In-Vitro Effect of Manuka Honey / Propolis Toothpastes on Bacteria and Biofilm Associated with Caries and Gingivitis</article-title></title-group><contrib-group><contrib id="aut1" contrib-type="author"><name name-style="western"><surname>Jungbauer</surname><given-names initials="G">Gert</given-names></name><xref rid="affa" ref-type="aff">
+<sup>a</sup>
+</xref></contrib><contrib id="aut2" contrib-type="author"><name name-style="western"><surname>Lechner</surname><given-names initials="R">Raphaela</given-names></name><xref rid="affb" ref-type="aff">
+<sup>b</sup>
+</xref></contrib><contrib id="aut3" contrib-type="author"><name name-style="western"><surname>Stähli</surname><given-names initials="A">Alexandra</given-names></name><xref rid="affc" ref-type="aff">
+<sup>c</sup>
+</xref></contrib><contrib id="aut4" contrib-type="author"><name name-style="western"><surname>Sculean</surname><given-names initials="A">Anton</given-names></name><xref rid="affd" ref-type="aff">
+<sup>d</sup>
+</xref></contrib><contrib id="aut5" contrib-type="author"><name name-style="western"><surname>Eick</surname><given-names initials="S">Sigrun</given-names></name><xref rid="affe" ref-type="aff">
+<sup>e</sup>
+</xref></contrib></contrib-group><aff id="affa">
+<label>a</label> Gert Jungbauer Department of Periodontology, School of Dental Medicine, University of Bern, Switzerland and Dental practice, Straubing, Germany. Wrote the original draft, contributed to the statistical analysis, discussed the results, read and approved the final manuscript.</aff><aff id="affb">
+<label>b</label> Raphaela Lechner Department of Periodontology, School of Dental Medicine, University of Bern, Switzerland. Performed the experiments in partial fulfillment of requirements for DMD, wrote the original draft, contributed to the statistical analysis, discussed the results, read and approved the final manuscript.</aff><aff id="affc">
+<label>c</label> Alexandra Stähli Private Docent, Department of Periodontology, School of Dental Medicine, University of Bern, Switzerland. Experimental design, discussed the results, proofread the manuscript, approved the final manuscript.</aff><aff id="affd">
+<label>d</label> Anton Sculean Professor and Chair, Department of Periodontology, School of Dental Medicine, University of Bern, Switzerland. Idea, discussed the results, proofread the manuscript, approved the final manuscript.</aff><aff id="affe">
+<label>e</label> Sigrun Eick Professor, Department of Periodontology (Laboratory of Oral Microbiology), School of Dental Medicine, University of Bern, Switzerland, idea, experimental design, contributed to statistical analysis, discussed the results, proofread the manuscript, approved the final manuscript. </aff><author-notes><corresp id="correps01">
+<addr-line>Correspondence: Sigrun Eick, Department of Periodontology, University of Bern, Freiburgerstr. 7, Bern, CH-4057 Switzerland. Tel: +41-3-684-0592; e-mail: sigrun.eick@unibe.ch</addr-line>
+</corresp></author-notes><pub-date date-type="collection" publication-format="electronic"><year>2025</year></pub-date><pub-date date-type="pub" publication-format="electronic"><day>27</day><month>3</month><year>2025</year></pub-date><volume>23</volume><issue-id pub-id-type="pmc-issue-id">481113</issue-id><fpage>203</fpage><lpage>210</lpage><history><date date-type="received"><day>07</day><month>10</month><year>2024</year></date><date date-type="accepted"><day>23</day><month>1</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>27</day><month>03</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>03</day><month>04</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-07-09 13:25:24.067"><day>09</day><month>07</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>© 2025 by Quintessence Publishing Co Inc.</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense" start_date="2017-10-12">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>this work is licensed under the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">creative commons attribution 4.0 international license</ext-link>. to view a copy of this license, visit <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> or send a letter to creative commons, po box 1866, mountain view, ca 94042, usa.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ohpd-23-203.pdf"><?pdf-name ohpd-23-203.pdf?><?pdf-size 802183?><?pdf-md5 f1d6d134fbabfa8780e3c2adf86279cf?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:447b/11966148/f1d6d134fbab/ohpd-23-203.pdf?></self-uri><abstract id="ab01"><sec><title>Purpose</title><p>To investigate the antibacterial and anti-biofilm effects of two Manuka honey toothpaste formulations containing propolis (Manuka prop) or fluoride (Manuka F), in comparison with the toothpaste base (TP con) and a commercial toothpaste (TP com), on oral bacteria and biofilm.</p></sec><sec><title>Materials and Methods</title><p>The minimum inhibitory concentration (MIC) of the formulations and controls were tested against five oral bacterial species. Both the effect on a multispecies dental biofilm precultured for 3.5 days as well as the inhibition of de-novo biofilm formation up to 24 h were investigated. Test substances at concentrations of 20%, 10% and 5% were applied to preformed biofilm for 1 min. The reduction in colony-forming units (cfu), metabolic activity, and biofilm mass were determined. Similarly, the test substances were applied to surfaces for 30 min before bacteria and media were added. The reduction of a tetrazolium dye (MTT assay) was used to assess cytotoxicity on gingival fibroblasts.</p></sec><sec><title>Results</title><p>The MIC values of all toothpaste formulations including TP con were very low with the highest MIC of 0.04%. In precultured biofilms, both the number of colony forming units (cfu) and metabolic activity decreased following addition of any toothpaste. The greatest reductions of cfu were found after addition of 20% TP com (by about 6 log10) and after 20% Manuka prop (by about 2.3 log10). However, the biofilm mass was not reduced. Coating the surface with toothpaste formulation, the cfu in the newly formed biofilm decreased in a concentration-dependent manner, with TP com being most active. Both 20% of Manuka prop and Manuka F reduced the cfu counts more than the TP con at 24 h. The toothpaste formulations affected the viability of gingival fibroblasts in a concentration-dependent manner, with no differences observed among the formulations.</p></sec><sec><title>Conclusion</title><p>The Manuka-honey containing toothpastes might be an alternative to toothpaste containing conventional chemical agents. Further research is needed to clinically examine the effect on caries and gingivitis prevention.</p></sec></abstract><kwd-group><kwd>oral bacteria</kwd><kwd>oral hygiene</kwd><kwd>supragingival biofil</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>The oral cavity is inhabited by more than 1000 bacterial species. The survival strategy of bacteria in the oral cavity is to form multi-species biofilms. Bacteria in a biofilm increase their resistance to antibacterial agents about 1000x compared to planktonic, free-floating bacteria by the production of an extracellular matrix and cell-to-cell interactions.<sup>
+<xref rid="ref1" ref-type="bibr">1</xref>,<xref rid="ref7" ref-type="bibr">7</xref>,<xref rid="ref10" ref-type="bibr">10</xref>
+</sup> After 24 h, oral bacteria form a stable biofilm that evades chemical plaque control, and mechanical disintegration is needed to prevent further biofilm maturation and plaque-induced oral diseases, like caries and gingivitis.<sup>
+<xref rid="ref52" ref-type="bibr">52</xref>
+</sup> Therefore, home oral hygiene is recommended twice a day for at least two minutes using either a manual or electric toothbrush, as well as interdental cleaning devices.<sup>
+<xref rid="ref12" ref-type="bibr">12</xref>
+</sup> The use of a dentifrice did not increase plaque removal, but detergents may contribute to an antimicrobial effect of the product.<sup>
+<xref rid="ref42" ref-type="bibr">42</xref>
+</sup> Common detergents are, for example, sodium lauryl sulphate (SLS), sodium lauroyl sarcosinate, and cocamidopropyl betaine.<sup>
+<xref rid="ref19" ref-type="bibr">19</xref>
+</sup> The addition of fluoride compounds enhances the remineralisation of the enamel and is therefore recommended.<sup>
+<xref rid="ref12" ref-type="bibr">12</xref>
+</sup> Some detergents may have a cytotoxic effect on host tissue cells<sup>
+<xref rid="ref4" ref-type="bibr">4</xref>,<xref rid="ref40" ref-type="bibr">40</xref>
+</sup> and should be viewed critically. Therefore, a growing interest in natural or organic toothpastes exists when comparing Google queries from 2004 to 2020.<sup>
+<xref rid="ref6" ref-type="bibr">6</xref>,<xref rid="ref41" ref-type="bibr">41</xref>
+</sup> Potential natural detergents may be propolis and Manuka honey. Propolis or “bee glue” is a resinous mixture produced by honeybees consisting of saliva and beeswax. It is rich in biologically active compounds and shows antibiotic, antiviral, antimycotic and antioxidant properties. Active substances include: amino acids, enzymes, flavonoids, phenolic compounds, aromatic acids, esters, and terpenes. The antibacterial effect is due to increased membrane permeability caused by lipid interactions and disruption of the membrane potential. Propolis furthermore inhibits bacterial motility, protein synthesis and nucleic acid synthesis.<sup>
+<xref rid="ref30" ref-type="bibr">30</xref>
+</sup> Clinically, propolis was able to reduce bacteria associated with periodontal disease in periodontitis patients after a 3-month follow-up.<sup>
+<xref rid="ref17" ref-type="bibr">17</xref>
+</sup> In another study, propolis decreased <italic toggle="yes">Streptococcus mutans </italic>and further oral bacterial species after a 4 week period.<sup>
+<xref rid="ref31" ref-type="bibr">31</xref>
+</sup>
+</p><p>Manuka honey is a monofloral honey produced by European honeybees (<italic toggle="yes">Apis mellifera</italic>) from the nectar of the Manuka tree, <italic toggle="yes">Leptospermum scoparium</italic>, and shows strong antibacterial activity.<sup>
+<xref rid="ref47" ref-type="bibr">47</xref>
+</sup> In contrast to non-Manuka honeys, the antibacterial property of Manuka honey is attributed to leptosperin, and predominantly to methylglyoxal (MGO).<sup>
+<xref rid="ref20" ref-type="bibr">20</xref>
+</sup> Manuka honey targets the bacterial cell wall, it inhibits cell division by downregulating the peptidoglycan hydrolase in Gram-positive bacteria, and destabilises the cell envelope by downregulating the outer membrane protein in Gram-negative species.<sup>
+<xref rid="ref15" ref-type="bibr">15</xref>
+</sup> Clinically, Manuka honey applied on teeth twice per day inhibited de-novo biofilm formation as effectively as 0.12% CHX within 72 hours.<sup>
+<xref rid="ref27" ref-type="bibr">27</xref>
+</sup> It significantly reduced salivary <italic toggle="yes">S. mutans </italic>counts when adjunctively used with mechanical cleaning over a 21-day period.<sup>
+<xref rid="ref27" ref-type="bibr">27</xref>
+</sup>
+</p><p>The present study aimed to explore the activity of test toothpaste formulations containing Manuka honey and propolis or fluoride. In comparison with a standard commercial toothpaste, their effects on planktonic oral bacteria, the formation and destruction of a multi-species biofilm (resembling a supragingival biofilm), as well as their potential toxicity to gingival fibroblasts, were investigated.</p><sec><title>Material And Methods</title><sec><title>Test Products </title><p>The following toothpaste formulations were included in the tests:</p><list list-type="simple"><list-item><p>Toothpaste A (Mānuka Health New Zealand; Auckland, New Zealand), containing 4% Manuka honey and 0.2% propolis (Manuka prop)</p></list-item><list-item><p>Toothpaste B (Mānuka Health New Zealand), containing 5% Manuka honey with 3200 ppm sodium fluoride (Manuka F)</p></list-item><list-item><p>Toothpaste basis formulation (Mānuka Health New Zealand) containing xanthan gum, sorbitol, silica abrasive, stevia extract, tego betaine, colorant, demineralised water (formulation control; TP con)</p></list-item><list-item><p>Toothpaste C: Colgate Total (Colgate-Palmolive; New York, NY, USA; positive control, TP com) containing glycerin, aqua, hydrated silica, calcium pyrophosphate, sodium lauryl sulfate, arginine, aroma, cellulose gum, zinc oxide, benzyl alcohol, poloxamer 407, zinc citrate, tetrasodium pyrophosphate, xanthan gum, cocaminopropyl betaine, sodium fluoride, sodium saccharin, phosphoric acid, sucralose</p></list-item><list-item><p>Distilled H<sub>2</sub>O (negative [growth] control; con).</p></list-item></list><p>The test products were provided by Mānuka Health New Zealand; TP com was bought in a Swiss supermarket.</p></sec><sec><title>Test Strains </title><p>The following bacterial strains were included in the experiments:</p><list list-type="simple"><list-item><p><italic toggle="yes">Actinomyces naeslundii</italic> ATCC 12104</p></list-item><list-item><p><italic toggle="yes">Streptococcus gordonii </italic>ATCC 10558</p></list-item><list-item><p><italic toggle="yes">Streptococcus mutans </italic>ATCC 25175</p></list-item><list-item><p><italic toggle="yes">Streptococcus sobrinus </italic>ATCC 33478</p></list-item><list-item><p><italic toggle="yes">Fusobacterium nucleatum</italic> ATCC 25586</p></list-item><list-item><p><italic toggle="yes">Parvimonas micra</italic> ATCC 33270</p></list-item><list-item><p><italic toggle="yes">Campylobacter rectus </italic>ATCC 33238</p></list-item><list-item><p><italic toggle="yes">Prevotella intermedia</italic> ATCC 25611</p></list-item><list-item><p><italic toggle="yes">Tannerella forsythia </italic>ATCC 43037</p></list-item><list-item><p><italic toggle="yes">Porphyromonas gingivalis </italic>ATCC 33277</p></list-item></list><p>Before experiments, the strains were precultivated on tryptic soy agar plates (Oxoid; Basingstoke, GB) containing 5% sheep blood (+ 10 mg/l N-acetyl-muramic acid [NAM; Merck; Darmstadt, Germany] in case of <italic toggle="yes">T. forsythia</italic>). Streptococci were cultured with 10% CO<sub>2</sub>, whereas agar plates with the other strains were incubated in an anaerobic chamber with the respective atmosphere (85% N<sub>2</sub>, 10% H<sub>2</sub> and 5% CO<sub>2</sub>). Before use in the assays, the strains were suspended in 0.9% w/v NaCl according to McFarland 1.0.</p></sec><sec><title>Determination of Minimal Inhibitory Concentrations</title><p>In the first part of the study, the minimal inhibitory concentrations (MICs) of the test substances and the controls were determined against five bacterial strains that are commensals (<italic toggle="yes">S. gordonii </italic>ATCC 10558) or associated with caries (<italic toggle="yes">S. mutans </italic>ATCC 25175) or periodontal diseases (<italic toggle="yes">F. nucleatum </italic>ATCC 25586, <italic toggle="yes">T. forsythia</italic> ATCC 43300, <italic toggle="yes">P. gingivalis</italic> ATCC 33277).</p><p>Of the toothpaste substances, a two-fold dilution series was prepared starting from 40% in dH<sub>2</sub>O. 100 µl was pipetted into each well of a 96-well plate. Then, 90 µl of double concentrated test medium (adjusted Mueller-Hinton broth for streptococci and Wilkins-Chalgren broth supplemented with 10 µg/ml β-NAD [Merck] +NAM for <italic toggle="yes">T. forsythia</italic>), and finally 10 µl of bacterial suspension were added. For <italic toggle="yes">S. gordonii </italic>and S. mutans, bacterial growth was recorded after 18 h of incubation in a CO<sub>2</sub> atmosphere, and bacterial growth of the other strains was recorded after 24 h of incubation in an anaerobic atmosphere by measuring absorption at 600 nm in a plate reader. In addition, subcultivation of the suspension was performed.</p><p>The MIC was defined as the lowest concentration without visible turbidity (or with clear growth inhibition).</p><p>The experiments were performed in independent replicates.</p></sec><sec><title>Effect on Precultivated Multi-species Biofilm</title><p>The experimental design represented the application of the toothpaste without intensive brushing. Biofilms were cultured from bacteria 1-9 (without <italic toggle="yes">P. gingivalis</italic>) for 3.5 days in three 96-well plates each. First, the wells were coated with 10 µl of protein solution (1.5% BSA, 0.67% mucin)/well for 10 min. Meanwhile, the strains were adjusted to McFarland 0.5 in 0.9% w/v NaCl. Two parts of strain 1 were mixed with one part of strain 2 and each 4 parts of strains 5-9. This bacterial suspension was added in a ratio of 1:9 to nutrient broth (Wilkins-Chalgren broth with 10 mg/ml NAM + 20 mg/l β-NAD). 225 µl were pipetted into each well.</p><p>After two days of anaerobic incubation, 25 µl of a bacterial suspension prepared as before but containing only strains 5 to 9 were added again. After 3.5 days, the media were removed, the biofilms were washed briefly, and then 20 µl of the test substances in concentrations of 20%, 10%, 5% (diluted in dH<sub>2</sub>O with 1.5% BSA) were added to the biofilms in each well. After 1 min of exposure, 180 µl of nutrient broth were added and the biofilms were incubated for 1 h before being analysed.</p><p>Analysis included three aspects. The remaining biofilm was scraped from the surface and mixed by pipetting. The total number of colony forming units was determined by sub-cultivation on agar plates and incubation. Further, the metabolic activity was quantified by using resazurin and the total biofilm quantity (bacteria and matrix) was measured by crystal violet staining.<sup>
+<xref rid="ref32" ref-type="bibr">32</xref>
+</sup>
+</p></sec><sec><title>Effect on Multi-species Biofilm Formation</title><p>The experimental design represented the application of the toothpaste after intensive brushing. Four 96-well plates were coated with 20 µl of the test substances in three concentrations (20%, 10%, 5%) for 30 min. Then 10 µl of a proteinaceous solution (1.5% BSA, 0.67% mucin) were added for 10 min, before nutrient broth (Wilkins-Chalgren broth with 10 mg/ml NAM + 20 mg/l β-NAD) containing bacterial mixture (bacteria 1-9) and prepared as described above was added. One well-plate was incubated for 4 h, and the other three for 24 h. At 24 h, analysis was performed as described above; at 4 h, only colony-forming units were counted.</p></sec><sec><title>Cytotoxicity of Toothpastes on Gingival Fibroblasts</title><p>Gingival fibroblasts were harvested from patients undergoing an esthetic periodontal surgery. The patients had been informed about the use of their cells in research and gave written consent. According to the guidelines, no previous approval from the Cantonal ethics committee KEK was necessary, as the biomaterials were categorised as “irreversibly anonymised”. The gingival fibroblasts (2nd – 4th passage) were handled as described before.<sup>
+<xref rid="ref7" ref-type="bibr">7</xref>
+</sup> After aspirating the cell culture media from the confluent monolayer and after a two-fold washing with PBS, the test substances were added in concentrations of 1.25%, 2.5%, 5% and 10%. After 10 min of exposure, the MTT (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide) tetrazolium colorimetric assay<sup>
+<xref rid="ref25" ref-type="bibr">25</xref>
+</sup> was applied as a measure of cell viability.</p></sec><sec><title>Statistical Analysis</title><p>All biofilm experiments were conducted in at least two series with six independent replicates (12 values) per test substance. Cytotoxicity tests were performed with cells obtained from two different donors in two independent experiments with four replicates each. Statistical analysis was performed with the help of software (SPSS 29.0, IBM; Armonk, NY, USA) using ANOVA with a post-hoc Bonferroni test.</p></sec></sec><sec><title>Results</title><sec><title>Minimal Inhibitory Concentrations of Toothpastes Against Selected Oral Species</title><p>All obtained MIC were very low, with the highest obtained MIC being 0.04% (Table 1). Even the toothpaste formulation without active ingredients was very active.</p><table-wrap position="float" id="table1" orientation="portrait"><label>Table 1</label><caption><p>Minimal inhibitory concentration (MIC) of the different toothpaste formulations against selected oral bacteria </p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1">
+<p>Manuka prop</p>
+</th><th rowspan="1" colspan="1">
+<p>Manuka F</p>
+</th><th rowspan="1" colspan="1">
+<p>TP con</p>
+</th><th rowspan="1" colspan="1">
+<p>TP com</p>
+</th></tr></thead><tfoot><tr><td rowspan="1" colspan="1"/></tr></tfoot><tbody><tr><td rowspan="1" colspan="1">
+<p>Streptococcus gordonii ATCC 10558</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Streptococcus mutans ATCC 25175</p>
+</td><td rowspan="1" colspan="1">
+<p>0.04%</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td><td rowspan="1" colspan="1">
+<p>0.04%</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Fusobacterium nucleatum ATCC 25586</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td><td rowspan="1" colspan="1">
+<p>0.08%</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Tannerella forsythia ATCC 43037</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td></tr><tr><td rowspan="1" colspan="1">
+<p>Porphyromonas gingivalis ATCC 33277</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td><td rowspan="1" colspan="1">
+<p>≤0.02%</p>
+</td></tr></tbody></table></table-wrap></sec><sec><title>Precultured Multi-species Biofilms</title><p>The total number of cfu in the 9-species biofilm without any added toothpaste formulation was 8.89±0.16 log10. After the addition of any toothpaste, the cfu counts decreased (Fig 1a). The highest decreases were found after addition of 20% TP com (by about 6 log10 to 2.87 log10) and after 20% Manuka prop (by about 2.3 log10 to 6.66 log10). Except for 5% of the TP con and Manuka F, all other results were statistically significant compared to the control (all p &lt; 0.001). When comparing within the different concentrations of the toothpaste formulations, it was apparent that the addition of propolis to the Manuka toothpaste statistically significantly decreased the number of cfu vs TP con (5% p = 0.003; 10%, 20% p &lt; 0.001); the addition of fluoride did not seem to have an effect. The number of cfu with Manuka F was very close to that of TP con.</p><p>Regarding metabolic activity, the general results were similar: each formulation statistically significantly decreased the metabolic activities of the biofilms compared to the control (all concentrations of TP con and TP com, 10%, 20% Manuka F, 10% Manuka prop, p &lt; 0.001; 5%, 20% Manuka prop, 5% Manuka F, p &lt; 0.05; Fig 1b). Again, the effect of TP con was similar to that of the Manuka F. However, unlike the cfu counts, the effect was less pronounced for Manuka prop vs TP con (20% p = 0.019). Regarding biofilm mass, there was no visible reduction; in contrast, higher values were found after applying Manuka prop (each p &lt; 0.001) and higher concentrations of TP com (10% p = 0.025, 20% p = 0.022) vs the control.</p></sec><sec><title>Inhibition of Biofilm Formation</title><p>The total number of cfu in the 9-species control biofilms reached 7.03±0.15 log10/well after 4 h and 9.41±0.43 log10 after 24 h of incubation. When the the surface was coated with a toothpaste formulation, the cfu decreased in a concentration-dependent manner (Figs 2a and 2b). The differences vs the control were always statistically significant when a 20% formulation was applied (p &lt; 0.001 at 4h and 24 h), and most often statistically significant for a 10% formulation (TP com, Manuka prop at 4 h and 24 h, Manuka F at 4 h, TP con at 24 h, p &lt; 0.001). At 4 h and 24 h, the highest decreases were found after adding 10% and 20%TP com (by about 3 log10 at 4 h and 5.52 – 5.26 log10 after 24 h), while 20% Manuka prop and Manuka F reduced the log10 cfu by about 1.65 log10 at 4 h and by about 3.5 log10 after 24 h. Within the 10% and 20% concentration of the toothpaste formulations, the biofilms after TP com had lower cfu counts compared to the other formulations (p &lt; 0.001 at 4h and 24 h). Twenty percent of Manuka prop and Manuka F reduced the number of cfu more than TP con at 24 h (both p &lt; 0.001).</p><p>In terms of the metabolic activity at 24 h, each formulation statistically significantly decreased the metabolic activities of the biofilms vs the control (p &lt; 0.001 vs control; Fig 2b). The 20% TP com and 20% Manuka F were the most effective; the effect of TP con was similar to that of Manuka F. However, in contrast to the cfu counts, the effect was less pronounced for Manuka prop vs TP con (10% p = 0.019). Regarding biofilm mass, there was only a minor change according to formulation, showing that only 5% TP com reduced the biofilm mass vs the control (p &lt; 0.001; Fig 2d).</p></sec><sec><title>Viability of Gingival Fibroblasts (Fig 3)</title><p>The toothpaste formulations affected the viability of the gingival fibroblasts in a concentration-dependent manner. The viability of the cells was statistically significantly lower after applying any 5% and 10% formulation vs the control (10% TP com p = 0.006, all others p &lt; 0.001). Within the concentrations, there was no statistically significant difference among the formulations.</p></sec></sec><sec><title>Discussion</title><p>The present study investigated the effect of test toothpaste formulations containing Manuka honey and propolis or fluoride on oral bacteria as a “supragingival” biofilm as well as on the viability of gingival fibroblasts. The effect of the test toothpaste formulations was compared with the basis formulation and a commercially available toothpaste. The test formulations demonstrated strong antibacterial activity, partially disrupted existing biofilms, and inhibited biofilm formation. At higher concentrations, cytotoxicity could not be excluded and was comparable to that of the commercial toothpaste. The results highlight different aspects of the antibacterial and anti-biofilm properties of the tested formulations: the MIC against single planktonic bacteria, the activity against a preexisting biofilm and the potential to inhibit the de-novo biofilm formation. The evaluation of the anti-biofilm activities included the reduction of cfu, decreased metabolic activity as well as total biofilm mass. To increase the reproducibility of the experiments, a multi-species biofilm model with a defined composition of bacteria was used. A limitation of this study may be that the mechanical effects of toothbrushing were not considered in the experimental setup. The obtained MIC values demonstrated high antibacterial activity against planktonic oral species. A species-specific dependence was not observed, and commensals (S. gordonii) were also affected. The values are comparable to results for commercial toothpastes.<sup>
+<xref rid="ref3" ref-type="bibr">3</xref>,<xref rid="ref23" ref-type="bibr">23</xref>
+</sup>
+</p><p>Biofilm-reducing activities were found for all toothpaste formulations, including TP con. With respect to the list of ingredients provided by the manufacturer, antibacterial active agents in TP con could be stevia<sup>
+<xref rid="ref24" ref-type="bibr">24</xref>
+</sup> and sorbitol.<sup>
+<xref rid="ref28" ref-type="bibr">28</xref>,<xref rid="ref37" ref-type="bibr">37</xref>
+</sup>
+</p><p>The supplementation of the TP con with Manuka honey/fluoride or Manuka honey/propolis further increased the anti-biofilm activity of TP con. Both test formulations inhibited the biofilm formation to a greater extent than TP con. Thus it can be suggested that this effect is related to the Manuka honey. Manuka honey is known for its antibacterial activity against cariogenic and periodontal bacteria,<sup>
+<xref rid="ref9" ref-type="bibr">9</xref>,<xref rid="ref33" ref-type="bibr">33</xref>,<xref rid="ref34" ref-type="bibr">34</xref>
+</sup> for instance, the formation of a 6-species oral biofilm was completely inhibited by 200-500 µg/ml Manuka honey.<sup>
+<xref rid="ref9" ref-type="bibr">9</xref>
+</sup>
+</p><p>The Manuka F formulation decreased the metabolic activity but not the number of cfu of the biofilms in comparison with the Manuka prop formulation. To exert a direct effect on bacterial counts in biofilm, high concentrations of 2000 ppm are needed, as shown in an single-species <italic toggle="yes">S. mutans </italic>biofilm.<sup>
+<xref rid="ref14" ref-type="bibr">14</xref>
+</sup> According to the manufacturer, the Manuka F formulation contains 3200 ppm F<sup>-</sup> and exceeds the concentration of most of the commercially available dentifrices. In the experiments, the formulation was diluted to a final concentration of 640, 320 and 160 ppm which obviously did not affect bacterial counts in the multi-species biofilm. The decrease of metabolic activity in the biofilms might be related to an effect on bacterial enzymes. It is known that fluoride inhibits activities of a variety of bacterial enzymes, e.g., enolase, heme catalases, ureases, phosphatases, and glucosyltransferases; the latter is important in biofilm matrix synthesis.<sup>
+<xref rid="ref14" ref-type="bibr">14</xref>,<xref rid="ref46" ref-type="bibr">46</xref>,<xref rid="ref48" ref-type="bibr">48</xref>
+</sup>
+</p><p>In the preformed biofilm, the reduction of cfu was more pronounced by Manuka prop compared to Manuka F and TP con. This is of interest as the concentration of Manuka honey in that formulation is lower than those with fluoride, and the concentration of propolis with 0.2% (according to the manufacturer’s information) is relatively low. Propolis is well known for its antibacterial activity against oral bacteria.<sup>
+<xref rid="ref13" ref-type="bibr">13</xref>,<xref rid="ref51" ref-type="bibr">51</xref>
+</sup> Red Brazilian propolis in similar concentrations reduced bacterial counts by about 1 log10 and in addition reduced the metabolic activity of a multispecies biofilm.<sup>
+<xref rid="ref5" ref-type="bibr">5</xref>,<xref rid="ref22" ref-type="bibr">22</xref>
+</sup> In a study performed at our laboratory, European and Brazilian propolis significantly reduced the cfu in an established biofilm by up to 6 log10 cfu, and effectively inhibited the de-novo biofilm formation.<sup>
+<xref rid="ref38" ref-type="bibr">38</xref>
+</sup> There, the concentration of the propolis extracts was 10%.<sup>
+<xref rid="ref38" ref-type="bibr">38</xref>
+</sup> Another study using a 10% propolis toothpaste in vitro found an antibacterial effect against<italic toggle="yes"> S. mutans, Staphylococcus aureus,</italic> and <italic toggle="yes">P. gingivalis</italic> comparable to that of 0.2% CHX.<sup>
+<xref rid="ref39" ref-type="bibr">39</xref>
+</sup> On the other hand, using a toothpaste containing 0.9% propolis resulted in no reduction of cfu counts in a multi-species biofilm model.<sup>
+<xref rid="ref44" ref-type="bibr">44</xref>
+</sup> All these studies underline that the anti-biofilm activity of propolis is strongly dependent on the concentration used.</p><p>In case of the TP com, the anti-biofilm/antibacterial activity can also be related to the chemical detergent sodium lauryl sulphate.<sup>
+<xref rid="ref35" ref-type="bibr">35</xref>
+</sup> Other ingredients may also contribute, e.g., benzyl alcohol has been described as destabilising bacterial membrane structures.<sup>
+<xref rid="ref50" ref-type="bibr">50</xref>
+</sup> Oral healthcare products containing cocamidopropyl betaine had an antibacterial activity,<sup>
+<xref rid="ref26" ref-type="bibr">26</xref>
+</sup> although the anti-biofilm effect might be negligible.<sup>
+<xref rid="ref16" ref-type="bibr">16</xref>
+</sup> Our result of the strong antibiofilm effect of TP com confirms the findings of another study, where TP com exhibited increased antibiofilm properties compared to products with natural ingredients.<sup>
+<xref rid="ref18" ref-type="bibr">18</xref>
+</sup>
+</p><p>All tested formulations exhibited concentration-dependent cytotoxicity.<sup>
+<xref rid="ref4" ref-type="bibr">4</xref>
+</sup> This is in accordance with the literature, where most toothpastes exert a cytotoxic effect.<sup>
+<xref rid="ref4" ref-type="bibr">4</xref>,<xref rid="ref11" ref-type="bibr">11</xref>
+</sup> For TP com, it might be related to its detergent sodium lauryl sulphate<sup>
+<xref rid="ref4" ref-type="bibr">4</xref>
+</sup> and cocamidopropyl betaine.<sup>
+<xref rid="ref40" ref-type="bibr">40</xref>
+</sup> In concentrations up to 40% and exposure time of 30 min, Manuka honey did not exert a clear cytotoxic effect against keratinocytes and fibroblasts.<sup>
+<xref rid="ref49" ref-type="bibr">49</xref>
+</sup> In contrast, even low concentrations of propolis (about 0.05%) decreased cell viability of epithelial cells and gingival fibroblasts after 48 h of exposure.<sup>
+<xref rid="ref21" ref-type="bibr">21</xref>
+</sup> The results for cytotoxicity were obtained in an experimental set-up using cell monolayers and are not directly transferable to the in-vivo situation. The cytotoxicity in a mono-layer model is higher than in more complex three-dimensional models<sup>
+<xref rid="ref36" ref-type="bibr">36</xref>
+</sup> and complex tissues. Furthermore, the exposure time of toothpaste can be expected to be much shorter. Despite some in-vitro toxicity of toothpastes, there is no evidence of the supplemented propolis and/or honey being cytotoxic. Regarding the natural products propolis and Manuka honey, their safety profiles are positive for long-term use.<sup>
+<xref rid="ref2" ref-type="bibr">2</xref>,<xref rid="ref45" ref-type="bibr">45</xref>
+</sup> However it should be noted that contact allergies to propolis might occur.<sup>
+<xref rid="ref29" ref-type="bibr">29</xref>
+</sup>
+</p><p>Nevertheless, it remains to be noted that aside from toothpaste, the mechanical disintegration of the biofilm is a conditio sine qua non. To remove the dental biofilm, an appropriate toothbrush together with an adequate brushing technique should be applied.<sup>
+<xref rid="ref43" ref-type="bibr">43</xref>
+</sup>
+</p></sec><sec><title>Conclusion</title><p>Toothpaste formulations containing Manuka honey/propolis or Manuka honey/fluoride may represent a natural alternative to commercially available products containing chemical detergents with regard to antibacterial properties and cytotoxicity. Natural ingredients like Manuka and propolis may contribute to biofilm management at home and therefore to the prevention of caries and gingivitis. However, the obtained in-vitro results need to be confirmed in clinical studies. The concentrations of Manuka honey and propolis used in this study may be somewhat low. A higher antibacterial effect could likely be achieved by increasing the concentrations of these natural products.</p></sec><sec><title>Acknowlegdements</title><p>The authors are grateful to Eric Nabil Risse (Department of Periodontology, Laboratory of Oral Microbiology, University of Bern) for his excellent assistance in performing the in-vitro assays. This study was funded by Mānuka Health New Zealand Ltd., Auckland, New Zealand. The funder had no role in the final design of the study, the collection, analyses, or interpretation of data, writing the manuscript, or the decision to publish the results.</p></sec><sec><title>References</title><fig position="float" id="fig1" orientation="portrait"><label>Fig 1</label><caption><p>Total counts (a), metabolic activity (b), and biofilm “mass” (c) of a 3.5-day-old 9-species biofilm without (control) and with different concentrations of two Manuka toothpaste preparations (Manuka prop, Manuka F), a toothpaste basis without active ingredients (TP con) and a commercial toothpaste (TP com). p &lt; 0.05, **p &lt; 0.01 vs control. *p &lt; 0.05, **p &lt; 0.01 vs the respective concentration of TP con. *p &lt; 0.05, **p &lt; 0.01 vs the respective concentration of TP com.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="ohpd-23-203-g001.jpg"><?image-name ohpd-23-203-g001.jpg?><?image-size 990250?><?image-md5 ec8799e411f3dbe60441e85cfeecdeab?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 814?><?image-original-width 834?><?image-scaled-height 3387?><?image-scaled-width 3472?><?image-cloudpmc-urn urn:cdn:blobs/447b/11966148/ec8799e411f3/ohpd-23-203-g001.jpg?><?thumb-name ohpd-23-203-g001.gif?><?thumb-size 4307?><?thumb-md5 99dec9eece7797dd6e72f775c071294e?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 98?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/447b/11966148/99dec9eece77/ohpd-23-203-g001.gif?></graphic></fig><fig position="float" id="Fig2" orientation="portrait"><label>Fig 2</label><caption><p>Total counts after 4 h (a) and 24 h (b), metabolic activity (c), and biofilm “mass” (d) after 24 h of a newly formed 9-species biofilm without (control) and after coating the surface with different concentrations of two Manuka toothpaste preparations (Manuka prop, Manuka F), a toothpaste basis without active ingredients (TP con) and a commercial toothpaste (TP com). **p &lt; 0.01 vs control. *p &lt; 0.05, **p &lt; 0.01 vs the respective concentration of TP con. *p &lt; 0.05, **p &lt; 0.01 vs the respective concentration of TP com.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="ohpd-23-203-g002.jpg"><?image-name ohpd-23-203-g002.jpg?><?image-size 1281236?><?image-md5 4f0b64e1926c95b88c0281955e3ddd1e?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1207?><?image-original-width 836?><?image-scaled-height 5019?><?image-scaled-width 3475?><?image-cloudpmc-urn urn:cdn:blobs/447b/11966148/4f0b64e1926c/ohpd-23-203-g002.jpg?><?thumb-name ohpd-23-203-g002.gif?><?thumb-size 5228?><?thumb-md5 c67cb110f9f303dde000c55c34c763b3?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 144?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/447b/11966148/c67cb110f9f3/ohpd-23-203-g002.gif?></graphic></fig><fig position="float" id="Fig3" orientation="portrait"><label>Fig 3</label><caption><p>Viability of gingival fibroblasts after 10 min exposure of different concentrations of two Manuka toothpaste preparations (Manuka prop, Manuka F), a toothpaste basis without active ingredients (TP con) and a commercial toothpaste (TP com). **p &lt; 0.01 vs control.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="ohpd-23-203-g003.jpg"><?image-name ohpd-23-203-g003.jpg?><?image-size 320218?><?image-md5 eb00e538a5cf819a6b1e8cbcf6d64041?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 319?><?image-original-width 858?><?image-scaled-height 1327?><?image-scaled-width 3567?><?image-cloudpmc-urn urn:cdn:blobs/447b/11966148/eb00e538a5cf/ohpd-23-203-g003.jpg?><?thumb-name ohpd-23-203-g003.gif?><?thumb-size 3610?><?thumb-md5 a04a27d6664148c964640c1f2711eca9?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 74?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/447b/11966148/a04a27d66641/ohpd-23-203-g003.gif?></graphic></fig></sec></body><back><ref-list><ref id="ref1"><element-citation publication-type="other"><styled-content>Belibasakis GN, Belstrom D, Eick S, Gursoy UK, Johansson A, Kononen E. Periodontal microbiology and microbial etiology of periodontal diseases: Historical concepts and contemporary perspectives. Periodontol 2000 2023;Jan 20. doi: 10.1111/prd.12473. Epub ahead of print. PMID: 36661184.</styled-content><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/prd.12473</pub-id><pub-id pub-id-type="pmid">36661184</pub-id></element-citation></ref><ref id="ref2"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Braakhuis</surname><given-names>A</given-names></name>
+</person-group><article-title>Evidence on the Health Benefits of Supplemental Propolis</article-title><source>Nutrients</source><year>2019</year><volume>11</volume><fpage>2705</fpage><pub-id pub-id-type="pmid">31717277</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/nu11112705</pub-id><pub-id pub-id-type="pmcid">PMC6893770</pub-id></element-citation></ref><ref id="ref3"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Coluccia</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Matti</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Lussi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Stahli</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Sculean</surname><given-names>A</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>In vitro study on green propolis as a potential ingredient of oral health care products</article-title><source>Antibiotics (Basel)</source><year>2022</year><volume>11</volume><fpage>1764</fpage><pub-id pub-id-type="pmid">36551420</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/antibiotics11121764</pub-id><pub-id pub-id-type="pmcid">PMC9774696</pub-id></element-citation></ref><ref id="ref4"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Cvikl</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Lussi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gruber</surname><given-names>R</given-names></name>
+</person-group><article-title>The in vitro impact of toothpaste extracts on cell viability</article-title><source>Eur J Oral Sci</source><year>2015</year><volume>123</volume><fpage>179</fpage><lpage>185</lpage><pub-id pub-id-type="pmid">25782087</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/eos.12177</pub-id></element-citation></ref><ref id="ref5"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>de Figueiredo</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>da Silva</surname><given-names>HDP</given-names></name>
+<name name-style="western"><surname>Miranda</surname><given-names>SLF</given-names></name>
+<name name-style="western"><surname>Goncalves</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>de Sousa</surname><given-names>AP</given-names></name>
+<name name-style="western"><surname>de Figueiredo</surname><given-names>LC</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Brazilian red propolis is as effective as amoxicillin in controlling red-complex of multispecies subgingival mature biofilm in vitro</article-title><source>Antibiotics (Basel)</source><year>2020</year><volume>9</volume><fpage>432</fpage><pub-id pub-id-type="pmid">32707856</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/antibiotics9080432</pub-id><pub-id pub-id-type="pmcid">PMC7459511</pub-id></element-citation></ref><ref id="ref6"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Di Profio</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Lotto</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Aguirre</surname><given-names>PEA</given-names></name>
+<name name-style="western"><surname>Villar</surname><given-names>CC</given-names></name>
+<name name-style="western"><surname>Romito</surname><given-names>GA</given-names></name>
+<name name-style="western"><surname>Braga</surname><given-names>MM</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Toothpaste-related interests of Google users from different countries</article-title><source>Braz Oral Res</source><year>2023</year><volume>37</volume><fpage>e124</fpage><pub-id pub-id-type="pmid">38126468</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1590/1807-3107bor-2023.vol37.0124</pub-id></element-citation></ref><ref id="ref7"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Diaz</surname><given-names>PI</given-names></name>
+<name name-style="western"><surname>Valm</surname><given-names>AM</given-names></name>
+</person-group><article-title>Microbial interactions in oral communities mediate emergent biofilm properties</article-title><source>J Dent Res</source><year>2020</year><volume>99</volume><fpage>18</fpage><lpage>25</lpage><pub-id pub-id-type="pmid">31590609</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0022034519880157</pub-id><pub-id pub-id-type="pmcid">PMC6927214</pub-id></element-citation></ref><ref id="ref8"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Eick</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Goltz</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Nietzsche</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Jentsch</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Pfister</surname><given-names>W</given-names></name>
+</person-group><article-title>Efficacy of chlorhexidine digluconate-containing formulations and other mouthrinses against periodontopathogenic microorganisms</article-title><source>Quintessence Int</source><year>2011</year><volume>42</volume><fpage>687</fpage><lpage>700</lpage><pub-id pub-id-type="pmid">21842009</pub-id></element-citation></ref><ref id="ref9"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Eick</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Schäfer</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Kwieciński</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Atrott</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Henle</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Pfister</surname><given-names>W</given-names></name>
+</person-group><article-title>Honey – a potential agent against Porphyromonas gingivalis: an in vitro study</article-title><source>BMC oral health</source><year>2014</year><volume>14</volume><fpage>24</fpage><pub-id pub-id-type="pmid">24666777</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1472-6831-14-24</pub-id><pub-id pub-id-type="pmcid">PMC3987683</pub-id></element-citation></ref><ref id="ref10"><element-citation publication-type="other"><styled-content>Figuero E, Serrano J, Arweiler NB, Auschill TM, Gurkan A, Emingil G. Supra and subgingival application of antiseptics or antibiotics during periodontal therapy. Periodontol 2000 2023 Sep 28. doi: 10.1111/prd.12511. Epub ahead of print. PMID: 37766668.</styled-content><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/prd.12511</pub-id><pub-id pub-id-type="pmid">37766668</pub-id></element-citation></ref><ref id="ref11"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ghapanchi</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kamali</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Moattari</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Poorshahidi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Shahin</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Rezazadeh</surname><given-names>F</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>In vitro comparison of cytotoxic and antibacterial effects of 16 commercial toothpastes</article-title><source>J Int Oral Health</source><year>2015</year><volume>7</volume><fpage>39</fpage><lpage>43</lpage><pub-id pub-id-type="pmid">25878477</pub-id><pub-id pub-id-type="pmcid">PMC4385724</pub-id></element-citation></ref><ref id="ref12"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Glenny</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Walsh</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Iwasaki</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kateeb</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Braga</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Riley</surname><given-names>P</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Development of tooth brushing recommendations through professional consensus</article-title><source>Int Dent J</source><year>2024</year><volume>74</volume><fpage>526</fpage><lpage>535</lpage><pub-id pub-id-type="pmid">38052700</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.identj.2023.10.018</pub-id><pub-id pub-id-type="pmcid">PMC11123540</pub-id></element-citation></ref><ref id="ref13"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hajiahmadi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Faghri</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Salehi</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Heidari</surname><given-names>F</given-names></name>
+</person-group><article-title>Comparative evaluation of antibacterial effect of propolis and Aloe vera, xylitol, and Cpp-acp gels on Streptococcus mutans and Lactobacillus in vitro</article-title><source>Int J Dent</source><year>2021</year><volume>2021</volume><fpage>5842600</fpage><pub-id pub-id-type="pmid">34790236</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2021/5842600</pub-id><pub-id pub-id-type="pmcid">PMC8592711</pub-id></element-citation></ref><ref id="ref14"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Han</surname><given-names>Y</given-names></name>
+</person-group><article-title>Effects of brief sodium fluoride treatments on the growth of early and mature cariogenic biofilms</article-title><source>Scientific reports</source><year>2021</year><volume>11</volume><fpage>18290</fpage><pub-id pub-id-type="pmid">34521969</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-021-97905-0</pub-id><pub-id pub-id-type="pmcid">PMC8440647</pub-id></element-citation></ref><ref id="ref15"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Jenkins</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Wootton</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Howe</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Cooper</surname><given-names>R</given-names></name>
+</person-group><article-title>A demonstration of the susceptibility of clinical isolates obtained from cystic fibrosis patients to manuka honey</article-title><source>Arch Microbiol</source><year>2015</year><volume>197</volume><fpage>597</fpage><lpage>601</lpage><pub-id pub-id-type="pmid">25680398</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00203-015-1091-6</pub-id><pub-id pub-id-type="pmcid">PMC4398880</pub-id></element-citation></ref><ref id="ref16"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Jeong</surname><given-names>YJ</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>HE</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Choi</surname><given-names>JS</given-names></name>
+</person-group><article-title>Antibacterial and antibiofilm activities of cinnamon essential oil nanoemulsion against multi-species oral biofilms</article-title><source>Sci Rep</source><year>2021</year><volume>11</volume><fpage>5911</fpage><pub-id pub-id-type="pmid">33723345</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-021-85375-3</pub-id><pub-id pub-id-type="pmcid">PMC7971021</pub-id></element-citation></ref><ref id="ref17"><element-citation publication-type="other"><styled-content>Kumar A, Sunkara MS, Pantareddy I, Sudhakar S. Comparison of plaque inhibiting efficacies of Aloe vera and propolis tooth gels: A randomized PCR study. J Clin Diagn Res JCDR 2015;9:Zc01–03.</styled-content><pub-id pub-id-type="doi" assigning-authority="pmc">10.7860/JCDR/2015/13185.6413</pub-id><pub-id pub-id-type="pmcid">PMC4606330</pub-id><pub-id pub-id-type="pmid">26501001</pub-id></element-citation></ref><ref id="ref18"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ledder</surname><given-names>RG</given-names></name>
+<name name-style="western"><surname>Latimer</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Humphreys</surname><given-names>GJ</given-names></name>
+<name name-style="western"><surname>Sreenivasan</surname><given-names>PK</given-names></name>
+<name name-style="western"><surname>McBain</surname><given-names>AJ</given-names></name>
+</person-group><article-title>Bacteriological effects of dentifrices with and without active ingredients of natural origin</article-title><source>Appl Environ Microbiol</source><year>2014</year><volume>80</volume><fpage>6490</fpage><lpage>6498</lpage><pub-id pub-id-type="pmid">25107974</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/AEM.02315-14</pub-id><pub-id pub-id-type="pmcid">PMC4178628</pub-id></element-citation></ref><ref id="ref19"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lippert</surname><given-names>F</given-names></name>
+</person-group><article-title>An introduction to toothpaste – its purpose, history and ingredients</article-title><source>Monogr Oral Sci</source><year>2013</year><volume>23</volume><fpage>1</fpage><lpage>14</lpage><pub-id pub-id-type="pmid">23817056</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000350456</pub-id></element-citation></ref><ref id="ref20"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Mavric</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Wittmann</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Barth</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Henle</surname><given-names>T</given-names></name>
+</person-group><article-title>Identification and quantification of methylglyoxal as the dominant antibacterial constituent of Manuka (Leptospermum scoparium) honeys from New Zealand</article-title><source>Mol Nutr Food Res</source><year>2008</year><volume>52</volume><fpage>483</fpage><lpage>489</lpage><pub-id pub-id-type="pmid">18210383</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/mnfr.200700282</pub-id></element-citation></ref><ref id="ref21"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Millones-Gomez</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>De la Garza-Ramos</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Urrutia-Baca</surname><given-names>VH</given-names></name>
+<name name-style="western"><surname>Hernandez-Martinez</surname><given-names>HC</given-names></name>
+<name name-style="western"><surname>Hernandez Marin</surname><given-names>DA</given-names></name>
+<name name-style="western"><surname>Minchon Medina</surname><given-names>CA</given-names></name>
+</person-group><article-title>Cytotoxicity of Peruvian propolis and Psidium guajava on human gingival fibroblasts, PBMCs and HeLa cells</article-title><source>F1000Res</source><year>2022</year><volume>11</volume><fpage>430</fpage><pub-id pub-id-type="pmid">36051851</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.12688/f1000research.110352.1</pub-id><pub-id pub-id-type="pmcid">PMC9386296</pub-id></element-citation></ref><ref id="ref22"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Miranda</surname><given-names>SLF</given-names></name>
+<name name-style="western"><surname>Damasceno</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Faveri</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Figueiredo</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>da Silva</surname><given-names>HD</given-names></name>
+<name name-style="western"><surname>Alencar</surname><given-names>SMA</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Brazilian red propolis reduces orange-complex periodontopathogens growing in multispecies biofilms</article-title><source>Biofouling</source><year>2019</year><volume>35</volume><fpage>308</fpage><lpage>319</lpage><pub-id pub-id-type="pmid">31014106</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/08927014.2019.1598976</pub-id></element-citation></ref><ref id="ref23"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Moran</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Addy</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wade</surname><given-names>W</given-names></name>
+</person-group><article-title>Determination of minimum inhibitory concentrations of commercial toothpastes using an agar dilution method</article-title><source>J Dent</source><year>1988</year><volume>16</volume><fpage>27</fpage><lpage>31</lpage><pub-id pub-id-type="pmid">3164003</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0300-5712(88)90100-5</pub-id></element-citation></ref><ref id="ref24"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Moselhy</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Ghoneim</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Khan</surname><given-names>JA</given-names></name>
+</person-group><article-title>In vitro and in vivo evaluation of antimicrobial and antioxidant potential of Stevia extract</article-title><source>Afr J Tradit Complement Altern Med</source><year>2016</year><volume>13</volume><fpage>18</fpage><lpage>21</lpage><pub-id pub-id-type="pmid">28480355</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.21010/ajtcam.v13i6.4</pub-id><pub-id pub-id-type="pmcid">PMC5412192</pub-id></element-citation></ref><ref id="ref25"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Mosmann</surname><given-names>T</given-names></name>
+</person-group><article-title>Rapid colorimetric assay for cellular growth and survival: application to proliferation and cytotoxicity assays</article-title><source>J Immunol Methods</source><year>1983</year><volume>65</volume><fpage>55</fpage><lpage>63</lpage><pub-id pub-id-type="pmid">6606682</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0022-1759(83)90303-4</pub-id></element-citation></ref><ref id="ref26"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Müller</surname><given-names>HD</given-names></name>
+<name name-style="western"><surname>Eick</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Moritz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lussi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gruber</surname><given-names>R</given-names></name>
+</person-group><article-title>Cytotoxicity and antimicrobial activity of oral rinses in vitro</article-title><source>BioMed research international</source><year>2017</year><volume>2017</volume><fpage>4019723</fpage><pub-id pub-id-type="pmid">28401154</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2017/4019723</pub-id><pub-id pub-id-type="pmcid">PMC5376431</pub-id></element-citation></ref><ref id="ref27"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Nayak</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Nayak</surname><given-names>UA</given-names></name>
+<name name-style="western"><surname>Mythili</surname><given-names>R</given-names></name>
+</person-group><article-title>Effect of Manuka honey, chlorhexidine gluconate and xylitol on the clinical levels of dental plaque</article-title><source>Contemp Clin Dent</source><year>2010</year><volume>1</volume><fpage>214</fpage><lpage>217</lpage><pub-id pub-id-type="pmid">22114423</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/0976-237X.76386</pub-id><pub-id pub-id-type="pmcid">PMC3220139</pub-id></element-citation></ref><ref id="ref28"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Nezzal</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Aerts</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Verspaille</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Henderickx</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Redl</surname><given-names>A</given-names></name>
+</person-group><article-title>Polymorphism of sorbitol</article-title><source>J Cryst Growth</source><year>2009</year><volume>311</volume><fpage>3863</fpage><lpage>3870</lpage></element-citation></ref><ref id="ref29"><element-citation publication-type="other"><styled-content>Nyman G, Oldberg Wagner S, Prystupa-Chalkidis K, Ryberg K, Hagvall L. Contact ALLERGY in western Sweden to propolis of four different origins. Acta Dermato Venereolog 2020;100:adv00256.</styled-content><pub-id pub-id-type="doi" assigning-authority="pmc">10.2340/00015555-3615</pub-id><pub-id pub-id-type="pmcid">PMC9235001</pub-id><pub-id pub-id-type="pmid">32830285</pub-id></element-citation></ref><ref id="ref30"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Otreba</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Marek</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Tyczynska</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Stojko</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kurek-Górecka</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gorecki</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Propolis as natural product in the oral cavity bacterial infections treatment: A systematic review</article-title><source>Appl Sci-Basel</source><year>2022</year><volume>12</volume><fpage>10123</fpage></element-citation></ref><ref id="ref31"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Peycheva</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Apostolova</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Gardjeva</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Peychev</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Kokova</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Angelov</surname><given-names>A</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Effect of Bulgarian propolis on the oral microflora in adolescents with plaque-induced gingivitis</article-title><source>Rev Bras Farmacogn</source><year>2019</year><volume>29</volume><fpage>271</fpage><lpage>277</lpage></element-citation></ref><ref id="ref32"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Pirracchio</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Joos</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Luder</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Sculean</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Eick</surname><given-names>S</given-names></name>
+</person-group><article-title>Activity of taurolidine gels on ex vivo periodontal biofilm</article-title><source>Clin Oral Investig</source><year>2018</year><volume>22</volume><fpage>2031</fpage><lpage>2037</lpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00784-017-2297-6</pub-id><pub-id pub-id-type="pmid">29243115</pub-id></element-citation></ref><ref id="ref33"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Safii</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Tompkins</surname><given-names>GR</given-names></name>
+<name name-style="western"><surname>Duncan</surname><given-names>WJ</given-names></name>
+</person-group><article-title>Periodontal application of Manuka honey: Antimicrobial and demineralising effects in vitro</article-title><source>Int J Dent</source><year>2017</year><volume>2017</volume><fpage>9874535</fpage><pub-id pub-id-type="pmid">28392803</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2017/9874535</pub-id><pub-id pub-id-type="pmcid">PMC5368358</pub-id></element-citation></ref><ref id="ref34"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Schmidlin</surname><given-names>PR</given-names></name>
+<name name-style="western"><surname>English</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Duncan</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Belibasakis</surname><given-names>GN</given-names></name>
+<name name-style="western"><surname>Thurnheer</surname><given-names>T</given-names></name>
+</person-group><article-title>Antibacterial potential of Manuka honey against three oral bacteria in vitro</article-title><source>Swiss Dent J</source><year>2014</year><volume>124</volume><fpage>922</fpage><lpage>924</lpage><pub-id pub-id-type="pmid">25253413</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.61872/sdj-2014-09-01</pub-id></element-citation></ref><ref id="ref35"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Shi</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Gao</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Shi</surname><given-names>T</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Effects of sodium lauryl sulfate and postbiotic toothpaste on oral microecology</article-title><source>J Oral Microbiol</source><year>2024</year><volume>16</volume><fpage>2372224</fpage><pub-id pub-id-type="pmid">38939048</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/20002297.2024.2372224</pub-id><pub-id pub-id-type="pmcid">PMC11210412</pub-id></element-citation></ref><ref id="ref36"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Silva</surname><given-names>EJ</given-names></name>
+<name name-style="western"><surname>Carvalho</surname><given-names>NK</given-names></name>
+<name name-style="western"><surname>Ronconi</surname><given-names>CT</given-names></name>
+<name name-style="western"><surname>De-Deus</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Zuolo</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Zaia</surname><given-names>AA</given-names></name>
+</person-group><article-title>Cytotoxicity profile of endodontic sealers provided by 3D cell culture experimental model</article-title><source>Braz Dent J</source><year>2016</year><volume>27</volume><fpage>652</fpage><lpage>656</lpage><pub-id pub-id-type="pmid">27982174</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1590/0103-6440201600792</pub-id></element-citation></ref><ref id="ref37"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Smolarek</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Esmerino</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Chibinski</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Bortoluzzi</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Dos Santos</surname><given-names>EB</given-names></name>
+<name name-style="western"><surname>Junior</surname><given-names>VAK</given-names></name>
+</person-group><article-title>In vitro antimicrobial evaluation of toothpastes with natural compounds</article-title><source>Eur J Dent</source><year>2015</year><volume>9</volume><fpage>580</fpage><lpage>586</lpage><pub-id pub-id-type="pmid">26929699</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/1305-7456.172632</pub-id><pub-id pub-id-type="pmcid">PMC4745242</pub-id></element-citation></ref><ref id="ref38"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Stähli</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Schroter</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Bullitta</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Serralutzu</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Dore</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Nietzsche</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>In vitro activity of propolis on oral microorganisms and biofilms</article-title><source>Antibiotics (Basel)</source><year>2021</year><volume>10</volume><fpage>1045</fpage><pub-id pub-id-type="pmid">34572627</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/antibiotics10091045</pub-id><pub-id pub-id-type="pmcid">PMC8472590</pub-id></element-citation></ref><ref id="ref39"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Suryono</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Setiawan</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Aji</surname><given-names>NRAS</given-names></name>
+<name name-style="western"><surname>Vega</surname><given-names>CAW</given-names></name>
+<name name-style="western"><surname>Rodestawati</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Lukitaningsih</surname><given-names>E</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Potential of 10% propolis-based toothpaste on the inhibition of biofilm-forming bacteria growth in vitro</article-title><source>Pharmacia</source><year>2024</year><volume>71</volume><fpage>1</fpage><lpage>7</lpage></element-citation></ref><ref id="ref40"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Tabatabaei</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Mahounak</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>Asgari</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Moradi</surname><given-names>Z</given-names></name>
+</person-group><article-title>Cytotoxicity of the ingredients of commonly used toothpastes and mouthwashes on human gingival fibroblasts</article-title><source>Front Dent</source><year>2019</year><volume>16</volume><fpage>450</fpage><lpage>457</lpage><pub-id pub-id-type="pmid">33089246</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18502/fid.v16i6.3444</pub-id><pub-id pub-id-type="pmcid">PMC7569277</pub-id></element-citation></ref><ref id="ref41"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Tennert</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Sarra</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Stähli</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Sculean</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Eick</surname><given-names>S</given-names></name>
+</person-group><article-title>Bovine milk and yogurt affect oral microorganisms and biofilms in-vitro</article-title><source>Oral Health Prev Dent</source><year>2023</year><volume>21</volume><fpage>69</fpage><lpage>76</lpage><pub-id pub-id-type="pmid">36825640</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3290/j.ohpd.b3920023</pub-id><pub-id pub-id-type="pmcid">PMC11619837</pub-id></element-citation></ref><ref id="ref42"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Valkenburg</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Van der Weijden</surname><given-names>FA</given-names></name>
+<name name-style="western"><surname>Slot</surname><given-names>DE</given-names></name>
+</person-group><article-title>Plaque control and reduction of gingivitis: The evidence for dentifrices</article-title><source>Periodontol 2000</source><year>2019</year><volume>79</volume><fpage>221</fpage><lpage>232</lpage><pub-id pub-id-type="pmid">30892760</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/prd.12257</pub-id><pub-id pub-id-type="pmcid">PMC7328759</pub-id></element-citation></ref><ref id="ref43"><element-citation publication-type="other"><styled-content>Van der Weijden GAF, van Loveren C. Mechanical plaque removal in step-1 of care. Periodontol 2000 2023; Dec 26. doi: 10.1111/prd.12541. Epub ahead of print. PMID: 38148481.</styled-content><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/prd.12541</pub-id><pub-id pub-id-type="pmid">38148481</pub-id></element-citation></ref><ref id="ref44"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Vanni</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Waldner-Tomic</surname><given-names>NM</given-names></name>
+<name name-style="western"><surname>Belibasakis</surname><given-names>GN</given-names></name>
+<name name-style="western"><surname>Attin</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Schmidlin</surname><given-names>PR</given-names></name>
+<name name-style="western"><surname>Thurnheer</surname><given-names>T</given-names></name>
+</person-group><article-title>Antibacterial efficacy of a propolis toothpaste and mouthrinse against a supragingival multispecies iofilm</article-title><source>Oral Health Prev Dent</source><year>2015</year><volume>13</volume><fpage>531</fpage><lpage>535</lpage><pub-id pub-id-type="pmid">26106649</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3290/j.ohpd.a34372</pub-id></element-citation></ref><ref id="ref45"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wallace</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Eady</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Miles</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Martin</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>McLachlan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Rodier</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Demonstrating the safety of manuka honey UMF 20+in a human clinical trial with healthy individuals</article-title><source>Brit J Nutrit</source><year>2010</year><volume>103</volume><fpage>1023</fpage><lpage>1028</lpage><pub-id pub-id-type="pmid">20064284</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/S0007114509992777</pub-id></element-citation></ref><ref id="ref46"><element-citation publication-type="other"><styled-content>Walsh T, Worthington HV, Glenny AM, Marinho VC, Jeroncic A. Fluoride toothpastes of different concentrations for preventing dental caries. Cochrane Database Syst Rev 2019;3:Cd007868.</styled-content><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/14651858.CD007868.pub3</pub-id><pub-id pub-id-type="pmcid">PMC6398117</pub-id><pub-id pub-id-type="pmid">30829399</pub-id></element-citation></ref><ref id="ref47"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Qiu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>F</given-names></name>
+</person-group><article-title>An updated review of functional ingredients of Manuka honey and their value-added innovations</article-title><source>Food Chem</source><year>2024</year><volume>440</volume><fpage>138060</fpage><pub-id pub-id-type="pmid">38211407</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.foodchem.2023.138060</pub-id></element-citation></ref><ref id="ref48"><element-citation publication-type="other"><styled-content>Wong MCM, Zhang R, Luo BW, Glenny AM, Worthington HV, Lo ECM. Topical fluoride as a cause of dental fluorosis in children. Cochrane Database Syst Rev 2024;6:Cd007693.</styled-content><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/14651858.CD007693.pub3</pub-id><pub-id pub-id-type="pmcid">PMC11187792</pub-id><pub-id pub-id-type="pmid">38899538</pub-id></element-citation></ref><ref id="ref49"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yabes</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>White</surname><given-names>BK</given-names></name>
+<name name-style="western"><surname>Murray</surname><given-names>CK</given-names></name>
+<name name-style="western"><surname>Sanchez</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Mende</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Beckius</surname><given-names>ML</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>In vitro activity of Manuka honey and polyhexamethylene biguanide on filamentous fungi and toxicity to human cell lines</article-title><source>Med Mycol</source><year>2017</year><volume>55</volume><fpage>334</fpage><lpage>343</lpage><pub-id pub-id-type="pmid">27601610</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/mmy/myw070</pub-id><pub-id pub-id-type="pmcid">PMC5339061</pub-id></element-citation></ref><ref id="ref50"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yano</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Miyahara</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Morii</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Okano</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kubota</surname><given-names>H</given-names></name>
+</person-group><article-title>Pentanol and benzyl alcohol attack bacterial surface structures differently</article-title><source>Appl Environ Microbiol</source><year>2016</year><volume>82</volume><fpage>40</fpage><lpage>408</lpage><pub-id pub-id-type="pmid">26519389</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/AEM.02515-15</pub-id><pub-id pub-id-type="pmcid">PMC4702632</pub-id></element-citation></ref><ref id="ref51"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yoshimasu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Ikeda</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Sakai</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Yagi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hirayama</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Morinaga</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Rapid bactericidal action of propolis against Porphyromonas gingivalis</article-title><source>J Dent Res</source><year>2018</year><volume>97</volume><fpage>928</fpage><lpage>936</lpage><pub-id pub-id-type="pmid">29494308</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0022034518758034</pub-id></element-citation></ref><ref id="ref52"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zaura-Arite</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>van Marle</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>ten Cate</surname><given-names>JM</given-names></name>
+</person-group><article-title>Conofocal microscopy study of undisturbed and chlorhexidine-treated dental biofilm</article-title><source>J Dent Res</source><year>2001</year><volume>80</volume><fpage>1436</fpage><lpage>1440</lpage><pub-id pub-id-type="pmid">11437215</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/00220345010800051001</pub-id></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,13 @@
+Bacterial Isolates,MIC (mg/mL),MBC (mg/mL),MBC/MIC Ratio
+Clinical isolates,,,
+Staphylococcus aureus,400,>450,>1.125
+Methicillin-resistant Staphylococcus aureus 150,400,>450,>1.125
+Methicillin-resistant Staphylococcus aureus 217,400,>450,>1.125
+Pseudomonas aeruginosa,350,>450,>1.29
+Escherichia coli,400,>450,>1.125
+Acinetobacter baumannii,400,>450,>1.125
+Reference isolates,,,
+Bacillus subtilis (MTCC 121),50,50,1
+Staphylococcus aureus (MTCC 96),50,100,2
+Escherichia coli (MTCC 9537),60,150,2.5
+Pseudomonas aeruginosa (MTCC 741),70,200,2.85

@@ -1,0 +1,19 @@
+Bacterial strain,MIC (%),,,
+Without catalase,,With catalase,,
+SB,SP,SB,SP,
+Enterococcus faecalis ATCC29212,1.25,1.25,10.00,20.00
+E. faecium ATCC6569,5.00,10.00,20.00,20.00
+Escherichia coli ATCC25922,5.00,5.00,20.00,20.00
+E. coli ATCC8739,5.00,5.00,20.00,20.00
+Klebsiella pneumoniae ATCC700603,10.00,10.00,20.00,20.00
+Pseudomonas aeruginosa ATCC27853,2.50,2.50,10.00,10.00
+P. aeruginosa ATCC9027,5.00,5.00,20.00,20.00
+Salmonella enterica Enteritidis ATCC13076,5.00,5.00,20.00,20.00
+S. enterica Typhimurium UK1,5.00,10.00,20.00,20.00
+Staphylococcus aureus ATCC25923,0.62,1.25,20.00,20.00
+S. aureus ATCC29213,2.50,2.50,10.00,10.00
+S. aureus methicillin-resistant BEC9393,0.62,1.25,10.00,10.00
+S. aureus methicillin-resistant N315,1.25,1.25,10.00,10.00
+S. epidermidis ATCC12228,2.50,2.50,10.00,10.00
+Streptococcus mutans UA159,2.50,2.50,10.00,10.00
+S. pyogenes ATCC19615,1.25,1.25,10.00,10.00

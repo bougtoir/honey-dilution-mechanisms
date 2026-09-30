@@ -1,0 +1,10 @@
+Test Title,Result of the Test,Environmental Factorsa,,Unit,Test Method,Uncertainty,The Acceptable Limit,The Acceptable Limit,Deficiency Type,Decision Rule,,Probability of Compliance (PC),Compliance with Specifications
+T (°C),H (%),Min,Max,,,,,,,,,,
+Reducing Sugars before Hydrolysis,75.15,26.5,26,gram%,INSO 92 Clause 3–7,0.98%,65,-,major,51%,≤ PC,100.0%,conforms
+Reducing Sugars after Hydrolysis,77.11,26.5,26,-,INSO 92 Clause 3–7,-,-,-,major,-,-,-,-
+Sucrose,1.86,26.5,26,gram%,INSO 92 Clause 2–3-4–7,0.82%,-,5,major,51%,≤ PC,100.0%,Conforms
+Hydroxymethylfurfural,5.84,26.5,26,mg/kg,INSO 92 Clause 12–7,7.8%,-,40,major,51%,≤ PC,100.0%,Conforms
+Proline,255.2,26.5,26,mg/kg,ISIRI 11145,3.40%,180,-,major,51%,≤ PC,100.0%,Conforms
+Diastasis Activity (Quantitative),7.7,26.5,26,Diastasis unit DN,INSO 92 Clause 8–7,6%,8,-,major,51%,≤ PC,-,does not conform
+Humidity,14.9,26.5,26,%,INSO 92 Clause 2–7,14%,-,20,major,51%,≤ PC,100.0%,Conforms
+Total Polyphenol,0.33,26.5,26,mg/ml,ISIRI 8986–1,7.30%,0.03,-,major,51%,≤ PC,100.0%,Conforms

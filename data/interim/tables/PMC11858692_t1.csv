@@ -1,0 +1,5 @@
+Score,Redness,Edema,Ecchymosis,Discharge,Approximation
+0,None,None,None,None,Closed
+1,<0.25 cm of incision bilaterally,Perineal <1 cm from incision,<0.25 cm bilaterally or 0.5 cm unilaterally of incision,Serous,Skin separation <3 mm
+2,<0.5 cm of incision bilaterally,Perineal and/or 1–2 cm from incision,<0.25–1 cm bilaterally or 0.5–2 cm unilaterally of incision,Serosanguineous,Skin and subcutaneous fat separation
+3,>0.5 cm of incision bilaterally,Perineal and/or vulvar >2 cm from incision,>1 cm bilaterally or 2 cm unilaterally of incision,Bloody purulent,"Skin, subcutaneous fat, and fascial layer separation"

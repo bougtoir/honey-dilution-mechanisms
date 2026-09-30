@@ -1,0 +1,9 @@
+Interaction,Combined FICIs,Combined MICs,Individual MICs,Strain/Clone,Compounds & their combination
+-,-,-,0.035/50,MG1655,CIP μ(μg/mL)/Honey(s)%
+Additivity,0.8,50/30,100/70,M1,
+-,-,-,3/50,MG1655,TCY μ(μg/mL)/Honey(s)%
+Additivity,0.96,60/40,120/70,M1,
+-,-,-,50/3,MG1655,Honey(s)%/ TASA (mg/mL)
+~SYN,0.67,30/3,70/12.5,M1,
+-,-,-,0.035/3/50,MG1655,CIP μ(μg/mL)/TASA (mg/mL)/Honey(s)% (w/v)
+SYN,0.48,10/1/20,100/12.5/70,M1,

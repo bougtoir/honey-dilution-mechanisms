@@ -1,0 +1,6 @@
+Protein band,Accession,Score,Expect,Peptide matches,Mass kDa,Name
+61 kDa,gi| 58585098,281,2.6e-21,41,49311,MRJP1
+,gi| 58585098,174,1.3e-10,22,49311,MRJP1
+,gi| 58585108,149,4.1e-08,19,51441,MRJP2
+29 kDa,gi| 58585108,325,8.6e+02,6 (2),51441,MRJP2
+,gi| 58585098,202,1.7e+02,4(1),49311,MRJP1

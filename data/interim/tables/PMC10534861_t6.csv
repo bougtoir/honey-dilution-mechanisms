@@ -1,0 +1,35 @@
+Sr. No.,Protein,Receptor-Ligand,Interaction Type,Distance
+1,1JIJ,N:UNK1:H - A:GLY38:O,Conventional Hydrogen Bond,2.37128
+N:UNK1:H - A:ASP80:OD2,Conventional Hydrogen Bond,2.44926,,
+N:UNK1:C - A:ASP40:OD1,Carbon Hydrogen Bond,3.6421,,
+N:UNK1:C - A:LEU70,Alkyl,4.02983,,
+A:TYR36 - N:UNK1:C,Pi-Alkyl,4.98438,,
+A:HIS50 - N:UNK1:C,Pi-Alkyl,4.51308,,
+2,2VAM,A:GLY72:HN - N:UNK1:O,Conventional Hydrogen Bond,1.85211
+A:THR109:HN - N:UNK1:O,Conventional Hydrogen Bond,2.48596,,
+A:GLY107:CA - N:UNK1:O,Carbon Hydrogen Bond,3.5012,,
+3,6B8A,N:UNK1:H - A:LEU208:O,Conventional Hydrogen Bond,2.71778
+N:UNK1:H - A:ARG209:O,Conventional Hydrogen Bond,2.34106,,
+A:VAL211 - N:UNK1,Alkyl,4.30848,,
+A:ILE236 - N:UNK1,Alkyl,4.42091,,
+N:UNK1:C - A:VAL170,Alkyl,4.54508,,
+N:UNK1:C - A:ILE236,Alkyl,4.54213,,
+N:UNK1:C - A:ILE263,Alkyl,4.77393,,
+4,6F86,N:UNK1:C - A:PRO79,Alkyl,4.45171
+N:UNK1:C - A:ILE94,Alkyl,4.92383,,
+N:UNK1:C - A:VAL43,Alkyl,4.6844,,
+N:UNK1:C - A:VAL167,Alkyl,4.34783,,
+5,2CDU,A:THR9:HG1 - N:UNK1:O,Conventional Hydrogen Bond,2.06555
+N:UNK1:H - A:ASP282:OD1,Conventional Hydrogen Bond,2.39425,,
+A:THR9:CB - N:UNK1:O,Carbon Hydrogen Bond,3.53136,,
+A:LYS134:CE - N:UNK1:O,Carbon Hydrogen Bond,3.65143,,
+A:ALA300 - N:UNK1,Alkyl,4.862,,
+A:ALA303 - N:UNK1,Alkyl,4.57296,,
+6,1OG5,N:UNK1:H - A:PHE476,Pi-Donor Hydrogen Bond,3.28989
+N:UNK1:C - A:PHE114,Pi-Sigma,3.70704,,
+N:UNK1:C - A:ARG97,Alkyl,4.85544,,
+N:UNK1:C - A:VAL113,Alkyl,4.59957,,
+N:UNK1:C - A:LEU366,Alkyl,4.60615,,
+N:UNK1:C - A:LEU102,Alkyl,5.00293,,
+N:UNK1:C - A:LEU208,Alkyl,4.63598,,
+N:UNK1:C - A:ILE213,Alkyl,4.69187,,

@@ -1,0 +1,10 @@
+Layers,Medium,,Freeze–Thawing Cycles
+Honey (mL),Water (mL),,
+Samples without honey,,,
+First,0,100,3× (1 h at −16 °C and 40 min at room temperature)
+Second,0,100,2× (1 h at −16 °C and 40 min at room temperature)
+Third,0,100,1× (1 h at −16 °C and 40 min at room temperature)
+Samples with honey,,,
+First,0,100,3× (1 h at −16 °C and 40 min at room temperature)
+Second,10,90,2× (1 h at −16 °C and 40 min at room temperature)
+Third,5,95,1× (1 h at −16 °C and 40 min at room temperature)

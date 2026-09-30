@@ -1,0 +1,7 @@
+Dispersion Sum of the Diameters of Inhibition Zones,,Quadratic Sum,Degrees ofFreedom (ν),Variance(s2),Fcomputed,F0.05
+Between honey samples,(S2–S4),16.15,m − 1 = 5,"s21,H = 3.23",3.53,2.38
+Between propolis extracts,323,"s21,P = 64.60",19.08,,,
+"Between strains, H",(S3-S4),20.90,n − 1 = 11,"s22,H = 1.90",2.07,1.97
+"Between strains, P",250.83,"s22,P = 22.80",6.73,,,
+"Residual, H",Sr,50.26,(m − 1)(n − 1) = 55,"s2r,H = 0.91",-,-
+"Residual, P",186.16,"s2r,P = 3.38",-,-,,

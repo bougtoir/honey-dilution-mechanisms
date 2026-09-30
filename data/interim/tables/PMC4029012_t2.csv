@@ -1,0 +1,10 @@
+,MIC (μg/ml),,,
+Strain,MGO,IPM,AMK,CPFX
+PAO1 (P. aeruginosa wild-type),512,2,16,0.25
+PMX52 (ΔmexAB oprM mexCD oprJ mexEF oprN mexXY mexHI opmD),512,2,2,0.016
+MG1655 (E. coli wild-type),256,0.25,1,0.031
+NKE1329 (ΔacrB acrD mdtABC mdtEF acrEF),256,0.5,1,≤0.0078
+NKE95 (ΔtolC),256,0.5,0.5,≤0.0078
+ATCC14028s (S. enterica wild-type),256,0.25,4,0.031
+NKS196 (ΔacrAB acrEF acrD mdtABC mdsABC emrAB mdfA mdtK macAB),256,0.5,2,≤0.0078
+NKS233 (ΔtolC),256,0.5,2,≤0.0078

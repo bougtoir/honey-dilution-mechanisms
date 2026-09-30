@@ -1,0 +1,20 @@
+Isolate identity,Gene(s) by antibiotic class,,,,,,
+Aminoglyocoside,Beta lactam,Chloramphenicol,Macrolide,Streptothricin,Tetracycline,Trimethoprim,
+A,,,,,,,
+B,,"blaI, blaPC1",,,,,
+C,,"blaI, blaR1, blaZ",,,,tet(M),
+D,"aph(3”)-IIIa, ant(6)-Ia","blaPC1, blaR1",,,,tet(M),
+E,,"blaI, blaPC1",,,sat4,tet(M),
+F,,"blaI, blaR1",,,,,
+G,,,,,,,
+H,"aph(3”)-IIIa, ant(6)-Ia","blaI, blaR1, blaZ",catA7,erm(B),sat4,tet(M),
+I,"aph(3”)-IIIa, ant(6)-Ia","blaI, blaR1",,erm(B),sat4,,
+J,,,,,,,
+K,,"blaI, blaR1, blaZ",,,,tet(M),
+M,,"blaI, blaPC1, blaR1",,,,tet(M),
+N,"aph(3”)-IIIa, ant(6)-Ia","blaI, mecA, mecI, mecR1",,erm(B),sat4,,dfrG
+O,"aph(3”)-IIIa, ant(6)-Ia","blaI, blaZ",catA7,erm(B),sat4,,
+P,"aph(3”)-IIIa, ant(6)-Ia","blaI, blaPC1, blaR1, mecA, mecI, mecR1",,erm(B),sat4,,dfrG
+Q,aph(3”)-IIIa,"blaI, blaR1, mecA, mecI, mecR1",,erm(B),sat4,tet(K),dfrG
+T,"aph(3”)-IIIa, ant(6)-Ia","blaI, blaR1, mecA, mecI, mecR1",,erm(B),sat4,,dfrG
+X,aadE,"blaI, blaPC1, blaR1",,erm(B),,"tet(M), tet(O)",

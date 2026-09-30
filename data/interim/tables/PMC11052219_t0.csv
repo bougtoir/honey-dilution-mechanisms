@@ -1,0 +1,19 @@
+,Treatment,,,,,,,,,,,
+,DHA (µM),,,EPA (µM),,,RvD2 (nM),,RvD3 (nM),,RvE1 (nM),
+,MIC,MBC,MBEC,MIC,MBC,MBEC,MIC,MBC,MIC,MBC,MIC,MBC
+S. epidermidis,1500,6000,–,375,3000,–,PI 31,–,PI 125,–,PI 125,–
+S. aureus,375,3000,–,375,1500,–,PI 31,–,PI 125,–,PI 125,–
+MRSA,750,6000,"24,000",187,1500,6000,31,NBA,PI 125,–,PI 125,–
+E. coli,0.25,"12,000","24,000",375,3000,6000,125,NBA,125,NBA,125,NBA
+CRE,PI 187,–,–,PI 187,–,–,PI 125,–,PI 125,–,PI 125,–
+K. pneumoniae,NIA,–,NBA,PI 375,–,NBA,NIA,–,PI 2000,–,PI 2000,–
+P. aeruginosa,PI 187,–,–,PI 187,–,–,NIA,–,PI 125,–,NIA,–
+,Pure Gold Honey (%w/v),,,Medical-Grade Honey (%w/v),,,Pure Gold MGO Equivalent (%w/v),,Medical-Grade MGO Equivalent (%w/v),,,
+Organism,MIC,MBC,MBEC,MIC,MBC,,MIC,MBC,MIC,MBC,,
+S. epidermidis,12.5,25,–,25,75,,12.5,–,25,–,,
+MRSA,12.5,25,75,25,NBA,,12.5,12.5,25,50,,
+K. pneumoniae,50,50,50,50,NBA,,50,–,50,–,,
+S. aureus,12.5,25,–,25,NBA,,12.5,–,25,–,,
+E. coli,50,75,50,50,NBA,,50,–,50,–,,
+CRE,50,50,–,50,NBA,,50,50,50,75,,
+P. aeruginosa,50,75,–,75,NBA,,50,–,75,–,,

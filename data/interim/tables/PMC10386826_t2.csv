@@ -1,0 +1,7 @@
+Species,No treatment1,,,Catalase treatment2,,,Heat treatment3,,
+MIC100,MIC80,MIC50,MIC100,MIC80,MIC50,MIC100,MIC80,MIC50,
+Staphylococcus aureus,8,8,8,32,16,16,32,32,32
+Cryptococcus neoformans,16,8,8,32,16,16,–,–,–
+Cryptococcus deuterogattii,32,16,16,32,16,8,–,–,–
+Aspergillus fumigatus,16,16,16,16,16,16,–,–,–
+Aspergillus flavus,16,16,8,16,16,8,–,–,–

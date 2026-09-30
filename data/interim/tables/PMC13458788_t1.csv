@@ -1,0 +1,8 @@
+Parameter,Stability outcomes before and after study,Interpretation
+UV-Vis SPR peak,Day 0: 430 nmDay 30: 433 nm,3 nm red-shift with retained SPR profile
+UV-Vis absorbance at SPR peak,Day 0: 100% normalized baselineDay 30: 95% of baseline,5% absorbance reduction
+Hydrodynamic size (DLS),Day 0: 18 ± 3 nmDay 30: 20 ± 4 nm,"Minor increase, indicating limited aggregation"
+Zeta potential,Day 0: −32.5 ± 2.1 mVDay 30: −30.8 ± 2.4 mV,Surface charge remained within the highly stable colloidal range ( > ± 30 mV)
+SEM size and morphology,"Day 0: 15–20 nm, sphericalDay 30: spherical morphology retained with slight aggregation",Morphology remained generally stable
+EDS composition,"Day 0: Ag: 78%, C: 15%, O: 7% | Day 30: Not reassessed after storage",Elemental profile confirmed baseline AgNP formation and honey-derived capping
+Ionic stability (NaCl 0–500 mM),Before NaCl challenge: no salt stressAfter challenge: minimal aggregation up to 300 mM; partial aggregation > 400 mM,Stable under physiologically relevant ionic challenge

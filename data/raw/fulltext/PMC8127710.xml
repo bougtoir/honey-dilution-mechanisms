@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?><article xml:lang="en" article-type="research-article"><front><journal-meta><journal-id journal-id-type="pmc-domain-id">1749</journal-id><journal-id journal-id-type="pmc-domain">eva</journal-id><journal-title-group><journal-title>Evolutionary Applications</journal-title><abbrev-journal-title>Evol Appl</abbrev-journal-title></journal-title-group><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC8127710</article-id><article-id pub-id-type="pmcaid">8127710</article-id><article-id pub-id-type="pmcaiid">8127710</article-id><article-id pub-id-type="pmid">34025770</article-id><article-id pub-id-type="doi">10.1111/eva.13200</article-id><title-group><article-title>Evolution of honey resistance in experimental populations of bacteria depends on the type of honey and has no major side effects for antibiotic susceptibility</article-title></title-group><contrib-group content-type="author"><contrib><name name-style="western"><surname>Bischofberger</surname><given-names initials="AM">Anna M</given-names></name><xref ref-type="aff" rid="eva13200-aff-0001">1</xref><xref ref-type="author-notes" rid="_fncrsp93pmc__">✉</xref></contrib><contrib><name name-style="western"><surname>Pfrunder Cardozo</surname><given-names initials="KR">Katia R</given-names></name><xref ref-type="aff" rid="eva13200-aff-0001">1</xref></contrib><contrib><name name-style="western"><surname>Baumgartner</surname><given-names initials="M">Michael</given-names></name><xref ref-type="aff" rid="eva13200-aff-0001">1</xref></contrib><contrib><name name-style="western"><surname>Hall</surname><given-names initials="AR">Alex R</given-names></name><xref ref-type="aff" rid="eva13200-aff-0001">1</xref></contrib></contrib-group><aff id="eva13200-aff-0001"><label><sup>1</sup></label>Institute of Integrative Biology, ETH Zurich, Zurich, Switzerland</aff><author-notes><fn id="correspondenceTo"><label>*</label><p><bold>Correspondence</bold>, 
+Anna M. Bischofberger, Institute of Integrative Biology, ETH Zurich, Zurich, Switzerland. 
+Email: <email>anna.bischofberger@env.ethz.ch</email></p></fn><fn id="_fncrsp93pmc__"><label>✉</label><p>Corresponding author.</p></fn></author-notes><pub-date><day>10</day><month>3</month><year>2021</year></pub-date><volume>14</volume><issue>5</issue><fpage>1314</fpage><page-range>1314–1327</page-range><pub-history><event event-type="pmc-release"><date><day>21</day><month>5</month><year>2021</year></date></event></pub-history><permissions><copyright-statement>© 2021 The Authors. <italic>Evolutionary Applications</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EVA-14-1314.pdf" content-type="pmc-pdf"><?cloudpmc-path 5c1a/8127710/417c6529a4b9/EVA-14-1314.pdf?><?cloudpmc-bucket app?><?size 887174?></self-uri><related-article related-article-type="correction-forward"><bold>This article has been corrected.</bold> See <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9108302">Evol Appl. 2022 May 15;15(5):902</ext-link>.</related-article><abstract id="eva13200-abs-0001"><title>ABSTRACT</title><p>With rising antibiotic resistance, alternative treatments for communicable diseases are increasingly relevant. One possible alternative for some types of infections is honey, used in wound care since before 2000 BCE and more recently in licensed, medical‐grade products. However, it is unclear whether medical application of honey results in the evolution of bacterial honey resistance and whether this has collateral effects on other bacterial traits such as antibiotic resistance. Here, we used single‐step screening assays and serial transfer at increasing concentrations to isolate honey‐resistant mutants of <italic>Escherichia coli</italic>. We only detected bacteria with consistently increased resistance to the honey they evolved in for two of the four tested honey products, and the observed increases were small (maximum twofold increase in IC<sub>90</sub>). Genomic sequencing and experiments with single‐gene knockouts showed a key mechanism by which bacteria increased their honey resistance was by mutating genes involved in detoxifying methylglyoxal, which contributes to the antibacterial activity of <italic>Leptospermum</italic> honeys. Crucially, we found no evidence that honey adaptation conferred cross‐resistance or collateral sensitivity against nine antibiotics from six different classes. These results reveal constraints on bacterial adaptation to different types of honey, improving our ability to predict downstream consequences of wider honey application in medicine.</p><sec id="kwd-group1" sec-type="kwd-group" disp-level="2"><p><bold>Keywords:</bold> anti‐bacterial agents, bacteria, communicable diseases, <italic>Escherichia coli</italic>, honey, leptospermum, microbial drug resistance</p></sec></abstract><custom-meta-group><custom-meta><meta-name>status</meta-name><meta-value>released</meta-value></custom-meta><custom-meta><meta-name>display-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-journal-matter</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-scanned</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-retracted</meta-name><meta-value>no</meta-value></custom-meta></custom-meta-group></article-meta><notes notes-type="article-notes"><sec id="historyarticle-meta1" sec-type="history" disp-level="2"><p>Revised 2020 Dec 24; Received 2020 Oct 8; Accepted 2021 Jan 25; Collection date 2021 May.</p></sec></notes></front><body><sec id="eva13200-sec-0001" disp-level="1"><label>1.</label><title>INTRODUCTION</title><p>Antimicrobial resistance is one of the biggest challenges facing global public health (WHO, <xref rid="eva13200-bib-0084" ref-type="bibr">2020</xref>). To preserve the effectiveness of antibiotics and to treat infections caused by resistant bacteria, alternative approaches are required that can be used instead of antibiotics or after they have failed. One possible alternative currently being investigated for some applications is honey (Descottes, <xref rid="eva13200-bib-0027" ref-type="bibr">2009</xref>; Knipping et al., <xref rid="eva13200-bib-0039" ref-type="bibr">2012</xref>; Vandamme et al., <xref rid="eva13200-bib-0079" ref-type="bibr">2013</xref>). Produced by the honey bee, <italic>Apis mellifera</italic>, honey has a long history in human medicine (Breasted, <xref rid="eva13200-bib-0016" ref-type="bibr">1948</xref>) and has remained a staple treatment in traditional medicine. More recently, medically certified honeys and honey‐containing products have been licensed in various parts of the world, primarily for topical application, such as in wound healing (Cooke et al., <xref rid="eva13200-bib-0023" ref-type="bibr">2015</xref>; Molan &amp; Betts, <xref rid="eva13200-bib-0058" ref-type="bibr">2004</xref>), and treatment of otorhinolaryngological diseases (Werner &amp; Laccourreye, <xref rid="eva13200-bib-0082" ref-type="bibr">2011</xref>). The idea is appealing: honey is generally cheap and nonharmful to patients (Dunford &amp; Hanano, <xref rid="eva13200-bib-0029" ref-type="bibr">2004</xref>; Knottenbelt, <xref rid="eva13200-bib-0041" ref-type="bibr">2014</xref>), inhibits bacterial growth (Basualdo et al., <xref rid="eva13200-bib-0011" ref-type="bibr">2007</xref>; Carter et al., <xref rid="eva13200-bib-0020" ref-type="bibr">2016</xref>) and can promote wound closure and healing (Molan, <xref rid="eva13200-bib-0057" ref-type="bibr">1999</xref>). If honey could be used instead of antibiotics for some applications, this could contribute to managing antibiotic resistance. However, several open questions remain about whether bacteria exposed to inhibitory concentrations of honey evolve resistance to it, which genes or pathways are involved, and whether any such evolutionary responses have downstream effects on other properties relevant for treatment, in particular antibiotic resistance.</p><p>Despite open questions about how bacteria evolve honey resistance, the physiological causes of honey's antibacterial activity have been investigated in various species, including human pathogens such as <italic>Staphylococcus aureus</italic>, <italic>Pseudomonas aeruginosa</italic>, <italic>Streptococcus mutans</italic> and <italic>Enterococcus faecium</italic> (Badet &amp; Quero, <xref rid="eva13200-bib-0009" ref-type="bibr">2011</xref>; Camplin &amp; Maddocks, <xref rid="eva13200-bib-0018" ref-type="bibr">2014</xref>; Kwakman et al., <xref rid="eva13200-bib-0044" ref-type="bibr">2008</xref>, <xref rid="eva13200-bib-0043" ref-type="bibr">2011</xref>). Multiple mechanisms have been implicated, including high sugar/low water content, acidity, hydrogen peroxide and nonperoxide molecules such as methylglyoxal (Allen et al., <xref rid="eva13200-bib-0003" ref-type="bibr">1991</xref>; Mavric et al., <xref rid="eva13200-bib-0054" ref-type="bibr">2008</xref>; Molan, <xref rid="eva13200-bib-0056" ref-type="bibr">1992</xref>; White et al., <xref rid="eva13200-bib-0083" ref-type="bibr">1963</xref>), with floral source of the honey being a major determinant of its mechanism of action (Allen et al., <xref rid="eva13200-bib-0003" ref-type="bibr">1991</xref>; Lu et al., <xref rid="eva13200-bib-0048" ref-type="bibr">2013</xref>; Maddocks &amp; Jenkins, <xref rid="eva13200-bib-0051" ref-type="bibr">2013</xref>). At the phenotypic level, various effects of honey have been reported across different species, including changes in cell‐wall integrity and cell shape (Brudzynski &amp; Sjaarda, <xref rid="eva13200-bib-0017" ref-type="bibr">2014</xref>; Henriques et al., <xref rid="eva13200-bib-0033" ref-type="bibr">2011</xref>; Wasfi et al., <xref rid="eva13200-bib-0081" ref-type="bibr">2016</xref>), quorum sensing (Lee et al., <xref rid="eva13200-bib-0045" ref-type="bibr">2011</xref>; Truchado et al., <xref rid="eva13200-bib-0078" ref-type="bibr">2009</xref>; Wang et al., <xref rid="eva13200-bib-0080" ref-type="bibr">2012</xref>), iron acquisition (Ankley et al., <xref rid="eva13200-bib-0007" ref-type="bibr">2020</xref>; Kronda et al., <xref rid="eva13200-bib-0042" ref-type="bibr">2013</xref>) and biofilm formation (Badet &amp; Quero, <xref rid="eva13200-bib-0009" ref-type="bibr">2011</xref>; Halstead et al., <xref rid="eva13200-bib-0032" ref-type="bibr">2016</xref>; Merckoll et al., <xref rid="eva13200-bib-0055" ref-type="bibr">2009</xref>). Perhaps unsurprisingly given this complex picture of inhibitory mechanisms, research to date on the evolution of honey resistance in bacteria has reached no clear consensus. For example, Cooper et al. (<xref rid="eva13200-bib-0024" ref-type="bibr">2010</xref>) reported no stable increase in resistance after exposure of various species to medical‐grade <italic>Leptospermum</italic> honey in vitro, while Camplin and Maddocks (<xref rid="eva13200-bib-0018" ref-type="bibr">2014</xref>) and Lu et al. (<xref rid="eva13200-bib-0049" ref-type="bibr">2019</xref>) detected increased resistance in <italic>P. aeruginosa</italic> cells recovered from honey‐exposed biofilms in vitro. Thus, it remains unclear how rapidly bacteria exposed to honey can evolve reduced susceptibility to it. Another important question is whether adaptation to honey has side effects for antibiotic susceptibility. This is relevant for assessing the risk that honey application could contribute to the spread of antibiotic resistance, affecting the success of antibiotic treatments used in combination or later against the same bacteria. There is some evidence that honey resistance affects susceptibility to rifampicin and imipenem in <italic>P</italic>.<italic> aeruginosa</italic> (Camplin &amp; Maddocks, <xref rid="eva13200-bib-0018" ref-type="bibr">2014</xref>). To understand the general picture of how honey resistance affects antibiotic susceptibility, we need to test a wider range of bacteria and antibiotics, and characterize the genetic pathways by which bacteria become resistant.</p><p>We chose to study <italic>Escherichia coli</italic> because it is a common pathogen in humans and animals (Dowd et al., <xref rid="eva13200-bib-0028" ref-type="bibr">2008</xref>; Suojala et al., <xref rid="eva13200-bib-0073" ref-type="bibr">2013</xref>), frequently associated with surface wounds and infections of the intestinal tract that might be suitable for honey treatment (Carnwath et al., <xref rid="eva13200-bib-0019" ref-type="bibr">2014</xref>; Haffejee &amp; Moosa, <xref rid="eva13200-bib-0031" ref-type="bibr">1985</xref>; Willix et al., <xref rid="eva13200-bib-0085" ref-type="bibr">1992</xref>). Antibacterial resistance has increased in <italic>E</italic>.<italic> coli</italic> (O'Neill, <xref rid="eva13200-bib-0063" ref-type="bibr">2014</xref>; Tadesse et al., <xref rid="eva13200-bib-0075" ref-type="bibr">2012</xref>), and many of the resistance mechanisms found in <italic>E</italic>.<italic> coli</italic> can also be found in other species (Paulsen et al., <xref rid="eva13200-bib-0066" ref-type="bibr">1996</xref>; Philippon et al., <xref rid="eva13200-bib-0067" ref-type="bibr">1989</xref>), suggesting it as a good model for studying resistance evolution. To find out how bacteria respond to honey exposure phenotypically and genotypically, we experimentally evolved <italic>E</italic>.<italic> coli</italic> in the presence of four different honeys (two medical‐grade honeys, two commercially available honeys) by gradually exposing bacteria to increased honey concentrations during serial passage. We then measured honey susceptibility of evolved bacteria from this experiment, as well as population growth in the absence of honey. To identify genes involved in honey resistance, we used whole‐genome sequencing of these evolved isolates, as well as single‐gene knockout variants. We also used a second screen for honey‐resistant mutants, by exposing many replicate populations to high honey concentrations in a single step (selective plating of overnight cultures). Lastly, we tested for collateral effects of honey adaptation on antibiotic resistance by determining the phenotypic resistance of honey‐adapted isolates to antibiotics of different classes. Our results show that, even upon gradually increasing exposure, large changes in honey resistance in <italic>E</italic>.<italic> coli</italic> populations growing in vitro are rare. However, for some honey products we identified mechanisms driving moderate increases in honey resistance, and we find no indication for cross‐resistance between honey and antibiotics.</p></sec><sec id="eva13200-sec-0002" disp-level="1"><label>2.</label><title>MATERIALS AND METHODS</title><sec id="eva13200-sec-0003" disp-level="2"><label>2.1.</label><title>Organisms and growth conditions</title><p>We used <italic>E</italic>.<italic> coli</italic> K‐12 MG1655 as parental strain for the evolution experiment and isolation of single‐step mutants. We used <italic>E</italic>.<italic> coli</italic> K‐12 BW25113 and single‐gene knockout variants derived from it (Keio Knockout Collection (Baba et al., <xref rid="eva13200-bib-0008" ref-type="bibr">2006</xref>)) for knockout experiments. We stored all isolates in 25% glycerol at −80°C. We performed routine culturing in lysogeny broth (LB, Sigma‐Aldrich [Merck KGaA]) at 37°C with shaking at 180 rpm.</p></sec><sec id="eva13200-sec-0004" disp-level="2"><label>2.2.</label><title>Honeys and antibiotics</title><p>The different honey products we used are listed in Table <xref rid="eva13200-tbl-0001" ref-type="table">1</xref>. Honeys were stored in a cool, dark place and, in the case of medical‐grade honeys, opened tubes were only used as long as recommended by the manufacturer (SurgihoneyRO™: 4 weeks; Medihoney™ Medical Honey: 4 months). Because the best‐before date on commercial honeys does not concern their antimicrobial activity but its edibility, and because prolonged storage can affect hydrogen peroxide content of honey (Irish et al., <xref rid="eva13200-bib-0036" ref-type="bibr">2011</xref>), non‐medical‐grade honeys were also used for a maximum of 4 months after opening. After plating honey samples on agar plates (LB broth with agar [Lennox; Sigma‐Aldrich (Merck KGaA]) at 35 g/L), we observed colony‐forming units with the commercial honey and Manuka honey. This was no longer the case after filtering honey solutions with a Filtropur S 0.45 filter (Sarstedt) (Wasfi et al., <xref rid="eva13200-bib-0081" ref-type="bibr">2016</xref>). Accordingly, for all four honeys, honey‐containing growth media were prepared immediately before the start of each experiment by diluting honey in LB (preheated to 55°C) and filter sterilizing. We purchased amoxicillin (product number A8523), chloramphenicol (product number 23275), ciprofloxacin (product number 17850), gentamicin (product number 48760), kanamycin (product number 60615), neomycin trisulphate salt hydrate (product number N1876), polymyxin B (product number 5291), tobramycin (product number T4014) and trimethoprim (product number 92131) from Sigma‐Aldrich (Merck KGaA). We prepared antibiotic stock solutions at the outset of the experiments and filter sterilized (Filtropur S 0.2 [Sarstedt]) and stored them according to the manufacturers' instructions (stock solutions: amoxicillin 25 mg/ml in sterile distilled water [dH<sub>2</sub>O]; chloramphenicol 50 mg/ml in 70% ethanol; ciprofloxacin 20 mg/ml in 0.1 M HCl; gentamicin 50 mg/ml in dH<sub>2</sub>O; kanamycin 40 mg/ml in dH<sub>2</sub>O; neomycin 40 mg/ml in dH<sub>2</sub>O; polymyxin B 20 mg/ml in dH<sub>2</sub>O; tobramycin 40 mg/ml in dH<sub>2</sub>O; and trimethoprim 25 mg/ml in DMSO).</p><table-wrap id="eva13200-tbl-0001" position="float" xml:lang="en"><?disp-level 3?><label>TABLE 1</label><caption><p>Honey products used in this study.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Product name</th><th align="left" valign="top" rowspan="1" colspan="1">Product description</th><th align="left" valign="top" rowspan="1" colspan="1">Initial IC<sub>90</sub> for <italic>Escherichia coli</italic> K‐12 MG1655</th><th align="left" valign="top" rowspan="1" colspan="1">Manufacturer</th><th align="left" valign="top" rowspan="1" colspan="1">Purchased from</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>SurgihoneyRO</italic>™</td><td align="left" rowspan="1" colspan="1">Medical honey; sterile, bio‐engineered; undiluted; single‐origin (unspecified)</td><td align="left" rowspan="1" colspan="1">4%(w/v)</td><td align="left" rowspan="1" colspan="1">Matoke Holdings Ltd, Abingdon, United Kingdom</td><td align="left" rowspan="1" colspan="1">tubes of 20 g and 50 g: H&amp;R Healthcare, Hull, United Kingdom</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Medihoney</italic>™ Antibacterial Medical Honey</td><td align="left" rowspan="1" colspan="1">Medical honey; sterile, undiluted; <italic>Leptospermum</italic> honey (methylglyoxal content unspecified)</td><td align="left" rowspan="1" colspan="1">12.8%(w/v)</td><td align="left" rowspan="1" colspan="1">Sorbion Austria, Zwölfaxing, Austria</td><td align="left" rowspan="1" colspan="1">tubes of 20 g: Puras AG, Bern, Switzerland; tubes of 50 g: The Honeydoctor, The Littledart Company Ltd, Tiverton, United Kingdom, and puravita ag, Speicher, Switzerland</td></tr><tr><td align="left" rowspan="1" colspan="1">Manuka Honey MGO™550+</td><td align="left" rowspan="1" colspan="1">Consumer product; natural, undiluted; <italic>Leptospermum</italic> honey (methylglyoxal content of 550 mg/kg)</td><td align="left" rowspan="1" colspan="1">8%(w/v)</td><td align="left" rowspan="1" colspan="1">Manuka Health New Zealand Ltd, Te Awamutu, New Zealand</td><td align="left" rowspan="1" colspan="1">250 g jars: nu3 GmbH, Berlin, Germany</td></tr><tr><td align="left" rowspan="1" colspan="1">Commercial honey (Fairtrade Liquid Blossom Honey)</td><td align="left" rowspan="1" colspan="1">Consumer product; natural, undiluted; poly‐origin (Chili, Guatemala, (Mexico))</td><td align="left" rowspan="1" colspan="1">8%(w/v)</td><td align="left" rowspan="1" colspan="1">Coop, Basel, Switzerland</td><td align="left" rowspan="1" colspan="1">550 g jars: Coop, Basel, Switzerland</td></tr></tbody></table></table-wrap></sec><sec id="eva13200-sec-0005" disp-level="2"><label>2.3.</label><title>Measuring susceptibility of isolates to different honeys</title><p>We used the 90% inhibitory concentration (IC<sub>90</sub>) of each antibacterial compound as an indicator of resistance. We defined the IC<sub>90</sub> as the lowest concentration tested above which bacterial growth did not exceed 10% of growth of the same isolate in the absence of antibacterials (i.e. none of the tested concentrations at or above the IC<sub>90</sub> supported &gt;10% growth; this definition is used in the results sections below). A minority of dose–response curves were not monotonic, in that some individual concentrations below the IC<sub>90</sub> inferred using the above definition supported &lt;10% growth; this did not affect our overall conclusions (checked by using an alternative definition of the IC<sub>90</sub> as the lowest individual concentration supporting &lt;10% growth, which supported the same conclusions). We estimated the IC<sub>90</sub> towards four honey products for ancestral strain <italic>E</italic>.<italic> coli</italic> K‐12 MG1655 (assay A); for 18 single‐step putative resistant mutants (assay B, also including the ancestral strain); for 14 serially‐passaged putative honey‐resistant mutants and six serially‐passaged control isolates (assay C, also including the ancestral strain); and for 28 single‐gene knockout variants and their ancestral strain <italic>E</italic>.<italic> coli</italic> K‐12 BW25113 (assay D, for details on selection of single‐gene knockout variants see below) by measuring their growth in liquid culture at different concentrations. For each assay, we transferred independent LB‐overnight cultures (cultured in flat‐based 96‐well microplates [Sarstedt]) into microplates filled with various honey concentrations and plain LB as a control, using a pin replicator (1/100 dilution, 2 μl in 200 μl). We used slightly different concentration ranges in different sets of assays (range of tested concentrations is given in Table <xref rid="eva13200-sup-0003" ref-type="supplementary-material">S1</xref>). The assays were conducted with independent controls (ancestral strain) on different days. After inoculating assay microplates, we incubated them overnight at 37°C and quantified bacterial growth by measuring optical density at 600 nm (OD<sub>600</sub>) with a microplate reader (Infinite® 200 PRO, Tecan Trading AG) at the beginning and end of the experiment (0 and 24 h). We corrected OD<sub>600</sub> scores for the optical density of the media. In each assay, we assessed multiple replicates of each strain‐compound combination (assay A: three replicates; assay B: five replicates; assay C: four replicates; assay D: three replicates).</p></sec><sec id="eva13200-sec-0006" disp-level="2"><label>2.4.</label><title>Experimental evolution</title><p>We serially passaged multiple selection lines of <italic>E</italic>.<italic> coli</italic> K‐12 MG1655 in filtered solutions of each of the four honey products and in the absence of honey for 22 days, transferring daily (four honey treatments + one control treatment = five evolution environments). In summary: at each transfer, each selection line was inoculated into multiple wells containing various honey concentrations. After overnight incubation, we transferred from the well with the highest concentration supporting viable growth (Figure <xref rid="eva13200-sup-0001" ref-type="supplementary-material">S1</xref>a). In more detail: to begin the experiment, we streaked out <italic>E</italic>.<italic> coli</italic> K‐12 MG1655 from glycerol stocks onto LB agar plates. After overnight incubation, we inoculated six selection lines in each evolution environment, each with an independent colony (5 evolution environments × 6 colonies = 30 selection lines). In this first step, we cultured each selection line for 2 h in 5 ml of LB at 37°C with shaking at 180 rpm. Then, for every selection line, we inoculated seven microplate wells filled with 200 μl LB. After overnight incubation, we transferred the seven cultures of each selection line (5 μl of each culture) into a fresh microplate filled with 200 μl of unsupplemented LB (‘rescue well’), LB supplemented with one of five concentrations of the respective honey product or honey stock solution (30 or 50%(w/v)). We incubated microplates overnight at 37°C and quantified bacterial growth by measuring OD<sub>600</sub> after 0 h and 24 h. On the following days, for every selection line, we determined the well at the highest honey concentration where ∆OD<sub>600</sub> (OD<sub>600</sub> 24 h – OD<sub>600</sub> 0 h) &gt; 0.1 (an arbitrary cut‐off we took as an indication of viable growth) and transferred 5 μl to seven wells in a new microplate. In cases where ∆OD<sub>600</sub> in all honey‐supplemented wells was &lt;0.1, we used the rescue well culture to inoculate the fresh microplate. To gradually expose selection lines to higher concentrations of honey, we adjusted the range of concentrations tested over time, according to the performance of individual selection lines (concentrations and OD scores over time are given in Figure <xref rid="eva13200-sup-0003" ref-type="supplementary-material">S2</xref>). In the control treatment (no honey), we used a single well for each selection line at each transfer. We did this for 22 days, freezing microplates from days 3, 6, 9, 12, 15, 18, 21 and 22.</p><p>At the end of the experiment, we isolated a single colony at random from each selection line. On day 22, we streaked out a sample from the well with the highest honey concentration where ∆OD<sub>600</sub> &gt; 0.1 onto LB agar. After overnight incubation, we picked one colony per selection line, grew it overnight in 5 ml LB and stored it at −80°C. We used colony PCR (primer sequences: forward: 5′‐AGA CGA CCA ATA GCC GCT TT‐3′; reverse: 5′‐TTG ATG TTC CGC TGA CGT CT‐3′) to ensure that all colony isolates were <italic>E</italic>.<italic> coli</italic> K‐12 MG1655. For five selection lines (Medihoney_01, Commercial_02, Commercial_03, Commercial_04 and Commercial_05), we found no colonies when streaking out samples on LB agar at day 22. We initially screened for honey‐resistant phenotypes of colony isolates from the other selection lines by culturing each colony isolate in honey‐supplemented medium at a concentration in which the parental strain was not able to grow. This led us to exclude five isolates that did not grow at honey concentrations above that of the parental strain (Surgihoney_01, Surgihoney_02, Surgihoney_03, Surgihoney_06 and Commercial_01). We then proceeded with the remaining 14 serially‐passaged putative honey‐resistant mutants, plus six control isolates serially passaged in LB, sequencing all 20 genomes and quantifying their honey susceptibility as described below/above, respectively.</p></sec><sec id="eva13200-sec-0007" disp-level="2"><label>2.5.</label><title>Genetic analysis of serially‐passaged mutants</title><p>We sequenced the 14 serially‐passaged, putative resistant mutants and the six LB‐adapted control isolates. Overnight cultures inoculated with single colonies were centrifuged at 5000 <italic>g</italic> at room temperature for 10 min. After removal of the supernatant, we stored cell pellets at −20°C until further processing. We used the QIAGEN Genomic‐tip 20/G (Cat. No. 10223; Qiagen) according to the manufacturer's instructions for genomic DNA (gDNA) extraction. In brief: We resuspended the bacterial cell pellets in 1 ml Buffer B1, 2 μl RNase A solution (100 mg/ml), 20 μl lysozyme (100 mg/ml) and 45 μl Proteinase K (20 mg/ml). Afterwards, we incubated them at 37°C for up to 1 h. Then, we added 350 μl of Buffer B2 and mixed thoroughly by inverting the tubes several times and vortexing them a few seconds. Following incubation at 50°C for up to 1 h, we loaded the lysates onto the pre‐equilibrated QIAGEN Genomic‐tips and left the samples to pass the resin by gravity flow. We washed the QIAGEN Genomic‐tips thrice with 1 ml Buffer QC to remove any remaining contaminants. We eluted the DNA twice with 1 ml Buffer QF prewarmed to 50°C, discarded the Genomic‐tips and precipitated the DNA by adding 1.4 ml room temperature isopropanol to the eluted DNA. We precipitated the DNA by inverting the tube 10–20 times and spooled the DNA using a glass rod. We immediately transferred the spooled DNA to a microcentrifuge tube containing 160 μl elution buffer (Buffer EB: 10 mM Tris‐HCl, pH 8.5) and dissolved the DNA overnight on a shaker (20 rpm). We quantified the obtained gDNA using the Quant‐iTTM dsDNA BR (Broad Range) Assay Kit (Thermo Fisher Scientific) in the QubitTM Fluorometer (Thermo Fisher Scientific). We used a NanoDrop (Thermo Fisher Scientific) to control the purity of gDNA (ratios A<sub>260</sub>/A<sub>280</sub> and A<sub>260</sub>/A<sub>230</sub> ≥1.8). We sequenced at the Functional Genomic Center, Zurich, Switzerland, using the Illumina HiSeq 4000 platform after library preparation with the Nextera XT DNA Library Prep kit (Illumina).</p><p>We trimmed and quality‐filtered all sequences with trimmomatic (Bolger et al., <xref rid="eva13200-bib-0014" ref-type="bibr">2014</xref>) with the following parameters: ILLUMINACLIP:&lt;NexteraPE adapters fasta file&gt;2:30:10; LEADING: 3; TRAILING: 3; SLIDINGWINDOW:4:15; MINLEN:80. We mapped the reads of the ancestral strain of our resistance isolation experiment (2.5 × 10<sup>6</sup> reads) against the reference sequence of <italic>E</italic>.<italic> coli</italic> K‐12 MG1655 (NCBI accession number: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/U00096" ext-link-type="uri">U00096</ext-link>) using breseq 0.33.1 (Deatherage &amp; Barrick, <xref rid="eva13200-bib-0026" ref-type="bibr">2014</xref>). We used gdtools implemented in breseq to integrate the identified mutations into the reference genome. For variant calling, we mapped all reads of the serially passaged and single‐step putative resistant mutants (average number of reads per sample: 4.1 × 10<sup>6</sup> ± 1.5 × 10<sup>6</sup>) against the refined reference genome using breseq. The sequencing data have been deposited in the European Nucleotide Archive under the study accession number PRJEB35347 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ebi.ac.uk/ena" ext-link-type="uri">https://www.ebi.ac.uk/ena</ext-link>).</p></sec><sec id="eva13200-sec-0008" disp-level="2"><label>2.6.</label><title>Experiments with single‐gene knockout variants</title><p>After identifying genes that potentially contribute to honey adaptation (Table <xref rid="eva13200-sup-0002" ref-type="supplementary-material">S2</xref>), we tested for further evidence of the role of these genes in honey resistance using single‐gene knockout variants from the Keio Knockout Collection (Baba et al., <xref rid="eva13200-bib-0008" ref-type="bibr">2006</xref>) for <italic>E</italic>.<italic> coli</italic> K‐12. We tested for a change in the resistance phenotype of these knockout variants relative to the ancestral strain of the knockout collection, <italic>E</italic>.<italic> coli</italic> K‐12 BW25113, using the resistance phenotyping assay described above (assay D). When choosing genes to investigate, we concentrated on those (1) which were affected by independent mutations in at least two selection lines, (2) where mutations were not detected in isolates from the control treatment, (3) which were not annotated as ‘pseudogene’, ‘intergenic’ nor ‘noncoding’, and (4) for which there is an available knockout variant in the Keio Knockout Collection (limited to nonessential genes).</p></sec><sec id="eva13200-sec-0009" disp-level="2"><label>2.7.</label><title>Measuring population growth of serially‐passaged mutants in the absence of honey</title><p>We tested whether our serially‐passaged isolates showed altered population growth in the absence of honey relative to the ancestral strain. To do this, we grew four independent cultures (each inoculated from a different colony) of each serially‐passaged isolate (including control‐evolved isolates, <italic>n</italic> = 20) and the ancestral isolate, each in 150 μl LB in a microplate in a randomized layout. After overnight incubation, we used a pin replicator to inoculate a fresh microplate (all wells filled with 150 μl LB). We then measured OD<sub>600</sub> every 15 min for 24 h (shaking before each measurement).</p></sec><sec id="eva13200-sec-0010" disp-level="2"><label>2.8.</label><title>Measuring susceptibility of serially‐passaged mutants to antibiotics</title><p>We measured the phenotypic resistance (IC<sub>90</sub>) of the 20 serially‐passaged isolates (14 putative resistant mutants, six LB‐adapted control isolates) and of the parental strain (<italic>E</italic>.<italic> coli</italic> K‐12 MG1655) for nine antibiotics representing six different classes: amoxicillin (penicillin), ciprofloxacin (fluoroquinolone), chloramphenicol (chloramphenicol), gentamicin (aminoglycoside), kanamycin (aminoglycoside), neomycin (aminoglycoside), polymyxin B (polymyxin), tobramycin (aminoglycoside) and trimethoprim (dihydrofolate reductase inhibitor). We decided to test several aminoglycoside drugs (gentamicin, kanamycin, neomycin, tobramycin) because previous studies have found that bacteria exposed to honey reduce the expression of genes involved in the TCA cycle (Jenkins et al., <xref rid="eva13200-bib-0037" ref-type="bibr">2014</xref>; Lee et al., <xref rid="eva13200-bib-0045" ref-type="bibr">2011</xref>), while others report a link between aminoglycoside susceptibility and defects or down‐regulated gene expression in the bacterial respiratory chain, including the TCA cycle (Chittezham Thomas et al., <xref rid="eva13200-bib-0021" ref-type="bibr">2013</xref>; Magnet &amp; Blanchard, <xref rid="eva13200-bib-0052" ref-type="bibr">2005</xref>; Shan et al., <xref rid="eva13200-bib-0071" ref-type="bibr">2015</xref>; Su et al., <xref rid="eva13200-bib-0072" ref-type="bibr">2018</xref>; Zhou et al., <xref rid="eva13200-bib-0088" ref-type="bibr">2019</xref>). We conducted the assays using a similar protocol as described above for honey. In brief, we first incubated independent replicate populations of each isolate in a randomized layout in microplates overnight. From these microplates, we inoculated assay plates filled with LB supplemented with antibiotics at various concentrations. With twofold broth dilution, the nonzero concentration ranges were amoxicillin 128 – 4 μg/ml, chloramphenicol 32 – 1 μg/ml, ciprofloxacin 1 – 0.03125 μg/ml, gentamicin 32 – 1 μg/ml, kanamycin 32 – 1 μg/ml, neomycin 64 – 2 μg/ml, polymyxin B 4 – 0.125 μg/ml, tobramycin 32 – 1 μg/ml and trimethoprim 4 – 0.125 μg/ml. We measured bacterial growth by the change in OD<sub>600</sub> (0, 24 h) as described above. We conducted the assays for all antibiotics on the same day.</p></sec><sec id="eva13200-sec-0011" disp-level="2"><label>2.9.</label><title>Single‐step isolation of honey‐resistant mutants</title><p>As a second screen for mutants of <italic>E</italic>.<italic> coli</italic> K‐12 MG1655 with increased honey resistance, we plated aliquots of multiple independent overnight cultures, grown in the absence of antibiotics, on LB agar supplemented with each honey product.</p><p>For each honey type, we first grew 54 independent overnight cultures (250 μl per culture in LB in a 96‐well microplate; Figure <xref rid="eva13200-sup-0001" ref-type="supplementary-material">S1</xref>b). We then plated each culture onto a separate honey‐supplemented LB agar plate (prepared in six‐well culture plates [Sarstedt]), plating 100 μl of 18 separate cultures at each of three concentrations per honey product. We prepared honey‐supplemented LB agar by adding LB‐honey solution (at double the concentration of the desired final concentration in the plates, prepared as described above) to hand‐warm double concentrated LB agar (i.e. at 70 g/L agar). After mixing, we added 4 ml of this honey‐supplemented agar to wells. We used honey concentrations 1.25, 1.5, 2 or 3 times higher than previously determined IC<sub>90 </sub>s of the wild‐type strain in liquid. We incubated the plates overnight at 37°C before checking for resistant mutants. For SurgihoneyRO™, Medihoney™ and Manuka honey, we picked six putative honey‐resistant colonies, each from a separate well. When isolating colonies, we prioritized those from wells with higher concentrations of honey. For commercial honey, we observed no viable colonies on honey‐supplemented agar despite four attempts on different days (total of 216 cultures). We cultured the selected putative resistant colonies overnight in 5 ml LB and suspended them in 25% glycerol for storage at −80°C. We then tested these 18 single‐step putative honey‐resistant mutants for phenotypic resistance as described above. We also used a second test to see if putative honey resistance phenotypes were robust, by streaking out frozen stocks of each colony isolate on honey‐supplemented agar at a concentration inhibitory to the parental strain. Only three of 18 single‐step putative honey‐resistant mutants were able to form colonies under these conditions (Medihoney_10, Surgihoney_09, Surgihoney_10).</p></sec><sec id="eva13200-sec-0012" disp-level="2"><label>2.10.</label><title>Statistical analysis</title><sec id="eva13200-sec-0013" disp-level="3"><label>2.10.1.</label><title>Phenotypic honey resistance of serially passaged mutants</title><p>To test whether isolates from different evolution environments had different honey resistance profiles, we used a linear mixed‐effects model (lmer function in R's lmerTest package [R version: 4.0; package version: 3.1‐2]), with evolution environment and assay compound as fixed effects and genotype (isolate) as a random effect. We compared models with and without the interaction between fixed effects, using the ANOVA function of the stats package to test significance. When looking at individual assay compounds, we used evolution environment as a fixed effect and genotype as a random effect. We used maximum likelihood estimation (REML =<italic> F</italic>). Wild‐type data were excluded from this analysis; we tested for differences in IC<sub>90</sub> between evolved isolates and the wild type separately, with <italic>t</italic>‐tests (<italic>p</italic>‐values adjusted for multiple testing using the Holm–Bonferroni method).</p></sec><sec id="eva13200-sec-0014" disp-level="3"><label>2.10.2.</label><title>Population growth of serially passaged mutants in absence of honey</title><p>We used R's nls and SSlogis functions in the stats package to estimate the growth rate and yield for each culture, with yield corresponding to the <italic>Asym</italic> parameter of the models (=asymptote) and growth rate corresponding to the inverse of the <italic>scal</italic> parameter (=numeric scale parameter on input axis). We tested for a difference in growth parameters between each evolved isolate and the parental strain with a <italic>t</italic>‐test, adjusting <italic>p</italic>‐values using sequential Bonferroni correction. We also tested for an average difference in growth rate or yield among evolved isolates from different evolution environments. We did this using a linear mixed‐effects model, with evolution environment as a fixed effect and genotype as random effect, and excluding data from the wild type. We used maximum likelihood estimation (REML<italic> </italic>=<italic> F</italic>) with the lmer function in the lmerTest package.</p></sec><sec id="eva13200-sec-0015" disp-level="3"><label>2.10.3.</label><title>Phenotypic resistance profiles of serially passaged mutants (antibiotics)</title><p>We conducted an analysis of variance (ANOVA), using the aov function in R's stats package, to test whether there is cross‐resistance between honey and antibiotics, with data on the phenotypic antibiotic resistance of isolates serially passaged in different honeys. We tested each evolved‐isolate‐versus‐wild‐type combination separately, with genotype (evolved vs wild type) and assay compound (antibiotic) as factors, including the interaction term and with <italic>p</italic>‐values adjusted using the Holm–Bonferroni method.</p></sec></sec></sec><sec id="eva13200-sec-0016" disp-level="1"><label>3.</label><title>RESULTS</title><sec id="eva13200-sec-0017" disp-level="2"><label>3.1.</label><title>Experimental evolution of Manuka honey‐resistant bacteria by serial passaging</title><p>During serial passage at gradually increasing honey concentrations (Figure <xref rid="eva13200-sup-0001" ref-type="supplementary-material">S1</xref>a), most selection lines showed improved population growth at concentrations that were initially inhibitory to the ancestral strain (Figures <xref rid="eva13200-sup-0003" ref-type="supplementary-material">S2 and S3</xref>). When we measured the phenotypic resistance of 14 putative honey‐resistant mutants and six control isolates, each isolated from a different selection line after 22 days, several showed increased resistance compared to the ancestral strain against one or more honey products (Figure <xref rid="eva13200-fig-0001" ref-type="fig">1</xref> and Figure <xref rid="eva13200-sup-0003" ref-type="supplementary-material">S4</xref>). The average change in resistance varied among evolved isolates passaged with different honey compounds, depending on which honey compound was used in the assay (evolution environment × assay environment interaction: <italic>χ<sup>2</sup>(12)</italic> = 187.71, <italic>p</italic> &lt; 0.001; main effect of evolution environment: F<sub>4,20</sub> = 1.036, <italic>p</italic> &gt; 0.1). We observed the largest change in resistance for mutants selected with Manuka honey or Medihoney™ when they were assayed with Manuka honey (mean change relative to the ancestor of 2.03‐fold [SD = ±0.21] and 1.83‐fold [SD = ±0.27], respectively). Manuka honey resistance of Manuka honey‐ and Medihoney™‐evolved isolates was also significantly higher than for control‐evolved isolates from the honey‐free LB‐medium treatment (<italic>t</italic>
+<sub>9</sub>.<sub>4</sub> = 5.8, <italic>p</italic> &lt; 0.001 and <italic>t</italic>
+<sub>8.2</sub> = 3.3, <italic>p</italic> &lt; 0.05, respectively). On average, Manuka honey‐evolved and Medihoney™‐evolved isolates also had moderately increased resistance to Medihoney™ (mean change relative to the ancestor of 1.17‐fold [SD = ±0.18] and 1.17‐fold [SD = ±0.1], respectively), but this was not significantly different from that of control‐evolved isolates on average (Manuka: <italic>t</italic>
+<sub>7.1</sub> = 0.07, <italic>p</italic> &gt; 0.05; Medihoney™: <italic>t</italic>
+<sub>8.2</sub> = 0, <italic>p</italic> &gt; 0.05). Some other individual isolates had consistently increased Manuka honey or commercial honey resistance (all replicates for a given isolate higher than all replicates for the ancestor; Figure <xref rid="eva13200-fig-0001" ref-type="fig">1</xref> and Figure <xref rid="eva13200-sup-0003" ref-type="supplementary-material">S4</xref>), but these changes were small compared to those for Manuka honey‐ and Medihoney™‐evolved isolates tested with Manuka honey. Thus, after experimental evolution we observed the strongest evidence of honey adaptation with Manuka honey.</p><fig id="eva13200-fig-0001" position="float" xml:lang="en"><?disp-level 3?><label>FIGURE 1</label><caption><p>Susceptibility of serially‐passaged, putative resistant mutants with four different honey compounds. Each cell gives the median IC<sub>90</sub> for a given isolate (the ancestral strain <italic>Escherichia coli</italic> K‐12 MG1655, in the top row, or a putative resistant mutant serially passaged with one of the four honey compounds, labelled according to compound and replicate selection line) assayed with one of the four honey compounds (columns). Each value is the median of four independent replicates; combinations where all replicates of a putative resistant mutant were higher than all replicates of the ancestor in the same treatment are indicated with a ‘+’. Individual replicates for each strain are shown in Figure <xref rid="eva13200-sup-0003" ref-type="supplementary-material">S4</xref>
+</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="jats-graphic-1" xlink:href="EVA-14-1314-g004.jpg"><?cloudpmc-path blobs/5c1a/8127710/f352ed5e28e6/EVA-14-1314-g004.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 3252?><?original-width 1064?><?scaled-height 2167?><?scaled-width 709?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="EVA-14-1314-g004.gif"><?cloudpmc-path blobs/5c1a/8127710/c973cd2855b1/EVA-14-1314-g004.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec><sec id="eva13200-sec-0018" disp-level="2"><label>3.2.</label><title>Honey adaptation is linked to mutations in <italic>nemAR</italic> and <italic>clpP</italic>
+</title><p>Genomic sequencing of our serially‐passaged isolates revealed changes at several loci (Figure <xref rid="eva13200-fig-0002" ref-type="fig">2</xref>, Table <xref rid="eva13200-sup-0002" ref-type="supplementary-material">S2</xref>). Some loci were mutated multiple times independently in honey‐evolved colony isolates, but not in control‐evolved isolates (Table <xref rid="eva13200-sup-0002" ref-type="supplementary-material">S2</xref>, Figure <xref rid="eva13200-fig-0002" ref-type="fig">2</xref>), indicating a possible role in adaptation to honey. Two such genes were <italic>clpP</italic> (serine protease, mutated in two Manuka honey‐evolved isolates) and <italic>nemR</italic> (DNA‐binding transcriptional repressor, mutated in four Manuka honey‐evolved isolates and three Medihoney™‐evolved isolates; Table <xref rid="eva13200-sup-0002" ref-type="supplementary-material">S2</xref>, Figure <xref rid="eva13200-fig-0002" ref-type="fig">2</xref>). The intergenic region between <italic>ydhL</italic> and <italic>nemR</italic> was mutated in the remaining two Manuka honey‐adapted isolates and the remaining two Medihoney™‐adapted isolates (Table <xref rid="eva13200-sup-0002" ref-type="supplementary-material">S2</xref>, Figure <xref rid="eva13200-fig-0002" ref-type="fig">2</xref>). An additional gene for which we found mutations in multiple isolates serially passaged in Manuka honey is <italic>yafS</italic> (methyltransferase; Table <xref rid="eva13200-sup-0002" ref-type="supplementary-material">S2</xref>, Figure <xref rid="eva13200-fig-0002" ref-type="fig">2</xref>), located next to <italic>gloB</italic>, the gene encoding glyoxalase II, an enzyme involved in detoxification of reactive aldehydes (Ozyamak et al., <xref rid="eva13200-bib-0064" ref-type="bibr">2010</xref>). In control‐evolved isolates, we found parallel mutations in <italic>fimE</italic>, a recombinase responsible for on‐to‐off switching of type 1 fimbriae expression, and <italic>flhD</italic>, one of two transcriptional activators of the <italic>E</italic>.<italic> coli</italic> flagellar regulon but also involved in cell division (Iino et al., <xref rid="eva13200-bib-0035" ref-type="bibr">1988</xref>; Klemm, <xref rid="eva13200-bib-0038" ref-type="bibr">1986</xref>; Liu &amp; Matsumura, <xref rid="eva13200-bib-0046" ref-type="bibr">1994</xref>; Prüß &amp; Matsumura, <xref rid="eva13200-bib-0069" ref-type="bibr">1996</xref>), consistent with past work with LB‐adapted isolates (Knöppel et al., <xref rid="eva13200-bib-0040" ref-type="bibr">2018</xref>). In summary, we found parallelisms in both control‐evolved and honey‐evolved isolates, and in particular every Manuka honey‐ and Medihoney™‐evolved isolate had a mutation in or affecting <italic>nemR</italic>. As we discuss below, this may reflect the role of <italic>nemR</italic> in methylglyoxal degradation (Ozyamak et al., <xref rid="eva13200-bib-0065" ref-type="bibr">2013</xref>), an active component of <italic>Leptospermum</italic> honeys.</p><fig id="eva13200-fig-0002" position="float" xml:lang="en"><?disp-level 3?><label>FIGURE 2</label><caption><p>Genetic changes in 20 serially‐passaged isolates of <italic>Escherichia coli</italic> K‐12 MG1655. The outermost ring represents the ancestral isolate with coloured tiles for all genes in which we found mutations in serially‐passaged isolates. Each inner circle represents one serially‐passaged isolate: in turquoise: control treatment; and in grey: four different honey treatments. Genetic mutations are indicated with coloured tiles: red: mutations in one gene; yellow: intergenetic mutations; and blue: deletions &gt;1000 bp</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="jats-graphic-3" xlink:href="EVA-14-1314-g005.jpg"><?cloudpmc-path blobs/5c1a/8127710/d2ab271a6c52/EVA-14-1314-g005.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 1029?><?original-width 1064?><?scaled-height 686?><?scaled-width 709?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="EVA-14-1314-g005.gif"><?cloudpmc-path blobs/5c1a/8127710/b7768bf8c6b8/EVA-14-1314-g005.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec><sec id="eva13200-sec-0019" disp-level="2"><label>3.3.</label><title>Single‐gene knockouts support a role for <italic>nemR</italic> in honey resistance</title><p>We used single‐gene knockout variants of several genes that were mutated in serially‐passaged isolates to test for further evidence that they play a role in honey resistance (Figure <xref rid="eva13200-fig-0003" ref-type="fig">3</xref> and Figure <xref rid="eva13200-sup-0003" ref-type="supplementary-material">S5</xref>). The knockout variant ∆<italic>nemR</italic> had increased Manuka honey resistance (all replicates higher than all replicates of the wild‐type strain). This variant also showed increased average resistance to Medihoney™, although this was not consistent across all replicate assays (Figure <xref rid="eva13200-fig-0003" ref-type="fig">3</xref> and Figure <xref rid="eva13200-sup-0003" ref-type="supplementary-material">S5</xref>). This is consistent with the above finding that all isolates serially passaged in Manuka honey or Medihoney™ had mutations in or close to <italic>nemR</italic>, and all were more resistant to Manuka honey and Medihoney™ than the ancestral strain. In ∆<italic>clpP</italic>, the knockout of the other gene for which we observed independent mutations in multiple honey‐evolved isolates, we observed a similar pattern of higher median Manuka honey and Medihoney™ resistance (two out of three replicates higher than wild‐type). This is consistent with the increased resistance for these honeys we observed with the two Manuka honey‐selected isolates with mutations in <italic>clpP</italic> (Figure <xref rid="eva13200-fig-0002" ref-type="fig">2</xref> and Figure <xref rid="eva13200-sup-0003" ref-type="supplementary-material">S4</xref>). Two other knockout variants, ∆<italic>nemA</italic> and ∆<italic>eda</italic>, had consistently altered resistance to Manuka honey, with <italic>∆eda</italic> having a higher susceptibility than the ancestral strain. In summary, independent deletion of two genes, <italic>nemR</italic> and <italic>clpP</italic>, which were also directly or indirectly affected by mutations in several of our serially‐passaged isolates, conferred increased resistance to Manuka honey and Medihoney™.</p><fig id="eva13200-fig-0003" position="float" xml:lang="en"><?disp-level 3?><label>FIGURE 3</label><caption><p>Honey susceptibility of single‐gene deletion variants. Each cell shows the median IC<sub>90</sub> towards four different honeys (columns) for the ancestral strain <italic>Escherichia coli</italic> K‐12 BW25113 (top row) or one of 28 single‐gene knockout variants (other rows). Each cell is the median value of three independent replicates; combinations where all replicates of a putative resistant mutant were higher/lower than all replicates of the ancestor in the same treatment are indicated with a ‘+’/‘−’. Individual replicates for each strain are shown in Figure <xref rid="eva13200-sup-0003" ref-type="supplementary-material">S5</xref>
+</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="jats-graphic-5" xlink:href="EVA-14-1314-g001.jpg"><?cloudpmc-path blobs/5c1a/8127710/c674b86188a0/EVA-14-1314-g001.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 3229?><?original-width 1064?><?scaled-height 2152?><?scaled-width 709?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="EVA-14-1314-g001.gif"><?cloudpmc-path blobs/5c1a/8127710/449fb24f55d4/EVA-14-1314-g001.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec><sec id="eva13200-sec-0020" disp-level="2"><label>3.4.</label><title>Impaired growth in the absence of honey for honey‐evolved compared with control‐evolved isolates</title><p>Most serially‐passaged isolates (both honey‐evolved and control‐evolved) had increased population growth rates relative to the ancestral strain in the absence of honey (Figure <xref rid="eva13200-fig-0004" ref-type="fig">4</xref>). However, when we compared control‐evolved isolates with honey‐evolved isolates, control‐evolved isolates had higher growth rates on average compared to all four types of honey‐evolved isolates (linear mixed‐effects model: Manuka honey: <italic>t</italic>
+<sub>20</sub> = −4.355, <italic>p</italic> &lt; 0.001; Medihoney™: <italic>t</italic>
+<sub>20</sub> = −5.538, <italic>p</italic> &lt; 0.001; SurgihoneyRO™: <italic>t</italic>
+<sub>20</sub> = −4.078, <italic>p</italic> &lt; 0.001; commercial honey: <italic>t</italic>
+<sub>20</sub> = −4.671, <italic>p</italic> &lt; 0.001). By contrast, we found little effect of serial passaging on growth yield in evolved isolates compared to the ancestral strain (Figure <xref rid="eva13200-sup-0003" ref-type="supplementary-material">S6</xref>). Comparing the growth yield in different evolution environments, we found no significant difference between isolates serially passaged in LB and honey‐evolved isolates (linear mixed‐effects model: all <italic>p</italic> &gt; 0.05; Figure <xref rid="eva13200-sup-0003" ref-type="supplementary-material">S6</xref>). In summary, for most experimentally evolved isolates we found a positive effect of serial passage on growth rate, but honey‐adapted isolates had a lower growth rate on average compared to isolates serially passaged in the absence of honey.</p><fig id="eva13200-fig-0004" position="float" xml:lang="en"><?disp-level 3?><label>FIGURE 4</label><caption><p>Growth rate of experimentally evolved isolates in the absence of honey. Population growth rate (<italic>y</italic>‐axis) is shown for the wild type (<italic>Escherichia coli</italic> K‐12 MG1655), six mutants serially passaged in honey‐free LB (LB_01‐LB_06), and 14 mutants serially passaged in different honeys (labelled according to honey and replicate; <italic>x</italic>‐axis). Each black line gives the median of four replicates (replicates shown as dots)</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="jats-graphic-7" xlink:href="EVA-14-1314-g002.jpg"><?cloudpmc-path blobs/5c1a/8127710/f9b4a387b69f/EVA-14-1314-g002.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 699?><?original-width 1064?><?scaled-height 466?><?scaled-width 709?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="EVA-14-1314-g002.gif"><?cloudpmc-path blobs/5c1a/8127710/f6f4247aaf41/EVA-14-1314-g002.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec><sec id="eva13200-sec-0021" disp-level="2"><label>3.5.</label><title>No evidence for cross‐resistance between honey and antibiotics</title><p>We determined the phenotypic resistance of our serially‐passaged isolates and the ancestral strain to nine antibiotics of six different classes (Figure <xref rid="eva13200-fig-0005" ref-type="fig">5</xref>; Figure <xref rid="eva13200-sup-0003" ref-type="supplementary-material">S7</xref>). We found only a single case out of 180 combinations (20 serially‐passaged isolates × 9 antibiotics) where antibiotic resistance was consistently altered compared to the ancestral strain (higher/lower IC<sub>90</sub> for all mutant replicates compared to all replicates of ancestor). This was for one Manuka honey‐evolved isolate, Manuka_05, tested with polymyxin B. For seven of the other eight antibiotics, the largest difference shown by individual replicates relative to the median of the ancestral replicates was twofold or less. For the remaining antibiotic, kanamycin, some individual replicates had differences of fourfold compared to the ancestor. The overall lack of major differences between evolved isolates and the ancestral strain was supported by analysis of variance (testing each evolved‐isolate‐versus‐wild‐type combination separately, with genotype (evolved vs wild type) and assay compound (antibiotic) as factors, including the interaction term and with <italic>p</italic>‐values adjusted using the Holm–Bonferroni method); this indicated a single significant effect of genotype, for isolate Manuka_06. Thus, we found no evidence for appreciable changes in sensitivity to antibiotics in serially‐passaged honey‐adapted isolates.</p><fig id="eva13200-fig-0005" position="float" xml:lang="en"><?disp-level 3?><label>FIGURE 5</label><caption><p>Resistance of serially‐passaged, putative honey‐resistant mutants against nine different antibiotics, relative to the wild type The matrix shows the median IC<sub>90</sub> towards nine antibiotics of 20 serially‐passaged isolates relative to the median IC<sub>90</sub> of the parental strain, <italic>Escherichia coli</italic> K‐12 MG1655. Blue/dark seagreen signify susceptibility and yellow/light green signify resistance relative to the parental strain; combinations where all replicates of a given isolate were lower than all replicates of the ancestor in the same treatment are indicated with a ‘−’. Individual replicates for each strain are shown in Figure <xref rid="eva13200-sup-0003" ref-type="supplementary-material">S7</xref>
+</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="jats-graphic-9" xlink:href="EVA-14-1314-g003.jpg"><?cloudpmc-path blobs/5c1a/8127710/88e9e1cc5815/EVA-14-1314-g003.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 1224?><?original-width 1064?><?scaled-height 816?><?scaled-width 709?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="EVA-14-1314-g003.gif"><?cloudpmc-path blobs/5c1a/8127710/ae2f6336ebe4/EVA-14-1314-g003.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec><sec id="eva13200-sec-0022" disp-level="2"><label>3.6.</label><title>Single‐step screening supports similar variation of resistance evolution among honey products</title><p>We tested whether our finding that resistance evolution was more pervasive with Manuka honey than the other honey compounds also holds true when bacteria are exposed to inhibitory honey concentrations suddenly, rather than gradually. We did this by plating aliquots from multiple independent, replicate overnight cultures directly onto honey‐supplemented agar, and picking the resulting colony isolates that showed a putative resistance phenotype. As for our serially‐passaged isolates above, we observed the largest increases in resistance for colony isolates from the Manuka honey treatment, when assayed with Manuka honey (Figure <xref rid="eva13200-sup-0003" ref-type="supplementary-material">S8</xref>). For SurgihoneyRO™ and Medihoney™, we observed colonies on some of our plates, but after picking six colonies for each compound and testing their phenotypic resistance, none of them had consistently altered resistance to the honey they were selected with. When we streaked out frozen stocks of these 12 putative honey‐resistant colony isolate on honey‐supplemented agar at a concentration inhibitory to the parental strain, only three out of 12 isolates formed colonies (Medihoney_10, Surgihoney_09 and Surgihoney_10). Thus, most putative SurgihoneyRO™‐ and Medihoney™‐resistant mutants showed unstable phenotypic resistance across multiple rounds of isolation, culturing and restreaking (we discuss this further in the context of earlier, similar observations below). For commercial honey, we obtained no viable colonies despite repeating the assay an additional three times on different days (216 aliquots in total for commercial honey). In summary, we isolated single‐step resistant mutants with Manuka honey, but found no colony isolates with robust resistance phenotypes to SurgihoneyRO™, Medihoney™ or commercial honey, consistent with our finding in serial passage that resistance evolved most readily against Manuka honey.</p></sec></sec><sec id="eva13200-sec-0023" disp-level="1"><label>4.</label><title>DISCUSSION</title><p>We found <italic>E</italic>.<italic> coli</italic> does not easily develop large increases in honey resistance upon serial passage at gradually increasing concentrations, or upon plating of many replicate populations at inhibitory concentrations. However, we identified a set of genes important in adaptation to honey, which conferred moderate increases in resistance to Manuka honey. The known physiological role of this genetic pathway helps to explain why these genetic changes, and associated increases in phenotypic resistance, were specific to <italic>Leptospermum</italic> honeys (detoxification of methylglyoxal, which has been found to be the major contributor to the antibacterial activity of these honeys (Adams et al., <xref rid="eva13200-bib-0002" ref-type="bibr">2008</xref>; Mavric et al., <xref rid="eva13200-bib-0054" ref-type="bibr">2008</xref>)). This indicates the likelihood of honey resistance upon medical application may depend critically on the type or combination of honey products used. Furthermore, we found that honey adaptation in vitro had only minimal side effects for antibiotic resistance.</p><p>The first important implication of our results is that <italic>E</italic>.<italic> coli</italic> does not readily become resistant to honey, which is promising in the context of expanding medical use of honey. Previous studies also had difficulty in isolating mutants with stable honey resistance, and/or found that honey resistance phenotypes revert quickly in the absence of honey (Cooper et al., <xref rid="eva13200-bib-0024" ref-type="bibr">2010</xref>). This is consistent with our observation that several putative resistant mutants from our single‐step screen had unstable phenotypes, and some serially‐passaged populations that attained the ability to grow at increased honey concentrations subsequently lost this ability upon transfer to fresh medium (referred to by (Abdel‐Azim et al., <xref rid="eva13200-bib-0001" ref-type="bibr">2019</xref>) as <italic>second transfer crash</italic> [STC]). One possible explanation is that nongenetic changes such as persister formation or other morphological changes enable temporary population survival or growth in otherwise inhibitory concentrations. Consistent with honey inducing physiological responses that are not necessarily heritable, Brudzynski and Sjaarda (<xref rid="eva13200-bib-0017" ref-type="bibr">2014</xref>) observed morphological changes in <italic>E</italic>.<italic> coli</italic> cultures exposed to honey, including changes in cell shape/filamentation.</p><p>The second key implication of our results is that, to our knowledge, this is the first report of a specific genetic mechanism linked to decreased honey susceptibility, namely changes affecting the <italic>nemAR</italic> operon, and alternatively via changes affecting <italic>clpP</italic>. In support, <italic>nemR</italic> and its operon have previously been described as being involved in physiological processes that we can expect to be beneficial during honey exposure. Manuka honey and Medihoney™ are both <italic>Leptospermum</italic> honeys, whose high nonperoxide antimicrobial activity is attributed to their relatively high content of methylglyoxal (Allen et al., <xref rid="eva13200-bib-0003" ref-type="bibr">1991</xref>; Mavric et al., <xref rid="eva13200-bib-0054" ref-type="bibr">2008</xref>), a small amount of which bacteria produce intracellularly (Tötemeyer et al., <xref rid="eva13200-bib-0076" ref-type="bibr">1998</xref>). Ozyamak et al. (<xref rid="eva13200-bib-0065" ref-type="bibr">2013</xref>) linked the <italic>nemAR</italic> operon to methylglyoxal detoxification. The <italic>nemAR</italic> operon is located upstream from the glyoxalase system (Ozyamak et al., <xref rid="eva13200-bib-0065" ref-type="bibr">2013</xref>) which consists of GlxI and GlxII (glyoxalase I and II, encoded by <italic>gloA</italic> and <italic>gloB</italic> respectively), the two most important enzymes in the detoxification pathway of methylglyoxal (Clugston et al., <xref rid="eva13200-bib-0022" ref-type="bibr">1998</xref>; MacLean et al., <xref rid="eva13200-bib-0050" ref-type="bibr">1998</xref>; Mannervik, <xref rid="eva13200-bib-0053" ref-type="bibr">2008</xref>). Deletion of <italic>nemR</italic>, the repressor gene, results in increased transcription both of <italic>nemA</italic> and <italic>gloA</italic> (Ozyamak et al., <xref rid="eva13200-bib-0065" ref-type="bibr">2013</xref>). Thus, the finding that all isolates serially‐passaged in supposedly methylglyoxal‐rich <italic>Leptospermum</italic> honeys have mutations in or close to the repressor gene <italic>nemR</italic> allows for the speculation that, in this context, deletion of this gene is beneficial because it leads to increased methylglyoxal detoxification. Similarly, <italic>clpP</italic>, another gene we found independently mutated in multiple Manuka honey‐adapted isolates, was shown by Jenkins et al. (<xref rid="eva13200-bib-0037" ref-type="bibr">2014</xref>) to be overexpressed in <italic>Leptospermum</italic> honey‐exposed methicillin‐resistant <italic>S</italic>.<italic> aureus</italic>, supporting a role for this gene in honey resistance in multiple species.</p><p>The importance of methylglyoxal detoxification in increased honey resistance is further supported by the variation we observed among honey compounds. Robust resistant mutants emerged in our single‐step screen only with a <italic>Leptospermum</italic> honey (Manuka honey) with a high concentration of methylglyoxal, but not with the other three compounds. During serial passage, we saw a similar trend: the most consistent increases in resistance were with the two <italic>Leptospermum</italic> honey products. By contrast, resistance of putative single‐step resistant mutants isolated from SurgihoneyRO™‐supplemented agar was not stable, and we could not isolate any spontaneous mutants for the commercial honey we used (despite observing increased population growth at inhibitory concentrations during serial passage). This commercial honey is a blend of honeys with unknown flower sources from different South‐American countries. Drawing a parallel to antibiotics, where combinations of antibiotics can make it harder for bacteria to evolve resistance (Baym et al., <xref rid="eva13200-bib-0012" ref-type="bibr">2016</xref>), we speculate that resistance evolution against this honey was rare in our experiments because it is a form of combination treatment. This raises the possibility that effective application of honey in treatment may benefit from combining multiple types of honey products with different mechanisms of action. We note that despite variation among honey products, all isolates in our experiment were inhibited by honey concentrations comparable to those found in medical‐grade honey products (63%–100% in products recommended/licensed for medical wound care, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.medihoney.de/index.html" ext-link-type="uri">http://www.medihoney.de/index.html</ext-link>). We hypothesize that the multi‐faceted nature of honey's antibacterial activity (Nolan et al., <xref rid="eva13200-bib-0060" ref-type="bibr">2019</xref>; Wang et al., <xref rid="eva13200-bib-0080" ref-type="bibr">2012</xref>) contributes to the difficulty of bacteria evolving resistance to such high concentrations.</p><p>The third major implication of our results is that honey adaptation did not come with collateral effects on antibiotic resistance. The lack of collateral effects on antibiotic resistance is an important and promising aspect in the context of wider medical application of honey, and contrasts starkly with the frequent occurrence of cross‐resistances between antibiotics (Gutmann et al., <xref rid="eva13200-bib-0030" ref-type="bibr">1985</xref>; Szybalski &amp; Bryson, <xref rid="eva13200-bib-0074" ref-type="bibr">1952</xref>) and between antibiotics and some other antimicrobial agents (Allen et al., <xref rid="eva13200-bib-0004" ref-type="bibr">2017</xref>; Baker‐Austin et al., <xref rid="eva13200-bib-0010" ref-type="bibr">2006</xref>; Bischofberger et al., <xref rid="eva13200-bib-0013" ref-type="bibr">2020</xref>; Braoudaki &amp; Hilton, <xref rid="eva13200-bib-0015" ref-type="bibr">2004</xref>; Loughlin et al., <xref rid="eva13200-bib-0047" ref-type="bibr">2002</xref>). We do not exclude that more significant changes in antibiotic resistance might be observed in mutants or strains with larger changes in honey resistance than the moderate increases we observed here, if such strains exist. A key avenue for future work is therefore to determine whether any genetic variation in natural populations associated with variable honey resistance is independent of variation in antibiotic resistance, as in our experiment. Another important aspect to consider is honey's potential effect on other bacterial virulence factors. Biofilm formation is an effective bacterial defence mechanism against a wide range of antimicrobials (Costerton et al., <xref rid="eva13200-bib-0025" ref-type="bibr">1995</xref>). Several of the genes we found mutated in honey‐adapted isolates have a known role in biofilm formation (<italic>fimA</italic>, <italic>fimE</italic>, <italic>nlpD</italic>, <italic>ompR</italic>, <italic>yeaJ</italic> (Prigent‐Combaret et al., <xref rid="eva13200-bib-0068" ref-type="bibr">2001</xref>; Niba et al., <xref rid="eva13200-bib-0059" ref-type="bibr">2007</xref>; Wu &amp; Outten, <xref rid="eva13200-bib-0086" ref-type="bibr">2009</xref>; Amores et al., <xref rid="eva13200-bib-0005" ref-type="bibr">2017</xref>)). Honey exposure or honey‐resistance mechanisms might therefore also have downstream effects for biofilm formation or the expression of other virulence factors. On the other hand, because honey has shown effective inhibition of a wide range of pathogens (Carter et al., <xref rid="eva13200-bib-0020" ref-type="bibr">2016</xref>; Hillitt et al., <xref rid="eva13200-bib-0034" ref-type="bibr">2017</xref>; Yabes et al., <xref rid="eva13200-bib-0087" ref-type="bibr">2017</xref>), and the principal genes involved in honey resistance in our experiment are conserved in multiple pathogenic species (e.g. <italic>nemR</italic> or analogues are present in <italic>Klebsiella pneumonia</italic>, <italic>Acinetobacter baumannii</italic> and <italic>Salmonella typhimurium</italic>), our work identifies candidate loci that may be involved in resistance in other species. This is another relevant area for future research in the context of medical honey application.</p><p>Our results also provided indirect evidence of growth costs associated with honey adaptation. Growth in the absence of selecting antibacterials is widely considered an important parameter in the long‐term spread of resistance (Andersson &amp; Hughes, <xref rid="eva13200-bib-0006" ref-type="bibr">2010</xref>). The larger increase in growth rate observed in our control‐evolved isolates compared to honey‐adapted isolates suggests either (1) that honey adaptation constrained adaptation to other aspects of the environment, preventing acquisition of other beneficial mutations, or (2) that honey resistance mutations combined with other types of beneficial mutations conferred a smaller net increase in growth rate in honey‐free growth medium compared to other beneficial mutations alone. Our sequence data are more consistent with the former: control‐evolved populations had parallel mutations in flagella and fimbriae genes (<italic>flhD</italic> and <italic>fimE</italic>), consistent with past work with LB‐adapted <italic>E</italic>.<italic> coli</italic> (Knöppel et al., <xref rid="eva13200-bib-0040" ref-type="bibr">2018</xref>). These mutations were much less common in honey‐adapted colony isolates (Figure <xref rid="eva13200-fig-0002" ref-type="fig">2</xref>). This could be due, for example, to epistatic interactions between the different types of adaptive mutations (Scanlan et al., <xref rid="eva13200-bib-0070" ref-type="bibr">2015</xref>). The parallelism we observed for these genes might also be responsible for the increased honey resistance of control isolates (Figure <xref rid="eva13200-sup-0003" ref-type="supplementary-material">S4</xref>). However, a full understanding of the growth costs and benefits associated with individual honey resistance alleles and their interactions with other types of beneficial mutations is beyond the scope of this paper, and was not our aim here, but would make an interesting avenue for future work.</p><p>In conclusion, honey resistance in our experiment only evolved with a subset of the compounds we tested, and only to a moderate degree. This is promising in the context of medical application of honey. A further positive aspect is that we found no evidence of strong downstream effects on antibiotic susceptibility in isolates adapted to honey in vitro via chromosomal mutation. Finally, we identified putative genetic mechanisms involved in honey adaptation, via changes affecting genes involved in detoxifying methylglyoxal, making this mechanism most relevant for <italic>Leptospermum</italic> honeys such as Manuka honey.</p></sec><sec id="sec24" disp-level="1"><title>Supporting information</title><supplementary-material id="eva13200-sup-0001" position="float"><caption><p>Fig S1</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EVA-14-1314-s003.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path 5c1a/8127710/28de41a86351/EVA-14-1314-s003.pdf?><?cloudpmc-bucket app?><?size 2241313?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="eva13200-sup-0002" position="float"><caption><p>Table S2</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EVA-14-1314-s001.xlsx" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet"><?cloudpmc-path 5c1a/8127710/4fb1819829a4/EVA-14-1314-s001.xlsx?><?cloudpmc-bucket app?><?size 51231?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="eva13200-sup-0003" position="float"><caption><p>Supplementary Material</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EVA-14-1314-s002.docx" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document"><?cloudpmc-path 5c1a/8127710/6996e95b283f/EVA-14-1314-s002.docx?><?cloudpmc-bucket app?><?size 995757?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec><sec id="eva13200-sec-0024" sec-type="ack" disp-level="1"><title>ACKNOWLEDGEMENTS</title><p>A.B. thanks Richard Allen for help with statistical analysis. A.H. acknowledges Swiss National Science Foundation project 31003A_165803.</p></sec><sec id="notes1" disp-level="1"><p>
+
+Bischofberger AM, Pfrunder Cardozo KR, Baumgartner M, Hall AR. Evolution of honey resistance in experimental populations of bacteria depends on the type of honey and has no major side effects for antibiotic susceptibility. Evol Appl. 2021;14:1314–1327. 10.1111/eva.13200
+
+</p></sec><sec id="eva13200-sec-0026" disp-level="1"><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are openly available at Dryad Digital Repository: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.5061/dryad.cjsxksn5b" ext-link-type="uri">https://doi.org/10.5061/dryad.cjsxksn5b</ext-link>.</p></sec><sec id="eva13200-bibl-0001" sec-type="ref-list" disp-level="1"><title>REFERENCES</title><sec id="eva13200-bibl-0001_sec2" disp-level="2"><ref-list><ref id="eva13200-bib-0001"><mixed-citation id="eva13200-cit-0001"><named-content content-type="citation-string">
+
+Abdel‐Azim, S. G.
+, 
+Abdel‐Azim, A. G.
+, 
+Piasecki, B. P.
+, &amp; 
+Abdel‐Azim, G. A.
+ (2019). Characterization of the gain and loss of resistance to antibiotics versus tolerance to honey as an antimutagenic and antimicrobial medium in extended‐time serial transfer experiments. Pharmacognosy Research, 11, 147–154.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Pharmacognosy Research&amp;title=Characterization of the gain and loss of resistance to antibiotics versus tolerance to honey as an antimutagenic and antimicrobial medium in extended‐time serial transfer experiments&amp;author=S. G. Abdel‐Azim&amp;author=A. G. Abdel‐Azim&amp;author=B. P. Piasecki&amp;author=G. A. Abdel‐Azim&amp;volume=11&amp;publication_year=2019&amp;pages=147-154&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0002"><mixed-citation id="eva13200-cit-0002"><named-content content-type="citation-string">
+
+Adams, C. J.
+, 
+Boult, C. H.
+, 
+Deadman, B. J.
+, 
+Farr, J. M.
+, 
+Grainger, M. N. C.
+, 
+Manley‐Harris, M.
+, &amp; 
+Snow, M. J.
+ (2008). Isolation by HPLC and characterisation of the bioactive fraction of New Zealand Manuka (Leptospermum scoparium) honey. Carbohydrate Research, 343, 651–659.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.carres.2007.12.011"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="18194804"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Carbohydrate Research&amp;title=Isolation by HPLC and characterisation of the bioactive fraction of New Zealand Manuka (Leptospermum scoparium) honey&amp;author=C. J. Adams&amp;author=C. H. Boult&amp;author=B. J. Deadman&amp;author=J. M. Farr&amp;author=M. N. C. Grainger&amp;volume=343&amp;publication_year=2008&amp;pages=651-659&amp;pmid=18194804&amp;doi=10.1016/j.carres.2007.12.011&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0003"><mixed-citation id="eva13200-cit-0003"><named-content content-type="citation-string">
+
+Allen, K. L.
+, 
+Molan, P. C.
+, &amp; 
+Reid, G. M.
+ (1991). A survey of the antibacterial activity of some New Zealand honeys. Journal of Pharmacy and Pharmacology, 43, 817–822.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/j.2042-7158.1991.tb03186.x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="1687577"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Pharmacy and Pharmacology&amp;title=A survey of the antibacterial activity of some New Zealand honeys&amp;author=K. L. Allen&amp;author=P. C. Molan&amp;author=G. M. Reid&amp;volume=43&amp;publication_year=1991&amp;pages=817-822&amp;pmid=1687577&amp;doi=10.1111/j.2042-7158.1991.tb03186.x&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0004"><mixed-citation id="eva13200-cit-0004"><named-content content-type="citation-string">
+
+Allen, R. C.
+, 
+Pfrunder‐Cardozo, K. R.
+, 
+Meinel, D.
+, 
+Egli, A.
+, &amp; 
+Hall, A. R.
+ (2017). Associations among antibiotic and phage resistance phenotypes in natural and clinical <italic>Escherichia coli</italic> isolates. MBio, 8, e01341‐17.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1128/mBio.01341-17"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5666156"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29089428"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=MBio&amp;title=Associations among antibiotic and phage resistance phenotypes in natural and clinical Escherichia coli isolates&amp;author=R. C. Allen&amp;author=K. R. Pfrunder‐Cardozo&amp;author=D. Meinel&amp;author=A. Egli&amp;author=A. R. Hall&amp;volume=8&amp;publication_year=2017&amp;pages=e01341‐17&amp;pmid=29089428&amp;doi=10.1128/mBio.01341-17&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0005"><mixed-citation id="eva13200-cit-0005"><named-content content-type="citation-string">
+
+Amores, G. R.
+, 
+De Las Heras, A.
+, 
+Sanches‐Medeiros, A.
+, 
+Elfick, A.
+, &amp; 
+Silva‐Rocha, R.
+ (2017). Systematic identification of novel regulatory interactions controlling biofilm formation in the bacterium <italic>Escherichia coli</italic>
+. Scientific Reports, 7, 1–14.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41598-017-17114-6"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5711951"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29196655"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Scientific Reports&amp;title=Systematic identification of novel regulatory interactions controlling biofilm formation in the bacterium Escherichia coli&amp;author=G. R. Amores&amp;author=A. De Las Heras&amp;author=A. Sanches‐Medeiros&amp;author=A. Elfick&amp;author=R. Silva‐Rocha&amp;volume=7&amp;publication_year=2017&amp;pages=1-14&amp;pmid=29196655&amp;doi=10.1038/s41598-017-17114-6&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0006"><mixed-citation id="eva13200-cit-0006"><named-content content-type="citation-string">
+
+Andersson, D. I.
+, &amp; 
+Hughes, D.
+ (2010). Antibiotic resistance and its cost: Is it possible to reverse resistance?
+Nature Reviews Microbiology, 8, 260–271.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/nrmicro2319"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20208551"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Nature Reviews Microbiology&amp;title=Antibiotic resistance and its cost: Is it possible to reverse resistance?&amp;author=D. I. Andersson&amp;author=D. Hughes&amp;volume=8&amp;publication_year=2010&amp;pages=260-271&amp;pmid=20208551&amp;doi=10.1038/nrmicro2319&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0007"><mixed-citation id="eva13200-cit-0007"><named-content content-type="citation-string">
+
+Ankley, L. M.
+, 
+Monteiro, M. P.
+, 
+Camp, K. M.
+, 
+O'Quinn, R.
+, &amp; 
+Castillo, A. R.
+ (2020). Manuka honey chelates iron and impacts iron regulation in key bacterial pathogens. Journal of Applied Microbiology, 128, 1015–1024.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/jam.14534"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31782867"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Applied Microbiology&amp;title=Manuka honey chelates iron and impacts iron regulation in key bacterial pathogens&amp;author=L. M. Ankley&amp;author=M. P. Monteiro&amp;author=K. M. Camp&amp;author=R. O'Quinn&amp;author=A. R. Castillo&amp;volume=128&amp;publication_year=2020&amp;pages=1015-1024&amp;pmid=31782867&amp;doi=10.1111/jam.14534&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0008"><mixed-citation id="eva13200-cit-0008"><named-content content-type="citation-string">
+
+Baba, T.
+, 
+Ara, T.
+, 
+Hasegawa, M.
+, 
+Takai, Y.
+, 
+Okumura, Y.
+, 
+Baba, M.
+, 
+Datsenko, K. A.
+, 
+Tomita, M.
+, 
+Wanner, B. L.
+, &amp; 
+Mori, H.
+ (2006). Construction of Escherichia coli K‐12 in‐frame, single‐gene knockout mutants: the Keio collection. Molecular Systems Biology, 2(1). 10.1038/msb4100050
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/msb4100050"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC1681482"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16738554"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Molecular Systems Biology&amp;title=Construction of Escherichia coli K‐12 in‐frame, single‐gene knockout mutants: the Keio collection&amp;author=T. Baba&amp;author=T. Ara&amp;author=M. Hasegawa&amp;author=Y. Takai&amp;author=Y. Okumura&amp;volume=2&amp;issue=1&amp;publication_year=2006&amp;pmid=16738554&amp;doi=10.1038/msb4100050&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0009"><mixed-citation id="eva13200-cit-0009"><named-content content-type="citation-string">
+
+Badet, C.
+, &amp; 
+Quero, F.
+ (2011). The in vitro effect of Manuka honeys on growth and adherence of oral bacteria. Anaerobe, 17, 19–22.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.anaerobe.2010.12.007"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21195787"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Anaerobe&amp;title=The in vitro effect of Manuka honeys on growth and adherence of oral bacteria&amp;author=C. Badet&amp;author=F. Quero&amp;volume=17&amp;publication_year=2011&amp;pages=19-22&amp;pmid=21195787&amp;doi=10.1016/j.anaerobe.2010.12.007&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0010"><mixed-citation id="eva13200-cit-0010"><named-content content-type="citation-string">
+
+Baker‐Austin, C.
+, 
+Wright, M. S.
+, 
+Stepanauskas, R.
+, &amp; 
+McArthur, J. V.
+ (2006). Co‐selection of antibiotic and metal resistance. Trends in Microbiology, 14, 176–182.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.tim.2006.02.006"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="16537105"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Trends in Microbiology&amp;title=Co‐selection of antibiotic and metal resistance&amp;author=C. Baker‐Austin&amp;author=M. S. Wright&amp;author=R. Stepanauskas&amp;author=J. V. McArthur&amp;volume=14&amp;publication_year=2006&amp;pages=176-182&amp;pmid=16537105&amp;doi=10.1016/j.tim.2006.02.006&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0011"><mixed-citation id="eva13200-cit-0011"><named-content content-type="citation-string">
+
+Basualdo, C.
+, 
+Sgroy, V.
+, 
+Finola, M. S.
+, &amp; 
+Marioli, J. M.
+ (2007). Comparison of the antibacterial activity of honey from different provenance against bacteria usually isolated from skin wounds. Veterinary Microbiology, 124, 375–381.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.vetmic.2007.04.039"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="17540520"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Veterinary Microbiology&amp;title=Comparison of the antibacterial activity of honey from different provenance against bacteria usually isolated from skin wounds&amp;author=C. Basualdo&amp;author=V. Sgroy&amp;author=M. S. Finola&amp;author=J. M. Marioli&amp;volume=124&amp;publication_year=2007&amp;pages=375-381&amp;pmid=17540520&amp;doi=10.1016/j.vetmic.2007.04.039&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0012"><mixed-citation id="eva13200-cit-0012"><named-content content-type="citation-string">
+
+Baym, M.
+, 
+Stone, L. K.
+, &amp; 
+Kishony, R.
+ (2016). Multidrug evolutionary strategies to reverse antibiotic resistance. Science (80‐), 351(6268), aad3292.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1126/science.aad3292"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5496981"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26722002"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Science (80‐)&amp;title=Multidrug evolutionary strategies to reverse antibiotic resistance&amp;author=M. Baym&amp;author=L. K. Stone&amp;author=R. Kishony&amp;volume=351&amp;issue=6268&amp;publication_year=2016&amp;pages=aad3292&amp;pmid=26722002&amp;doi=10.1126/science.aad3292&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0013"><mixed-citation id="eva13200-cit-0013"><named-content content-type="citation-string">
+
+Bischofberger, A. M.
+, 
+Baumgartner, M.
+, 
+Pfrunder‐Cardozo, K. R.
+, 
+Allen, R. C.
+, &amp; 
+Hall, A. R.
+ (2020). Associations between sensitivity to antibiotics, disinfectants and heavy metals in natural, clinical and laboratory isolates of Escherichia coli. Environmental Microbiology, 22(7), 2664–2679. 10.1111/1462-2920.14986
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/1462-2920.14986"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7384044"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32162766"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Environmental Microbiology&amp;title=Associations between sensitivity to antibiotics, disinfectants and heavy metals in natural, clinical and laboratory isolates of Escherichia coli&amp;author=A. M. Bischofberger&amp;author=M. Baumgartner&amp;author=K. R. Pfrunder‐Cardozo&amp;author=R. C. Allen&amp;author=A. R. Hall&amp;volume=22&amp;issue=7&amp;publication_year=2020&amp;pages=2664-2679&amp;pmid=32162766&amp;doi=10.1111/1462-2920.14986&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0014"><mixed-citation id="eva13200-cit-0014"><named-content content-type="citation-string">
+
+Bolger, A. M.
+, 
+Lohse, M.
+, &amp; 
+Usadel, B.
+ (2014). Trimmomatic: A flexible trimmer for Illumina sequence data. Bioinformatics, 30, 2114–2120.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/bioinformatics/btu170"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4103590"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24695404"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Bioinformatics&amp;title=Trimmomatic: A flexible trimmer for Illumina sequence data&amp;author=A. M. Bolger&amp;author=M. Lohse&amp;author=B. Usadel&amp;volume=30&amp;publication_year=2014&amp;pages=2114-2120&amp;pmid=24695404&amp;doi=10.1093/bioinformatics/btu170&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0015"><mixed-citation id="eva13200-cit-0015"><named-content content-type="citation-string">
+
+Braoudaki, M.
+, &amp; 
+Hilton, A. C.
+ (2004). Low level of cross‐resistance between triclosan and antibiotics in <italic>Escherichia coli</italic> K‐12 and <italic>E. coli</italic> O55 compared to <italic>E. coli</italic> O157. FEMS Microbiology Letters, 235, 305–309.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.femsle.2004.04.049"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="15183878"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=FEMS Microbiology Letters&amp;title=Low level of cross‐resistance between triclosan and antibiotics in Escherichia coli K‐12 and E. coli O55 compared to E. coli O157&amp;author=M. Braoudaki&amp;author=A. C. Hilton&amp;volume=235&amp;publication_year=2004&amp;pages=305-309&amp;pmid=15183878&amp;doi=10.1016/j.femsle.2004.04.049&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0016"><mixed-citation id="eva13200-cit-0016"><named-content content-type="citation-string">
+
+Breasted, J. H.
+ (1948). The Edwin Smith surgical papyrus. The University of Chicago Press.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=The Edwin Smith surgical papyrus&amp;author=J. H. Breasted&amp;publication_year=1948&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0017"><mixed-citation id="eva13200-cit-0017"><named-content content-type="citation-string">
+
+Brudzynski, K.
+, &amp; 
+Sjaarda, C.
+ (2014). Antibacterial compounds of Canadian honeys target bacterial cell wall inducing phenotype changes, growth inhibition and cell lysis that resemble action of β‐lactam antibiotics. PLoS One, 9, 106967.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1371/journal.pone.0106967"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4156419"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25191847"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=PLoS One&amp;title=Antibacterial compounds of Canadian honeys target bacterial cell wall inducing phenotype changes, growth inhibition and cell lysis that resemble action of β‐lactam antibiotics&amp;author=K. Brudzynski&amp;author=C. Sjaarda&amp;volume=9&amp;publication_year=2014&amp;pages=106967&amp;pmid=25191847&amp;doi=10.1371/journal.pone.0106967&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0018"><mixed-citation id="eva13200-cit-0018"><named-content content-type="citation-string">
+
+Camplin, A. L.
+, &amp; 
+Maddocks, S. E.
+ (2014). Manuka honey treatment of biofilms of <italic>Pseudomonas aeruginosa</italic> results in the emergence of isolates with increased honey resistance. Annals of Clinical Microbiology and Antimicrobials, 13, 19.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1186/1476-0711-13-19"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4023514"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24884949"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Annals of Clinical Microbiology and Antimicrobials&amp;title=Manuka honey treatment of biofilms of Pseudomonas aeruginosa results in the emergence of isolates with increased honey resistance&amp;author=A. L. Camplin&amp;author=S. E. Maddocks&amp;volume=13&amp;publication_year=2014&amp;pages=19&amp;pmid=24884949&amp;doi=10.1186/1476-0711-13-19&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0019"><mixed-citation id="eva13200-cit-0019"><named-content content-type="citation-string">
+
+Carnwath, R.
+, 
+Graham, E. M.
+, 
+Reynolds, K.
+, &amp; 
+Pollock, P. J.
+ (2014). The antimicrobial activity of honey against common equine wound bacterial isolates. The Veterinary Journal, 199, 110–114.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.tvjl.2013.07.003"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23962613"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=The Veterinary Journal&amp;title=The antimicrobial activity of honey against common equine wound bacterial isolates&amp;author=R. Carnwath&amp;author=E. M. Graham&amp;author=K. Reynolds&amp;author=P. J. Pollock&amp;volume=199&amp;publication_year=2014&amp;pages=110-114&amp;pmid=23962613&amp;doi=10.1016/j.tvjl.2013.07.003&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0020"><mixed-citation id="eva13200-cit-0020"><named-content content-type="citation-string">
+
+Carter, D. A.
+, 
+Blair, S. E.
+, 
+Cokcetin, N. N.
+, 
+Bouzo, D.
+, 
+Brooks, P.
+, 
+Schothauer, R.
+, &amp; 
+Harry, E. J.
+ (2016). Therapeutic Manuka honey. Frontiers in Microbiology, 7, 1–11.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3389/fmicb.2016.00569"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4837971"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27148246"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Frontiers in Microbiology&amp;title=Therapeutic Manuka honey&amp;author=D. A. Carter&amp;author=S. E. Blair&amp;author=N. N. Cokcetin&amp;author=D. Bouzo&amp;author=P. Brooks&amp;volume=7&amp;publication_year=2016&amp;pages=1-11&amp;pmid=27148246&amp;doi=10.3389/fmicb.2016.00569&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0021"><mixed-citation id="eva13200-cit-0021"><named-content content-type="citation-string">
+
+Chittezham Thomas, V.
+, 
+Kinkead, L. C.
+, 
+Janssen, A.
+, 
+Schaeffer, C. R.
+, 
+Woods, K. M.
+, 
+Lindgren, J. K.
+, 
+Peaster, J. M.
+, 
+Chaudhari, S. S.
+, 
+Sadykov, M.
+, 
+Jones, J.
+, &amp; 
+AbdelGhani, S. M.
+ (2013). A dysfunctional tricarboxylic acid cycle enhances fitness of <italic>Staphylococcus epidermidis</italic> during β‐lactam stress. MBio, 4, e00437‐13.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1128/mBio.00437-13"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3747581"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23963176"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=MBio&amp;title=A dysfunctional tricarboxylic acid cycle enhances fitness of Staphylococcus epidermidis during β‐lactam stress&amp;author=V. Chittezham Thomas&amp;author=L. C. Kinkead&amp;author=A. Janssen&amp;author=C. R. Schaeffer&amp;author=K. M. Woods&amp;volume=4&amp;publication_year=2013&amp;pages=e00437‐13&amp;pmid=23963176&amp;doi=10.1128/mBio.00437-13&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0022"><mixed-citation id="eva13200-cit-0022"><named-content content-type="citation-string">
+
+Clugston, S. L.
+, 
+Barnard, J. F. J.
+, 
+Kinach, R.
+, 
+Miedema, D.
+, 
+Ruman, R.
+, 
+Daub, E.
+, &amp; 
+Honek, J. F.
+ (1998). Overproduction and characterization of a dimeric non‐zinc glyoxalase I from <italic>Escherichia coli</italic>: Evidence for optimal activation by nickel ions. Biochemistry, 37, 8754–8763.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/bi972791w"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9628737"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biochemistry&amp;title=Overproduction and characterization of a dimeric non‐zinc glyoxalase I from Escherichia coli: Evidence for optimal activation by nickel ions&amp;author=S. L. Clugston&amp;author=J. F. J. Barnard&amp;author=R. Kinach&amp;author=D. Miedema&amp;author=R. Ruman&amp;volume=37&amp;publication_year=1998&amp;pages=8754-8763&amp;pmid=9628737&amp;doi=10.1021/bi972791w&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0023"><mixed-citation id="eva13200-cit-0023"><named-content content-type="citation-string">
+
+Cooke, J.
+, 
+Dryden, M.
+, 
+Patton, T.
+, 
+Brennan, J.
+, &amp; 
+Barrett, J.
+ (2015). The antimicrobial activity of prototype modified honeys that generate reactive oxygen species (ROS) hydrogen peroxide. BMC Research Notes, 8, 20.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1186/s13104-014-0960-4"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4312449"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25627827"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=BMC Research Notes&amp;title=The antimicrobial activity of prototype modified honeys that generate reactive oxygen species (ROS) hydrogen peroxide&amp;author=J. Cooke&amp;author=M. Dryden&amp;author=T. Patton&amp;author=J. Brennan&amp;author=J. Barrett&amp;volume=8&amp;publication_year=2015&amp;pages=20&amp;pmid=25627827&amp;doi=10.1186/s13104-014-0960-4&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0024"><mixed-citation id="eva13200-cit-0024"><named-content content-type="citation-string">
+
+Cooper, R. A.
+, 
+Jenkins, L.
+, 
+Henriques, A. F. M.
+, 
+Duggan, R. S.
+, &amp; 
+Burton, N. F.
+ (2010). Absence of bacterial resistance to medical‐grade Manuka honey. European Journal of Clinical Microbiology and Infectious Diseases, 29, 1237–1241.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s10096-010-0992-1"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20549529"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=European Journal of Clinical Microbiology and Infectious Diseases&amp;title=Absence of bacterial resistance to medical‐grade Manuka honey&amp;author=R. A. Cooper&amp;author=L. Jenkins&amp;author=A. F. M. Henriques&amp;author=R. S. Duggan&amp;author=N. F. Burton&amp;volume=29&amp;publication_year=2010&amp;pages=1237-1241&amp;pmid=20549529&amp;doi=10.1007/s10096-010-0992-1&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0025"><mixed-citation id="eva13200-cit-0025"><named-content content-type="citation-string">
+
+Costerton, J. W.
+, 
+Lewandowski, Z.
+, 
+Caldwell, D. E.
+, 
+Korber, D. R.
+, &amp; 
+Lappin‐Scott, H. M.
+ (1995). Microbial biofilms. Annual Review of Microbiology, 49, 711–745.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1146/annurev.mi.49.100195.003431"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="8561477"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Annual Review of Microbiology&amp;title=Microbial biofilms&amp;author=J. W. Costerton&amp;author=Z. Lewandowski&amp;author=D. E. Caldwell&amp;author=D. R. Korber&amp;author=H. M. Lappin‐Scott&amp;volume=49&amp;publication_year=1995&amp;pages=711-745&amp;pmid=8561477&amp;doi=10.1146/annurev.mi.49.100195.003431&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0026"><mixed-citation id="eva13200-cit-0026"><named-content content-type="citation-string">
+
+Deatherage, D. E.
+, &amp; 
+Barrick, J. E.
+ (2014). Identification of mutations in laboratory‐evolved microbes from next‐generation sequencing data using breseq. Methods in Molecular Biology, 1151, 165–188.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/978-1-4939-0554-6_12"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4239701"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24838886"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Methods in Molecular Biology&amp;title=Identification of mutations in laboratory‐evolved microbes from next‐generation sequencing data using breseq&amp;author=D. E. Deatherage&amp;author=J. E. Barrick&amp;volume=1151&amp;publication_year=2014&amp;pages=165-188&amp;pmid=24838886&amp;doi=10.1007/978-1-4939-0554-6_12&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0027"><mixed-citation id="eva13200-cit-0027"><named-content content-type="citation-string">
+
+Descottes, B.
+ (2009). Cicatrisation par le miel, l’expérience de 25 années. Phytotherapie, 7, 112–116.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Phytotherapie&amp;title=Cicatrisation par le miel, l’expérience de 25 années&amp;author=B. Descottes&amp;volume=7&amp;publication_year=2009&amp;pages=112-116&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0028"><mixed-citation id="eva13200-cit-0028"><named-content content-type="citation-string">
+
+Dowd, S. E.
+, 
+Sun, Y.
+, 
+Secor, P. R.
+, 
+Rhoads, D. D.
+, 
+Wolcott, B. M.
+, 
+James, G. A.
+, &amp; 
+Wolcott, R. D.
+ (2008). Survey of bacterial diversity in chronic wounds using Pyrosequencing, DGGE, and full ribosome shotgun sequencing. BMC Microbiology, 8, 43.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1186/1471-2180-8-43"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2289825"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="18325110"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=BMC Microbiology&amp;title=Survey of bacterial diversity in chronic wounds using Pyrosequencing, DGGE, and full ribosome shotgun sequencing&amp;author=S. E. Dowd&amp;author=Y. Sun&amp;author=P. R. Secor&amp;author=D. D. Rhoads&amp;author=B. M. Wolcott&amp;volume=8&amp;publication_year=2008&amp;pages=43&amp;pmid=18325110&amp;doi=10.1186/1471-2180-8-43&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0029"><mixed-citation id="eva13200-cit-0029"><named-content content-type="citation-string">
+
+Dunford, C. E.
+, &amp; 
+Hanano, R.
+ (2004). Acceptability to patients of a honey dressing for non‐healing venous leg ulcers. Journal of Wound Care, 13, 193–197.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.12968/jowc.2004.13.5.26614"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="15160574"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Wound Care&amp;title=Acceptability to patients of a honey dressing for non‐healing venous leg ulcers&amp;author=C. E. Dunford&amp;author=R. Hanano&amp;volume=13&amp;publication_year=2004&amp;pages=193-197&amp;pmid=15160574&amp;doi=10.12968/jowc.2004.13.5.26614&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0030"><mixed-citation id="eva13200-cit-0030"><named-content content-type="citation-string">
+
+Gutmann, L.
+, 
+Williamson, R.
+, 
+Moreau, N.
+, 
+Kitzis, M. D.
+, 
+Collatz, E.
+, 
+Acar, J. F.
+, &amp; 
+Goldstein, F. W.
+ (1985). Cross‐resistance to nalidixic acid, trimethoprim, and chloramphenicol associated with alterations in outer membrane proteins of <italic>Klebsiella</italic>, <italic>Enterobacter</italic>, and <italic>Serratia</italic>
+. Journal of Infectious Diseases, 151, 501–507.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/infdis/151.3.501"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="2982966"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Infectious Diseases&amp;title=Cross‐resistance to nalidixic acid, trimethoprim, and chloramphenicol associated with alterations in outer membrane proteins of Klebsiella, Enterobacter, and Serratia&amp;author=L. Gutmann&amp;author=R. Williamson&amp;author=N. Moreau&amp;author=M. D. Kitzis&amp;author=E. Collatz&amp;volume=151&amp;publication_year=1985&amp;pages=501-507&amp;pmid=2982966&amp;doi=10.1093/infdis/151.3.501&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0031"><mixed-citation id="eva13200-cit-0031"><named-content content-type="citation-string">
+
+Haffejee, I. E.
+, &amp; 
+Moosa, A.
+ (1985). Honey in the treatment of infantile gastroenteritis. British Medical Journal (Clinical Research Ed), 290, 1866.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/bmj.290.6485.1866"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC1416773"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="3924286"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=British Medical Journal (Clinical Research Ed)&amp;title=Honey in the treatment of infantile gastroenteritis&amp;author=I. E. Haffejee&amp;author=A. Moosa&amp;volume=290&amp;publication_year=1985&amp;pages=1866&amp;pmid=3924286&amp;doi=10.1136/bmj.290.6485.1866&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0032"><mixed-citation id="eva13200-cit-0032"><named-content content-type="citation-string">
+
+Halstead, F. D.
+, 
+Webber, M. A.
+, 
+Rauf, M.
+, 
+Burt, R.
+, 
+Dryden, M.
+, &amp; 
+Oppenheim, B. A.
+ (2016). In vitro activity of an engineered honey, medical‐grade honeys, and antimicrobial wound dressings against biofilm‐producing clinical bacterial isolates. Journal of Wound Care, 25, 93–102.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.12968/jowc.2016.25.2.93"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26878302"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Wound Care&amp;title=In vitro activity of an engineered honey, medical‐grade honeys, and antimicrobial wound dressings against biofilm‐producing clinical bacterial isolates&amp;author=F. D. Halstead&amp;author=M. A. Webber&amp;author=M. Rauf&amp;author=R. Burt&amp;author=M. Dryden&amp;volume=25&amp;publication_year=2016&amp;pages=93-102&amp;pmid=26878302&amp;doi=10.12968/jowc.2016.25.2.93&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0033"><mixed-citation id="eva13200-cit-0033"><named-content content-type="citation-string">
+
+Henriques, A. F.
+, 
+Jenkins, R. E.
+, 
+Burton, N. F.
+, &amp; 
+Cooper, R. A.
+ (2011). The effect of Manuka honey on the structure of <italic>Pseudomonas aeruginosa</italic>
+. European Journal of Clinical Microbiology and Infectious Diseases, 30, 167–171.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s10096-010-1065-1"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20936493"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=European Journal of Clinical Microbiology and Infectious Diseases&amp;title=The effect of Manuka honey on the structure of Pseudomonas aeruginosa&amp;author=A. F. Henriques&amp;author=R. E. Jenkins&amp;author=N. F. Burton&amp;author=R. A. Cooper&amp;volume=30&amp;publication_year=2011&amp;pages=167-171&amp;pmid=20936493&amp;doi=10.1007/s10096-010-1065-1&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0034"><mixed-citation id="eva13200-cit-0034"><named-content content-type="citation-string">
+
+Hillitt, K. L.
+, 
+Jenkins, R. E.
+, 
+Spiller, O. B.
+, &amp; 
+Beeton, M. L.
+ (2017). Antimicrobial activity of Manuka honey against antibiotic‐resistant strains of the cell wall‐free bacteria <italic>Ureaplasma parvum</italic> and <italic>Ureaplasma urealyticum</italic>
+. Letters in Applied Microbiology, 64, 198–202.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/lam.12707"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27992658"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Letters in Applied Microbiology&amp;title=Antimicrobial activity of Manuka honey against antibiotic‐resistant strains of the cell wall‐free bacteria Ureaplasma parvum and Ureaplasma urealyticum&amp;author=K. L. Hillitt&amp;author=R. E. Jenkins&amp;author=O. B. Spiller&amp;author=M. L. Beeton&amp;volume=64&amp;publication_year=2017&amp;pages=198-202&amp;pmid=27992658&amp;doi=10.1111/lam.12707&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0035"><mixed-citation id="eva13200-cit-0035"><named-content content-type="citation-string">
+
+Iino, T.
+, 
+Komeda, Y.
+, 
+Kutsukake, K.
+, 
+Macnab, R. M.
+, 
+Matsumura, P.
+, 
+Parkinson, J. S.
+, 
+Simon, M. I.
+, &amp; 
+Yamaguchi, S.
+ (1988). New unified nomenclature for the flagellar genes of <italic>Escherichia coli</italic> and <italic>Salmonella typhimurium</italic>
+. Microbiological Reviews, 52, 533–535.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1128/mr.52.4.533-535.1988"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC373161"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="3070322"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Microbiological Reviews&amp;title=New unified nomenclature for the flagellar genes of Escherichia coli and Salmonella typhimurium&amp;author=T. Iino&amp;author=Y. Komeda&amp;author=K. Kutsukake&amp;author=R. M. Macnab&amp;author=P. Matsumura&amp;volume=52&amp;publication_year=1988&amp;pages=533-535&amp;pmid=3070322&amp;doi=10.1128/mr.52.4.533-535.1988&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0036"><mixed-citation id="eva13200-cit-0036"><named-content content-type="citation-string">
+
+Irish, J.
+, 
+Blair, S.
+, &amp; 
+Carter, D. A.
+ (2011). The antibacterial activity of honey derived from Australian flora. PLoS One, 6, e18229.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1371/journal.pone.0018229"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3065476"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21464891"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=PLoS One&amp;title=The antibacterial activity of honey derived from Australian flora&amp;author=J. Irish&amp;author=S. Blair&amp;author=D. A. Carter&amp;volume=6&amp;publication_year=2011&amp;pages=e18229&amp;pmid=21464891&amp;doi=10.1371/journal.pone.0018229&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0037"><mixed-citation id="eva13200-cit-0037"><named-content content-type="citation-string">
+
+Jenkins, R.
+, 
+Burton, N.
+, &amp; 
+Cooper, R.
+ (2014). Proteomic and genomic analysis of methicillin‐resistant <italic>Staphylococcus aureus</italic> (MRSA) exposed to Manuka honey in vitro demonstrated down‐regulation of virulence markers. Journal of Antimicrobial Chemotherapy, 69, 603–615.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/jac/dkt430"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3922154"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24176984"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Antimicrobial Chemotherapy&amp;title=Proteomic and genomic analysis of methicillin‐resistant Staphylococcus aureus (MRSA) exposed to Manuka honey in vitro demonstrated down‐regulation of virulence markers&amp;author=R. Jenkins&amp;author=N. Burton&amp;author=R. Cooper&amp;volume=69&amp;publication_year=2014&amp;pages=603-615&amp;pmid=24176984&amp;doi=10.1093/jac/dkt430&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0038"><mixed-citation id="eva13200-cit-0038"><named-content content-type="citation-string">
+
+Klemm, P.
+ (1986). Two regulatory fim genes, fimB and fimE, control the phase variation of type 1 fimbriae in <italic>Escherichia coli</italic>
+. EMBO Journal, 5, 1389–1393.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/j.1460-2075.1986.tb04372.x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC1166953"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="2874022"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=EMBO Journal&amp;title=Two regulatory fim genes, fimB and fimE, control the phase variation of type 1 fimbriae in Escherichia coli&amp;author=P. Klemm&amp;volume=5&amp;publication_year=1986&amp;pages=1389-1393&amp;pmid=2874022&amp;doi=10.1002/j.1460-2075.1986.tb04372.x&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0039"><mixed-citation id="eva13200-cit-0039"><named-content content-type="citation-string">
+
+Knipping, S.
+, 
+Grünewald, B.
+, &amp; 
+Hirt, R.
+ (2012). Erste Erfahrungen mit medizinischem Honig in der Wundbehandlung im Kopf‐Hals‐Bereich. HNO, 60, 830–836.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s00106-012-2503-4"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22903463"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=HNO&amp;title=Erste Erfahrungen mit medizinischem Honig in der Wundbehandlung im Kopf‐Hals‐Bereich&amp;author=S. Knipping&amp;author=B. Grünewald&amp;author=R. Hirt&amp;volume=60&amp;publication_year=2012&amp;pages=830-836&amp;pmid=22903463&amp;doi=10.1007/s00106-012-2503-4&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0040"><mixed-citation id="eva13200-cit-0040"><named-content content-type="citation-string">
+
+Knöppel, A.
+, 
+Knopp, M.
+, 
+Albrecht, L. M.
+, 
+Lundin, E.
+, 
+Lustig, U.
+, 
+Näsvall, J.
+, &amp; 
+Andersson, D. I.
+ (2018). Genetic adaptation to growth under laboratory conditions in <italic>Escherichia coli</italic> and <italic>Salmonella enterica</italic>
+. Frontiers in Microbiology, 9, 1–16.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3389/fmicb.2018.00756"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5933015"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29755424"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Frontiers in Microbiology&amp;title=Genetic adaptation to growth under laboratory conditions in Escherichia coli and Salmonella enterica&amp;author=A. Knöppel&amp;author=M. Knopp&amp;author=L. M. Albrecht&amp;author=E. Lundin&amp;author=U. Lustig&amp;volume=9&amp;publication_year=2018&amp;pages=1-16&amp;pmid=29755424&amp;doi=10.3389/fmicb.2018.00756&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0041"><mixed-citation id="eva13200-cit-0041"><named-content content-type="citation-string">
+
+Knottenbelt, D. C.
+ (2014). Honey in wound management: Myth, mystery, magic or marvel?
+The Veterinary Journal, 199, 5–6.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.tvjl.2013.10.026"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24291142"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=The Veterinary Journal&amp;title=Honey in wound management: Myth, mystery, magic or marvel?&amp;author=D. C. Knottenbelt&amp;volume=199&amp;publication_year=2014&amp;pages=5-6&amp;pmid=24291142&amp;doi=10.1016/j.tvjl.2013.10.026&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0042"><mixed-citation id="eva13200-cit-0042"><named-content content-type="citation-string">
+
+Kronda, J. M.
+, 
+Cooper, R. A.
+, &amp; 
+Maddocks, S. E.
+ (2013). Manuka honey inhibits siderophore production in <italic>Pseudomonas aeruginosa</italic>
+. Journal of Applied Microbiology, 115, 86–90.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/jam.12222"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23594187"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Applied Microbiology&amp;title=Manuka honey inhibits siderophore production in Pseudomonas aeruginosa&amp;author=J. M. Kronda&amp;author=R. A. Cooper&amp;author=S. E. Maddocks&amp;volume=115&amp;publication_year=2013&amp;pages=86-90&amp;pmid=23594187&amp;doi=10.1111/jam.12222&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0043"><mixed-citation id="eva13200-cit-0043"><named-content content-type="citation-string">
+
+Kwakman, P. H. S.
+, 
+te Velde, A. A.
+, 
+de Boer, L.
+, 
+Vandenbroucke‐Grauls, C. M. J. E.
+, &amp; 
+Zaat, S. A. J.
+ (2011). Two major medicinal honeys have different mechanisms of bactericidal activity. PLoS One, 6, e17709.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1371/journal.pone.0017709"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3048876"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21394213"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=PLoS One&amp;title=Two major medicinal honeys have different mechanisms of bactericidal activity&amp;author=P. H. S. Kwakman&amp;author=A. A. te Velde&amp;author=L. de Boer&amp;author=C. M. J. E. Vandenbroucke‐Grauls&amp;author=S. A. J. Zaat&amp;volume=6&amp;publication_year=2011&amp;pages=e17709&amp;pmid=21394213&amp;doi=10.1371/journal.pone.0017709&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0044"><mixed-citation id="eva13200-cit-0044"><named-content content-type="citation-string">
+
+Kwakman, P. H. S.
+, 
+Van den Akker, J. P. C.
+, 
+Güçlü, A.
+, 
+Aslami, H.
+, 
+Binnekade, J. M.
+, 
+de Boer, L.
+, 
+Boszhard, L.
+, 
+Paulus, F.
+, 
+Middelhoek, P.
+, 
+te Velde, A. A.
+, 
+Vandenbroucke‐Grauls, C. M. J. E.
+, 
+Schultz, M. J.
+, &amp; 
+Zaat, S. A. J.
+ (2008). Medical‐grade honey kills antibiotic‐resistant bacteria in vitro and eradicates skin colonization. Clinical Infectious Diseases, 46, 1677–1682.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1086/587892"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="18433338"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clinical Infectious Diseases&amp;title=Medical‐grade honey kills antibiotic‐resistant bacteria in vitro and eradicates skin colonization&amp;author=P. H. S. Kwakman&amp;author=J. P. C. Van den Akker&amp;author=A. Güçlü&amp;author=H. Aslami&amp;author=J. M. Binnekade&amp;volume=46&amp;publication_year=2008&amp;pages=1677-1682&amp;pmid=18433338&amp;doi=10.1086/587892&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0045"><mixed-citation id="eva13200-cit-0045"><named-content content-type="citation-string">
+
+Lee, J. H.
+, 
+Park, J. H.
+, 
+Kim, J. A.
+, 
+Neupane, G. P.
+, 
+Cho, M. H.
+, 
+Lee, C. S.
+, &amp; 
+Lee, J.
+ (2011). Low concentrations of honey reduce biofilm formation, quorum sensing, and virulence in <italic>Escherichia coli</italic> O157:H7. Biofouling, 27, 1095–1104.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1080/08927014.2011.633704"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22047137"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biofouling&amp;title=Low concentrations of honey reduce biofilm formation, quorum sensing, and virulence in Escherichia coli O157:H7&amp;author=J. H. Lee&amp;author=J. H. Park&amp;author=J. A. Kim&amp;author=G. P. Neupane&amp;author=M. H. Cho&amp;volume=27&amp;publication_year=2011&amp;pages=1095-1104&amp;pmid=22047137&amp;doi=10.1080/08927014.2011.633704&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0046"><mixed-citation id="eva13200-cit-0046"><named-content content-type="citation-string">
+
+Liu, X.
+, &amp; 
+Matsumura, P.
+ (1994). The FlhD/FlhC complex, a transcriptional activator of the <italic>Escherichia coli</italic> flagellar class II operons. Journal of Bacteriology, 176, 7345–7351.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1128/jb.176.23.7345-7351.1994"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC197124"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="7961507"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Bacteriology&amp;title=The FlhD/FlhC complex, a transcriptional activator of the Escherichia coli flagellar class II operons&amp;author=X. Liu&amp;author=P. Matsumura&amp;volume=176&amp;publication_year=1994&amp;pages=7345-7351&amp;pmid=7961507&amp;doi=10.1128/jb.176.23.7345-7351.1994&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0047"><mixed-citation id="eva13200-cit-0047"><named-content content-type="citation-string">
+
+Loughlin, M. F.
+, 
+Jones, M. V.
+, &amp; 
+Lambert, P. A.
+ (2002). 
+<italic>Pseudomonas aeruginosa</italic> cells adapted to benzalkonium chloride show resistance to other membrane‐active agents but not to clinically relevant antibiotics. Journal of Antimicrobial Chemotherapy, 49, 631–639.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/jac/49.4.631"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11909837"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Antimicrobial Chemotherapy&amp;title=Pseudomonas aeruginosa cells adapted to benzalkonium chloride show resistance to other membrane‐active agents but not to clinically relevant antibiotics&amp;author=M. F. Loughlin&amp;author=M. V. Jones&amp;author=P. A. Lambert&amp;volume=49&amp;publication_year=2002&amp;pages=631-639&amp;pmid=11909837&amp;doi=10.1093/jac/49.4.631&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0048"><mixed-citation id="eva13200-cit-0048"><named-content content-type="citation-string">
+
+Lu, J.
+, 
+Carter, D. A.
+, 
+Turnbull, L.
+, 
+Rosendale, D.
+, 
+Hedderley, D.
+, 
+Stephens, J.
+, 
+Gannabathula, S.
+, 
+Steinhorn, G.
+, 
+Schlothauer, R. C.
+, 
+Whitchurch, C. B.
+, &amp; 
+Harry, E. J.
+ (2013). The effect of New Zealand Kanuka, Manuka and clover honeys on bacterial growth dynamics and cellular morphology varies according to the species. PLoS One, 8, 55898.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1371/journal.pone.0055898"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3572166"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23418472"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=PLoS One&amp;title=The effect of New Zealand Kanuka, Manuka and clover honeys on bacterial growth dynamics and cellular morphology varies according to the species&amp;author=J. Lu&amp;author=D. A. Carter&amp;author=L. Turnbull&amp;author=D. Rosendale&amp;author=D. Hedderley&amp;volume=8&amp;publication_year=2013&amp;pages=55898&amp;pmid=23418472&amp;doi=10.1371/journal.pone.0055898&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0049"><mixed-citation id="eva13200-cit-0049"><named-content content-type="citation-string">
+
+Lu, J.
+, 
+Cokcetin, N. N.
+, 
+Burke, C. M.
+, 
+Turnbull, L.
+, 
+Liu, M.
+, 
+Carter, D. A.
+, 
+Whitchurch, C. B.
+, &amp; 
+Harry, E. J.
+ (2019). Honey can inhibit and eliminate biofilms produced by <italic>Pseudomonas aeruginosa</italic>
+. Scientific Reports, 9, 1–13.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1038/s41598-019-54576-2"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6890799"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31796774"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Scientific Reports&amp;title=Honey can inhibit and eliminate biofilms produced by Pseudomonas aeruginosa&amp;author=J. Lu&amp;author=N. N. Cokcetin&amp;author=C. M. Burke&amp;author=L. Turnbull&amp;author=M. Liu&amp;volume=9&amp;publication_year=2019&amp;pages=1-13&amp;pmid=31796774&amp;doi=10.1038/s41598-019-54576-2&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0050"><mixed-citation id="eva13200-cit-0050"><named-content content-type="citation-string">
+
+MacLean, M. J.
+, 
+Ness, L. S.
+, 
+Ferguson, G. P.
+, &amp; 
+Booth, I. R.
+ (1998). The role of glyoxalase I in the detoxification of methylglyoxal and in the activation of the KefB K+ efflux system in <italic>Escherichia coli</italic>
+. Molecular Microbiology, 27, 563–571.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1046/j.1365-2958.1998.00701.x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9489668"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Molecular Microbiology&amp;title=The role of glyoxalase I in the detoxification of methylglyoxal and in the activation of the KefB K+ efflux system in Escherichia coli&amp;author=M. J. MacLean&amp;author=L. S. Ness&amp;author=G. P. Ferguson&amp;author=I. R. Booth&amp;volume=27&amp;publication_year=1998&amp;pages=563-571&amp;pmid=9489668&amp;doi=10.1046/j.1365-2958.1998.00701.x&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0051"><mixed-citation id="eva13200-cit-0051"><named-content content-type="citation-string">
+
+Maddocks, S. E.
+, &amp; 
+Jenkins, R. E.
+ (2013). Honey: A sweet solution to the growing problem of antimicrobial resistance?
+Future Microbiology, 8, 1419–1429.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2217/fmb.13.105"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24199801"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Future Microbiology&amp;title=Honey: A sweet solution to the growing problem of antimicrobial resistance?&amp;author=S. E. Maddocks&amp;author=R. E. Jenkins&amp;volume=8&amp;publication_year=2013&amp;pages=1419-1429&amp;pmid=24199801&amp;doi=10.2217/fmb.13.105&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0052"><mixed-citation id="eva13200-cit-0052"><named-content content-type="citation-string">
+
+Magnet, S.
+, &amp; 
+Blanchard, J. S.
+ (2005). Molecular insights into aminoglycoside action and resistance. Chemical Reviews, 105, 477–497.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1021/cr0301088"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="15700953"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Chemical Reviews&amp;title=Molecular insights into aminoglycoside action and resistance&amp;author=S. Magnet&amp;author=J. S. Blanchard&amp;volume=105&amp;publication_year=2005&amp;pages=477-497&amp;pmid=15700953&amp;doi=10.1021/cr0301088&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0053"><mixed-citation id="eva13200-cit-0053"><named-content content-type="citation-string">
+
+Mannervik, B.
+ (2008). Molecular enzymology of the glyoxalase system. Drug Metabolism and Drug Interactions, 23, 13–27.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1515/dmdi.2008.23.1-2.13"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="18533362"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Drug Metabolism and Drug Interactions&amp;title=Molecular enzymology of the glyoxalase system&amp;author=B. Mannervik&amp;volume=23&amp;publication_year=2008&amp;pages=13-27&amp;pmid=18533362&amp;doi=10.1515/dmdi.2008.23.1-2.13&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0054"><mixed-citation id="eva13200-cit-0054"><named-content content-type="citation-string">
+
+Mavric, E.
+, 
+Wittmann, S.
+, 
+Barth, G.
+, &amp; 
+Henle, T.
+ (2008). Identification and quantification of methylglyoxal as the dominant antibacterial constituent of Manuka (<italic>Leptospermum scoparium</italic>) honeys from New Zealand. Molecular Nutrition and Food Research, 52, 483–489.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/mnfr.200700282"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="18210383"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Molecular Nutrition and Food Research&amp;title=Identification and quantification of methylglyoxal as the dominant antibacterial constituent of Manuka (Leptospermum scoparium) honeys from New Zealand&amp;author=E. Mavric&amp;author=S. Wittmann&amp;author=G. Barth&amp;author=T. Henle&amp;volume=52&amp;publication_year=2008&amp;pages=483-489&amp;pmid=18210383&amp;doi=10.1002/mnfr.200700282&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0055"><mixed-citation id="eva13200-cit-0055"><named-content content-type="citation-string">
+
+Merckoll, P.
+, 
+Jonassen, T. Ø.
+, 
+Vad, M. E.
+, 
+Jeansson, S. L.
+, &amp; 
+Melby, K. K.
+ (2009). Bacteria, biofilm and honey: A study of the effects of honey on ‘planktonic’ and biofilm‐embedded chronic wound bacteria. Scandinavian Journal of Infectious Diseases, 41, 341–347.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1080/00365540902849383"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19308800"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Scandinavian Journal of Infectious Diseases&amp;title=Bacteria, biofilm and honey: A study of the effects of honey on ‘planktonic’ and biofilm‐embedded chronic wound bacteria&amp;author=P. Merckoll&amp;author=T. Ø. Jonassen&amp;author=M. E. Vad&amp;author=S. L. Jeansson&amp;author=K. K. Melby&amp;volume=41&amp;publication_year=2009&amp;pages=341-347&amp;pmid=19308800&amp;doi=10.1080/00365540902849383&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0056"><mixed-citation id="eva13200-cit-0056"><named-content content-type="citation-string">
+
+Molan, P. C.
+ (1992). The antibacterial activity of honey. 1. The nature of the antibacterial activity. Bee World1, 73, 5–28.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Bee World1&amp;title=The antibacterial activity of honey. 1. The nature of the antibacterial activity&amp;author=P. C. Molan&amp;volume=73&amp;publication_year=1992&amp;pages=5-28&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0057"><mixed-citation id="eva13200-cit-0057"><named-content content-type="citation-string">
+
+Molan, P. C.
+ (1999). Why honey is effective as a medicine. I. Its use in modern medicine. Bee World, 80, 80–92.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Bee World&amp;title=Why honey is effective as a medicine. I. Its use in modern medicine&amp;author=P. C. Molan&amp;volume=80&amp;publication_year=1999&amp;pages=80-92&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0058"><mixed-citation id="eva13200-cit-0058"><named-content content-type="citation-string">
+
+Molan, P. C.
+, &amp; 
+Betts, J. A.
+ (2004). Clinical usage of honey as a wound dressing: An update. Journal of Wound Care, 13, 353–356.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.12968/jowc.2004.13.9.26708"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="15517742"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Wound Care&amp;title=Clinical usage of honey as a wound dressing: An update&amp;author=P. C. Molan&amp;author=J. A. Betts&amp;volume=13&amp;publication_year=2004&amp;pages=353-356&amp;pmid=15517742&amp;doi=10.12968/jowc.2004.13.9.26708&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0059"><mixed-citation id="eva13200-cit-0059"><named-content content-type="citation-string">
+
+Niba, E. T. E.
+, 
+Naka, Y.
+, 
+Nagase, M.
+, 
+Mori, H.
+, &amp; 
+Kitakawa, M.
+ (2007). A genome‐wide approach to identify the genes involved in biofilm formation in <italic>E. coli</italic>
+. DNA Research, 14, 237–246.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/dnares/dsm024"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2779908"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="18180259"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=DNA Research&amp;title=A genome‐wide approach to identify the genes involved in biofilm formation in E. coli&amp;author=E. T. E. Niba&amp;author=Y. Naka&amp;author=M. Nagase&amp;author=H. Mori&amp;author=M. Kitakawa&amp;volume=14&amp;publication_year=2007&amp;pages=237-246&amp;pmid=18180259&amp;doi=10.1093/dnares/dsm024&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0060"><mixed-citation id="eva13200-cit-0060"><named-content content-type="citation-string">
+
+Nolan, V. C.
+, 
+Harrison, J.
+, &amp; 
+Cox, J. A. G.
+ (2019). Dissecting the antimicrobial composition of honey. Antibiotics, 8, 1–16.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3390/antibiotics8040251"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6963415"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31817375"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Antibiotics&amp;title=Dissecting the antimicrobial composition of honey&amp;author=V. C. Nolan&amp;author=J. Harrison&amp;author=J. A. G. Cox&amp;volume=8&amp;publication_year=2019&amp;pages=1-16&amp;pmid=31817375&amp;doi=10.3390/antibiotics8040251&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0063"><mixed-citation id="eva13200-cit-0063"><named-content content-type="citation-string">
+
+O'Neill, J.
+ (2014). Antimicrobial Resistance: Tackling a Crisis for the Health and Wealth of Nations. Review on Antimicrobial Resistance. London: Wellcome Trust &amp; HM Government. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://amrreview.org/sites/default/files/AMR%20Review%20Paper%20-%20Tackling%20a%20crisis%20for%20the%20health%20and%20wealth%20of%20nations_1.pdf" ext-link-type="uri">http://amrreview.org/sites/default/files/AMR%20Review%20Paper%20‐%20Tackling%20a%20crisis%20for%20the%20health%20and%20wealth%20of%20nations_1.pdf</ext-link>
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=Antimicrobial Resistance: Tackling a Crisis for the Health and Wealth of Nations. Review on Antimicrobial Resistance&amp;author=J. O'Neill&amp;publication_year=2014&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0064"><mixed-citation id="eva13200-cit-0064"><named-content content-type="citation-string">
+
+Ozyamak, E.
+, 
+Black, S. S.
+, 
+Walker, C. A.
+, 
+MacLean, M. J.
+, 
+Bartlett, W.
+, 
+Miller, S.
+, &amp; 
+Booth, I. R.
+ (2010). The critical role of S‐lactoylglutathione formation during methylglyoxal detoxification in <italic>Escherichia coli</italic>
+. Molecular Microbiology, 78, 1577–1590.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/j.1365-2958.2010.07426.x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3412212"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21143325"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Molecular Microbiology&amp;title=The critical role of S‐lactoylglutathione formation during methylglyoxal detoxification in Escherichia coli&amp;author=E. Ozyamak&amp;author=S. S. Black&amp;author=C. A. Walker&amp;author=M. J. MacLean&amp;author=W. Bartlett&amp;volume=78&amp;publication_year=2010&amp;pages=1577-1590&amp;pmid=21143325&amp;doi=10.1111/j.1365-2958.2010.07426.x&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0065"><mixed-citation id="eva13200-cit-0065"><named-content content-type="citation-string">
+
+Ozyamak, E.
+, 
+De Almeida, C.
+, 
+De Moura, A. P. S.
+, 
+Miller, S.
+, &amp; 
+Booth, I. R.
+ (2013). Integrated stress response of <italic>Escherichia coli</italic> to methylglyoxal. Molecular Microbiology, 88, 936–950.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/mmi.12234"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3739934"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23646895"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Molecular Microbiology&amp;title=Integrated stress response of Escherichia coli to methylglyoxal&amp;author=E. Ozyamak&amp;author=C. De Almeida&amp;author=A. P. S. De Moura&amp;author=S. Miller&amp;author=I. R. Booth&amp;volume=88&amp;publication_year=2013&amp;pages=936-950&amp;pmid=23646895&amp;doi=10.1111/mmi.12234&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0066"><mixed-citation id="eva13200-cit-0066"><named-content content-type="citation-string">
+
+Paulsen, I. T.
+, 
+Brown, M. H.
+, &amp; 
+Skurray, R. A.
+ (1996). Proton‐dependent multidrug efflux systems. Microbiological Reviews, 60, 575–608.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1128/mr.60.4.575-608.1996"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC239457"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="8987357"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Microbiological Reviews&amp;title=Proton‐dependent multidrug efflux systems&amp;author=I. T. Paulsen&amp;author=M. H. Brown&amp;author=R. A. Skurray&amp;volume=60&amp;publication_year=1996&amp;pages=575-608&amp;pmid=8987357&amp;doi=10.1128/mr.60.4.575-608.1996&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0067"><mixed-citation id="eva13200-cit-0067"><named-content content-type="citation-string">
+
+Philippon, A.
+, 
+Labia, R.
+, &amp; 
+Jacoby, G.
+ (1989). Minireview extended‐spectrum beta‐lactamases. Antimicrobial Agents and Chemotherapy, 33, 1131–1136.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1128/aac.33.8.1131"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC172613"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="2679367"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Antimicrobial Agents and Chemotherapy&amp;title=Minireview extended‐spectrum beta‐lactamases&amp;author=A. Philippon&amp;author=R. Labia&amp;author=G. Jacoby&amp;volume=33&amp;publication_year=1989&amp;pages=1131-1136&amp;pmid=2679367&amp;doi=10.1128/aac.33.8.1131&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0068"><mixed-citation id="eva13200-cit-0068"><named-content content-type="citation-string">
+
+Prigent‐Combaret, C.
+, 
+Brombacher, E.
+, 
+Vidal, O.
+, 
+Ambert, A.
+, 
+Lejeune, P.
+, 
+Landini, P.
+, &amp; 
+Dorel, C.
+ (2001). Complex regulatory network controls initial adhesion and biofilm formation in <italic>Escherichia coli</italic> via regulation of the csgD gene. Journal of Bacteriology, 183, 7213–7223.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1128/JB.183.24.7213-7223.2001"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC95571"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11717281"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Bacteriology&amp;title=Complex regulatory network controls initial adhesion and biofilm formation in Escherichia coli via regulation of the csgD gene&amp;author=C. Prigent‐Combaret&amp;author=E. Brombacher&amp;author=O. Vidal&amp;author=A. Ambert&amp;author=P. Lejeune&amp;volume=183&amp;publication_year=2001&amp;pages=7213-7223&amp;pmid=11717281&amp;doi=10.1128/JB.183.24.7213-7223.2001&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0069"><mixed-citation id="eva13200-cit-0069"><named-content content-type="citation-string">
+
+Prüß, B. M.
+, &amp; 
+Matsumura, P.
+ (1996). A regulator of the flagellar regulon of <italic>Escherichia coli</italic>, flhD, also affects cell division. Journal of Bacteriology, 178, 668–674.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1128/jb.178.3.668-674.1996"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC177710"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="8550498"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Bacteriology&amp;title=A regulator of the flagellar regulon of Escherichia coli, flhD, also affects cell division&amp;author=B. M. Prüß&amp;author=P. Matsumura&amp;volume=178&amp;publication_year=1996&amp;pages=668-674&amp;pmid=8550498&amp;doi=10.1128/jb.178.3.668-674.1996&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0070"><mixed-citation id="eva13200-cit-0070"><named-content content-type="citation-string">
+
+Scanlan, P. D.
+, 
+Hall, A. R.
+, 
+Blackshields, G.
+, 
+Friman, V. P.
+, 
+Davis, M. R.
+, 
+Goldberg, J. B.
+, &amp; 
+Buckling, A.
+ (2015). Coevolution with bacteriophages drives genome‐wide host evolution and constrains the acquisition of abiotic‐beneficial mutations. Molecular Biology and Evolution, 32, 1425–1435.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/molbev/msv032"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6281048"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25681383"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Molecular Biology and Evolution&amp;title=Coevolution with bacteriophages drives genome‐wide host evolution and constrains the acquisition of abiotic‐beneficial mutations&amp;author=P. D. Scanlan&amp;author=A. R. Hall&amp;author=G. Blackshields&amp;author=V. P. Friman&amp;author=M. R. Davis&amp;volume=32&amp;publication_year=2015&amp;pages=1425-1435&amp;pmid=25681383&amp;doi=10.1093/molbev/msv032&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0071"><mixed-citation id="eva13200-cit-0071"><named-content content-type="citation-string">
+
+Shan, Y.
+, 
+Lazinski, D.
+, 
+Rowe, S.
+, 
+Camilli, A.
+, &amp; 
+Lewis, K.
+ (2015). Genetic basis of persister tolerance to Aminoglycosides in <italic>Escherichia coli</italic>
+. MBio, 6, e00078‐15.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1128/mBio.00078-15"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4453570"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25852159"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=MBio&amp;title=Genetic basis of persister tolerance to Aminoglycosides in Escherichia coli&amp;author=Y. Shan&amp;author=D. Lazinski&amp;author=S. Rowe&amp;author=A. Camilli&amp;author=K. Lewis&amp;volume=6&amp;publication_year=2015&amp;pages=e00078‐15&amp;pmid=25852159&amp;doi=10.1128/mBio.00078-15&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0072"><mixed-citation id="eva13200-cit-0072"><named-content content-type="citation-string">
+
+Su, Y.‐B.
+, 
+Peng, B. O.
+, 
+Li, H.
+, 
+Cheng, Z.‐X.
+, 
+Zhang, T.‐T.
+, 
+Zhu, J.‐X.
+, 
+Li, D.
+, 
+Li, M.‐Y.
+, 
+Ye, J.‐Z.
+, 
+Du, C.‐C.
+, 
+Zhang, S.
+, 
+Zhao, X.‐L.
+, 
+Yang, M.‐J.
+, &amp; 
+Peng, X.‐X.
+ (2018). Pyruvate cycle increases aminoglycoside efficacy and provides respiratory energy in bacteria. Proceedings of the National Academy of Sciences of the United States of America, 115, E1578–E1587.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1073/pnas.1714645115"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5816162"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29382755"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Proceedings of the National Academy of Sciences of the United States of America&amp;title=Pyruvate cycle increases aminoglycoside efficacy and provides respiratory energy in bacteria&amp;author=Y.‐B. Su&amp;author=B. O. Peng&amp;author=H. Li&amp;author=Z.‐X. Cheng&amp;author=T.‐T. Zhang&amp;volume=115&amp;publication_year=2018&amp;pages=E1578-E1587&amp;pmid=29382755&amp;doi=10.1073/pnas.1714645115&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0073"><mixed-citation id="eva13200-cit-0073"><named-content content-type="citation-string">
+
+Suojala, L.
+, 
+Kaartinen, L.
+, &amp; 
+Pyörälä, S.
+ (2013). Treatment for bovine <italic>Escherichia coli</italic> mastitis ‐ an evidence‐based approach. Journal of Veterinary Pharmacology and Therapeutics, 36, 521–531.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/jvp.12057"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23679229"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Veterinary Pharmacology and Therapeutics&amp;title=Treatment for bovine Escherichia coli mastitis ‐ an evidence‐based approach&amp;author=L. Suojala&amp;author=L. Kaartinen&amp;author=S. Pyörälä&amp;volume=36&amp;publication_year=2013&amp;pages=521-531&amp;pmid=23679229&amp;doi=10.1111/jvp.12057&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0074"><mixed-citation id="eva13200-cit-0074"><named-content content-type="citation-string">
+
+Szybalski, W.
+, &amp; 
+Bryson, V.
+ (1952). Genetic studies on microbial cross resistance to toxic agents: Cross resistance of <italic>Escherichia coli</italic> to fifteen antibiotics. Journal of Bacteriology, 64, 489–499.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1128/jb.64.4.489-499.1952"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC169383"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="12999676"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Bacteriology&amp;title=Genetic studies on microbial cross resistance to toxic agents: Cross resistance of Escherichia coli to fifteen antibiotics&amp;author=W. Szybalski&amp;author=V. Bryson&amp;volume=64&amp;publication_year=1952&amp;pages=489-499&amp;pmid=12999676&amp;doi=10.1128/jb.64.4.489-499.1952&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0075"><mixed-citation id="eva13200-cit-0075"><named-content content-type="citation-string">
+
+Tadesse, D. A.
+, 
+Zhao, S.
+, 
+Tong, E.
+, 
+Ayers, S.
+, 
+Singh, A.
+, 
+Bartholomew, M. J.
+, &amp; 
+McDermott, P. F.
+ (2012). Antimicrobial drug resistance in <italic>Escherichia coli</italic> from humans and food animals, United States, 1950–2002. Emerging Infectious Diseases, 18, 741–749.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3201/eid1805.111153"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3358085"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22515968"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Emerging Infectious Diseases&amp;title=Antimicrobial drug resistance in Escherichia coli from humans and food animals, United States, 1950–2002&amp;author=D. A. Tadesse&amp;author=S. Zhao&amp;author=E. Tong&amp;author=S. Ayers&amp;author=A. Singh&amp;volume=18&amp;publication_year=2012&amp;pages=741-749&amp;pmid=22515968&amp;doi=10.3201/eid1805.111153&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0076"><mixed-citation id="eva13200-cit-0076"><named-content content-type="citation-string">
+
+Tötemeyer, S.
+, 
+Booth, N. A.
+, 
+Nichols, W. W.
+, 
+Dunbar, B.
+, &amp; 
+Booth, I. R.
+ (1998). From famine to feast: The role of methylglyoxal production in <italic>Escherichia coli</italic>
+. Molecular Microbiology, 27, 553–562.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1046/j.1365-2958.1998.00700.x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9489667"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Molecular Microbiology&amp;title=From famine to feast: The role of methylglyoxal production in Escherichia coli&amp;author=S. Tötemeyer&amp;author=N. A. Booth&amp;author=W. W. Nichols&amp;author=B. Dunbar&amp;author=I. R. Booth&amp;volume=27&amp;publication_year=1998&amp;pages=553-562&amp;pmid=9489667&amp;doi=10.1046/j.1365-2958.1998.00700.x&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0078"><mixed-citation id="eva13200-cit-0078"><named-content content-type="citation-string">
+
+Truchado, P.
+, 
+López‐Gálvez, F.
+, 
+Gil, M. I.
+, 
+Tomás‐Barberán, F. A.
+, &amp; 
+Allende, A.
+ (2009). Quorum sensing inhibitory and antimicrobial activities of honeys and the relationship with individual phenolics. Food Chemistry, 115, 1337–1344.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Food Chemistry&amp;title=Quorum sensing inhibitory and antimicrobial activities of honeys and the relationship with individual phenolics&amp;author=P. Truchado&amp;author=F. López‐Gálvez&amp;author=M. I. Gil&amp;author=F. A. Tomás‐Barberán&amp;author=A. Allende&amp;volume=115&amp;publication_year=2009&amp;pages=1337-1344&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0079"><mixed-citation id="eva13200-cit-0079"><named-content content-type="citation-string">
+
+Vandamme, L.
+, 
+Heyneman, A.
+, 
+Hoeksema, H.
+, 
+Verbelen, J.
+, &amp; 
+Monstrey, S.
+ (2013). Honey in modern wound care: A systematic review. Burns, 39, 1514–1525.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.burns.2013.06.014"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23896128"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Burns&amp;title=Honey in modern wound care: A systematic review&amp;author=L. Vandamme&amp;author=A. Heyneman&amp;author=H. Hoeksema&amp;author=J. Verbelen&amp;author=S. Monstrey&amp;volume=39&amp;publication_year=2013&amp;pages=1514-1525&amp;pmid=23896128&amp;doi=10.1016/j.burns.2013.06.014&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0080"><mixed-citation id="eva13200-cit-0080"><named-content content-type="citation-string">
+
+Wang, R.
+, 
+Starkey, M.
+, 
+Hazan, R.
+, &amp; 
+Rahme, L. G.
+ (2012). Honey’s ability to counter bacterial infections arises from both bactericidal compounds and QS inhibition. Frontiers in Microbiology, 3, 1–8.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3389/fmicb.2012.00144"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3323871"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22514552"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Frontiers in Microbiology&amp;title=Honey’s ability to counter bacterial infections arises from both bactericidal compounds and QS inhibition&amp;author=R. Wang&amp;author=M. Starkey&amp;author=R. Hazan&amp;author=L. G. Rahme&amp;volume=3&amp;publication_year=2012&amp;pages=1-8&amp;pmid=22514552&amp;doi=10.3389/fmicb.2012.00144&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0081"><mixed-citation id="eva13200-cit-0081"><named-content content-type="citation-string">
+
+Wasfi, R.
+, 
+Elkhatib, W. F.
+, &amp; 
+Khairalla, A. S.
+ (2016). Effects of selected egyptian honeys on the cellular ultrastructure and the gene expression profile of <italic>Escherichia coli</italic>
+. PLoS One, 11, e0150984.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1371/journal.pone.0150984"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4783026"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26954570"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=PLoS One&amp;title=Effects of selected egyptian honeys on the cellular ultrastructure and the gene expression profile of Escherichia coli&amp;author=R. Wasfi&amp;author=W. F. Elkhatib&amp;author=A. S. Khairalla&amp;volume=11&amp;publication_year=2016&amp;pages=e0150984&amp;pmid=26954570&amp;doi=10.1371/journal.pone.0150984&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0082"><mixed-citation id="eva13200-cit-0082"><named-content content-type="citation-string">
+
+Werner, A.
+, &amp; 
+Laccourreye, O.
+ (2011). Honey in otorhinolaryngology: When, why and how?
+European Annals of Otorhinolaryngology, Head and Neck Diseases, 128, 133–137.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.anorl.2010.12.002"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21310682"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=European Annals of Otorhinolaryngology, Head and Neck Diseases&amp;title=Honey in otorhinolaryngology: When, why and how?&amp;author=A. Werner&amp;author=O. Laccourreye&amp;volume=128&amp;publication_year=2011&amp;pages=133-137&amp;pmid=21310682&amp;doi=10.1016/j.anorl.2010.12.002&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0083"><mixed-citation id="eva13200-cit-0083"><named-content content-type="citation-string">
+
+White, J. W.
+, 
+Subers, M. H.
+, &amp; 
+Schepartz, A. I.
+ (1963). The identification of inhibine, the antibacterial factor in honey, as hydrogen peroxide and its origin in a honey glucose‐oxidase system. Biochimica Et Biophysica Acta (BBA) ‐ Specialized Section on Enzymological Subjects, 73, 57–70.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/0006-3002(63)90359-7"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="14000328"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biochimica Et Biophysica Acta (BBA) ‐ Specialized Section on Enzymological Subjects&amp;title=The identification of inhibine, the antibacterial factor in honey, as hydrogen peroxide and its origin in a honey glucose‐oxidase system&amp;author=J. W. White&amp;author=M. H. Subers&amp;author=A. I. Schepartz&amp;volume=73&amp;publication_year=1963&amp;pages=57-70&amp;pmid=14000328&amp;doi=10.1016/0006-3002(63)90359-7&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0084"><mixed-citation id="eva13200-cit-0084"><named-content content-type="citation-string">
+World Health Organization (WHO)
+(2020). Antibiotic Resistance [fact sheet]. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/news-room/factsheets/detail/antibiotic-resistance" ext-link-type="uri">https://www.who.int/news‐room/factsheets/detail/antibiotic‐resistance</ext-link>. Accessed February 8, 2021.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=Antibiotic Resistance [fact sheet]&amp;publication_year=2020&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0085"><mixed-citation id="eva13200-cit-0085"><named-content content-type="citation-string">
+
+Willix, D. J.
+, 
+Molan, P. C.
+, &amp; 
+Harfoot, C. G.
+ (1992). A comparison of the sensitivity of wound‐infecting species of bacteria to the antibacterial activity of Manuka honey and other honey. Journal of Applied Bacteriology, 73, 388–394.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/j.1365-2672.1992.tb04993.x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="1447054"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Applied Bacteriology&amp;title=A comparison of the sensitivity of wound‐infecting species of bacteria to the antibacterial activity of Manuka honey and other honey&amp;author=D. J. Willix&amp;author=P. C. Molan&amp;author=C. G. Harfoot&amp;volume=73&amp;publication_year=1992&amp;pages=388-394&amp;pmid=1447054&amp;doi=10.1111/j.1365-2672.1992.tb04993.x&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0086"><mixed-citation id="eva13200-cit-0086"><named-content content-type="citation-string">
+
+Wu, Y.
+, &amp; 
+Outten, F. W.
+ (2009). IscR controls iron‐dependent biofilm formation in <italic>Escherichia coli</italic> by regulating type I fimbria expression. Journal of Bacteriology, 191, 1248–1257.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1128/JB.01086-08"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2631988"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19074392"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Journal of Bacteriology&amp;title=IscR controls iron‐dependent biofilm formation in Escherichia coli by regulating type I fimbria expression&amp;author=Y. Wu&amp;author=F. W. Outten&amp;volume=191&amp;publication_year=2009&amp;pages=1248-1257&amp;pmid=19074392&amp;doi=10.1128/JB.01086-08&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0087"><mixed-citation id="eva13200-cit-0087"><named-content content-type="citation-string">
+
+Yabes, J. M.
+, 
+White, B. K.
+, 
+Murray, C. K.
+, 
+Sanchez, C. J.
+, 
+Mende, K.
+, 
+Beckius, M. L.
+, 
+Zera, W. C.
+, 
+Wenke, J. C.
+, &amp; 
+Akers, K. S.
+ (2017). In vitro activity of Manuka honey and polyhexamethylene biguanide on filamentous fungi and toxicity to human cell lines. Medical Mycology, 55, 334–343.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/mmy/myw070"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5339061"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27601610"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Medical Mycology&amp;title=In vitro activity of Manuka honey and polyhexamethylene biguanide on filamentous fungi and toxicity to human cell lines&amp;author=J. M. Yabes&amp;author=B. K. White&amp;author=C. K. Murray&amp;author=C. J. Sanchez&amp;author=K. Mende&amp;volume=55&amp;publication_year=2017&amp;pages=334-343&amp;pmid=27601610&amp;doi=10.1093/mmy/myw070&amp;"/></mixed-citation></ref><ref id="eva13200-bib-0088"><mixed-citation id="eva13200-cit-0088"><named-content content-type="citation-string">
+
+Zhou, S.
+, 
+Zhuang, Y.
+, 
+Zhu, X.
+, 
+Yao, F.
+, 
+Li, H.
+, 
+Li, H.
+, 
+Zou, X.
+, 
+Wu, J.
+, 
+Zhou, H.
+, 
+Nuer, G.
+, 
+Huang, Y.
+, 
+Li, S.
+, &amp; 
+Peng, Q.
+ (2019). YhjX regulates the growth of <italic>Escherichia coli</italic> in the presence of a subinhibitory concentration of gentamicin and mediates the adaptive resistance to gentamicin. Frontiers in Microbiology, 10, 1–10.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3389/fmicb.2019.01180"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6545925"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31191496"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Frontiers in Microbiology&amp;title=YhjX regulates the growth of Escherichia coli in the presence of a subinhibitory concentration of gentamicin and mediates the adaptive resistance to gentamicin&amp;author=S. Zhou&amp;author=Y. Zhuang&amp;author=X. Zhu&amp;author=F. Yao&amp;author=H. Li&amp;volume=10&amp;publication_year=2019&amp;pages=1-10&amp;pmid=31191496&amp;doi=10.3389/fmicb.2019.01180&amp;"/></mixed-citation></ref></ref-list></sec></sec><sec id="_ad93_" xml:lang="en" sec-type="associated-data" disp-level="1"><title>Associated Data</title><sec id="_adsm93_" xml:lang="en" sec-type="supplementary-materials" disp-level="2"><title>Supplementary Materials</title><supplementary-material id="db_ds_supplementary-material1_reqid_" position="float"><caption><p>Fig S1</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EVA-14-1314-s003.pdf" mimetype="application" mime-subtype="pdf"><?cloudpmc-path 5c1a/8127710/28de41a86351/EVA-14-1314-s003.pdf?><?cloudpmc-bucket app?><?size 2241313?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="db_ds_supplementary-material2_reqid_" position="float"><caption><p>Table S2</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EVA-14-1314-s001.xlsx" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet"><?cloudpmc-path 5c1a/8127710/4fb1819829a4/EVA-14-1314-s001.xlsx?><?cloudpmc-bucket app?><?size 51231?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="db_ds_supplementary-material3_reqid_" position="float"><caption><p>Supplementary Material</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EVA-14-1314-s002.docx" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document"><?cloudpmc-path 5c1a/8127710/6996e95b283f/EVA-14-1314-s002.docx?><?cloudpmc-bucket app?><?size 995757?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec><sec id="_adda93_" xml:lang="en" sec-type="data-availability-statement" disp-level="2"><title>Data Availability Statement</title><p>The data that support the findings of this study are openly available at Dryad Digital Repository: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.5061/dryad.cjsxksn5b" ext-link-type="uri">https://doi.org/10.5061/dryad.cjsxksn5b</ext-link>.</p></sec></sec></body></article>

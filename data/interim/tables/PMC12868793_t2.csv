@@ -1,0 +1,13 @@
+Test substance,Concentration (µg/µl),Active ingredient/bee (µg)
+PTS,100,100
+PTS,1,1
+PTSO,100,100
+PTSO,1,1
+PTS + PTSO,50 + 50,100 (50 each)
+PTS + PTSO,0.5 + 0.5,1 (0.5 each)
+PTS + PTSO,100 + 100,200 (100 each)
+PTS + PTSO,1 + 1,2 (1 each)
+Dimethoate,0.3,0.3
+Acetone,-,-
+Polysorbate,-,-
+Water 1/Sucrose solution 2,-,-

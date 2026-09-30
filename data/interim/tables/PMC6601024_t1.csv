@@ -1,0 +1,6 @@
+Models,AIC (AIC null)
+U ∼ treatment(Ex/Ctrl) + (1|Hive),27.49 (26.27)
+C ∼ treatment(Ex/Ctrl) + (1|Hive),17.59 (16.91)
+H ∼ treatment(Ex/Ctrl) + (1|Hive),11.42 (9.436)
+B ∼ treatment(Ex/Ctrl) + (1|Hive),6.114 (4.121)
+E ∼ treatment(Ex/Ctrl) + (1|Hive),28.95 (28.6)

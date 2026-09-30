@@ -1,0 +1,11 @@
+Gene name,Amplicon Size (bp),Annealing temp (C°),Direction,Primer sequence (5’ → 3’),References
+Sof,873,57,Forward,ACTTAGAAAGTTATCTGTAGGG,"(13, 19 )"
+,,,Reverse,TCTCTCGAGCTTTATGGATAG,
+sfbI,960,55,Forward,AACTGCTTTAGGAACAGCTTC,"(13, 19 )"
+,,,Reverse,CCACCATAGCCACAATGCT,
+scpA,622,55,Forward,GCTCGGTTACCTCACTTGTCC,"(13, 19 )"
+,,,Reverse,CAATAGCAGCAAACAAGTCACC,
+ftsY,97,54,Forward,TCGAAAATTCTTTGGCCTGT AT-,"(13, 19 )"
+,,,Reverse,CAAACGTGTTGTGCCAGA,
+glr *,797,54,Forward,ATGGATACAAGACCAATTGG,"(13, 19 )"
+,,,Reverse,TCATAAGGTGACATGCTCCAC,

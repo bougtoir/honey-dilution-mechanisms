@@ -1,0 +1,12 @@
+Strain,Sample/control,MIC (µg/mL),MBC (µg/mL),Zone of inhibition at 64 µg/mL (mm)
+E. faecalis VRE1,AgNPs,16,32,18 ± 1.2
+E. faecalis VRE2,AgNPs,16,32,17 ± 1.0
+E. faecium VRE1,AgNPs,32,64,15 ± 1.1
+E. faecium VRE2,AgNPs,32,64,14 ± 1.3
+E. faecalis VRE1,Honey alone,> 512,> 512,6 ± 0.5
+E. faecalis VRE2,Honey alone,> 512,> 512,6 ± 0.4
+E. faecium VRE1,Honey alone,> 512,> 512,5 ± 0.4
+E. faecium VRE2,Honey alone,> 512,> 512,5 ± 0.5
+E. faecalis vancomycin-sensitive (Positive control),Vancomycin,2,4,21 ± 1.0
+E. faecium vancomycin-sensitive (Positive control),Vancomycin,2,4,20 ± 1.1
+Negative control (untreated),,> 512,> 512,0

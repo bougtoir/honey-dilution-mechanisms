@@ -1,0 +1,10 @@
+Antibiotic,Burkholderia strain,Test method,MIC (µg/ml) antibiotic,,FIC antibiotic
+Alone,With MH,,,,
+Colistin,B. ambifaria,Broth dilution,256,256,1
+E strip,256,256,1,,
+Tobramycin,B. ambifaria,Broth dilution,256,256,1
+E strip,32,32,1,,
+Colistin,B. pyrrocinia,Broth dilution,256,64,0.3
+E strip,256,64,0.3,,
+Tobramycin,B. pyrrocinia,Broth dilution,32,32,1
+E strip,16,16,1,,

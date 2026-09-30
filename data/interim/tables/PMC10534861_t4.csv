@@ -1,0 +1,9 @@
+Sr. No.,Compound Name,MF,F (20%),F (30%),Caco-2,BBB,CL,C Log Po/w,DILI,TPSA,Bioavailability Score,Sure ChEMBL,QED,Drug-Likeness,PAINS,Lipinski
+1,Glyceraldehyde,C3H6O3,0.006,0.004,−4.748,0.338,2.58,−1.03,0.644,57.53,0.55,0,0.435,1.174,0,Accepted
+2,Butanedioic acid,C4H6O4,0.002,0.061,−5.903,0.254,4.976,−0.3,0.06,74.6,0.85,0,0.544,0.376,0,Accepted
+3,Tetrahydro-4H-pyran-4-ol,C5H10O2,0.138,0.013,−4.447,0.445,9.02,0.48,0.013,29.46,0.55,0,0.472,0.64,0,Accepted
+4,1-cyclohexylimidazolidin-2-one,C9H16N2O,0.045,0.085,−4.643,0.994,5.673,1.24,0.235,32.34,0.55,0,0.629,−0.832,0,Accepted
+5,3-Butyl-3-methylcyclohexanone,C11H20O,0.227,0.903,−4.511,0.989,7.156,3.09,0.076,17.07,0.55,0,0.631,1.455,0,Accepted
+6,4-Butyl-3-methoxy-2-cyclopenten-1-one,C10H16O2,0.981,0.978,−4.336,0.938,10.08,2.09,0.83,26.3,0.85,0,0.603,2.108,0,Accepted
+7,"2,2,3,3-Tetramethylcyclopropanecarboxylic acid",C8H14O2,0.004,0.001,−5.208,0.759,1.516,1.67,0.88,37.3,0.85,0,0.605,1.002,0,Accepted
+8,"3,5-Dihydroxy-2-(3-methylbut-2-en-1-yl)",C15H22O4,0.003,0.006,−4.473,0.082,6.646,2.19,0.944,68.28,0.85,0,0.544,0.975,1,Accepted

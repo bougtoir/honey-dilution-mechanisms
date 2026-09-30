@@ -1,0 +1,31 @@
+Dataset: 4650 rows, 103 studies
+A1: 10 activity concentration-series; positive slope 10, negative 0, flat 0; median rho=1.00
+     pH-vs-dilution series: median rho=-1.00 (n=4; pH rises as honey is diluted)
+A2: 21 natural-vs-artificial pairs; zone pairs=10 median diff=0.6 mm (p=0.00195); MIC pairs=11 median ratio=0.81
+A3 join: 685 outcome rows with chemistry, 18 studies
+A3: H2O2 vs MIC: rho=0.46 (n=29, 2 studies, p=0.0122)
+A3: MGO vs MIC: rho=-0.52 (n=116, 1 studies, p=2.78e-09)
+A3: aw vs MIC: rho=-0.06 (n=20, 1 studies, p=0.807)
+A3: pH vs MIC: rho=0.07 (n=359, 7 studies, p=0.179)
+A3: pH vs zone: rho=-0.52 (n=53, 2 studies, p=6.99e-05)
+A3: TPC vs MIC: rho=-0.15 (n=172, 5 studies, p=0.0459)
+A3: TPC vs zone: rho=0.26 (n=54, 1 studies, p=0.0586)
+A3: moisture vs MIC: rho=0.17 (n=112, 3 studies, p=0.0812)
+A3: moisture vs zone: rho=-0.07 (n=45, 1 studies, p=0.658)
+A4: 13 catalase pairs from 2 studies; median residual fraction=0.92
+A5: log10(MIC%) ~ chemistry R2=0.296; label-only R2=0.000; combined R2=0.296
+A6: MIC% differs across organisms (Kruskal H=170.1, p=8.85e-27)
+      S. epidermidis: median MIC 11.25%
+      S. aureus: median MIC 12.5%
+      MRSA: median MIC 12.5%
+      B. cereus/Bacillus: median MIC 16.5%
+      K. pneumoniae: median MIC 17.75%
+      E. coli: median MIC 20.0%
+      other: median MIC 20.0%
+      P. aeruginosa: median MIC 21.0%
+      E. faecalis: median MIC 22.0%
+      Salmonella: median MIC 24.8%
+      Proteus: median MIC 25.0%
+      fungal: median MIC 27.5%
+A6: manuka median MIC 15.0% vs other 20.0% (MWU p=0.0112)
+S1: low-RoB subset 6 studies, 185 MIC rows, median 25.0%

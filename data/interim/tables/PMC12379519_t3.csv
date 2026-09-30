@@ -1,0 +1,20 @@
+Strain No.,LAB species,Antibiotic susceptibility,,,,,,,,,
+PEN,AM,FX,VA,GM,STR,TE,ERY,CIP,DOX,,
+ST1,Levilactobacillus brevis,MS,R,MS,R,S,S,MS,MS,S,R
+ST2,Levilactobacillus brevis,R,R,MS,R,S,R,MS,S,R,R
+ST3,Lecticaseibacillus paracasei,MS,S,S,R,S,R,S,S,R,MS
+ST4,Lentilactobacillus hilgardii,MS,S,S,S,S,MS,S,S,R,S
+ST5,Lentilactobacillus hilgardii,MS,S,S,R,S,R,S,S,R,MS
+ST6,Lentilactobacillus hilgardii,R,S,S,S,S,S,MS,R,S,MS
+ST7,Lentilactobacillus parabuchneri,MS,S,S,R,S,R,S,S,R,S
+ST8,Lecticaseibacillus paracasei,R,R,R,R,R,R,MS,R,R,MS
+ST9,Lentilactobacillus hilgardii,MS,R,MS,R,S,R,S,S,S,MS
+ST10,Lecticaseibacillus paracasei,MS,R,MS,R,S,R,S,S,R,S
+ST11,Lecticaseibacillus paracasei,R,S,S,R,S,S,MS,S,S,MS
+ST12,Lecticaseibacillus paracasei,R,R,R,R,R,R,R,R,R,R
+ST13,Lecticaseibacillus paracasei,S,R,R,R,S,S,R,S,S,R
+ST14,Lecticaseibacillus paracasei,MS,R,R,S,S,S,R,S,S,S
+ST15,Lecticaseibacillus paracasei,S,R,R,R,S,S,R,S,R,R
+ST16,Lecticaseibacillus paracasei,R,MS,MS,R,MS,R,R,S,MS,MS
+ST17,Levilactobacillus brevis,MS,R,R,MS,S,R,R,S,R,R
+ST18,Lecticaseibacillus paracasei,S,R,R,MS,S,MS,MS,S,R,R

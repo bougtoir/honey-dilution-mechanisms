@@ -1,0 +1,6 @@
+Compound,Ionization,Precursor Ion [m/z],Product Ion [m/z],Fragmentor Voltage [V],Collision Energy [eV],Dwell Time [ms],Q/q a
+3-PLAtime segment 5–8.7 min,negative,165,147,50,5,100,Q
+165,119,15,q,,,,
+165,103,15,q,,,,
+FCFtime segment 8.7–16 min,positive,248,129,100,10,100,Q
+248,93,40,q,,,,

@@ -1,0 +1,7 @@
+Microorganisms,Minimum Inhibitory Concentration (µg/mL),,,,,,,,,,,
+Seasonal Propolis Samples,,,,,,,,,,,,
+Sep/20,Oct/20,Nov/20,Dec/20,Jan/21,Feb/21,Mar/21,Apr/21,May/21,Jun/21,Jul/21,Aug/21,
+Staphylococcus aureus (ATCC 25923),256,256,128,256,64,256,128,128,128,128,128,256
+Enterococcus faecalis (ATCC 29212),128,128,128,128,64,128,128,128,128,128,128,128
+Escherichia coli (ATCC 25922),512,1024,512,1024,256,512,512,512,512,512,512,512
+Candida albicans (ATCC 90028),256,128,256,128,64,256,256,64,128,128,128,128

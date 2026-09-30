@@ -1,0 +1,14 @@
+Bacterial Pathogen,Most Effective Honey,,Least Effective Honey,
+,Manuka,Medical Grade,Manuka,Medical Grade
+S. aureus,"Manuka honey ungraded, MIC of 2.7% [33]","Surgihoney 3, MIC of 0.01% [39]","Comvita Manuka 15+, MIC of 15% [31]","Activon medical-grade honey, MIC of 12% [45]"
+MRSA,"Comvita Manuka 5+, MIC of <5% [31]","Surgihoney 3, MIC of 0.01% [39]","Comvita Manuka 15+, MIC of >15% [31]","Revamil honey, MIC of 20% [38]"
+P. aeruginosa,"Manuka honey ungraded, MIC of 9.5% [34]","Surgihoney 3, MIC of 0.1% [39]","Comvita Manuka 15+, MIC of 33% [31]","Medical-grade honey 2, MIC of 40% [37]"
+MDR P. aeruginosa,"Comvita Manuka 5+, MIC of <9% [31]","Surgihoney 3, MIC of 0.1% [39]","Comvita Manuka 15+, MIC of 27% [31]",N/A
+E. coli,"Manuka honey ungraded, MIC of 5.6% [33]","Surgihoney 3, MIC of 0.1% [39]","Comvita Manuka 15+, MIC of 33% [31]","Revamil honey, MIC of 20% [38]"
+ESBL producing E. coli,"Manuka honey 16+, MIC of 5.08% [36]","Surgihoney 3, MIC of 0.1% [39]","Comvita Manuka 15+, MIC of 27% [31]","Revamil honey, MIC of 20% [38]"
+K. pneumoniae,"Comvita Manuka 10+, Mic of 15% [31]","Surgihoney 3, MIC of 0.1% [39]","Comvita Manuka 15+, MIC of 39% [31]","Revamil honey, MIC of 30% [38]"
+S. epidermidis,"Comvita Manuka 5+, MIC of <5% [31]",N/A,"Comvita Manuka 15+, MIC of 15% [31]",N/A
+Enterobacter spp.,"Manuka honey UMF16+, MIC of 5.88% [36]",N/A,"Comvita Manuka 15+, MIC of 33% [31]",N/A
+E. cloacae,"Manuka honey UMF16+, MIC of 5.88% [36]",N/A,"Manuka honey UMF10+ Kordel, MIC of 21% [32]",N/A
+A. baumannii,N/A,"Medihoney, MIC of 8.5% [40]",N/A,"Medical-grade honey, MIC of 20% [46]"
+S. marcescans,N/A,"Surgihoney 3, MIC of 0.1% [39]",N/A,"Medihoney, MIC of 12.8% [39]"

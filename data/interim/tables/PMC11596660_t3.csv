@@ -1,0 +1,17 @@
+Antibiotics,MRSA,Pseudomonas aeruoginosa,Escherichia coli
+Amikacin,-,S,S
+Amoxicillin–clavulanic acid,-,-,S
+Ciprofloxacin,R,S,S
+Ceftazidime,-,S,S
+Cefepime,-,S,S
+Ceftriaxone,-,-,S
+Erythromycin,-,-,S
+Gentamicin,S,S,S
+Imipenem,-,S,S
+Colistin,-,S,S
+Oxacillin,R,-,S
+Levofloxacin,-,S,S
+Penicillin,R,-,S
+Piperacillin–tazobactam,-,S,S
+Trimethoprim–sulfamethoxazole,-,R,S
+Vancomycin,S,-,S

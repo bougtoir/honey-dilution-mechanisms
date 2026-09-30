@@ -1,0 +1,22 @@
+,,MIC value (%w/v),,,
+UMF grade,MGO concn (ppm),Species,Mānuka honey,MGO+water,MGO+sugar
+UMF 5+,138,MSSA,20,40,40
+,,MRSA,15,40,40
+,,K. pneumoniae,30,>40,>40
+,,P. aeruginosa,25,>40,40
+UMF 10+,340,MSSA,10,10,10
+,,MRSA,10,10,10
+,,K. pneumoniae,25,40,40
+,,P. aeruginosa,25,>40,40
+UMF 12+,494,MSSA,5,10,10
+,,MRSA,5,10,10
+,,K. pneumoniae,20,40,40
+,,P. aeruginosa,20,40,40
+UMF 15+,623,MSSA,4,10,10
+,,MRSA,4,10,10
+,,K. pneumoniae,20,40,40
+,,P. aeruginosa,20,40,40
+UMF 20+,"1,114",MSSA,3,10,10
+,,MRSA,3,5,10
+,,K. pneumoniae,10,20,20
+,,P. aeruginosa,10,40,40

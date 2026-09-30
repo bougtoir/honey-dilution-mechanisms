@@ -1,0 +1,13 @@
+Strain,Genomovar,Number,Mean MIC (% w/v),SD,Range (% w/v)
+B. cepacia complex,I,4,4,0.8,3–5
+B. cepacia,I,6,5.2,1.6,3–7
+B. cepacia group K,I,3,4.3,0.6,4–5
+B. multivorans,II,10,4.6,1.1,3–6
+B. cenocepacia,III,15,4.5,1.1,3–6
+B. cenocepacia,III,1,6,0,6
+B. stabilis,IV,1,5,0,5
+B. vietnamensis,V,5,4.8,0.8,4–6
+B. ambifaria,VII,4,4.5,0.6,4–5
+B. anthina,VIII,4,4.25,1.3,3–6
+B. pyrrocinia,IX,2,5,1.4,4–6
+P. aeruginosa,,56,7.3,2.0,3–10

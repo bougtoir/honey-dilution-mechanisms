@@ -1,0 +1,9 @@
+Bacterial Strains,Test Samples,FICI,Combination Effect
+P. aeruginosa,Leo,0.625,additive effect
+Lh,,,
+Leo,0.375,synergistic effect,
+Ch,,,
+S. pneumoniae,Leo,0.75,additive effect
+Lh,,,
+Leo,0.5,synergistic effect,
+Ch,,,

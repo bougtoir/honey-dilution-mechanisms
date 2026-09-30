@@ -1,0 +1,771 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="ece310918" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="pmc-domain-id">1740</journal-id><journal-id journal-id-type="pmc-domain">ece</journal-id><journal-id journal-id-type="nlm-id">101566408</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10883247</article-id><article-id pub-id-type="pmcid-ver">PMC10883247.1</article-id><article-id pub-id-type="pmcaid">10883247</article-id><article-id pub-id-type="pmcaiid">10883247</article-id><article-id pub-id-type="pmid">38389995</article-id><article-id pub-id-type="doi">10.1002/ece3.10918</article-id><article-id pub-id-type="publisher-id">ECE310918</article-id><article-id pub-id-type="other">ECE-2023-08-01336.R1</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="article-subject-classification"><subject>Entomology</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Evolutionary Ecology</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Genomics</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Microbial Ecology</subject></subj-group><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>An <italic toggle="no">Aspergillus flavus</italic> strain from bee bread of the Western honey bee (<italic toggle="no">Apis mellifera</italic>) displays adaptations to distinctive features of the hive environment</article-title><alt-title alt-title-type="left-running-head">Bush et al.</alt-title></title-group><contrib-group><contrib id="ece310918-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Bush</surname><given-names initials="DS">Daniel S.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5368-9647</contrib-id><xref rid="ece310918-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>dsbush2@illinois.edu</email></address></contrib><contrib id="ece310918-cr-0002" contrib-type="author"><name name-style="western"><surname>Calla</surname><given-names initials="B">Bernarda</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8684-616X</contrib-id><xref rid="ece310918-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="ece310918-cr-0003" contrib-type="author"><name name-style="western"><surname>Berenbaum</surname><given-names initials="MR">May R.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3165-8385</contrib-id><xref rid="ece310918-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ece310918-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Deparment of Entomology</named-content>
+<institution>University of Illinois</institution>
+<city>Urbana</city>
+<named-content content-type="country-part">Illinois</named-content>
+<country country="US">USA</country>
+</aff><aff id="ece310918-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>USDA‐ARS Pacific Shellfish Research Unit</institution>
+<city>Corvallis</city>
+<named-content content-type="country-part">Oregon</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Daniel S. Bush, Department of Entomology, University of Illinois, 320 Morrill Hall, 505 S. Goodwin, Urbana IL 61801‐3795, USA.<break/>
+Email: <email>dsbush2@illinois.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>2</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2024</year></pub-date><volume>14</volume><issue seq="920">2</issue><issue-id pub-id-type="pmc-issue-id">454646</issue-id><issue-id pub-id-type="doi">10.1002/ece3.v14.2</issue-id><elocation-id>e10918</elocation-id><history>
+<date date-type="rev-recd"><day>20</day><month>12</month><year>2023</year></date>
+<date date-type="received"><day>04</day><month>8</month><year>2023</year></date>
+<date date-type="accepted"><day>08</day><month>1</month><year>2024</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>01</day><month>02</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>22</day><month>02</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-14 19:25:13.007"><day>14</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Authors. <italic toggle="yes">Ecology and Evolution</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ECE3-14-e10918.pdf"><?pdf-name ECE3-14-e10918.pdf?><?pdf-size 3118574?><?pdf-md5 ec057ed673483c41c2de92c39a43b642?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:dd68/10883247/ec057ed67348/ECE3-14-e10918.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ECE3-14-e10918.pdf"/><abstract><title>Abstract</title><p>
+<italic toggle="no">Aspergillus</italic> fungi are ubiquitous inhabitants of colonies of the western honey bee (<italic toggle="no">Apis mellifera</italic>), where they interact with bees in associations ranging from parasitism to possible mutualism. <italic toggle="no">Aspergillus Flavi</italic> fungi are frequently found in bee bread (pollen processed for longterm storage) and are thought to contribute to food preparation, processing, preservation, and digestion. Conditions in the hive are challenging for fungi due, in part, to xeric and acidic properties of bee bread and the omnipresence of propolis, an antimicrobial product manufactured by bees from plant resins. We used quantitative and qualitative assays to determine whether <italic toggle="no">A. flavus</italic> isolated from bee bread demonstrates tolerance for hive environmental conditions in terms of temperature, pH, osmotic pressure, and propolis exposure. Comparisons made use of three strains of <italic toggle="no">A. flavus</italic>: a fungal biocontrol product not known from beehives (AF36), a strain isolated from bee bread (AFBB) in hives from central Illinois, and a pathogenic strain from a honey bee colony displaying symptoms of stonebrood (AFPA). Strain AFBB displayed higher tolerance of acidic conditions, low matric potential (simulating xeric substrate), and propolis exposure than did other strains. A genomic comparison between this new strain and the reference NRRL‐3357 showed that AFBB, like AF36, might be blocked from carrying out aflatoxin biosynthesis. Sequence comparisons also revealed several missense variants in genes that encode proteins regulating osmotolerance and osmotic pressure in <italic toggle="no">Aspergillus</italic> spp., including SakA, SskB, GfdA, and TcsB/Sln1. Collectively, results of our laboratory assays and genetic analyses are consistent with the suggestion that the strain isolated from bee bread is adapted to the bee bread environment and may have persisted due to a coevolutionary relationship between <italic toggle="no">Aspergillus</italic> and <italic toggle="no">A. mellifera</italic>. This finding bolsters recent concerns about the effects of fungicide use near bee colonies and broadens the ecological importance of highly adaptable fungal strains.</p></abstract><abstract abstract-type="graphical"><p>
+<italic toggle="no">Aspergillus flavi</italic> are frequently found in beebread (pollen processed for long‐term storage) and are thought to contribute to food preparation, processing, preservation, and digestion in the bee colony. We used quantitative and qualitative assays as well as genomic analysis to determine whether <italic toggle="no">A. flavus</italic> isolated from beebread demonstrated tolerance for the hive environment in terms of temperature, pH, osmotic pressure, and propolis exposure. Both bioassays and molecular evidence suggest a history of coevolution between this strain of fungus and the western honey bee and a role for this fungus in bee food processing that could be disrupted by human activity.<boxed-text position="anchor" content-type="graphic" id="ece310918-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ECE3-14-e10918-g004.jpg"><?image-name ECE3-14-e10918-g004.jpg?><?image-size 43046?><?image-md5 7f8972dfe8bda8af2ca6c4ce59e5495a?><?image-image-server-status NEVER_LOAD?><?image-original-height 248?><?image-original-width 331?><?image-scaled-height 248?><?image-scaled-width 331?><?image-cloudpmc-urn urn:cdn:blobs/dd68/10883247/7f8972dfe8bd/ECE3-14-e10918-g004.jpg?></graphic></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece310918-kwd-0001">aflatoxin</kwd><kwd id="ece310918-kwd-0002">coevolution</kwd><kwd id="ece310918-kwd-0003">fungus</kwd><kwd id="ece310918-kwd-0004">insect</kwd><kwd id="ece310918-kwd-0005">propolis</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Institute of Food and Agriculture
+</institution><institution-id institution-id-type="doi">10.13039/100005825</institution-id></institution-wrap></funding-source><award-id>2021‐67013‐33557</award-id><award-id>AG2017‐67013‐265337</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="12"/><word-count count="8928"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.8 mode:remove_FC converted:22.02.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ECE310918-cit-2001">
+<string-name name-style="western">
+<surname>Bush</surname>, <given-names>D. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calla</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Berenbaum</surname>, <given-names>M. R.</given-names>
+</string-name> (<year>2024</year>). <article-title>An <italic toggle="no">Aspergillus flavus</italic> strain from bee bread of the Western honey bee (<italic toggle="no">Apis mellifera</italic>) displays adaptations to distinctive features of the hive environment</article-title>. <source>Ecology and Evolution</source>, <volume>14</volume>, <elocation-id>e10918</elocation-id>. <pub-id pub-id-type="doi">10.1002/ece3.10918</pub-id>
+<pub-id pub-id-type="pmcid">PMC10883247</pub-id><pub-id pub-id-type="pmid">38389995</pub-id></mixed-citation>
+</p></notes></front><body id="ece310918-body-0001"><sec id="ece310918-sec-0001"><label>1</label><title>INTRODUCTION</title><p>As a perennial eusocial species, the western honey bee (<italic toggle="yes">Apis mellifera</italic> L.) stores large quantities of food in hives that represent abundant immobile sources of nutrition for microorganisms. The honey bee endo‐ and ecto‐microbiome, made up of a complex suite of bacterial and fungal species, is important in honey bee food preparation, processing, storage, and digestion (Anderson et al., <xref rid="ece310918-bib-0003" ref-type="bibr">2013</xref>; Raymann, <xref rid="ece310918-bib-0058" ref-type="bibr">2021</xref>). Honey bee researchers have long attempted to inventory local fungal diversity (“mycobiomes”) in honey bee colonies, referencing honey bee gut flora, flora from the gut and frass of the common intracolonial pest the wax moth (<italic toggle="yes">Galleria mellonella</italic>), and other locations in the hive (Callegari et al., <xref rid="ece310918-bib-0010" ref-type="bibr">2021</xref>; Gilliam, <xref rid="ece310918-bib-0027" ref-type="bibr">1997</xref>; Gilliam et al., <xref rid="ece310918-bib-0029" ref-type="bibr">1974</xref>). In these studies, species in the nearly ubiquitous fungal genus <italic toggle="yes">Aspergillus</italic> comprise a disproportionately large part of the ectomycobiome. <italic toggle="yes">Aspergillus flavus</italic> and, to a lesser extent, <italic toggle="yes">A. parasiticus</italic> are of particular interest, as they produce highly carcinogenic aflatoxins and ochratoxins, which, apart from potentially adverse effects on honey bee health, can make bee products unsaleable (Amaike &amp; Keller, <xref rid="ece310918-bib-0001" ref-type="bibr">2011</xref>).</p><p>The relationship between honey bees and <italic toggle="yes">A. flavus</italic> is multidimensional and there is evidence that interactions between the two species range from adversarial to mutualistic (Becchimanzi &amp; Nicoletti, <xref rid="ece310918-bib-0006" ref-type="bibr">2022</xref>). <italic toggle="yes">A. flavus</italic> is one of the causes of the aspergillosis “stonebrood” (Foley et al., <xref rid="ece310918-bib-0023" ref-type="bibr">2014</xref>; Seyedmousavi et al., <xref rid="ece310918-bib-0063" ref-type="bibr">2015</xref>), but some strains may contribute to the suitability of the honey bee's processed food, notably, bee bread, via production of vitamins, enzymes, antimicrobial substances, lipids, and/or organic acids (Kieliszek et al., <xref rid="ece310918-bib-0036" ref-type="bibr">2018</xref>). Such an association shares features with intimate associations between other hymenopterans and fungi, in which cultivated fungal mycelia grow on nutrient sources provided by the insect; examples include leafcutter ants (cf. Mueller et al., <xref rid="ece310918-bib-0045" ref-type="bibr">2001</xref>) and even other bees, such as the Brazilian stingless bee <italic toggle="yes">Scaptotrigona depilis</italic> (Menezes et al., <xref rid="ece310918-bib-0043" ref-type="bibr">2015</xref>).</p><p>The suggestion that honey bees and <italic toggle="yes">A. flavus</italic> may have a similarly lengthy and intimate coevolutionary history is supported by analogy with the relationship between <italic toggle="yes">A. flavus</italic> and <italic toggle="yes">Aspergillus oryzae</italic> (Ahlburg), a fungus involved in soy and sake fermentation that appears to be an ecotype of <italic toggle="yes">A. flavus</italic>, arising via human domestication (Payne et al., <xref rid="ece310918-bib-0054" ref-type="bibr">2006</xref>). Certain aspects of hive conditions and the food sources themselves, however, are generally inhospitable to microbes. Environmental and competitive stress factors in corbicular pollen‐masses and bee bread make widespread fungal growth unlikely. Adverse abiotic properties include low water potential (i.e., xeric substrate), low pH, the presence of propolis, and the competitive pressure and secondary metabolites resulting from the abundance of acidophilic bacteria (Anderson et al., <xref rid="ece310918-bib-0002" ref-type="bibr">2014</xref>).</p><p>Propolis is a resinous material used by honey bees for structural reinforcement, nest repair, and weatherproofing (Bankova et al., <xref rid="ece310918-bib-0005" ref-type="bibr">2000</xref>; Ghisalberti, <xref rid="ece310918-bib-0025" ref-type="bibr">1979</xref>). It is a mixture consisting of plant resins (from leaf buds, young leaves, twigs, or tree bark), honey, wax, and saliva. Propolis has extensive antimicrobial activity, including the inhibition of both bacteria and fungi (Bankova et al., <xref rid="ece310918-bib-0005" ref-type="bibr">2000</xref>; Özcan, <xref rid="ece310918-bib-0050" ref-type="bibr">1999</xref>). Some evidence exists that propolis inhibits the growth of <italic toggle="yes">Aspergillus parasiticus</italic> (Özcan, <xref rid="ece310918-bib-0051" ref-type="bibr">2004</xref>) and prevents the production of aflatoxin B1 in <italic toggle="yes">A. flavus</italic> (Ghaly et al., <xref rid="ece310918-bib-0024" ref-type="bibr">1998</xref>). Honey bees also use propolis to entomb hive invaders too large to remove from the hive after they are stung to death, to prevent corpse decomposition (Simone‐Finstrom &amp; Spivak, <xref rid="ece310918-bib-0066" ref-type="bibr">2010</xref>).</p><p>In addition to the abiotic and biotic stresses exerted by pollen‐masses and bee bread, the colony environment is characterized by year‐round temperatures higher than external ambient temperatures, all of which combine to present a distinct set of challenges for microbes in the hive environment to overcome. Irrespective of the nature of their ecological relationship with honey bees, strains of <italic toggle="yes">A. flavus</italic> likely require a high level of adaptation to coexist with honey bees. In this study, we set out to determine the extent to which members of <italic toggle="yes">Aspergillus flavi</italic> can withstand the distinctive environmental stresses associated with life in honey bee colonies. We isolated two new strains of <italic toggle="yes">A. flavus</italic> from beehives and used agarose, liquid minimal medium, and microplate assays to examine if these strains are adapted to the abiotic stresses found in pollen‐masses, bee bread, and the colony environment. In addition, we generated a partially annotated genome for one of our new bee‐associated <italic toggle="yes">Aspergillus</italic> strains and reviewed the genome for potential genetic signatures related to stress tolerance. We hypothesized that bee‐associated strains would display greater tolerance for colony‐specific environmental stresses and display altered gene sequences in regions related to aflatoxin production and stress tolerance in comparison with <italic toggle="yes">A. flavus</italic> reference strains.</p></sec><sec sec-type="materials-and-methods" id="ece310918-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece310918-sec-0003"><label>2.1</label><title>Obtaining and identifying fungal isolates</title><p>All fungal work was performed in a Purair safety Class II biosafety cabinet (Air Science, Page Park, FL). An atoxigenic strain of <italic toggle="yes">A. flavus</italic>, “AF36,” (NRRL 118543) originally recovered from cotton (Cotty, <xref rid="ece310918-bib-0016" ref-type="bibr">1994</xref>) and under investigation as a possible biocontrol agent in the form of the registered formulation AF36 Prevail® (USEPA, <xref rid="ece310918-bib-0069" ref-type="bibr">2017</xref>) was provided by T. Michailides, University of California‐Davis. This strain has no known association with honey bees, except incidentally during pollination in almond orchards in the California Central Valley, where honey bees provide managed pollination services during bloom periods (February through March).</p><p>Samples of bee bread from UIUC experimental hives were brought back to the laboratory, diluted with tenfold serial dilution, and plated on potato dextrose agar (PDA, Sigma‐Aldrich, St. Louis, MO), which was incubated at room temperature in dark conditions and checked every 24 h for 1 week. We isolated fungal colonies and visually identified them (see Figure <xref rid="ece310918-fig-0001" ref-type="fig">1</xref>) at 800–2000× magnification with an Olympus BX51 microscope with differential interference contrast (DIC) and equipped with an Olympus QColor 3 digital camera. To confirm genus identification, we had the isolate sequenced with ITS1F‐ITS4. This process was performed with the help of Dr. Daniel Raudabaugh, using methods adapted from Raudabaugh et al. (<xref rid="ece310918-bib-0056" ref-type="bibr">2021</xref>). Briefly, DNA was obtained via NaOH extraction (Osmundson et al., <xref rid="ece310918-bib-0049" ref-type="bibr">2012</xref>) from freshly ground mycelium. We conducted polymerase chain reaction (PCR) using a Bio‐Rad PTC 200 thermal cycler with a total reaction volume of 25 μL (12.5 μL GoTaq® Green Master Mix, 1 μL of each 10 μM primer ITSIF and ITS4, 3 μL Tris–HCl‐DNA extraction solution and 7.5 μL DNA free water). Next, we verified our product by gel electrophoresis (1% TBE agarose gel stained with ethidium bromide). The isolate was purified with a PCR Clean‐Up System (Promega). A BigDye® Terminator 3.1 cycle sequencing kit (Applied Biosystems Inc.) was used to sequence the ITS region, and Sequencher 5.1 was used to assist with quality assurance and base‐pair calls. Higher‐level taxonomic groupings were affirmed as in Raudabaugh et al. (<xref rid="ece310918-bib-0056" ref-type="bibr">2021</xref>) (and through visual inspection of conidia morphology), and species determination was made through sequence match using BLASTn against the NCBI (our thresholds for both genus and species identification were &gt;85% query coverage with &gt;93% ID (Wahl et al., <xref rid="ece310918-bib-0071" ref-type="bibr">2018</xref>)). With the specific identity of the isolate confirmed, we started a colony of this strain, hereafter referred to as “AFBB.”</p><fig position="float" fig-type="FIGURE" id="ece310918-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>
+<italic toggle="yes">Aspergillus flavus</italic>. Microscopic image obtained with an Olympus BX51 microscope with differential interference contrast (DIC) equipped with an Olympus QColor 3 digital camera at 800×.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ECE3-14-e10918-g005.jpg"><?image-name ECE3-14-e10918-g005.jpg?><?image-size 119057?><?image-md5 d12815f6bab00cdebcd44d0ecf8a0072?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 744?><?image-original-width 992?><?image-scaled-height 496?><?image-scaled-width 661?><?image-cloudpmc-urn urn:cdn:blobs/dd68/10883247/d12815f6bab0/ECE3-14-e10918-g005.jpg?><?thumb-name ECE3-14-e10918-g005.gif?><?thumb-size 9589?><?thumb-md5 570ad51752116e2db9a96d7c847b91ed?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 106?><?thumb-cloudpmc-urn urn:cdn:blobs/dd68/10883247/570ad5175211/ECE3-14-e10918-g005.gif?></graphic></fig><p>We also obtained a sample of fungus from bees in a private apiary experiencing a stonebrood outbreak (Mahomet, IL, GPS approx. 40.17, −88.41). Fungal samples were obtained via careful scraping from brood cells with visible infections (confirmed by knowledgeable colleagues at the UIUC Honey Bee Research Facility) performed with a sterile probe. Isolate identity was then confirmed based on morphological and molecular data as described. This isolate is referred to hereafter as “AFPA.”</p></sec><sec id="ece310918-sec-0004"><label>2.2</label><title>Verifying strain uniqueness—Mating compatibility assays</title><p>To ascertain whether AFBB, AFPA, and AF36 represent separate strains, we used a method described by Smith (<xref rid="ece310918-bib-0067" ref-type="bibr">1962</xref>) with modifications to assess the compatibility of mating types. Smith's method takes advantage of the fact that changes at the mating gene loci of most ascomycete fungi occur at a dependable rate and result in mating and vegetative incompatibility at the subspecific level between strains. Self‐recognition between separate colonies of the same strain results in zones of growth avoidance to prevent competition. This method involves plating a plug of one strain of <italic toggle="yes">A. flavus</italic> on agarose (Sigma‐Aldrich) along with inoculate from either the same strain or one of the other two strains, repeating with all possible pairings, and observing growth patterns after 72 h.</p></sec><sec id="ece310918-sec-0005"><label>2.3</label><title>Stress assays—Media</title><p>For liquid assays we maintained stocks of inoculate with a spore concentration of ~500 spores/mL. Spore concentrations were calculated using an improved Neubauer hemocytometer (Reichert, Buffalo, NY). Stocks of inoculate were stored at 32°C for up to 2 weeks in low‐light incubators. For any liquid suspensions used in this study, usually 0.1% Tween 80 (Sigma‐Aldrich) was added to prevent clumping. For each assay, we added 10 μL of inoculate. Unless indicated otherwise, liquid medium assays made use of a minimal nutrient medium, incubated at 25.5°C, and placed in a shaker at 180 rpm. The medium (Daniel Raudabaugh [Personal communication, June 1, 2017]) was made using the following recipe (per 1 L of medium): 6 g NaNO<sub>3</sub>, 0.52 g KCl, 0.52 g MgSO<sub>4</sub>·7H<sub>2</sub>O, 1.52 g KH<sub>2</sub>PO<sub>4</sub>, 10 g glucose. Sodium hydroxide was used to adjust pH before addition of glucose. Solid medium‐based assays were completed by transferring a small 2 mm × 2 mm agar plug containing actively growing mycelium onto the surface. The general solid growth medium was PDA incubated in low‐light conditions at 25.5°C.</p><sec id="ece310918-sec-0006"><label>2.3.1</label><title>Temperature assays</title><p>We assessed <italic toggle="yes">A. flavus</italic> tolerance to elevated temperatures using both solid medium and liquid medium. We assayed our isolates at 30°C, 32°C, 34°C, 36°C, 38°C, and 40°C because beehives commonly reach internal temperatures of 35°C and higher (Oertel, <xref rid="ece310918-bib-0048" ref-type="bibr">1949</xref>). For solid medium assays, plates were individually inoculated with one of the three strains, wrapped with Parafilm, and incubated at the target temperature in complete darkness. Fungal growth was measured by taking the mean diameter of the colony in three dimensions (Brancato &amp; Golding, <xref rid="ece310918-bib-0009" ref-type="bibr">1953</xref>) every ~24 h for 5 days. In the liquid medium assays, each strain was grown in Erlenmeyer flasks of liquid medium. After 5 days of incubation, we vacuum‐filtered the contents of each flask, lyophilized the fungal mass in a BUCHI Lyovapor L200 freeze‐dryer (BUCHI Corporation, New Castle, DE), and weighed the dry mass. This process was repeated five times for each strain with each treatment.</p></sec><sec id="ece310918-sec-0007"><label>2.3.2</label><title>pH assays</title><p>To perform qualitative assays for <italic toggle="yes">A. flavus</italic> pH tolerance, Petri dishes with PDA were adjusted to pH of 3, 4, 5, 6, and 7 with NaOH or HCl (Sigma‐Aldrich) and inoculated with fungus—three full sets of plates for each strain of <italic toggle="yes">A. flavus—</italic>and allowed to grow in an incubator at 25.5°C for 72 h, at which point they were visually inspected. Subsequently, the same pH concentrations were repeated in a liquid medium and incubated for 5 days, after which the fungal mass was isolated, dried, and weighed.</p></sec><sec id="ece310918-sec-0008"><label>2.3.3</label><title>Matric potential assays</title><p>A qualitative matric potential experiment was conducted to determine the tolerance of <italic toggle="yes">A. flavus</italic> to matric potential stress, which is a measure of the substrate's attraction for water. Liquid medium was prepared at a gradient of eight water potential levels (in increasing order of substrate attraction for water), 0, −5, −10, −20, −30, −40, −50, and – 60 Mpa, using polyethylene glycol (PEG) 8000 (FS) following the equation:<disp-formula id="ece310918-disp-0001">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mi mathvariant="normal">ψ</mml:mi><mml:mo linebreak="goodbreak">=</mml:mo><mml:mn>1.29</mml:mn><mml:msup><mml:mfenced close="]" open="["><mml:mi>PEG</mml:mi></mml:mfenced><mml:mn>2</mml:mn></mml:msup><mml:mi mathvariant="normal">T</mml:mi><mml:mo linebreak="goodbreak">−</mml:mo><mml:mn>140</mml:mn><mml:msup><mml:mfenced close="]" open="["><mml:mi>PEG</mml:mi></mml:mfenced><mml:mn>2</mml:mn></mml:msup><mml:mo linebreak="goodbreak">−</mml:mo><mml:mn>4.0</mml:mn><mml:mfenced close="]" open="["><mml:mi>PEG</mml:mi></mml:mfenced></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where [PEG] = gram of PEG 8000 per gram of water and T = temperature (°C) (Michel, <xref rid="ece310918-bib-0044" ref-type="bibr">1983</xref>; Raudabaugh &amp; Miller, <xref rid="ece310918-bib-0057" ref-type="bibr">2013</xref>). This assay was repeated three times for each strain, and all samples were incubated in these conditions for 14 days at 25.5°C and then visually assessed. After a visual assessment, the fungal mass was separated, dried, and weighed, as previously described.</p></sec><sec id="ece310918-sec-0009"><label>2.3.4</label><title>Propolis assays</title><p>
+<italic toggle="yes">Aspergillus flavus</italic> growth in the presence of propolis was evaluated with two sets of assays—one using solid medium and one using liquid medium. The PDA assays were adapted from Meneses et al. (<xref rid="ece310918-bib-0042" ref-type="bibr">2009</xref>). Half of the PDA plates contained a filter‐sterilized solution of propolis in 70% ethanol, originally from a 300 mg/L propolis suspension (Y.S. Organic Bee Farms, Sheridan, IL), and the other half contained only filter‐sterilized ethanol. Growth parameters were obtained as in temperature assays (see Section <xref rid="ece310918-sec-0006" ref-type="sec">2.3.1</xref>). This assay was repeated five times for each strain on each treatment. In the liquid medium trials, <italic toggle="yes">A. flavus</italic> of each strain was grown in Erlenmeyer flasks with and without 250 mg/L propolis. All inoculated media were incubated at 25.5°C. Separation, drying, and weighing of the fungal mass were conducted as described.</p></sec><sec id="ece310918-sec-0010"><label>2.3.5</label><title>Statistical methods</title><p>Two‐way Analysis of Variance (ANOVA) models in R v.4.1.1 (R Core Team, <xref rid="ece310918-bib-0055" ref-type="bibr">2021</xref>; RStudio v.0.98.1083, R Foundation, Vienna, Austria) and post‐hoc comparisons were made using a Tukey's least square means procedure to determine statistically significant differences for the quantitative stress assays.</p></sec></sec><sec id="ece310918-sec-0011"><label>2.4</label><title>DNA extraction and sequencing</title><p>DNA extraction for AFBB was completed by following the protocol of Healey et al. (<xref rid="ece310918-bib-0032" ref-type="bibr">2014</xref>). A ZYMO Genomic DNA Clean and Concentrator‐25 kit (Zymo Research, Irvine, CA) was used to clean and concentrate the DNA. Libraries were prepared with the Hyper Library construction kit from Kapa Biosystems (Roche). Genomic DNA was sequenced on an Illumina MiSeq v.2 for paired‐end 250 nucleotide‐ long reads and in the Oxford Nanopore GridION (Oxford Nanopore Technologies, Oxford, UK) with the 48 h sequencing protocol.</p><sec id="ece310918-sec-0012"><label>2.4.1</label><title>Genetic variant analysis</title><p>Illumina short‐reads were first used for a comparative analysis against two different <italic toggle="yes">A. flavus</italic> strains: the official, fully annotated <italic toggle="yes">A. flavus</italic> reference genome (NRRL3357, NCBI accession: JCVI‐afl1‐v3.0), and the <italic toggle="yes">A. flavus</italic> isolate AF36 (NCBI accession: ASM245617v2), used as a control in other assays in this study (Ehrlich &amp; Cotty, <xref rid="ece310918-bib-0021" ref-type="bibr">2004</xref>). Resulting Illumina sequencing reads were first assessed for quality by analyzing the output of MultiQC (Ewels et al., <xref rid="ece310918-bib-0022" ref-type="bibr">2016</xref>). Based on that assessment, all forward and reverse reads were trimmed for the first 15 bases. Bases at the end of reads were trimmed if their Phred (phred33) score was below 36. In addition, reads with average quality scores below 33 were removed. All trimming was done with Trimmomatic v.0.32 (Bolger et al., <xref rid="ece310918-bib-0008" ref-type="bibr">2014</xref>). Reads were mapped to each of the two genomes using bwa‐mem v. 0.7.17‐r1188 (Li, <xref rid="ece310918-bib-0039" ref-type="bibr">2013</xref>). PCR duplicates, not properly paired, and low‐quality mapping reads were removed by first running samtools fixmate to fill in paired read attributes, then marking duplicates with samtools markdup and removing them. Mapped reads with mapping quality below 20 were filtered out (Li, <xref rid="ece310918-bib-0038" ref-type="bibr">2011</xref>). Variants were called with bcftools (Li et al., <xref rid="ece310918-bib-0040" ref-type="bibr">2009</xref>) after creating a mpileup file. The resulting .vcf files were inspected by plotting the available quality metrics individually to evaluate their distribution using R v.4.1.1. Based on that analysis, the variants were filtered according to two metrics: read depth (DP) at a variant position and mapping quality (MQ). Variants with DP greater than twice the mean DP across all the sets and variants with MQ smaller than 40 were removed. The set of filtered variants was then annotated using SnpEff v. snpeff‐4.5covid19‐1 (Cingolani et al., <xref rid="ece310918-bib-0014" ref-type="bibr">2012</xref>).</p></sec><sec id="ece310918-sec-0013"><label>2.4.2</label><title>Genome assembly</title><p>The AFBB draft genome assembly was generated with paired‐end 250 nucleotide‐long reads from Illumina MiSeq v.2. and Oxford Nanopore reads using SPAdes hybrid assembler v.3.13.1 (Bankevich et al., <xref rid="ece310918-bib-0004" ref-type="bibr">2012</xref>) with the following parameters: ‐k 21,33,55,77—careful—only‐assembler. Nanopore reads were first trimmed and filtered with NanoFilt with the options: ‐q 0 –headcrop 5 –tailcrop 3 –readtype 1D. Structural annotation for gene‐coding regions was done with GlimmerHMM v.3.4.0 (Majoros et al., <xref rid="ece310918-bib-0041" ref-type="bibr">2004</xref>) as implemented by QUAST v. 5.0.2 (Gurevich et al., <xref rid="ece310918-bib-0031" ref-type="bibr">2013</xref>). The completeness of coding sequences in the newly generated genome was evaluated with BUSCO v.3, with the fungal Ascomycota_odb9 database (Simão et al., <xref rid="ece310918-bib-0065" ref-type="bibr">2015</xref>).</p></sec></sec></sec><sec sec-type="results" id="ece310918-sec-0014"><label>3</label><title>RESULTS</title><sec id="ece310918-sec-0015"><label>3.1</label><title>Identifying fungal isolates</title><p>The observed morphology of the isolates and results of ITS and BLASTn analysis demonstrated that the two isolates from bee colonies were <italic toggle="yes">A. flavus</italic>. In plates inoculated with only one strain, a clear zone of exclusion appeared, where hyphae did not grow due to the similarity of mating types. However, in all plates with two strains present, growth was unrestricted and undifferentiated (Figure <xref rid="ece310918-fig-0002" ref-type="fig">2</xref>).</p><fig position="float" fig-type="FIGURE" id="ece310918-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>
+<italic toggle="yes">Aspergillus flavus</italic> colonies on PDA—strain AF36 only (L) exhibits zone of exclusion due to similar mating types; AF36 and AFBB (R) on the same plate do not.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ECE3-14-e10918-g008.jpg"><?image-name ECE3-14-e10918-g008.jpg?><?image-size 75943?><?image-md5 5224af1f67d1bbc94ee9cefbc13944d4?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 525?><?image-original-width 1064?><?image-scaled-height 350?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/dd68/10883247/5224af1f67d1/ECE3-14-e10918-g008.jpg?><?thumb-name ECE3-14-e10918-g008.gif?><?thumb-size 11797?><?thumb-md5 0b60f1fcc7cd03e77aeaf8ae530b8273?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 162?><?thumb-cloudpmc-urn urn:cdn:blobs/dd68/10883247/0b60f1fcc7cd/ECE3-14-e10918-g008.gif?></graphic></fig></sec><sec id="ece310918-sec-0016"><label>3.2</label><title>Temperature, pH, matric‐stress, and propolis assays</title><p>No statistically significant differences were detected among the three strains in response to temperature. Growth rates held generally steady across all temperatures tested, typically reaching a diameter of slightly more than 40 mm by the end of solid medium assays and ~ 2.5 g by the end of liquid medium assays (data not shown).</p><p>When the agarose plates were inoculated with AF36, AFPA, and AFBB, both hyphae and green conidia were observed on plates at pH 4 and higher on the AFBB plates within 7 days (Figure <xref rid="ece310918-fig-0003" ref-type="fig">3</xref>). AFBB colonies on the pH 4 treatment exhibited delayed growth relative to higher pH, with conidia appearing ~2 days later, on average. On plates at pH 3, AFBB exhibited visible growth, but colony size was smaller at each time point and its appearance was slightly discolored. Samples inoculated with AF36 and AFPA exhibited healthy growth patterns above pH 5, but they began to exhibit slower, discolored growth at pH 5; growth continued to decline at pH 4, and neither strain grew at pH 3. The pattern of strain response was similar on liquid minimal medium. There were statistically significant main effects for both pH (<italic toggle="yes">F</italic> = 84.66, df = 2, <italic toggle="yes">p</italic> &lt; .001) and fungal strain (<italic toggle="yes">F</italic> = 6.09, df = 2, <italic toggle="yes">p</italic> &lt; .05) after 5 days of incubation. At pH 5, AFBB already showed significantly more tolerance for acidic conditions than either AF36 (<italic toggle="yes">t</italic> = 3.81, df = 4, <italic toggle="yes">p</italic> &lt; .05) or AFPA (<italic toggle="yes">t</italic> = 2.82, df = 4, <italic toggle="yes">p</italic> &lt; .05). At pH 4, AFPA growth was intermediate, and this strain was slightly more tolerant to low pH than AF36 (<italic toggle="yes">t</italic> = 2.70, df = 4, <italic toggle="yes">p</italic> &lt; .05). Neither AF36 nor AFPA produced any visible growth at pH 3 (Figure <xref rid="ece310918-fig-0003" ref-type="fig">3</xref>).</p><fig position="float" fig-type="FIGURE" id="ece310918-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Mean dry weight of <italic toggle="yes">Aspergillus flavus</italic> not associated with honey bees (AF36), from bee bread (AFBB), and pathogenic on honey bees (AFPA) after 5 days in liquid minimal media calibrated to pH 3–7. Results with the same letter are not significantly different.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ECE3-14-e10918-g002.jpg"><?image-name ECE3-14-e10918-g002.jpg?><?image-size 32239?><?image-md5 1526811f086730395a79792195ba34be?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 567?><?image-original-width 1064?><?image-scaled-height 378?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/dd68/10883247/1526811f0867/ECE3-14-e10918-g002.jpg?><?thumb-name ECE3-14-e10918-g002.gif?><?thumb-size 2339?><?thumb-md5 8d63b00f3e30dbd37e7916bde096858f?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 150?><?thumb-cloudpmc-urn urn:cdn:blobs/dd68/10883247/8d63b00f3e30/ECE3-14-e10918-g002.gif?></graphic></fig><p>AFBB exhibited significantly greater growth at low matric potential than did AF36 or AFPA, which did not even produce visible hyphae at −60 or −50 Mpa. However, from −40 to 0 Mpa there were no significant differences among the strains (Figure <xref rid="ece310918-fig-0004" ref-type="fig">4</xref>).</p><fig position="float" fig-type="FIGURE" id="ece310918-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Mean dry weight (±SD) of <italic toggle="yes">Aspergillus flavus</italic> not associated with honey bees (AF36), from bee bread (AFBB), and pathogenic on honey bees (AFPA) after 14 days in liquid minimal media calibrated to matric potential of 0 to −60 Mpa. Asterisks denote significantly different results at the indicated level of matric potential.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="ECE3-14-e10918-g007.jpg"><?image-name ECE3-14-e10918-g007.jpg?><?image-size 54150?><?image-md5 7fa91881d2f6d9a36acfba8f9cab79b9?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 564?><?image-original-width 1064?><?image-scaled-height 376?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/dd68/10883247/7fa91881d2f6/ECE3-14-e10918-g007.jpg?><?thumb-name ECE3-14-e10918-g007.gif?><?thumb-size 2553?><?thumb-md5 cc223f5658a76f804a170a65fc934eed?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 150?><?thumb-cloudpmc-urn urn:cdn:blobs/dd68/10883247/cc223f5658a7/ECE3-14-e10918-g007.gif?></graphic></fig></sec><sec id="ece310918-sec-0017"><label>3.3</label><title>Propolis assays</title><p>On agarose medium, there was a significant negative main effect of propolis on fungal growth after 72 h (<italic toggle="yes">F</italic> = 16.14, df = 1, <italic toggle="yes">p</italic> &lt; .001), although the overall effect of fungal strain was not significantly different across treatments. However, at 72 h, all three strains separated statistically according to the post hoc test (Figure <xref rid="ece310918-fig-0005" ref-type="fig">5</xref>). AFBB was more tolerant of propolis than AFPA (<italic toggle="yes">t</italic> = 1.98, df = 8, <italic toggle="yes">p</italic> &lt; .05) or AF36 (<italic toggle="yes">t</italic> = 3.21, df = 8, <italic toggle="yes">p</italic> &lt; .05), while AFPA exhibited slightly greater tolerance than AF36 to propolis (<italic toggle="yes">t</italic> = 1.99, df = 8, <italic toggle="yes">p</italic> &lt; .05). In the liquid minimal media trials, propolis presence/absence had a significant overall effect (<italic toggle="yes">F</italic> = 9.94, df = 1, <italic toggle="yes">p</italic> &lt; .05). Strain AFBB was more tolerant of propolis than AF36 at 5 days (<italic toggle="yes">t</italic> = 2.34, df = 8, <italic toggle="yes">p</italic> &lt; .05), whereas the tolerance of AFPA was intermediate between AFBB and AF36 (Figure <xref rid="ece310918-fig-0005" ref-type="fig">5</xref>).</p><fig position="float" fig-type="FIGURE" id="ece310918-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Mean growth of <italic toggle="yes">Aspergillus flavus</italic> colonies not associated with honey bees (AF36), from bee bread (AFBB), and pathogenic on honey bees (AFPA) after 48 and 72 h on agarose medium with and without propolis. Results with the same letter are not significantly different. Mean dry weight of <italic toggle="yes">A. flavus</italic> not associated with honey bees (AF36), from bee bread (AFBB), and pathogenic on honey bees (AFPA) after 5 days on liquid minimal medium with and without propolis. Results with the same letter are not significantly different.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="ECE3-14-e10918-g001.jpg"><?image-name ECE3-14-e10918-g001.jpg?><?image-size 45569?><?image-md5 ea9994148bbf2937752650d79a0005f6?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1212?><?image-original-width 1064?><?image-scaled-height 808?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/dd68/10883247/ea9994148bbf/ECE3-14-e10918-g001.jpg?><?thumb-name ECE3-14-e10918-g001.gif?><?thumb-size 2874?><?thumb-md5 b2fd166e802890514dd011c4ef23cbf9?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 114?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/dd68/10883247/b2fd166e8028/ECE3-14-e10918-g001.gif?></graphic></fig></sec><sec id="ece310918-sec-0018"><label>3.4</label><title>Variant analyses</title><p>Sequencing of Illumina libraries resulted in 14,303,365 read pairs. After trimming and filtering 75.63 pairs were retained (10,817.303 reads). Forward‐only surviving reads were 17.34% and reverse‐only surviving reads were 1.6%. Oxford Nanopore sequencing resulted in 2.6 million reads, with most of the reads between 1 kb and 15 kb and with the longest read around 50 kb. After filtering, 88% of the reads were retained. Mapping of the AFBB Illumina short reads to the AF36 genome was slightly better than to the reference NRRL 3357 (98.68% vs. 96.44% total mapped reads, respectively). We identified a total of 17,002 high‐confidence variants between AFBB vs. AF36. Of these, 427 were indels and the rest were SNPs. The majority of variants were located upstream of coding regions within genes (58.1%), or in intergenic regions (25.5%). Only one variant had a possible “high impact” according to snpEff analysis; this variant is an insertion located on a gene coding for a widely conserved, uncharacterized protein (gene ID in AF36: COH20_010776, with 93% similarity to <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-protein" xlink:href="XP_002372685.1">XP_002372685.1</ext-link> in NRRL 3357 reference).</p><p>Between AFBB vs NRRL 3357, we identified 178,908 high‐confidence variant sites with 12,507 INDELS. A large percentage of these variants were located upstream of coding regions (42.7%); there were also many variants downstream of coding regions (41.7%). Variants in intergenic regions accounted for 6.7%. There were 3.3% variants within exons, including exon losses, stop gains or losses, and missense variants (Appendix <xref rid="ece310918-supitem-0001" ref-type="supplementary-material">S1</xref>).</p><p>The most over‐represented gene ontology (GO) terms for genes affected by high‐impact variants between AFBB and NRRL3357 were glutamate biosynthetic process (Biological process; GO:0006537) and extracellular region (Cellular compartment; GO:0044421). Genes with high‐impact variants in the AFBB strain within these GO categories belong to amino acid metabolism, symbiosis, environment communication, environmental sensing, trafficking, and toxin production (Appendix <xref rid="ece310918-supitem-0002" ref-type="supplementary-material">S2</xref>: Table <xref rid="ece310918-supitem-0002" ref-type="supplementary-material">S1</xref>). Within the glutamate biosynthetic pathway, we identified three separate genes encoding pyrroline‐5‐carboxylate dehydrogenase that have high‐impact variants.</p></sec><sec id="ece310918-sec-0019"><label>3.5</label><title>Genome assembly</title><p>To improve comparative power, we generated a draft genome assembly for AFBB using both the paired‐end 250 nt‐long reads from Illumina MiSeq v.2. and Oxford Nanopore reads using SPAdes hybrid assembler (Bankevich et al., <xref rid="ece310918-bib-0004" ref-type="bibr">2012</xref>). Our AFBB draft genome assembly has a total length of 36 Mb in 222 scaffolds (N50 = 1,999,547). Glimmer predicted 19,198 unique mRNAs and 14,122 predicted peptide sequences in the assembly. Both genome size and number of predicted proteins agree with other <italic toggle="yes">A. flavus</italic> assemblies. The lack of continuity in the assembly is likely a result of the initial DNA, which was highly fragmented; several strategies failed to improve the resulting assembly. The BUSCO results with the fungi‐odb9 database with 85 species indicates that most genes were successfully assembled. Universal single‐copy ortholog statistics for this assembly are as follows: Complete: 100.0% Complete and Single: 99.3%, Complete and Duplicate: 0.7%, Fragmented: 0.0%, Missing: 0.0%, total BUSCO groups searched: 290.</p></sec><sec id="ece310918-sec-0020"><label>3.6</label><title>Genetic signatures related to stress tolerance—Osmotolerance genes in AFBB</title><p>We searched for variants in AFBB genes that are part of the high osmolarity glycerol (HOG) pathway and identified 474 SNPs across 13 genes. Although no high‐impact SNPs (according to SNPEff classification) were found, there were 30 SNPs with low‐ to moderate‐impact, of which five were missense variants in the genes encoding SakA and SskB, MAP kinases known to regulate osmotolerance in <italic toggle="yes">Aspergillus</italic> spp. (Duran et al., <xref rid="ece310918-bib-0019" ref-type="bibr">2010</xref>; Tumukunde et al., <xref rid="ece310918-bib-0068" ref-type="bibr">2019</xref>). There were also SNPs in genes encoding a putative glycerol 3‐phosphate dehydrogenase (GfdA), and a putative sensor histidine kinase/response regulator TcsB/Sln1, both of which are regulated by the SakA and SskB MAP kinases in response to osmotic pressure (Appendix <xref rid="ece310918-supitem-0002" ref-type="supplementary-material">S2</xref>: Table <xref rid="ece310918-supitem-0002" ref-type="supplementary-material">S1</xref>). These variants were found when comparing AFBB with the reference NRRL‐3357; there were no variants with effects on these genes in AFBB using AF36 as reference.</p></sec><sec id="ece310918-sec-0021"><label>3.7</label><title>Aflatoxin biosynthesis pathway</title><p>To evaluate the potential ability of AFBB to produce aflatoxin, the newly assembled AFBB genome was mined for the aflatoxin biosynthetic pathway. A gene cluster was found on a ~82 Kbp region in scaffold “Node 12” that contained the 23 core aflatoxin biosynthetic genes (Yu et al., <xref rid="ece310918-bib-0073" ref-type="bibr">2004</xref>). All these genes are also present in NRRL 3357 and AF36 genomes. Synteny conservation and high sequence identity (&gt;85% and up to 99.5%) were found when comparing this region in AFBB to five other published aflatoxin biosynthetic pathways in other <italic toggle="yes">A. flavus</italic> strains (Figure <xref rid="ece310918-fig-0006" ref-type="fig">6</xref>).</p><fig position="float" fig-type="FIGURE" id="ece310918-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>The aflatoxin biosynthetic pathway is <italic toggle="yes">Aspergillus</italic> spp. <italic toggle="yes">A. flavus</italic> REF is strain NRRL 3357 used as reference genome, and <italic toggle="yes">A. parasiticus</italic> REF is strain NRRL 5862 reference genome. The alignment produced by progressiveMauve (Darling et al., <xref rid="ece310918-bib-0018" ref-type="bibr">2010</xref>) shows high synteny in a ~ 73 kb region. The reference <italic toggle="yes">A. flavus</italic> gene models are in green, for all other species and strains the black lines and dashes are the genomic DNA and blue arrows denote coding sequences. NCBI accession for each strain are as follows: <italic toggle="yes">A. parasiticus</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="AY371490.1">AY371490.1</ext-link>); <italic toggle="yes">A. oryzae</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="AB196490.1">AB196490.1</ext-link>); <italic toggle="yes">A. flavus</italic> AF36 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="AY510455.1">AY510455.1</ext-link>); <italic toggle="yes">A. flavus</italic> DMIN (ASM2365363v1); <italic toggle="yes">A. flavus</italic> AF70 (ASM95283v1); <italic toggle="yes">A. flavus</italic> BN008 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="AY510452.1">AY510452.1</ext-link>).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="ECE3-14-e10918-g006.jpg"><?image-name ECE3-14-e10918-g006.jpg?><?image-size 72858?><?image-md5 5f7c64be1ade88cae8166810fbc54c45?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 202?><?image-original-width 1064?><?image-scaled-height 135?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/dd68/10883247/5f7c64be1ade/ECE3-14-e10918-g006.jpg?><?thumb-name ECE3-14-e10918-g006.gif?><?thumb-size 6566?><?thumb-md5 5f9040ed4b62554c260b403713bfdbc9?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 38?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/dd68/10883247/5f9040ed4b62/ECE3-14-e10918-g006.gif?></graphic></fig><p>In AFBB, one of the genes in the aflatoxin biosynthesis pathway, <italic toggle="yes">pksA</italic> (aka <italic toggle="yes">aflC</italic>), that encodes polyketide synthase has a nucleotide substitution G ➔A at nt 593 (Figure <xref rid="ece310918-fig-0007" ref-type="fig">7</xref>). This substitution was previously found in the non‐aflatoxigenic AF36 strain and is known to create a premature stop that truncates the synthesis of PksA in several atoxigenic <italic toggle="yes">A. flavus</italic> strains (Ehrlich &amp; Cotty, <xref rid="ece310918-bib-0021" ref-type="bibr">2004</xref>).</p><fig position="float" fig-type="FIGURE" id="ece310918-fig-0007" orientation="portrait"><label>FIGURE 7</label><caption><p>Region of the <italic toggle="yes">Aspergillus flavus</italic> polyketide synthase A (<italic toggle="yes">pksA</italic>) gene. The <italic toggle="yes">A. flavus</italic> strain NRRL 3357, used as reference, produces aflatoxin. <italic toggle="yes">A. flavus</italic> AF36 does not produce aflatoxin due to a mutation in <italic toggle="yes">pksA</italic> that leads to the TGA stop codon that truncates PksA rendering it non‐functional (Ehrlich &amp; Cotty, <xref rid="ece310918-bib-0021" ref-type="bibr">2004</xref>). We found the same mutation in AFBB.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-15" orientation="portrait" xlink:href="ECE3-14-e10918-g003.jpg"><?image-name ECE3-14-e10918-g003.jpg?><?image-size 194835?><?image-md5 8b4d1bcc8eade575d7b9a1796af1bfa1?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 514?><?image-original-width 1064?><?image-scaled-height 343?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/dd68/10883247/8b4d1bcc8ead/ECE3-14-e10918-g003.jpg?><?thumb-name ECE3-14-e10918-g003.gif?><?thumb-size 7787?><?thumb-md5 9601847d524b225ad01ac183352262a4?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 165?><?thumb-cloudpmc-urn urn:cdn:blobs/dd68/10883247/9601847d524b/ECE3-14-e10918-g003.gif?></graphic></fig></sec></sec><sec sec-type="discussion" id="ece310918-sec-0022"><label>4</label><title>DISCUSSION</title><sec id="ece310918-sec-0023"><label>4.1</label><title>Response to environmental stress factors</title><p>In theory, the properties of bee bread should impose major stresses on microorganisms such as filamentous fungi attempting to colonize it as a habitat. It has very low pH, sometimes as low as 4, and exerts substantial osmotic pressure on fungi because of its low water potential (Herbert Jr. &amp; Shimanuki, <xref rid="ece310918-bib-0034" ref-type="bibr">1978</xref>). The overall results of the bioassays for the effects of propolis, pH, and matric potential are consistent with the hypothesis that the bee‐associated strains AFBB and AFPA, relative to the free‐living AF36 strain, display traits concordant with adaptation to the most distinctive abiotic characteristics of the beehive environment. High temperature does affect certain important metabolic processes and aflatoxin production in <italic toggle="yes">Aspergillus</italic> spp. (Oertel, <xref rid="ece310918-bib-0048" ref-type="bibr">1949</xref>; Schindler et al., <xref rid="ece310918-bib-0062" ref-type="bibr">1967</xref>), but, because typical bee colony conditions are within the suitable range for <italic toggle="yes">A. flavus</italic> (Hedayati et al., <xref rid="ece310918-bib-0033" ref-type="bibr">2007</xref>), our experimental temperatures understandably had no noticeable effects on relative growth of the three strains. Notably, <italic toggle="yes">A. flavus</italic> is a widespread and fast‐adapting species, so attempts to characterize a general ideal temperature for all of our strains may be inaccurate. Depending on the details of the microhabitats in which conidia are typically found, it is possible AF36 could grow at temperatures even higher than the other two strains—this strain exists outside the beehive in areas of central California where soil surface temperature can exceed 55°C. Temperatures this high were not assessed in our study.</p><p>Bee bread is typically fairly acidic in nature. Acidophilic bacteria tolerate pH this low and abound in the gut microflora of honey bees and in bee bread (Anderson et al., <xref rid="ece310918-bib-0003" ref-type="bibr">2013</xref>). Certain aspects of <italic toggle="yes">A. flavus</italic> metabolism and secondary chemical production are likely influenced by pH, including aflatoxin synthesis and production of sclerotia and pigments that protect against other environmental stresses (Chang et al., <xref rid="ece310918-bib-0012" ref-type="bibr">2020</xref>; Cotty, <xref rid="ece310918-bib-0015" ref-type="bibr">1988</xref>). Strain AFBB withstood extremely low pH and even produced few conidia at pH 3. It seems unlikely that low pH alone could prevent AFBB from growing in bee bread. Although the other two strains were technically able to grow at pH 4, they did not produce visible conidia, and the colonies were discolored to brown or red. This discoloration may be due to a lack of DHN‐melanin, an important conidial pigment that is reduced under stressful growth conditions (Pal et al., <xref rid="ece310918-bib-0052" ref-type="bibr">2013</xref>), but further research is needed to confirm this connection. Because AFPA establishes itself within the bodies of larvae and pupae rather than within bee bread (composed largely of tissues from pollen), it presumably encounters different pH conditions. Capped honey bee brood have a hemolymph pH range of 6.60–6.65 (Bishop, <xref rid="ece310918-bib-0007" ref-type="bibr">1923</xref>), and this strain is unlikely to encounter highly acidic conditions as a consequence of infecting the host, as might AFBB in bee bread.</p><p>Bee bread is a xeric substrate that exerts significant osmotic pressure on microbes attempting to colonize it. We used polyethylene glycol in an aqueous substrate in order to simulate pressure from low matric potential. All three strains of <italic toggle="yes">A. flavus</italic> showed a high degree of tolerance for osmotic pressure, but AFBB tolerated conditions of −60 Mpa. This is a very low matric potential that likely lends strain AFBB the ability to withstand great osmotic stress. Water availability and electrolyte balance are critical for fungal metabolism (Holmquist et al., <xref rid="ece310918-bib-0035" ref-type="bibr">1983</xref>). <italic toggle="yes">Aspergillus flavus</italic> is ancestrally a soil fungus (Amaike &amp; Keller, <xref rid="ece310918-bib-0001" ref-type="bibr">2011</xref>), and AF36 is used for attempted biocontrol of toxigenic <italic toggle="yes">A. flavus</italic> strains in semi‐arid and Mediterranean agroecosystems in Arizona and California (Cotty, <xref rid="ece310918-bib-0016" ref-type="bibr">1994</xref>); sandy soils and other substrates that would typically be considered inhospitable rarely reach matric potential below −20 Mpa (Chowdhury et al., <xref rid="ece310918-bib-0013" ref-type="bibr">2011</xref>). Thus, the high tolerance for the osmotic pressure of bee bread is consistent with the ecology of <italic toggle="yes">A. flavus</italic>, although the tolerance of AFBB is higher than previously noted for <italic toggle="yes">Aspergillus</italic> species (Giorni et al., <xref rid="ece310918-bib-0030" ref-type="bibr">2008</xref>; Nesci et al., <xref rid="ece310918-bib-0046" ref-type="bibr">2004</xref>).</p><p>Propolis has known fungistatic properties that may help both to exclude harmful microbiota and promote beneficial bacterial flora in the colony (Dalenberg et al., <xref rid="ece310918-bib-0017" ref-type="bibr">2020</xref>; Özcan, <xref rid="ece310918-bib-0051" ref-type="bibr">2004</xref>). While the reduced growth of AF36 in the presence of even low concentrations of propolis is consistent with its fungistatic properties, the two bee colony strains responded to stress conditions differently. Strain AFBB showed significant tolerance for propolis in two different media, whereas AFPA displayed signs of tolerance in bioassays only on agarose. Either strain might encounter propolis via direct contact with the walls of the comb or via transfer from adult bees. Additionally, Niu et al. (<xref rid="ece310918-bib-0047" ref-type="bibr">2010</xref>) demonstrated a possible role for propolis in ameliorating the adverse effects of aflatoxins such as aflatoxin B1, produced by <italic toggle="yes">A. flavus</italic>, on bee health, by enhancing the activity of cytochrome P450 detoxification enzymes. The fact that there are signs of adaptation on both sides of this relationship suggests a possible history of coevolution in the dynamic between some <italic toggle="yes">Aspergillus</italic> isolates and honey bees.</p></sec><sec id="ece310918-sec-0024"><label>4.2</label><title>Potential genetic signatures related to stress tolerance</title><p>Although the high fragmentation of the AFBB draft assembly prevented a full comparison between AFBB and other available <italic toggle="yes">A. flavus</italic> genome assemblies, we could identify a set of variants that could be consequential. There were 178,908 high‐impact SNPs found in the AFBB strain using the aflatoxin‐producing NRLL 3357 as reference. Using gene ontology enrichment, we saw that several specific biological pathways and cellular processes were significantly enriched for these variants in AFBB. Seen collectively, these processes are all associated with host–microbe interactions, suggesting that AFBB and NRRL 3357 differ primarily in how they interact with the hive environment.</p><p>Strain AFBB shares a polymorphism in the polyketide synthase gene seen in some other atoxigenic strains of fungi. Strain AF36, for instance, has a polymorphism in the gene <italic toggle="yes">pksA</italic>, altering a G to an A, which is sufficient to prevent all aflatoxin production; this is in addition to other amino acid changes in proteins encoded by <italic toggle="yes">hexA</italic> and <italic toggle="yes">hexB</italic> that involve biosynthesis of aflatoxin precursors (c.f. Ehrlich &amp; Cotty, <xref rid="ece310918-bib-0021" ref-type="bibr">2004</xref>). If AFBB is indeed atoxigenic—in addition to the substantial tolerance it displays toward multiple environmental stresses in the colony—it may have a lengthy evolutionary history with honey bees. This hypothesis is consistent with the suggestion that <italic toggle="yes">A. flavus</italic>, among other mold species commonly found in bee bread, produces enzymes associated with fermentation of bee pollen (Gilliam &amp; Prest, <xref rid="ece310918-bib-0028" ref-type="bibr">1989</xref>).</p></sec><sec id="ece310918-sec-0025"><label>4.3</label><title>Parallel examples of co‐evolution among fungi and other bee species</title><p>There may be a parallel example of impacts of fungal domestication for food production by bees in the history of <italic toggle="yes">A. flavus</italic> domestication for food production by humans. Gibbons et al. (<xref rid="ece310918-bib-0026" ref-type="bibr">2012</xref>) described the origins of <italic toggle="yes">A. oryzae</italic>, a (possibly cultivated) ecotype of <italic toggle="yes">A. flavus</italic> now used for fermentation of food products such as sake and soy sauce, which could be seen as paralleling the process by which fermented food sources are processed and consumed in the beehive. The unusual resistance of honey bees to mycotoxins, especially aflatoxins, suggests a long‐standing coevolutionary relationship with <italic toggle="yes">Aspergillus</italic> species (Niu et al., <xref rid="ece310918-bib-0047" ref-type="bibr">2010</xref>). Parish et al. (<xref rid="ece310918-bib-0053" ref-type="bibr">2020</xref>) reported that honey bees may even graze on fungal spores or conidia for nutritional benefits, which supports a hypothesis of coevolution. Other species of bees have associations with fungi, and interactions between bees and nonpathogenic fungi range from obligate mutualisms and grazing to complex effects on bee behavior (Menezes et al., <xref rid="ece310918-bib-0043" ref-type="bibr">2015</xref>; Rutkowski et al., <xref rid="ece310918-bib-0059" ref-type="bibr">2023</xref>).</p><p>There are explanations for these findings other than a hypothetical mutualism between honey bees and <italic toggle="yes">A. flavus</italic> that have not been addressed experimentally in this study. Mutualistic coevolution with the honey bee, e.g., is not the only possible explanation for reduced mycotoxin production, either in the short term or over evolutionary history. Heavy competition with other fungi, especially congeners, can also lead to reduced production of aflatoxin, apparently to divert resources from defense to enhanced growth (Ehrlich, <xref rid="ece310918-bib-0020" ref-type="bibr">1987</xref>, Sarrocco et al., <xref rid="ece310918-bib-0060" ref-type="bibr">2019</xref>, Schamann et al., <xref rid="ece310918-bib-0061" ref-type="bibr">2021</xref>). Notwithstanding, the findings of this study suggest that indiscriminate usage of fungicides may lead to non‐target effects on fungi in the beehive environment that influence bee health (vanEngelsdorp et al., <xref rid="ece310918-bib-0070" ref-type="bibr">2009</xref>; Yoder et al., <xref rid="ece310918-bib-0072" ref-type="bibr">2017</xref>). Because bee bread and pollen are plant‐derived and also host many other organisms, further investigation of the genome of AFBB and bioassays using bacterial and plant secondary compounds or live bees could help elucidate the role of this strain in the rich microbiome of the <italic toggle="yes">A. mellifera</italic> colony.</p></sec></sec><sec id="ece310918-sec-0030"><title>AUTHOR CONTRIBUTIONS</title><p>
+<bold>Daniel S. Bush:</bold> Conceptualization (equal); data curation (equal); formal analysis (equal); investigation (equal); methodology (equal); resources (equal); software (equal); validation (equal); visualization (equal); writing – original draft (equal); writing – review and editing (equal). <bold>Bernarda Calla:</bold> Conceptualization (equal); data curation (equal); formal analysis (equal); funding acquisition (equal); investigation (equal); methodology (equal); resources (equal); software (equal); validation (equal); visualization (equal); writing – original draft (equal); writing – review and editing (equal). <bold>May R. Berenbaum:</bold> Conceptualization (equal); funding acquisition (equal); project administration (equal); supervision (equal); writing – original draft (equal); writing – review and editing (equal).</p></sec><sec sec-type="COI-statement" id="ece310918-sec-0027"><title>CONFLICT OF INTEREST STATEMENT</title><p>None declared.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="ece310918-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+Appendix S1
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ECE3-14-e10918-s002.zip" position="float" orientation="portrait"><?suppdata-name ECE3-14-e10918-s002.zip?><?suppdata-size 98618?><?suppdata-md5 f405715d47745ff7b3f5f2d0989477de?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type zip?><?suppdata-cloudpmc-urn urn:app:dd68/10883247/f405715d4774/ECE3-14-e10918-s002.zip?></media></supplementary-material><supplementary-material id="ece310918-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+Appendix S2
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ECE3-14-e10918-s001.zip" position="float" orientation="portrait"><?suppdata-name ECE3-14-e10918-s001.zip?><?suppdata-size 2568933?><?suppdata-md5 29a1ee35efd5b577cbae38efeabca172?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type zip?><?suppdata-cloudpmc-urn urn:app:dd68/10883247/29a1ee35efd5/ECE3-14-e10918-s001.zip?></media></supplementary-material></sec></body><back><ack id="ece310918-sec-0026"><title>ACKNOWLEDGEMENTS</title><p>This project was funded by USDA‐AFRI AG2017‐67013‐265337 to MRB and USDA‐AFRI 2021–67013–33557 to MRB and BC. We are particularly thankful to Dr. Daniel Raudabaugh for advice regarding bioassays, assistance with analysis and preparation of AFBB samples for sequencing, and thorough review of this manuscript. We are grateful to Dr. Andrew Miller for the occasional use of his laboratory facilities and to Dr. Ling‐Hsiu Liao and Dr. Elizabeth Bach for helping to acquire AFBB isolates.</p></ack><sec sec-type="data-availability" id="ece310918-sec-0029"><title>DATA AVAILABILITY STATEMENT</title><p>DNA sequencing data are available at the NCBI SRA (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/sra" ext-link-type="uri" specific-use="software is-supplemented-by">https://www.ncbi.nlm.nih.gov/sra</ext-link>).</p><p>Other data referenced in the appendices are separately deposited in the Illinois Data Bank, University of Illinois Library (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://databank.illinois.edu/" ext-link-type="uri" specific-use="software is-supplemented-by">https://databank.illinois.edu/</ext-link>) at the persistent link <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.13012/B2IDB-7212497_V1" ext-link-type="uri" specific-use="dataset is-supplemented-by">https://doi.org/10.13012/B2IDB‐7212497_V1</ext-link>. NCBI access numbers for the fungal genome sequence in this paper are as follows: SubmissionID: SUB11750690; BioProject ID: PRJNA857094.</p></sec><ref-list content-type="cited-references" id="ece310918-bibl-0001"><title>REFERENCES</title><ref id="ece310918-bib-0001"><mixed-citation publication-type="journal" id="ece310918-cit-0001">
+<string-name name-style="western">
+<surname>Amaike</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Keller</surname>, <given-names>N. P.</given-names>
+</string-name> (<year>2011</year>). <article-title>
+Aspergillus flavus
+</article-title>. <source>Annual Review of Phytopathology</source>, <volume>49</volume>, <fpage>107</fpage>–<lpage>133</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev-phyto-072910-095221</pub-id><pub-id pub-id-type="pmid">21513456</pub-id></mixed-citation></ref><ref id="ece310918-bib-0002"><mixed-citation publication-type="journal" id="ece310918-cit-0002">
+<string-name name-style="western">
+<surname>Anderson</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carroll</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sheehan</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mott</surname>, <given-names>B. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maes</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Corby‐Harris</surname>, <given-names>V.</given-names>
+</string-name> (<year>2014</year>). <article-title>Hive‐stored pollen of honey bees: Many lines of evidence are consistent with pollen preservation, not nutrient conversion</article-title>. <source>Molecular Ecology</source>, <volume>23</volume>, <fpage>5904</fpage>–<lpage>5917</lpage>.<pub-id pub-id-type="pmid">25319366</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/mec.12966</pub-id><pub-id pub-id-type="pmcid">PMC4285803</pub-id></mixed-citation></ref><ref id="ece310918-bib-0003"><mixed-citation publication-type="journal" id="ece310918-cit-0003">
+<string-name name-style="western">
+<surname>Anderson</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sheehan</surname>, <given-names>T. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mott</surname>, <given-names>B. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maes</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Snyder</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scwhan</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walton</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>, <given-names>B. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Corby‐Harris</surname>, <given-names>V.</given-names>
+</string-name> (<year>2013</year>). <article-title>Microbial ecology of the hive and pollination landscape: Bacterial associates from floral nectar, the alimentary tract and stored food of honey bees (<italic toggle="yes">Apis mellifera</italic>)</article-title>. <source>PLoS One</source>, <volume>8</volume>, <elocation-id>e83125</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0083125</pub-id>
+<pub-id pub-id-type="pmid">24358254</pub-id>
+<pub-id pub-id-type="pmcid">PMC3866269</pub-id></mixed-citation></ref><ref id="ece310918-bib-0004"><mixed-citation publication-type="journal" id="ece310918-cit-0004">
+<string-name name-style="western">
+<surname>Bankevich</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nurk</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Antipov</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gurevich</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dvorkin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kulikov</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lesin</surname>, <given-names>V. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nikolenko</surname>, <given-names>S. I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pham</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prjibelski</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pyshkin</surname>, <given-names>A. V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sirotkin</surname>, <given-names>A. V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vyahhi</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tesler</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alekseyev</surname>, <given-names>M. A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Pevzner</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2012</year>). <article-title>SPAdes: A new genome assembly algorithm and its applications to single‐cell sequencing</article-title>. <source>Journal of Computational Biology</source>, <volume>19</volume>, <fpage>455</fpage>–<lpage>477</lpage>.<pub-id pub-id-type="pmid">22506599</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/cmb.2012.0021</pub-id><pub-id pub-id-type="pmcid">PMC3342519</pub-id></mixed-citation></ref><ref id="ece310918-bib-0005"><mixed-citation publication-type="journal" id="ece310918-cit-0005">
+<string-name name-style="western">
+<surname>Bankova</surname>, <given-names>V. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Castro</surname>, <given-names>S. L.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Marcucci</surname>, <given-names>M. C.</given-names>
+</string-name> (<year>2000</year>). <article-title>Propolis: Recent advances in chemistry and plant origin</article-title>. <source>Apidologie</source>, <volume>31</volume>, <fpage>3</fpage>–<lpage>15</lpage>.</mixed-citation></ref><ref id="ece310918-bib-0006"><mixed-citation publication-type="journal" id="ece310918-cit-0006">
+<string-name name-style="western">
+<surname>Becchimanzi</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Nicoletti</surname>, <given-names>R.</given-names>
+</string-name> (<year>2022</year>). <article-title>
+<italic toggle="yes">Aspergillus</italic>‐bees: A dynamic symbiotic association</article-title>. <source>Frontiers in Microbiology</source>, <volume>13</volume>, <elocation-id>968963</elocation-id>. <pub-id pub-id-type="doi">10.3389/fmicb.2022.968963</pub-id>
+<pub-id pub-id-type="pmid">36160228</pub-id>
+<pub-id pub-id-type="pmcid">PMC9489833</pub-id></mixed-citation></ref><ref id="ece310918-bib-0007"><mixed-citation publication-type="journal" id="ece310918-cit-0007">
+<string-name name-style="western">
+<surname>Bishop</surname>, <given-names>G. H.</given-names>
+</string-name> (<year>1923</year>). <article-title>Body fluid of the honey bee larva. I. Osmotic pressure, specific gravity, pH, O<sub>2</sub> capacity, CO<sub>2</sub> capacity, and buffer value, and their changes with larval activity and metamorphosis</article-title>. <source>Journal of Biological Chemistry</source>, <volume>58</volume>, <fpage>543</fpage>–<lpage>565</lpage>.</mixed-citation></ref><ref id="ece310918-bib-0008"><mixed-citation publication-type="journal" id="ece310918-cit-0008">
+<string-name name-style="western">
+<surname>Bolger</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lohse</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Usadel</surname>, <given-names>B.</given-names>
+</string-name> (<year>2014</year>). <article-title>Trimmomatic: A flexible trimmer for Illumina sequence data</article-title>. <source>Bioinformatics</source>, <volume>30</volume>, <fpage>2114</fpage>–<lpage>2120</lpage>.<pub-id pub-id-type="pmid">24695404</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btu170</pub-id><pub-id pub-id-type="pmcid">PMC4103590</pub-id></mixed-citation></ref><ref id="ece310918-bib-0009"><mixed-citation publication-type="journal" id="ece310918-cit-0009">
+<string-name name-style="western">
+<surname>Brancato</surname>, <given-names>F. P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Golding</surname>, <given-names>N. S.</given-names>
+</string-name> (<year>1953</year>). <article-title>The diameter of the mold colony as a reliable measure of growth</article-title>. <source>Mycological Society of America</source>, <volume>45</volume>, <fpage>848</fpage>–<lpage>864</lpage>.</mixed-citation></ref><ref id="ece310918-bib-0010"><mixed-citation publication-type="journal" id="ece310918-cit-0010">
+<string-name name-style="western">
+<surname>Callegari</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crotti</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fusi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marasco</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gonella</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Noni</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romano</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsiamis</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cherif</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alma</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Daffonchio</surname>, <given-names>D.</given-names>
+</string-name> (<year>2021</year>). <article-title>Compartmentalization of bacterial and fungal microbiomes in the gut of adult honeybees</article-title>. <source>npj Biofilms and Microbiomes</source>, <volume>7</volume>, <fpage>42</fpage>. <pub-id pub-id-type="doi">10.1038/s41522-021-00212-9</pub-id>
+<pub-id pub-id-type="pmid">33963194</pub-id>
+<pub-id pub-id-type="pmcid">PMC8105395</pub-id></mixed-citation></ref><ref id="ece310918-bib-0012"><mixed-citation publication-type="journal" id="ece310918-cit-0012">
+<string-name name-style="western">
+<surname>Chang</surname>, <given-names>P. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cary</surname>, <given-names>J. W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Lebar</surname>, <given-names>M. D.</given-names>
+</string-name> (<year>2020</year>). <article-title>Biosynthesis of conidial and sclerotial pigments in <italic toggle="yes">Aspergillus</italic> species</article-title>. <source>Applied Microbiology and Biotechnology</source>, <volume>104</volume>, <fpage>2277</fpage>–<lpage>2286</lpage>.<pub-id pub-id-type="pmid">31974722</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00253-020-10347-y</pub-id></mixed-citation></ref><ref id="ece310918-bib-0013"><mixed-citation publication-type="journal" id="ece310918-cit-0013">
+<string-name name-style="western">
+<surname>Chowdhury</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marschner</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Burns</surname>, <given-names>R.</given-names>
+</string-name> (<year>2011</year>). <article-title>Response of microbial activity and community structure to decreasing soil osmotic and matric potential</article-title>. <source>Plant and Soil</source>, <volume>344</volume>, <fpage>241</fpage>–<lpage>254</lpage>.</mixed-citation></ref><ref id="ece310918-bib-0014"><mixed-citation publication-type="journal" id="ece310918-cit-0014">
+<string-name name-style="western">
+<surname>Cingolani</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Platts</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>L. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coon</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nguyen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Land</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>, <given-names>X.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Ruden</surname>, <given-names>D. M.</given-names>
+</string-name> (<year>2012</year>). <article-title>A program for annotating and predicting the effects of single nucleotide polymorphisms, SnpEff</article-title>. <source>Fly</source>, <volume>6</volume>, <fpage>80</fpage>–<lpage>92</lpage>.<pub-id pub-id-type="pmid">22728672</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4161/fly.19695</pub-id><pub-id pub-id-type="pmcid">PMC3679285</pub-id></mixed-citation></ref><ref id="ece310918-bib-0015"><mixed-citation publication-type="journal" id="ece310918-cit-0015">
+<string-name name-style="western">
+<surname>Cotty</surname>, <given-names>P. J.</given-names>
+</string-name> (<year>1988</year>). <article-title>Aflatoxin and sclerotial production by <italic toggle="yes">Aspergillus flavus</italic>: Influence of pH</article-title>. <source>Phytopathology</source>, <volume>78</volume>, <fpage>1250</fpage>–<lpage>1253</lpage>.</mixed-citation></ref><ref id="ece310918-bib-0016"><mixed-citation publication-type="journal" id="ece310918-cit-0016">
+<string-name name-style="western">
+<surname>Cotty</surname>, <given-names>P. J.</given-names>
+</string-name> (<year>1994</year>). <article-title>Influence of field application of an atoxigenic strain of <italic toggle="yes">Aspergillus flavus</italic> on the populations of <italic toggle="yes">A. flavus</italic> infecting cotton bolls and on aflatoxin content of cottonseed</article-title>. <source>Phytopathology</source>, <volume>84</volume>, <fpage>1270</fpage>–<lpage>1277</lpage>.</mixed-citation></ref><ref id="ece310918-bib-0017"><mixed-citation publication-type="journal" id="ece310918-cit-0017">
+<string-name name-style="western">
+<surname>Dalenberg</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maes</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mott</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anderson</surname>, <given-names>K. E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Spivak</surname>, <given-names>M.</given-names>
+</string-name> (<year>2020</year>). <article-title>Propolis envelope promotes beneficial bacteria in the honey bee (<italic toggle="yes">Apis mellifera</italic>) mouthpart microbiome</article-title>. <source>Insects</source>, <volume>11</volume>, <elocation-id>453</elocation-id>. <pub-id pub-id-type="doi">10.3390/insects11070453</pub-id>
+<pub-id pub-id-type="pmid">32708479</pub-id>
+<pub-id pub-id-type="pmcid">PMC7412495</pub-id></mixed-citation></ref><ref id="ece310918-bib-0018"><mixed-citation publication-type="journal" id="ece310918-cit-0018">
+<string-name name-style="western">
+<surname>Darling</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mau</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Perna</surname>, <given-names>N. T.</given-names>
+</string-name> (<year>2010</year>). <article-title>progressiveMauve: Multiple genome alignment with gene gain, loss and rearrangement</article-title>. <source>PLoS One</source>, <volume>5</volume>, <elocation-id>e11147</elocation-id>.<pub-id pub-id-type="pmid">20593022</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0011147</pub-id><pub-id pub-id-type="pmcid">PMC2892488</pub-id></mixed-citation></ref><ref id="ece310918-bib-0019"><mixed-citation publication-type="journal" id="ece310918-cit-0019">
+<string-name name-style="western">
+<surname>Duran</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cary</surname>, <given-names>J. W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Calvo</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2010</year>). <article-title>Role of the osmotic stress regulatory pathway in morphogenesis and secondary metabolism in filamentous fungi</article-title>. <source>Toxins</source>, <volume>2</volume>, <fpage>367</fpage>–<lpage>381</lpage>.<pub-id pub-id-type="pmid">22069590</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/toxins2040367</pub-id><pub-id pub-id-type="pmcid">PMC3153207</pub-id></mixed-citation></ref><ref id="ece310918-bib-0020"><mixed-citation publication-type="journal" id="ece310918-cit-0020">
+<string-name name-style="western">
+<surname>Ehrlich</surname>, <given-names>K.</given-names>
+</string-name> (<year>1987</year>). <article-title>Effect on aflatoxin production of competition between wild‐type and mutant strains of <italic toggle="yes">aspergillus parasiticus</italic>
+</article-title>. <source>Mycopathologia</source>, <volume>97</volume>, <fpage>93</fpage>–<lpage>96</lpage>.<pub-id pub-id-type="pmid">3574436</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF00436844</pub-id></mixed-citation></ref><ref id="ece310918-bib-0021"><mixed-citation publication-type="journal" id="ece310918-cit-0021">
+<string-name name-style="western">
+<surname>Ehrlich</surname>, <given-names>K. C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Cotty</surname>, <given-names>P. J.</given-names>
+</string-name> (<year>2004</year>). <article-title>An isolate of <italic toggle="yes">Aspergillus flavus</italic> used to reduce aflatoxin contamination in cottonseed has a defective polyketide synthase gene</article-title>. <source>Applied Microbiology and Biotechnology</source>, <volume>65</volume>, <fpage>473</fpage>–<lpage>478</lpage>.<pub-id pub-id-type="pmid">15235754</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00253-004-1670-y</pub-id></mixed-citation></ref><ref id="ece310918-bib-0022"><mixed-citation publication-type="journal" id="ece310918-cit-0022">
+<string-name name-style="western">
+<surname>Ewels</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Magnusson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lundin</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Käller</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>). <article-title>MultiQC: Summarize analysis results for multiple tools and samples in a single report</article-title>. <source>Bioinformatics</source>, <volume>32</volume>, <fpage>3047</fpage>–<lpage>3048</lpage>.<pub-id pub-id-type="pmid">27312411</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btw354</pub-id><pub-id pub-id-type="pmcid">PMC5039924</pub-id></mixed-citation></ref><ref id="ece310918-bib-0023"><mixed-citation publication-type="journal" id="ece310918-cit-0023">
+<string-name name-style="western">
+<surname>Foley</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fazio</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jensen</surname>, <given-names>A. B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Hughes</surname>, <given-names>W. O.</given-names>
+</string-name> (<year>2014</year>). <article-title>The distribution of <italic toggle="yes">Aspergillus</italic> spp. opportunistic parasites in hives and their pathogenicity to honey bees</article-title>. <source>Veterinary Microbiology</source>, <volume>169</volume>, <fpage>203</fpage>–<lpage>210</lpage>.<pub-id pub-id-type="pmid">24485932</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.vetmic.2013.11.029</pub-id></mixed-citation></ref><ref id="ece310918-bib-0024"><mixed-citation publication-type="journal" id="ece310918-cit-0024">
+<string-name name-style="western">
+<surname>Ghaly</surname>, <given-names>M. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ezzat</surname>, <given-names>S. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Sarhan</surname>, <given-names>M. M.</given-names>
+</string-name> (<year>1998</year>). <article-title>Use of propolis and ultragriseofulvin to inhibit aflatoxigenic fungi</article-title>. <source>Folia Microbiologica</source>, <volume>43</volume>, <fpage>156</fpage>–<lpage>160</lpage>.<pub-id pub-id-type="pmid">9721607</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF02816502</pub-id></mixed-citation></ref><ref id="ece310918-bib-0025"><mixed-citation publication-type="journal" id="ece310918-cit-0025">
+<string-name name-style="western">
+<surname>Ghisalberti</surname>, <given-names>E. L.</given-names>
+</string-name> (<year>1979</year>). <article-title>Propolis: A review</article-title>. <source>Bee World</source>, <volume>60</volume>, <fpage>59</fpage>–<lpage>84</lpage>.</mixed-citation></ref><ref id="ece310918-bib-0026"><mixed-citation publication-type="journal" id="ece310918-cit-0026">
+<string-name name-style="western">
+<surname>Gibbons</surname>, <given-names>J. G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salichos</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Slot</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rinker</surname>, <given-names>D. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McGary</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>King</surname>, <given-names>J. G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klich</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tabb</surname>, <given-names>D. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDonald</surname>, <given-names>W. H.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Rokas</surname>, <given-names>A.</given-names>
+</string-name> (<year>2012</year>). <article-title>The evolutionary imprint of domestication on genome variation and function of the filamentous fungus <italic toggle="yes">Aspergillus oryzae</italic>
+</article-title>. <source>Current Biology</source>, <volume>22</volume>, <fpage>1403</fpage>–<lpage>1409</lpage>.<pub-id pub-id-type="pmid">22795693</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cub.2012.05.033</pub-id><pub-id pub-id-type="pmcid">PMC3416971</pub-id></mixed-citation></ref><ref id="ece310918-bib-0027"><mixed-citation publication-type="journal" id="ece310918-cit-0027">
+<string-name name-style="western">
+<surname>Gilliam</surname>, <given-names>M.</given-names>
+</string-name> (<year>1997</year>). <article-title>Identification and roles of non‐pathogenic microflora associated with honey bees</article-title>. <source>FEMS Microbiology Letters</source>, <volume>155</volume>, <fpage>1</fpage>–<lpage>10</lpage>.</mixed-citation></ref><ref id="ece310918-bib-0028"><mixed-citation publication-type="journal" id="ece310918-cit-0028">
+<string-name name-style="western">
+<surname>Gilliam</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prest</surname>
+<given-names>DB</given-names>
+</string-name>, Lorenz (<year>1989</year>) <article-title>Microbiology of pollen and bee bread: Taxonomy and enzymology of molds</article-title>. <source>Apidology</source>
+<volume>20</volume>: <fpage>53</fpage>–<lpage>68</lpage>.</mixed-citation></ref><ref id="ece310918-bib-0029"><mixed-citation publication-type="journal" id="ece310918-cit-0029">
+<string-name name-style="western">
+<surname>Gilliam</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prest</surname>, <given-names>D. B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Morton</surname>, <given-names>H. L.</given-names>
+</string-name> (<year>1974</year>). <article-title>Fungi isolated from honey bees, <italic toggle="yes">Apis mellifera</italic>, fed 2, 4‐D and antibiotics</article-title>. <source>Journal of Invertebrate Pathology</source>, <volume>21</volume>, <fpage>213</fpage>–<lpage>217</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0022-2011(74)90013-5</pub-id><pub-id pub-id-type="pmid">4413522</pub-id></mixed-citation></ref><ref id="ece310918-bib-0030"><mixed-citation publication-type="journal" id="ece310918-cit-0030">
+<string-name name-style="western">
+<surname>Giorni</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Battilani</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Magan</surname>, <given-names>N.</given-names>
+</string-name> (<year>2008</year>). <article-title>Effect of solute and matric potential on <italic toggle="yes">in vitro</italic> growth and sporulation of strains from a new population of <italic toggle="yes">Aspergillus flavus</italic> isolated in Italy</article-title>. <source>Fungal Ecology</source>, <volume>1</volume>(<issue>1‐2</issue>), <fpage>102</fpage>–<lpage>106</lpage>.</mixed-citation></ref><ref id="ece310918-bib-0031"><mixed-citation publication-type="journal" id="ece310918-cit-0031">
+<string-name name-style="western">
+<surname>Gurevich</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saveliev</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vyahhi</surname>, <given-names>N.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Tesler</surname>, <given-names>G.</given-names>
+</string-name> (<year>2013</year>). <article-title>QUAST: Quality assessment tool for genome assemblies</article-title>. <source>Bioinformatics</source>, <volume>29</volume>, <fpage>1072</fpage>–<lpage>1075</lpage>.<pub-id pub-id-type="pmid">23422339</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btt086</pub-id><pub-id pub-id-type="pmcid">PMC3624806</pub-id></mixed-citation></ref><ref id="ece310918-bib-0032"><mixed-citation publication-type="journal" id="ece310918-cit-0032">
+<string-name name-style="western">
+<surname>Healey</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Furtado</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cooper</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Henry</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Protocol: A simple method for extracting next‐ generation sequencing quality genomic DNA from recalcitrant plant species</article-title>. <source>Plant Methods</source>, <volume>10</volume>, <elocation-id>21</elocation-id>. <pub-id pub-id-type="doi">10.1186/1746-4811-10-21</pub-id>
+<pub-id pub-id-type="pmid">25053969</pub-id>
+<pub-id pub-id-type="pmcid">PMC4105509</pub-id></mixed-citation></ref><ref id="ece310918-bib-0033"><mixed-citation publication-type="journal" id="ece310918-cit-0033">
+<string-name name-style="western">
+<surname>Hedayati</surname>, <given-names>M. T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pasqualotto</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Warn</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bowyer</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Denning</surname>, <given-names>D. W.</given-names>
+</string-name> (<year>2007</year>). <article-title>
+<italic toggle="yes">Aspergillus flavus</italic>: Human pathogen, allergen, and mycotoxin producer</article-title>. <source>Microbiology</source>, <volume>153</volume>, <fpage>1677</fpage>–<lpage>1692</lpage>. <pub-id pub-id-type="doi">10.1099/mic.0.2007/007641-0</pub-id>
+<pub-id pub-id-type="pmid">17526826</pub-id>
+</mixed-citation></ref><ref id="ece310918-bib-0034"><mixed-citation publication-type="journal" id="ece310918-cit-0034">
+<string-name name-style="western">
+<surname>Herbert</surname>, <given-names>E. W.</given-names>, <suffix>Jr.</suffix>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Shimanuki</surname>, <given-names>H.</given-names>
+</string-name> (<year>1978</year>). <article-title>Chemical composition and nutritive value of bee‐collected and bee stored pollen</article-title>. <source>Apidologie</source>, <volume>9</volume>, <fpage>33</fpage>–<lpage>40</lpage>. <pub-id pub-id-type="doi">10.1051/apido:19780103</pub-id>
+</mixed-citation></ref><ref id="ece310918-bib-0035"><mixed-citation publication-type="journal" id="ece310918-cit-0035">
+<string-name name-style="western">
+<surname>Holmquist</surname>, <given-names>G. U.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walker</surname>, <given-names>H. W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Stahr</surname>, <given-names>H. M.</given-names>
+</string-name> (<year>1983</year>). <article-title>Influence of temperature, pH, water activity and antifungal agents on growth of <italic toggle="yes">Aspergillus flavus</italic> and <italic toggle="yes">A. Parasiticus</italic>
+</article-title>. <source>Journal of Food Science</source>, <volume>3</volume>, <fpage>778</fpage>–<lpage>782</lpage>.</mixed-citation></ref><ref id="ece310918-bib-0036"><mixed-citation publication-type="journal" id="ece310918-cit-0036">
+<string-name name-style="western">
+<surname>Kieliszek</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piwowarek</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kot</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blazejak</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chlebowska‐Smigiel</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Wolska</surname>, <given-names>I.</given-names>
+</string-name> (<year>2018</year>). <article-title>Pollen and bee bread as new health‐oriented products: A review</article-title>. <source>Trends in Food Science &amp; Technology</source>, <volume>71</volume>, <fpage>170</fpage>–<lpage>180</lpage>.</mixed-citation></ref><ref id="ece310918-bib-0038"><mixed-citation publication-type="journal" id="ece310918-cit-0038">
+<string-name name-style="western">
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name> (<year>2011</year>). <article-title>A statistical framework for SNP calling, mutation discovery, association mapping and population genetical parameter estimation from sequencing data</article-title>. <source>Bioinformatics</source>, <volume>27</volume>, <fpage>2987</fpage>–<lpage>2993</lpage>.<pub-id pub-id-type="pmid">21903627</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btr509</pub-id><pub-id pub-id-type="pmcid">PMC3198575</pub-id></mixed-citation></ref><ref id="ece310918-bib-0039"><mixed-citation publication-type="miscellaneous" id="ece310918-cit-0039">
+<string-name name-style="western">
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name> (<year>2013</year>). <article-title>
+<italic toggle="yes">Aligning sequence reads, clone sequences and assembly contigs with BWA‐MEM</italic>. Arxiv.Org 1303</article-title>.</mixed-citation></ref><ref id="ece310918-bib-0040"><mixed-citation publication-type="journal" id="ece310918-cit-0040">
+<string-name name-style="western">
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Handsaker</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wysoker</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fennell</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruan</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Homer</surname>, <given-names>N.</given-names>
+</string-name> (<year>2009</year>). <article-title>The sequence alignment/map format and Samtools</article-title>. <source>Bioinformatics</source>, <volume>25</volume>, <fpage>2078</fpage>–<lpage>2079</lpage>.<pub-id pub-id-type="pmid">19505943</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btp352</pub-id><pub-id pub-id-type="pmcid">PMC2723002</pub-id></mixed-citation></ref><ref id="ece310918-bib-0041"><mixed-citation publication-type="journal" id="ece310918-cit-0041">
+<string-name name-style="western">
+<surname>Majoros</surname>, <given-names>W. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pertea</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Salzberg</surname>, <given-names>S. L.</given-names>
+</string-name> (<year>2004</year>). <article-title>TigrScan and GlimmerHMM: Two open source ab initio eukaryotic gene‐finders</article-title>. <source>Bioinformatics</source>, <volume>20</volume>, <fpage>2878</fpage>–<lpage>2879</lpage>.<pub-id pub-id-type="pmid">15145805</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/bth315</pub-id></mixed-citation></ref><ref id="ece310918-bib-0042"><mixed-citation publication-type="journal" id="ece310918-cit-0042">
+<string-name name-style="western">
+<surname>Meneses</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Durango</surname>, <given-names>D. L.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Garcia</surname>, <given-names>C. M.</given-names>
+</string-name> (<year>2009</year>). <article-title>Antifungal activity against postharvest fungi by extracts from Colombian propolis</article-title>. <source>Quim Nova</source>, <volume>32</volume>, <fpage>2011</fpage>–<lpage>2017</lpage>. <pub-id pub-id-type="doi">10.1590/S0100-40422009000800006</pub-id>
+</mixed-citation></ref><ref id="ece310918-bib-0043"><mixed-citation publication-type="journal" id="ece310918-cit-0043">
+<string-name name-style="western">
+<surname>Menezes</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vollet‐Neto</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marsaioli</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zampieri</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fontoura</surname>, <given-names>I. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luchessi</surname>, <given-names>A. D.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Imperatriz‐Fonseca</surname>, <given-names>V. L.</given-names>
+</string-name> (<year>2015</year>). <article-title>A Brazilian social bee must cultivate fungus to survive</article-title>. <source>Current Biology</source>, <volume>25</volume>, <fpage>2851</fpage>–<lpage>2855</lpage>.<pub-id pub-id-type="pmid">26592344</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cub.2015.09.028</pub-id></mixed-citation></ref><ref id="ece310918-bib-0044"><mixed-citation publication-type="journal" id="ece310918-cit-0044">
+<string-name name-style="western">
+<surname>Michel</surname>, <given-names>B. E.</given-names>
+</string-name> (<year>1983</year>). <article-title>Evaluation of the water potentials of solutions of polyethylene glycol 8000 both in the absence and presence of other solutes</article-title>. <source>Plant Physiology</source>, <volume>72</volume>, <fpage>66</fpage>–<lpage>70</lpage>.<pub-id pub-id-type="pmid">16662983</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1104/pp.72.1.66</pub-id><pub-id pub-id-type="pmcid">PMC1066170</pub-id></mixed-citation></ref><ref id="ece310918-bib-0045"><mixed-citation publication-type="journal" id="ece310918-cit-0045">
+<string-name name-style="western">
+<surname>Mueller</surname>, <given-names>U. G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schultz</surname>, <given-names>T. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Currie</surname>, <given-names>C. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adams</surname>, <given-names>R. M. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Malloch</surname>, <given-names>D.</given-names>
+</string-name> (<year>2001</year>). <article-title>The origin of the attine ant‐fungus mutualism</article-title>. <source>The Quarterly Review of Biology</source>, <volume>76</volume>, <fpage>169</fpage>–<lpage>197</lpage>. <pub-id pub-id-type="doi">10.1086/393867</pub-id>
+<pub-id pub-id-type="pmid">11409051</pub-id>
+</mixed-citation></ref><ref id="ece310918-bib-0046"><mixed-citation publication-type="journal" id="ece310918-cit-0046">
+<string-name name-style="western">
+<surname>Nesci</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Etcheverry</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Magan</surname>, <given-names>N.</given-names>
+</string-name> (<year>2004</year>). <article-title>Osmotic and matric potential effects on growth, sugar alcohol and sugar accumulation by <italic toggle="yes">Aspergillus</italic> section <italic toggle="yes">Flavi</italic> strains from Argentina</article-title>. <source>Journal of Applied Microbiology</source>, <volume>96</volume>, <fpage>965</fpage>–<lpage>972</lpage>.<pub-id pub-id-type="pmid">15078512</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2672.2004.02246.x</pub-id></mixed-citation></ref><ref id="ece310918-bib-0047"><mixed-citation publication-type="journal" id="ece310918-cit-0047">
+<string-name name-style="western">
+<surname>Niu</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>, <given-names>R. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Berenbaum</surname>, <given-names>M. R.</given-names>
+</string-name> (<year>2010</year>). <article-title>Toxicity of mycotoxins to honeybees and its amelioration by propolis</article-title>. <source>Apidologie</source>, <volume>42</volume>, <fpage>79</fpage>–<lpage>87</lpage>.</mixed-citation></ref><ref id="ece310918-bib-0048"><mixed-citation publication-type="journal" id="ece310918-cit-0048">
+<string-name name-style="western">
+<surname>Oertel</surname>, <given-names>E.</given-names>
+</string-name> (<year>1949</year>). <article-title>Relative humidity and temperature within the bee hive</article-title>. <source>Journal of Economic Entomology</source>, <volume>42</volume>, <fpage>528</fpage>–<lpage>531</lpage>.</mixed-citation></ref><ref id="ece310918-bib-0049"><mixed-citation publication-type="journal" id="ece310918-cit-0049">
+<string-name name-style="western">
+<surname>Osmundson</surname>, <given-names>T. W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eyre</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hayden</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dhillon</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Garbelotto</surname>, <given-names>M. M.</given-names>
+</string-name> (<year>2012</year>). <article-title>Back to basics: An evaluation of NaOH and alternative rapid DNA extraction protocols for DNA barcoding, genotyping, and disease diagnostics from fungal and oomycete samples</article-title>. <source>Molecular Ecology Resources</source>, <volume>13</volume>, <fpage>66</fpage>–<lpage>74</lpage>. <pub-id pub-id-type="doi">10.1111/1755-0998.12031</pub-id>
+<pub-id pub-id-type="pmid">23121735</pub-id>
+</mixed-citation></ref><ref id="ece310918-bib-0050"><mixed-citation publication-type="journal" id="ece310918-cit-0050">
+<string-name name-style="western">
+<surname>Özcan</surname>, <given-names>M.</given-names>
+</string-name> (<year>1999</year>). <article-title>Antifungal properties of propolis</article-title>. <source>Grasas y Aceites</source>, <volume>50</volume>, <fpage>395</fpage>–<lpage>398</lpage>. <pub-id pub-id-type="doi">10.3989/gya.1999.v50.i5.685</pub-id>
+</mixed-citation></ref><ref id="ece310918-bib-0051"><mixed-citation publication-type="journal" id="ece310918-cit-0051">
+<string-name name-style="western">
+<surname>Özcan</surname>, <given-names>M.</given-names>
+</string-name> (<year>2004</year>). <article-title>Inhibition of <italic toggle="yes">Aspergillus parasiticus</italic> NRRL 2999 by pollen and propolis extracts</article-title>. <source>Journal of Medicinal Food</source>, <volume>7</volume>, <fpage>114</fpage>–<lpage>116</lpage>. <pub-id pub-id-type="doi">10.1089/109662004322984806</pub-id>
+<pub-id pub-id-type="pmid">15117563</pub-id>
+</mixed-citation></ref><ref id="ece310918-bib-0052"><mixed-citation publication-type="journal" id="ece310918-cit-0052">
+<string-name name-style="western">
+<surname>Pal</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gajjar</surname>, <given-names>D. U.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Vasavada</surname>, <given-names>A. R.</given-names>
+</string-name> (<year>2013</year>). <article-title>DOPA and DHN pathway orchestrate melanin synthesis in <italic toggle="yes">Aspergillus</italic> species</article-title>. <source>Medical Mycology</source>, <volume>52</volume>, <fpage>10</fpage>–<lpage>18</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/13693786.2013.826879</pub-id><pub-id pub-id-type="pmid">23998343</pub-id></mixed-citation></ref><ref id="ece310918-bib-0053"><mixed-citation publication-type="journal" id="ece310918-cit-0053">
+<string-name name-style="western">
+<surname>Parish</surname>, <given-names>J. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scott</surname>, <given-names>E. S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Hogendoorn</surname>, <given-names>K.</given-names>
+</string-name> (<year>2020</year>). <article-title>Nutritional benefits of fungal spores for honey bees workers</article-title>. <source>Scientific Reports</source>, <volume>10</volume>, <fpage>15671</fpage>. <pub-id pub-id-type="doi">10.1038/s41598-020-72758-1</pub-id>
+<pub-id pub-id-type="pmid">32973144</pub-id>
+<pub-id pub-id-type="pmcid">PMC7519121</pub-id></mixed-citation></ref><ref id="ece310918-bib-0054"><mixed-citation publication-type="journal" id="ece310918-cit-0054">
+<string-name name-style="western">
+<surname>Payne</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nierman</surname>, <given-names>W. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wortman</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pritchard</surname>, <given-names>B. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brown</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dean</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhatnagar</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cleveland</surname>, <given-names>T. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Machida</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Yu</surname>, <given-names>J.</given-names>
+</string-name> (<year>2006</year>). <article-title>Whole genome comparison of <italic toggle="yes">aspergillus flavus</italic> and <italic toggle="yes">A. Oryzae</italic>
+</article-title>. <source>Medical Mycology</source>, <volume>44</volume>, <fpage>S9</fpage>–<lpage>S11</lpage>.<pub-id pub-id-type="pmid">30408940</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/13693780600835716</pub-id></mixed-citation></ref><ref id="ece310918-bib-0055"><mixed-citation publication-type="book" id="ece310918-cit-0055">
+<collab collab-type="authors">R Core Team</collab>
+. (<year>2021</year>). <source>R: A language and environment for statistical computing</source>. <publisher-name>R Foundation for Statistical Computing</publisher-name>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.r-project.org/" ext-link-type="uri">https://www.R‐project.org/</ext-link>
+</mixed-citation></ref><ref id="ece310918-bib-0056"><mixed-citation publication-type="journal" id="ece310918-cit-0056">
+<string-name name-style="western">
+<surname>Raudabaugh</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bach</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Allen</surname>, <given-names>J. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Miller</surname>, <given-names>A. N.</given-names>
+</string-name> (<year>2021</year>). <article-title>Fungal communities of submerged fine detritus from temperate peatland and stream habitats</article-title>. <source>Aquatic Microbial Ecology</source>, <volume>86</volume>, <fpage>191</fpage>–<lpage>207</lpage>.</mixed-citation></ref><ref id="ece310918-bib-0057"><mixed-citation publication-type="journal" id="ece310918-cit-0057">
+<string-name name-style="western">
+<surname>Raudabaugh</surname>, <given-names>D. B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Miller</surname>, <given-names>A. N.</given-names>
+</string-name> (<year>2013</year>). <article-title>Nutritional capability of and substrate suitability for <italic toggle="yes">Pseudogymnoascus destructans</italic>, the causal agent of bat white‐nose syndrome</article-title>. <source>PLoS One</source>, <volume>8</volume>, <elocation-id>e78300</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0078300</pub-id>
+<pub-id pub-id-type="pmid">24205191</pub-id>
+<pub-id pub-id-type="pmcid">PMC3804546</pub-id></mixed-citation></ref><ref id="ece310918-bib-0058"><mixed-citation publication-type="book" id="ece310918-cit-0058">
+<string-name name-style="western">
+<surname>Raymann</surname>, <given-names>K.</given-names>
+</string-name> (<year>2021</year>). <part-title>Honey bee microbiota and the physiology of antimicrobial resistance</part-title>. In <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>T. R.</given-names>
+<surname>Kane</surname>
+</string-name>
+</person-group> &amp; <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Faux</surname>
+</string-name>
+</person-group> (Eds.), <source>Honey bee medicine for the veterinary practitioner</source> (pp. <fpage>125</fpage>–<lpage>134</lpage>). <publisher-name>John Wiley &amp; Sons</publisher-name>.</mixed-citation></ref><ref id="ece310918-bib-0059"><mixed-citation publication-type="journal" id="ece310918-cit-0059">
+<string-name name-style="western">
+<surname>Rutkowski</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weston</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Vannette</surname>, <given-names>R. L.</given-names>
+</string-name> (<year>2023</year>). <article-title>Bees just wanna have fungi: A review of bee associations with nonpathogenic fungi</article-title>. <source>FEMS Microbiology Ecology</source>, <volume>99</volume>, <elocation-id>fiad077</elocation-id>. <pub-id pub-id-type="doi">10.1093/femsec/fiad077</pub-id>
+<pub-id pub-id-type="pmid">37422442</pub-id>
+<pub-id pub-id-type="pmcid">PMC10370288</pub-id></mixed-citation></ref><ref id="ece310918-bib-0060"><mixed-citation publication-type="journal" id="ece310918-cit-0060">
+<string-name name-style="western">
+<surname>Sarrocco</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mauro</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Battilani</surname>, <given-names>P.</given-names>
+</string-name> (<year>2019</year>). <article-title>Use of competitive filamentous fungi as an alternative approach for mycotoxin risk reduction in staple cereals: State of the art and future perspectives</article-title>. <source>Toxins</source>, <volume>11</volume>, <fpage>701</fpage>.<pub-id pub-id-type="pmid">31810316</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/toxins11120701</pub-id><pub-id pub-id-type="pmcid">PMC6950288</pub-id></mixed-citation></ref><ref id="ece310918-bib-0061"><mixed-citation publication-type="journal" id="ece310918-cit-0061">
+<string-name name-style="western">
+<surname>Schamann</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schmidt‐Heydt</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Geisen</surname>, <given-names>R.</given-names>
+</string-name> (<year>2021</year>). <article-title>Analysis of the competitiveness between a non‐aflatoxigenic and an aflatoxigenic <italic toggle="yes">Aspergillus flavus</italic> strain on maize kernels by droplet digital PCR</article-title>. <source>Mycotoxin Research</source>, <volume>38</volume>, <fpage>27</fpage>–<lpage>36</lpage>.<pub-id pub-id-type="pmid">34913138</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12550-021-00447-7</pub-id><pub-id pub-id-type="pmcid">PMC8816369</pub-id></mixed-citation></ref><ref id="ece310918-bib-0062"><mixed-citation publication-type="journal" id="ece310918-cit-0062">
+<string-name name-style="western">
+<surname>Schindler</surname>, <given-names>A. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palmer</surname>, <given-names>J. G.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Eisenberg</surname>, <given-names>W. V.</given-names>
+</string-name> (<year>1967</year>). <article-title>Aflatoxin production by <italic toggle="yes">Aspergillus flavus</italic> as related to various temperatures</article-title>. <source>Applied Microbiology</source>, <volume>15</volume>, <fpage>1006</fpage>–<lpage>1009</lpage>. <pub-id pub-id-type="doi">10.1128/am.15.5.1006-1009.1967</pub-id>
+<pub-id pub-id-type="pmid">16349720</pub-id>
+<pub-id pub-id-type="pmcid">PMC547131</pub-id></mixed-citation></ref><ref id="ece310918-bib-0063"><mixed-citation publication-type="journal" id="ece310918-cit-0063">
+<string-name name-style="western">
+<surname>Seyedmousavi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guillot</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arné</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Hoog</surname>, <given-names>G. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mouton</surname>, <given-names>J. W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Melchers</surname>, <given-names>W. J. G.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Verweij</surname>, <given-names>P. E.</given-names>
+</string-name> (<year>2015</year>). <article-title>
+<italic toggle="yes">Aspergillus</italic> and aspergilloses in wild and domestic animals: A global health concern with parallels to human disease</article-title>. <source>Medical Mycology</source>, <volume>53</volume>, <fpage>765</fpage>–<lpage>797</lpage>.<pub-id pub-id-type="pmid">26316211</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/mmy/myv067</pub-id></mixed-citation></ref><ref id="ece310918-bib-0065"><mixed-citation publication-type="journal" id="ece310918-cit-0065">
+<string-name name-style="western">
+<surname>Simão</surname>, <given-names>F. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waterhouse</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ioannidis</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kriventseva</surname>, <given-names>E. V.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Zdobnov</surname>, <given-names>E. M.</given-names>
+</string-name> (<year>2015</year>). <article-title>BUSCO: Assessing genome assembly and annotation completeness with single‐copy orthologs</article-title>. <source>Bioinformatics</source>, <volume>31</volume>, <fpage>3210</fpage>–<lpage>3212</lpage>.<pub-id pub-id-type="pmid">26059717</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btv351</pub-id></mixed-citation></ref><ref id="ece310918-bib-0066"><mixed-citation publication-type="journal" id="ece310918-cit-0066">
+<string-name name-style="western">
+<surname>Simone‐Finstrom</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Spivak</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>). <article-title>Propolis and bee health: The natural history and signficance of resin use by honey bees</article-title>. <source>Apidologie</source>, <volume>41</volume>, <fpage>295</fpage>–<lpage>311</lpage>.</mixed-citation></ref><ref id="ece310918-bib-0067"><mixed-citation publication-type="journal" id="ece310918-cit-0067">
+<string-name name-style="western">
+<surname>Smith</surname>, <given-names>B. R.</given-names>
+</string-name> (<year>1962</year>). <article-title>Mating type tests using a plating technique</article-title>. <source>Fungal Genetics Reports</source>, <volume>1</volume>, Article <fpage>18</fpage>. <pub-id pub-id-type="doi">10.4148/1941-4765.1032</pub-id>
+</mixed-citation></ref><ref id="ece310918-bib-0068"><mixed-citation publication-type="journal" id="ece310918-cit-0068">
+<string-name name-style="western">
+<surname>Tumukunde</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qin</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Yuan</surname>, <given-names>J.</given-names>
+</string-name> (<year>2019</year>). <article-title>Osmotic‐adaptation response of saka/hoga gene to aflatoxin biosynthesis, morphology development and pathogenicity in <italic toggle="yes">Aspergillus flavus</italic>
+</article-title>. <source>Toxins</source>, <volume>11</volume>, <fpage>41</fpage>.<pub-id pub-id-type="pmid">30646608</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/toxins11010041</pub-id><pub-id pub-id-type="pmcid">PMC6356625</pub-id></mixed-citation></ref><ref id="ece310918-bib-0069"><mixed-citation publication-type="miscellaneous" id="ece310918-cit-0069">
+<collab collab-type="authors">USEPA</collab>
+. (<year>2017</year>). <article-title>
+Aspergillus flavus AF36; amendment to an exemption to a requirement of a tolerance
+</article-title>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.gpo.gov/fdsys/pkg/FR-2017-03-22/pdf/2017-05720.pdf" ext-link-type="uri">https://www.gpo.gov/fdsys/pkg/FR‐2017‐03‐22/pdf/2017‐05720.pdf</ext-link>
+</mixed-citation></ref><ref id="ece310918-bib-0070"><mixed-citation publication-type="journal" id="ece310918-cit-0070">
+<string-name name-style="western">
+<surname>vanEngelsdorp</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Evans</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Donovall</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mullin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frazier</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frazier</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tarpy</surname>, <given-names>D. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hayes</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Pettis</surname>, <given-names>J. S.</given-names>
+</string-name> (<year>2009</year>). <article-title>“Entombed pollen”: A new condition in honey bee colonies associated with increased risk of colony mortality</article-title>. <source>Journal of Invertebrate Pathology</source>, <volume>101</volume>, <fpage>147</fpage>–<lpage>149</lpage>.<pub-id pub-id-type="pmid">19361513</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jip.2009.03.008</pub-id></mixed-citation></ref><ref id="ece310918-bib-0071"><mixed-citation publication-type="journal" id="ece310918-cit-0071">
+<string-name name-style="western">
+<surname>Wahl</surname>, <given-names>H. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raudabaugh</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bach</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bone</surname>, <given-names>T. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luttenton</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cichewicz</surname>, <given-names>R. H.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Miller</surname>, <given-names>A. N.</given-names>
+</string-name> (<year>2018</year>). <article-title>What lies beneath? Fungal diversity at the bottom of Lake Michigan and Lake Superior</article-title>. <source>Journal of Great Lakes Research</source>, <volume>44</volume>, <fpage>263</fpage>–<lpage>270</lpage>.<pub-id pub-id-type="pmid">29736110</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jglr.2018.01.001</pub-id><pub-id pub-id-type="pmcid">PMC5935459</pub-id></mixed-citation></ref><ref id="ece310918-bib-0072"><mixed-citation publication-type="book" id="ece310918-cit-0072">
+<string-name name-style="western">
+<surname>Yoder</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nelson</surname>, <given-names>B. W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jajack</surname>, <given-names>A. J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Sammataro</surname>, <given-names>D.</given-names>
+</string-name> (<year>2017</year>). <part-title>Fungi and the effects of fungicides on the honey bee colony</part-title>. In <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Vreeland</surname>
+</string-name>
+</person-group> &amp; <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Sammataro</surname>
+</string-name>
+</person-group> (Eds.), <source>Beekeeping‐from science to practice</source> (pp. <fpage>73</fpage>–<lpage>90</lpage>). <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="ece310918-bib-0073"><mixed-citation publication-type="journal" id="ece310918-cit-0073">
+<string-name name-style="western">
+<surname>Yu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chang</surname>, <given-names>P. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ehrlich</surname>, <given-names>K. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cary</surname>, <given-names>J. W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhatnagar</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cleveland</surname>, <given-names>T. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Payne</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Linz</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Woloshuk</surname>, <given-names>C. P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Bennett</surname>, <given-names>J. W.</given-names>
+</string-name> (<year>2004</year>). <article-title>Clustered pathway genes in aflatoxin biosynthesis</article-title>. <source>Applied and Environmental Microbiology</source>, <volume>70</volume>, <fpage>1253</fpage>–<lpage>1262</lpage>.<pub-id pub-id-type="pmid">15006741</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/AEM.70.3.1253-1262.2004</pub-id><pub-id pub-id-type="pmcid">PMC368384</pub-id></mixed-citation></ref></ref-list></back></article>

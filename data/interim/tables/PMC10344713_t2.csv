@@ -1,0 +1,8 @@
+Biofilm inhibition assays,,,,,,,
+Microorganism,Strain,Honey sample,Province of origin,Stingless bee specie,A630,Biomass in %,"Pairwise comparison1, P-values"
+Candida albicans,ATCC 10231,LO40,Loja,Scaptotrigona problanca,0.040 (0.016),19.96 (8.08),0.000143
+Candida tropicalis,V546,LO53,Loja,Scaptotrigona problanca,0.070 (0.011),27.74 (4.56),0.000018
+Staphylococcus aureus,ATCC 25923,OR24.1,El Oro,Melipona indecisa,0.100 (0.014),22.95 (3.26),0.879
+MRSA 333,LR34,Los Rios,Melipona sp.,0.097 (0.037),26.99 (10.17),0.858,
+Klebsiella pneumoniae,ATCC 33495,LO48,Loja,Scaptotrigona problanca,0.0905 (0.011),23.32 (2.65),0.00000000117
+KPC 609803,OR24.1,El Oro,Melipona indecisa,0.050 (0.012),36.80 (8.94),0.002,

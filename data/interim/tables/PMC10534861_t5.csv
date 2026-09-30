@@ -1,0 +1,9 @@
+Sr. No.,Compound,Canonical Smiles,LD50,Hepatotoxicity,Carcinogenicity,Immunotoxicity,Mutagenicity,Cytotoxicity
+1,Glyceraldehyde,C(C(C=O)O)O,200 mg/kg,Inactive,Inactive,Inactive,Inactive,Inactive
+2,Butanedioic acid,C(CC(=O)O)C(=O)O,2260 mg/kg,Inactive,Inactive,Inactive,Inactive,Inactive
+3,Tetrahydro-4H-pyran-4-ol,C1COCCC1O,2994 mg/kg,Inactive,Inactive,Inactive,Inactive,Inactive
+4,1-Cyclohexylimidazolidin-2-one,C1CCC(CC1)N2CCNC2=O,2000 mg/kg,Inactive,Inactive,Inactive,Inactive,Inactive
+5,3-Butyl-3-methylcyclohexanone,CCCCC1(CCCC(=O)C1)C,500 mg/kg,Inactive,Inactive,Inactive,Inactive,Inactive
+6,4-Butyl-3-methoxy-2-cyclopenten-1-one,CCCCC1CC(=O)C=C1OC,2800 mg/kg,Inactive,Inactive,Inactive,Inactive,Inactive
+7,"2,2,3,3-Tetramethyl cyclo propane carboxylic acid",CC1(C(C1(C)C)C(=O)O)C,600 mg/kg,Inactive,Inactive,Inactive,Inactive,Inactive
+8,"3,5-Dihydroxy-2-(3-methylbut-2-en-1-yl)",CC(C)CC(=O)C1=C(C(C(C1=O)O)CC=C(C)C)O,2000 mg/kg,Inactive,Inactive,Inactive,Inactive,Inactive

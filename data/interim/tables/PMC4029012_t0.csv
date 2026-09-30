@@ -1,0 +1,10 @@
+Strain,Characteristics,Source or references
+"MDRP1, 2, 4, 5, 7, 8, 9, 10, 12, 13, 14, 19, 20, 21, 24, 25, 29, 30, 31, 32, 33, 38, 39, 41, 42, 44, 45, 46, 50, 57, 60, 62, 63, 67, 71, 72, 74, 75, 83, 86, 87, 88, 92, 93, 94, 95, 96, 98, 100, 101, 103, 105, 106","MDRP strains, clinically isolated","Biomedical Laboratories, Inc."
+PAO1,Pseudomonas aeruginosa wild-type,"Stover et al., 2000"
+PMX52,"ΔmexAB oprM mexCD oprJ mexEF oprN mexXY mexHI opmD, PAO1 derivative","Sekiya et al., 2003"
+MG1655,Escherichia coli wild-type,"Blattner et al., 1997"
+NKE1329,"ΔacrB acrD mdtABC mdtEF acrEF, MG1655 derivative",This study
+NKE95,"ΔtolC, MG1655 derivative",This study
+ATCC14028s,Salmonella enterica serovar Typhimurium wild-type,"Fields et al., 1986"
+NKS196,"ΔacrAB acrEF acrD mdtABC mdsABC emrAB mdfA mdtK macAB, ATCC14028s derivative","Horiyama et al., 2011"
+NKS233,"ΔtolC, ATCC14028s derivative","Yamasaki et al., 2011"

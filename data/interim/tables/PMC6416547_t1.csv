@@ -1,0 +1,9 @@
+Samples,PVA (g),NaCMC (g),Gelatin (g),Starch (g),Medium (mL)
+PVA,10,-,-,-,100
+PVA-CMC,8,2,-,-,100
+PVA-G,8,-,2,-,100
+PVA-S,8,-,-,2,100
+PVA-H,10,-,-,-,100
+PVA-CMC-H,8,2,-,-,100
+PVA-G-H,8,-,2,-,100
+PVA-S-H,8,-,-,2,100

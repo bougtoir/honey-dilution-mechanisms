@@ -1,0 +1,14 @@
+Sample,Dilution in PBS,pH,Osmolarity (mOsmol/kg)
+Tween 80,undiluted,N/A,N/A
+Tween 80 (25% w/v),1:4,4.07 ± 0.04,474.00 ± 15.10
+IPM,undiluted,N/A,N/A
+IPM (5% w/v),1:20,7.23 ± 0.05,297.00 ± 10.82
+Glycerol,undiluted,N/A,N/A
+Glycerol (25% w/v),1:4,7.07 ± 0.27,3705.67 ± 53.26
+ME,undiluted,4.73 ± 0.04,*
+ME,1:10,7.12 ± 0.01,611.67 ± 8.74
+α-CD (≡100 MGO CYP),undiluted,7.27 ± 0.02,411.33 ± 10.07
+100 MGO CYP,undiluted,5.49 ± 0.95,1431.00 ± 170.77
+100 MGO CYP ME,undiluted,4.18 ± 0.02,*
+100 MGO CYP ME,1:10,6.50 ± 0.01,587.00 ± 6.08
+100 MGO CYP ME,1:100,7.13 ± 0.01,323.33 ± 3.06

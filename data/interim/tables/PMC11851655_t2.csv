@@ -1,0 +1,14 @@
+Antibiotics,1,2,3,4,5
+Amikacin,-,R,S,S,S
+Ampicillin,R,R,S,R,R
+Amoxicillin/clavulanic acid,-,S,S,R,R
+Ciprofloxacin,R,S,S,S,S
+Ceftazidim,-,S,S,-,-
+Eritromicin,-,-,R,-,S
+Gentamicin,S,S,S,S,S
+Imipenem,S,S,S,S,S
+Levofloxacin,-,-,R,-,-
+Oxacillin,R,-,-,-,-
+Penicillin,R,-,-,-,-
+Piperacillin/tazobactam,-,S,S,-,-
+Vankomicin,S,-,-,-,-

@@ -1,0 +1,17 @@
+antiSMASH version 7,,,,
+Isolate,Cluster,Type,Location (start – end); total (nt),MIBiG comparison(similarity score)
+L. rhamnosus TB-3,Region 1,RiPP-like,"893,042–912,594 (19,553)",Coagulin (0.34)
+Region 2,T3PKS,"1,494,032–1,535,204 (41,173)",Viguiepinol (0.23),
+L. rhamnosus HI-1,Region 1,RiPP-like,"196,712–216,264 (19,553)",Coagulin (0.34)
+Region 2,T3PKS,"797,702–838,874 (41,173)",Viguiepinol (0.23),
+L. rhamnosus TS-4,Region 1,T3PKS,"105,530–146,702 (41,173)",Viguiepinol (0.23)
+Region 2,RiPP-like,"728,140–747,692 (19,553)",Coagulin (0.34),
+P. acidilactici HI-5,Region 1,NRPS,"20,445–74,214 (53,770)","(2R,3 S,4 S)-5-fluoro-2,3,4-trihydroxypentanoic acid (0.33)"
+P. acidilactici LT-3,Region 2,T3PKS,"1,157,724–1,211,493 (53,770)","(2R,3 S,4 S)-5-fluoro-2,3,4-trihydroxypentanoic acid (0.33)"
+BAGEL4,,,,
+Isolate,Total bases in all DNA,Area of interest (AOI),Start – end,Class
+L. rhamnosus TB-3,"2,987,444",1.0.AOI 01,"882,992–908,842",51.2;Carnocin_CP52
+L. rhamnosus HI-1,"2,987,485",1.0.AOI 01,"186,662–212,512",51.2;Carnocin_CP52
+L. rhamnosus TS-4,"2,987,485",1.0.AOI 01,"731,892–757,742",51.2;Carnocin_CP52
+P. acidilactici HI-5,"1,962,734",Not found,-,-
+P. acidilactici LT-3,"1,962,741",Not found,-,-

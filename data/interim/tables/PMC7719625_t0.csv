@@ -1,0 +1,30 @@
+Microbial species,Source,References,Antimicrobial activities,
+MIC2,MBC/MFC3,,,
+Staphylococcus aureus,,,,
+ATCC25923,Reference strain,"Qu et al., 2020",10%,20%
+APS 18,The Alfred Hospital,Unpublished,10%,20%
+APS 19,The Alfred Hospital,Unpublished,20%,40%
+APS 27,The Alfred Hospital,Unpublished,20%,20%
+APS 28,The Alfred Hospital,Unpublished,10%,20%
+APS 29,The Alfred Hospital,Unpublished,20%,20%
+CoNS,,,,
+Staphylococcus epidermidisRP62A,Reference strain,"Qu et al., 2020",20%,20%
+Staphylococcus epidermidisRCH3,"RCH4, Melbourne","Qu et al., 2010a",5%,10%
+Staphylococcus epidermidisRCH 5,"RCH, Melbourne","Qu et al., 2010a",10%,20%
+Staphylococcus capitisRCH 6,"RCH, Melbourne","Qu et al., 2010a",10%,20%
+Staphylococcus epidermidisRCH 7,"RCH, Melbourne","Qu et al., 2010a",20%,20%
+Staphylococcus epidermidisRCH 12,"RCH, Melbourne","Qu et al., 2010a",10%,10%
+Pseudomonas aeruginosa,,,,
+PAO1,Reference strain,"Qu et al., 2020",40%,40%
+A0064,The Alfred Hospital,Unpublished,40%,40%
+B0021,The Alfred Hospital,Unpublished,40%,40%
+D0108,The Alfred Hospital,Unpublished,40%,40%
+L0024,The Alfred Hospital,Unpublished,20%,20%
+E0033,The Alfred Hospital,Unpublished,40%,40%
+Candida spp.,,,,
+Candida albicans SC5314,Reference strain,"Qu et al., 2020",20%,40%
+Candida albicans APY49,The Alfred Hospital,"Qu et al., 2016",40%,40%
+Candida albicans VVC2,WMU5,"Wu et al., 2019",40%,40%
+Candida albicans VVC4,WMU,"Wu et al., 2019",40%,40%
+Candida glabrata,The Alfred Hospital,Unpublished,>40%,>40%
+Candida parapsilosis,The Alfred Hospital,Unpublished,>40%,>40%

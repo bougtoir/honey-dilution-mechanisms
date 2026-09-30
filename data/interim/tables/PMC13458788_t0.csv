@@ -1,0 +1,9 @@
+Target gene,Organism/use in published study,Primer name,"Primer sequence, 5′–3′",Amplicon size (bp),References
+pbp5,Enterococcus faecium; PBP5 allelic profiling/ampicillin-resistance assessment,Efmpbp5-1 F,ATGAAAAGAAGTGACAAGCACGGC,493,31
+,,Efmpbp5-1R,GCAAAGATGAATACCTCATTAGG,,
+srtA,Enterococcus faecalis OG1RF; biofilm-related gene expression,srtA-F,CGTGTTGAGTTAATTGATGA,~ 109,32
+srtA,Enterococcus faecalis OG1RF; biofilm-related gene expression,srtA-R,TTGCTGCTAATGTTCCTT,~ 109,
+gyrB,Enterococcus isolates; fluoroquinolone-resistance gene detection,GyrB-F,TGAAATTCTTGCTGGAAAAC,492,33
+gyrB,Enterococcus isolates; fluoroquinolone-resistance gene detection,GyrB-R,CAACAATAGGACGCATGTAAC,492,
+16 S rRNA,Enterococcus isolates/viral fraction control,16 S rRNA-F,AGAGTTTGATCCTGGCTCAG,511,34
+16 S rRNA,Enterococcus isolates/viral fraction control,16 S rRNA-R,ACGGGCGGTGTGTRC,511,

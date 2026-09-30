@@ -1,0 +1,26 @@
+Honey Solution,Final Concentration of Components in RPMI-1640,,,,Figures
+Artificial Honey,Jarrah (Barnes 10+) Honey,H2O2,Catalase,,
+[% (w/v)],[% (w/v)],[µM],+/–,,
+Control,,,,,
+Untreated,10,0,0,–,"Figure 1, Figure 2"
+Jarrah (Barnes 10+) + Artificial Honey,,,,,
+½× MIC,9.22,0.78,0,–,"Figure 1, Figure 2"
+1× MIC,8.44,1.56,0,–,"Figure 1, Figure 2, Figure 3"
+2× MIC,6.88,3.12,0,–,"Figure 1, Figure 2, Figure 3"
+4× MIC,3.76,6.24,0,–,"Figure 1, Figure 2a,b,d"
+Synthetic H2O2 Honey,,,,,
+½× MIC,10,0,215,–,"Figure 1, Figure 2b–e"
+1× MIC,10,0,430,–,Figure 1
+2× MIC,10,0,860,–,Figure 1
+4× MIC,10,0,1720,–,"Figure 1, Figure 2a"
+0 µM,10,0,0,–,Figure 1a
+25 µM,10,0,25,–,Figure 1a
+50 µM,10,0,50,–,Figure 1a
+100 µM,10,0,100,–,Figure 1a
+200 µM,10,0,200,–,Figure 1a
+400 µM,10,0,400,–,Figure 1a
+56 µM H2O2,10,0,56,–,"Figure 2c,e, Figure 3"
+Jarrah (Barnes 10+) + Catalase + Artificial Honey,,,,,
+Control (Artificial honey + Catalase),10,0,0,+,Figure 3
+1× MIC Jarrah (Barnes 10+) Honey + Catalase,8.44,1.56,0,+,Figure 3
+2× MIC Jarrah (Barnes 10+) Honey + Catalase,6.88,3.12,0,+,Figure 3

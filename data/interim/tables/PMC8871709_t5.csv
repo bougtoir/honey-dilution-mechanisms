@@ -1,0 +1,14 @@
+Compound,Dock Score,Interacting Residues in the Binding Pocket,,,,
+Ligand,Receptor,Interaction,Distance,E (kcal/mol),,
+Human Neutrophil Elastase (HNE) (PDB ID: 1H1B),,,,,,
+Lumichrome,−6.0911,O6O6,SG:CYS42(A)SG:CYS58(A),H-donor H-donor,3.423.42,−1.7−1.9
+Galagin,−6.0133,C16,SG:CYS58(A),H-donor,3.82,−0.5
+Chitosan,−11.8369,O21O28,SG:CYS42(A)O:ASN99(A),H-donorH-donor,3.932.89,−0.5−1.1
+Matrix metalloproteinase-3 (MMP-3) (PDB ID: 1QIB),,,,,,
+Lumichrome,−7.3801,6-ring6-ring6-ring6-ring6-ring 6-ring,CD1:LEU218(A)CA:TYR223(A)CD1:TYR223(A)N:THR227(A)5-ring:HIS201(A)5-ring:HIS201(A),Pi–HPi–HPi–HPi–HPi–PiPi–Pi,4.454.034.304.223.753.57,−0.6−1.2−0.6−3.9−0.0−0.0
+Galagin,−7.3211,BR25-ring,OE2:Glu202(A)CA:LEU218(A),H-donorPi–H,3.453.93,−0.9−1.6
+Chitosan,−11.6352,O32O43O15O22,OE1:GLU202(A)OE2:GLU202(A)N:TYR223(A)NZ:LYS89(A),H-donorH-donor H-acceptor H-acceptor,2.792.842.87316,−3.7−1.7−1.9−2.4
+Matrix metallopeptidase 9 (MMP-9) (PDB ID: 4H1Q),,,,,,
+Lumichrome,−6.9001,O2,N: ALA191(A),H-acceptor,3.38,−0.5
+Galagin,−6.8556,C136-ring,5-ring: HIS230(A)CB:ASP235(A),H–PiPi–H,3.613.75,−1.2−1.1
+Chitosan,−12.8897,O32O35C90O37,OD2:ASP235(A)O:GLY217(A)OD2:ASP235(A)NZ:LYS184(A),H-donorH-donorH-donorH-acceptor,3.043.083.053.43,−2.3−0.6−1.4−1.4

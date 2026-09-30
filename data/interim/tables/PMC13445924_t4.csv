@@ -1,0 +1,7 @@
+Treatments,Negative control,Infected H. pylori,Infected + 32 mg/kg MH,Infected + 64 mg/kg MH,Infected + SD
+Time (days),,,,,
+0,0,1 × 106a,1 × 106a,1 × 106a,1 × 106a
+7,0,1 × 107a,1 × 104b,0.5 × 104c,0.4 × 104c
+14,0,2 × 108a,1 × 102b,0.3 × 102c,0.2 × 102c
+21,0,3.1 × 109a,35b,13c,9c
+28,0,14 × 109a,6b,3 c,2c

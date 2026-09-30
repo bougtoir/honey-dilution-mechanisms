@@ -1,0 +1,8 @@
+Sample,Bacteria,,Fungi,
+G-Negative,G-Positive,,,
+Escherichia Coli ATCC-25922,Staphylococcus Aureus ATCC-6538,Candida Albicans ATCC-10231,Aspergillus Fumigatus ATCC-1022,
+SH,0,0,15,0
+Cu4,17,11,14,15
+Cu6,19,12,13,13
+Tetracycline,22,20,–,–
+Cyclohexamide,–,–,18,18

@@ -1,0 +1,11 @@
+Specimen,Inhibition Zone Size (mm),
+S. aureus,E. coli,
+PPH (undiluted),49.36 ± 0.80 a,30.15 ± 0.42 a
+BCH (undiluted),50.21 ± 0.40 a,18.23 ± 0.14 b
+RCH (undiluted),47.15 ± 0.56 b,27.18 ± 0.50 c
+PPH (0.5 g/mL),38.03 ± 0.80 d,14.02 d
+BCH (0.5 g/mL),37.15 ± 0.70 d,10.14 ± 0.88 e
+RCH (0.5 g/mL),40.23 ± 0.20 c,10.13 ± 0.62 e
+Penicillin,28.16 ± 0.44 e,
+Streptomycin,,36 ± 0.70 f
+Water,-,-

@@ -1,0 +1,32 @@
+Bee Product,Components,Effect,Disease,Reference
+Honey,"pinocembrin, lysozyme",antifungal,tinea,"[13,46,64]"
+"methylglyoxal, defensin-1 peptide, lysozyme, glucose oxidase, phenolic acids",antibacterial,"wounds, burns, ulcers","[13,16,45,46,50]",
+"fruits acids, sugars",exfoliating,wrinkles,[13],
+"quercetin, naryngenin, kaempferol, chrysin",anti-inflammatory,"wounds, gum inflammation","[49,52]",
+"carbohydrates, fruit acids, trace elements",regenerative,wounds,"[40,49,52,53]",
+Propolis,chrysin,analgesic,wounds,[3]
+"caffeic acid, quercetin",anti-inflammatory,wounds,"[19,55]",
+"pinocembrin, galangin, caffeic acid",antibacterial,"acne, wounds","[19,57,65,66]",
+"pinocembrin, pinobanksin, quercetin, kaempherol, caffeic acid, p-coumaric acid, terpenes,",antifungal,"tinea, fungal infections","[19,59]",
+"galangin, kaempferol, quercetin",antiviral,infection of Herpes simplex virus,"[62,63]",
+"caffeic acid, p-coumaric acid, ferulic acid, quercetin, kaempferol",photoprotective,photoaging,[60],
+"phenolic acids, flavonoids",antiaging,wrinkles,[59],
+genistein,stimulates angiogenesis,diabetic wound,[56],
+Royal jelly,"defensin-1 peptid, ferulic acid",antibacterial,"wounds, diabetic foot ulcers, acne","[32,67,68]"
+"10-hydroxydecanoic acid, 3-10-dihydroxydecanoic acid, amino, gamma globulin",antiinflammatory,"atopic dermatitis, wounds, hypertrophy, hyperkeratosis",[67],
+"10-hydroxy-trans-2-decenoic acid, 10-hydroxydecanoic acid",antiaging,wrinkles,[67],
+"10-hydroxydecanoic acid, 3-10-dihydroxydecanoic acid",immunomodulatory and antiallergenic,autoimmune and inflammatory diseases,[70],
+Bee pollen,"pinocembrin, apigenin, quercetin, kaempferol, ferulic acid, p-coumaric acid",antifungal,tinea,"[2,24,43]"
+"kaempferol, phenolic acids",antimicrobial,burns,"[2,6,24,43]",
+"phenolic acids, fatty acids, phytosterols, kaempferol, quercetin",antiinflammatory,"atopic dermatitis, burns","[2,43]",
+"methionine, zinc, phospholipids",sebo-balancing,acne,[43],
+Beeswax,"squalene, 10-hydroxy-trans-2-decenoic acid, chrysin",antibacterial,"wounds, atopic dermatitis, psoriasis","[34,36]"
+sterols,reduce transepidermal water loss,atopic dermatitis,[34],
+Bee venom,melittin,antimicrobial,"wounds, acne","[39,81,82,83,92]"
+"melittin, apamin",antifungal,tinea,"[84,85,86]",
+melittin,antiviral,herpes simplex infections,"[84,85,86,87]",
+not reported,"photoprotective, antimelanogenic",hiperpigmentation,"[44,94]",
+"melittin, adolapin",antiinflammatory,"plaque psoriasis, wounds, atopic dermatitis","[83,84,89,91,92]",
+phospholipase A2,pigmentation effect,vitiligo,[39],
+not reported,promote hair growth,alopecia,[88],
+not reported,antiwrinkle,wrinkles,"[44,94]",

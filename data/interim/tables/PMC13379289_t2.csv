@@ -1,0 +1,24 @@
+No.,Compound,Formula,RT (min),Exact mass (Da),Observed Mass (M + H)+,Observed mass (M − H)−,Honey type,
+M,F,,,,,,,
+1,Apigenin-7-glucoside,C21H20O10,1.67,432.11,—,431.2,+,—
+2,Galangin,C15H10O5,4.07,270.05,—,269.1,+,—
+3,Apigenin,C15H10O5,4.22,270.05,—,269.1,+,+
+4,Caffeic acid benzyl ether,C16H14O4,5.03,270.09,—,269.1,+,+
+5,P-coumaric acid cinnamyl ester,C18H16O3,5.58,280.11,281.1,—,+,+
+6,Naringenin,C15H12O5,7.13,272.07,273,—,+,+
+7,Pinocembrin,C15H12O4,8.1,256.07,257,—,+,+
+8,Leptosperin,C22H32O15,8.6,536.17,535.2,—,+,—
+9,Dimethyl caffeic acid,C11H12O4,10.33,208.07,209,—,+,—
+10,Rhamnetin,C16H12O7,11.07,316.06,—,315.2,+,—
+11,Methyl syringate,C10H12O5,11.82,212.07,213,—,+,+
+12,Caffeic acid phenyl ethyl ether,C17H16O4,21.07,284.1,285.3,—,+,—
+13,Ferulic acid,C10H10O4,1.35,194.06,195,—,+,—
+14,P-coumaric acid,C9H8O3,10.19,164.05,165,—,+,—
+15,Sakuranetin,C16H4O5,13.94,286.08,—,285.1,+,—
+17,Quercetin,C15H10O7,20.04,302.04,—,301.1,+,+
+18,Caftaric acid,C13H12O9,22.49,312.05,—,311.2,+,+
+19,Isorhamnetin,C16H12O7,5.18,316.06,—,315.2,—,+
+20,Malic acid,C4H6O5,6.091,134.02,—,133,—,+
+21,Morin,C15H10O7,21.01,302.04,—,301.02,—,+
+22,Rosmarinic acid,C18H16O8,13.12,360.08,—,359.2,—,+
+23,Quercitrin,C21H20O11,5.18,449.1,—,448.09,—,+

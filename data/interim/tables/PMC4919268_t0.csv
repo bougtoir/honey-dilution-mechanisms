@@ -1,0 +1,44 @@
+Honey dilutions,,,,,,,,,,
+Test bacteria,Net (1),1/2,1/4,1/8,1/16,1/32,1/64,1/128,Areas,MIC% (v/v)
+S. aureus,−,−,−,−,−,+,+,+,TR,6.25
+P. mirabilis,−,−,−,−,+,+,+,+,TR,12.5
+P. aeruginosa,−,−,−,+,+,+,+,+,TR,25
+CoNS,−,−,−,−,+,+,+,+,TR,12.5
+S. pyogenes,−,−,−,−,−,+,+,+,TR,6.25
+K. pneumoniae,−,−,−,+,+,+,+,+,TR,25
+E. coli,−,−,−,−,+,+,+,+,TR,12.5
+S. aureus,−,−,−,−,−,+,+,+,TW,6.25
+P. mirabilis,−,−,−,_,+,+,+,+,TW,12.5
+P. aeruginosa,−,−,+,+,+,+,+,+,TW,50
+CoNS,−,−,+,+,+,+,+,+,TW,50
+S. pyogenes,−,−,−,−,−,+,+,+,TW,6.25
+K. pneumoniae,−,−,+,+,+,+,+,+,TW,50
+E. coli,−,−,−,−,+,+,+,+,TW,12.5
+S. aureus,−,−,−,−,+,+,+,+,SR,12.5
+P. mirabilis,−,−,−,−,−,+,+,+,SR,6.25
+P. aeruginosa,−,−,−,−,+,+,+,+,SR,12.5
+CoNS,−,−,−,−,+,+,+,+,SR,12.5
+S. pyogenes,−,−,−,−,−,+,+,+,SR,6.25
+K. pneumoniae,−,−,−,+,+,+,+,+,SR,25
+E. coli,−,−,−,−,+,+,+,+,SR,12.5
+S. aureus,−,−,−,−,+,+,+,+,SW,12.5
+P. mirabilis,−,−,−,−,+,+,+,+,SW,12.5
+P. aeruginosa,−,−,−,+,+,+,+,+,SW,25
+CoNS,−,−,−,−,+,+,+,+,SW,12.5
+S. pyogenes,−,−,−,−,+,+,+,+,SW,12.5
+K. pneumoniae,−,−,−,+,+,+,+,+,SW,25
+E. coli,−,−,−,−,+,+,+,+,SW,12.5
+S. aureus,−,−,−,−,+,+,+,+,AR,12.5
+P. mirabilis,−,−,−,−,−,+,+,+,AR,6.25
+P. aeruginosa,−,−,−,+,+,+,+,+,AR,25
+CoNS,−,−,−,+,+,+,+,+,AR,25
+S. pyogenes,−,−,−,−,−,+,+,+,AR,6.25
+K. pneumoniae,−,−,−,+,+,+,+,+,AR,25
+E. coli,−,−,−,+,+,+,+,+,AR,25
+S. aureus,−,−,−,−,+,+,+,+,AW,12.5
+P. mirabilis,−,−,−,−,+,+,+,+,AW,12.5
+P. aeruginosa,−,−,+,+,+,+,+,+,AW,50
+CoNS,−,−,+,+,+,+,+,+,AW,50
+S. pyogenes,−,−,−,−,−,+,+,+,AW,6.25
+K. pneumoniae,−,−,−,+,+,+,+,+,AW,25
+E. coli,−,−,+,+,+,+,+,+,AW,25

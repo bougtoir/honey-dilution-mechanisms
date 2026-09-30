@@ -1,0 +1,22 @@
+Honey,Geographical Location,3-Deoxygluconse (3-DG) mg/kg,Glyoxal (GO) mg/kg,Methylglyoxal (MGO) mg/kg,Total Dicarbonyl Content (mg/kg)
+Washington A,Washington,10.80,3.44,2.57,16.81
+Washington B,Washington,22.14,9.43,6.03,37.60
+Washington C,Washington,18.56,8.10,4.25,30.91
+Washington D,Washington,17.02,9.26,1.38,27.66
+Washington E,Washington,21.04,7.88,1.69,30.62
+Washington F,Washington,15.71,7.42,4.23,27.36
+Texas A,Texas,30.26,4.61,N/D 1,34.87
+Texas B,Texas,29.12,4.94,N/D,34.07
+Texas C,Texas,46.99,4.59,N/D,51.58
+Texas D,Texas,37.47,4.62,N/D,42.09
+Texas E,Texas,43.34,4.65,N/D,48.00
+Texas F,Texas,32.04,4.76,N/D,36.80
+SoCal A,Southern California,24.51,2.86,N/D,27.38
+SoCal B,Southern California,36.24,4.75,N/D,41.00
+SoCal C,Southern California,41.37,5.56,N/D,46.94
+SoCal D,Southern California,45.45,4.74,N/D,50.19
+SoCal E,Southern California,42.84,4.75,N/D,47.60
+SoCal F,Southern California,50.24,4.49,N/D,55.74
+Manuka,New Zealand,8.16,N/D,28.82,36.98
+Average,,30.17 ± 12.97,5.60 ± 1.93,6.99 ± 9.76,38.12 ± 10.16
+Range,,10.80–50.24,2.86–9.43,1.38–28.82,16.81–55.74

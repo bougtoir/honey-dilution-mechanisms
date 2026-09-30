@@ -1,0 +1,21 @@
+M. abscessus isolate,Honey alone MBC (g/mL),Honey combination MBC (g/mL),Azithromycin alone MBC (µg/mL),Azithromycin combination MBC (µg/mL)
+MGO40,,,,
+NCTC 13031,0.476,0.117,>16,16
+subsp. abscessus,0.476,0.117,>16,4
+subsp. bolletii,0.476,0.117,>16,16
+subsp. massiliense,0.476,0.037,>16,0.5
+MGO55,,,,
+NCTC 13031,0.476,0.117,>16,16
+subsp. abscessus,0.476,0.117,>16,2
+subsp. bolletii,0.476,No interaction,>16,No interaction
+subsp. massiliense,0.476,0.037,>16,0.5
+MGO70,,,,
+NCTC 13031,0.476,0.037,>16,4
+subsp. abscessus,0.476,0.037,>16,1
+subsp. bolletii,0.476,No interaction,>16,No interaction
+subsp. massiliense,0.476,0.037,>16,1
+MGO83,,,,
+NCTC 13031,0.476,0.037,>16,1
+subsp. abscessus,0.476,0.037,>16,2
+subsp. bolletii,0.476,No interaction,>16,No interaction
+subsp. massiliense,0.476,0.037,>16,1

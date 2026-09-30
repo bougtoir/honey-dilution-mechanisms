@@ -1,0 +1,22 @@
+Organisms,,,UMF 5+,UMF 10+,UMF 15+
+Pseudomonas aeruginosa,All (n = 22),MIC50 (% w/v),21,21,21
+MIC90 (% w/v),21,27,27,,
+MIC range (% w/v),≤9–27,15–27,21–33,,
+MDR (n = 10),MIC50 (% w/v),15,21,21,
+MIC90 (% w/v),21,21,21,,
+MIC range (% w/v),≤9–21,15–27,21–27,,
+Non-MDR (n = 12),MIC50 (% w/v),21,21,27,
+MIC90 (% w/v),21,27,33,,
+MIC range (% w/v),15–27,15–27,21–33,,
+Enterobacteriaceae,All (n = 33),MIC50 (% w/v),21,21,27
+MIC90 (% w/v),33,33,33,,
+MIC range (% w/v),15–33,15–33,21–33,,
+"ESBL, CRE (n = 14)",MIC50 (% w/v),27,33,27,
+MIC90 (% w/v),33,33,33,,
+MIC range (% w/v),21–33,21–33,21–33,,
+Non-ESBL/CRE (n = 19),MIC50 (% w/v),21,21,27,
+MIC90 (% w/v),27,27,33,,
+MIC range (% w/v),15–27,15–27,21–39,,
+All Gram-negative organisms (n = 55),,MIC50 (% w/v),21,21,27
+MIC90 (% w/v),33,33,33,,
+MIC range (% w/v),9–33,15–33,21–39,,

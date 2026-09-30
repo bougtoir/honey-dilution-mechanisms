@@ -1,0 +1,17 @@
+No.,Microorganism,Visual MIC (%),,Spectrophotometric MIC95 (%),
+,,,,,
+,,Tualang,Manuka,Tualang,Manuka
+1,Streptococcus pyogenes,12.5,11.25,12.5,12.5
+2,Coagulase-negative Staphylococci,12.5,11.25,11.25,12.5
+3,Methicillin-resistant Staphylococcus aureus,12.5,8.75,11.25,12.5
+4,Streptococcus agalactiae,20,15,20,15
+5,Staphylococcus aureus,20,11.25,17.5,12.5
+,,,,,
+6,Stenotrophomonas maltophilia,8.75,8.75,10,10
+7,Acinetobacter baumannii,11.25,12.5,10,12.5
+8,Salmonella enterica Serovar typhi,15,15,15,17.5
+9,Pseudomonas aeruginosa,17.5,17.5,17.5,17.5
+10,Proteus mirabilis,20,17.5,22.5,22.5
+11,Shigella flexneri,20,17.5,25,25
+12,Escherichia coli,22.5,17.5,22.5,20
+13,Enterobacter cloacae,25,20,25,22.5

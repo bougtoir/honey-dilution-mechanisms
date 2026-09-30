@@ -1,0 +1,7 @@
+Bacteria,S. Typhimurium,,L. plantarum,
+Samples,MIC (mg/mL),MBC (mg/mL),MIC (mg/mL),MBC (mg/mL)
+HS 1,150 ± 50,175 ± 43.3,400 ± 0.0,>400
+HS 2,125 ± 43.3,125 ± 43.3,400 ± 0.0,>400
+HS 3,125 ± 43.3,125 ± 43.3,400 ± 0.0,>400
+Meropenem,0.06 ± 0.0,0.06 ± 0.0,ND,ND
+Gentamicin,ND,ND,0.004 ± 0.0,0.004 ± 0.0

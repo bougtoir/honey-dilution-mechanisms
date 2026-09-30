@@ -1,0 +1,15 @@
+Pathogens,Antibiotics sensitivity,
+,Sensitive to,Resistant to
+MSSA ATCC 29213,"Ciprofloxacin, Cefoxitin, Vancomycin",
+MRSA ATCC 33592,,Cefoxitin
+MRSA 0814+,,Cefoxitin
+E. feacalis ATCC 51299,Ciprofloxacin,Vancomycin
+VRE 002+,,Vancomycin
+VRE ATCC 51559+,,"Ciprofloxacin, Vancomycin"
+P. aeruginosa 007+,,Ciprofloxacin
+P. aeruginosa ATCC 27853,Ciprofloxacin,Cefoxitin
+K. pneumoniae 90 (ESBL)+,Ciprofloxacin,
+C. difficile (Ribotype 027),NT,NT
+C. difficile (Ribotype 087),NT,NT
+C. difficile 0001+,NT,NT
+C. difficile 0009+,NT,NT

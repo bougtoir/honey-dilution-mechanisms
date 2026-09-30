@@ -1,0 +1,28 @@
+Compound name,Retention time,Precursor ion,Product ion,Collision energy (CE),Ionisation mode
+quinic acid,2.33,191,85,40 V,negative
+pyrocatechol,5.47,109.2,108.896,40 V,negative
+protocatechuic acid,6.25,153,109,40 V,negative
+4-hydroxyphenylacetic acid,7.34,151,151,40 V,negative
+catechin,8.78,289,245,40 V,negative
+vanillic acid,8.92,167,125,40 V,negative
+caffeic acid,9.59,179,135,40 V,negative
+epicatechin,9.81,289,245,40 V,negative
+hydroferulic acid,10.10,195,121,40 V,negative
+p-coumaric acid,11.49,163,119,40 V,negative
+ferulic acid,11.96,193,134,40 V,negative
+sinapinic acid,12.00,223,208,40 V,negative
+salicylic acid,12.45,137,93,40 V,negative
+taxifolin,12.46,303,285,40 V,negative
+rutin,12.78,609,300,40 V,negative
+hesperidin,13.05,609,301,40 V,negative
+isoquercetin,13.12,463,300,40 V,negative
+aromadendrin,14.15,287,259,40 V,negative
+quercetrin,14.22,447,300,40 V,negative
+luteolin,16.48,285,133,40 V,negative
+quercetin,16.53,301,164,40 V,negative
+naringenin,16.74,271,151,40 V,negative
+hesperetin,16.88,301,164,40 V,negative
+apigenin,17.75,269,117,40 V,negative
+isorhamnetin,17.92,315,300,40 V,negative
+kaempferol,18.01,285,93,40 V,negative
+galangin,19.81,269,171,40 V,negative

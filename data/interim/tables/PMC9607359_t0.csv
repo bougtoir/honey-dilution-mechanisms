@@ -1,0 +1,13 @@
+Bacterial Isolates,Gram-Stain,MIC (mg/mL),MBC (mg/mL),MBC/MIC Ratio
+Clinical Isolates,,,,
+Staphylococcus aureus,Positive,300,350,1.16
+Methicillin-resistant Staphylococcus aureus- Uni 1,Positive,300,>450,>1.5
+Methicillin-resistant Staphylococcus aureus- Uni 2,Positive,250,>450,>1.8
+Pseudomonas aeruginosa,Negative,250,300,1.2
+Escherichia coli,Negative,350,>450,>1.28
+Acinetobacter baumannii,Negative,250,450,1.8
+Reference isolates,,,,
+Bacillus subtilis MTCC 121,Positive,80,100,1.25
+Staphylococcus aureus MTCC 96,Positive,90,150,1.66
+Escherichia coli MTCC 9537,Negative,100,200,2.0
+Pseudomonas aeruginosa MTCC 741,Negative,120,250,2.08

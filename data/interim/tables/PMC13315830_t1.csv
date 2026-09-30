@@ -1,0 +1,7 @@
+Antibiotic,MIC (μg/mL),,
+Strain 1,Strain 2,Strain 3,
+Amoxicillin,0.13 ± 0.00,0.13 ± 0.00,0.19 ± 0.00
+Clarithromycin,0.38 ± 0.00,0.50 ± 0.00,1.00 ± 0.00
+Metronidazole,Complete resistance,Complete resistance,Complete resistance
+Tetracycline,0.75 ± 0.00,0.75 ± 0.00,0.75 ± 0.00
+Ciprofloxacin,0.16 ± 0.00,0.31 ± 0.00,0.31 ± 0.00

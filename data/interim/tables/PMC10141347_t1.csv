@@ -1,0 +1,18 @@
+,,Honey Color,TPC,TFC,MRP,Antioxidant,,,
+ABTS,FRAP,DPPH,ORAC,,,,,,
+Honey color,Average,1.00,0.89,0.93,0.98,,0.90,0.86,0.83
+Range,,0.68–0.99,,,,0.89–0.92,0.84–0.88,0.73–0.93,
+TPC,Average,0.88,1.00,0.86,0.95,0.97,0.89,0.86,
+Range,0.68–0.99,,0.71–0.98,,0.72–0.96,0.87–0.92,,,
+TFC,Average,0.87,0.97,1.00,,,,,
+Range,0.77–0.98,0.73–0.98,,,,,,,
+MRP,Average,0.98,0.95,,1.00,,,0.94,
+Range,,,,,,,,,
+Anti-oxidant:ABTS,Average,,0.85,,,1.00,,,
+Range,,0.72–0.96,,,,,,,
+Anti-oxidant:FRAP,Average,0.92,0.91,,,0.80,1.00,,
+Range,,0.95–0.88,,,0.72–0.89,,,,
+Anti-oxidant:PPH,Average,0.88,0.90,,,,0.89,1.00,
+Range,,0.89–0.92,,,,,,,
+Anti-oxidant:ORAC,Average,0.83,0.86,,0.94,,0.82,,1.00
+Range,0.93–0.73,0.86–0.87,,,,,,,

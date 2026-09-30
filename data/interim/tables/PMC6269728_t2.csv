@@ -1,0 +1,4 @@
+Correlation,B. cereus,S. aureus,E. coli,P. aeruginosa
+MIC versus phenols,−0.115,−0.098,0.043,0.111
+MIC versus flavonoids,0.365 ***,−0.146,0.089,0.010
+MIC versus sugars,−0.066,0.177,−0.103,−0.030

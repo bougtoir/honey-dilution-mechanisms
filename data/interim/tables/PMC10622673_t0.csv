@@ -1,0 +1,6 @@
+Isolate,WT MICs,,,,MH + Antibiotic,,,,,
+"MH (%, w/v)",GEN (μg/ml),RIF (μg/ml),VA (μg/ml),MH + GEN,,MH + RIF,,MH + VA,,
+FICI,Effects,FICI,Effects,FICI,Effects,,,,,
+S. aureus,7,0.49,0.24,0.96,1.50,A,0.92,PS,0.64,PS
+S. epidermidis,7-8,0.12,0.06,0.96,1.13,A,1.14,A,1.50,A
+S. lugdunensis,6-7,0.24,0.06,0.49,0.93,PS,1.50,A,1.50,A

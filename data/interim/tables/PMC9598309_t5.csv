@@ -1,0 +1,26 @@
+m/z,MF,Suggested Compound,References,
+315.051,C16H12O7,Rhamnetin,"[32,33]",BetônicaVelameSilvestre
+299.056,C16H12O6,Kaempferide,"[32,33]",Cipó-uvaCoffeeVelame
+287.22,C16H32O4,Dihydroxypalmitic acid,[32],CoffeeVelameSilvestre
+281.1394,C15H22O4,Syringic acid hexyl ester,[32],BetônicaPequiCipó-uvaCoffeeVelameSilvestreAroeira
+285.040,C15H10O6,Luteolin or Kaempferol,"[32,34,35]",BetônicaCoffeeCipó-uvaPequiVelameSilvestre
+271.061,C15H12O5,Pinobanksin,"[32,36]",BetônicaCoffeePequiVelameSilvestre
+271.061,C15H12O5,Naringenin,"[34,35]",BetônicaCipó-uvaPequiVelameSilvestre
+269.045,C15H10O5,Galangin,"[32,33]",BetônicaCoffeeVelameSilvestre
+269.045,C15H9O5,Apigenin,"[32,33]",Velame
+263.129,C15H20O4,Abscisic acid,"[32,33,34,36]",BetônicaAroeiraCipó-uvaPequiVelameSilvestre
+255.066,C15H12O4,Pinocembrin,"[32,33]",VelameSilvestre
+253.050,C15H10O4,Chrysin,"[32,33,34]",BetônicaAroeiraCipó-uvaVelameSilvestre
+201.113,C10H18O4,Dihydroxydecenoic acid,[32],BetônicaCipó-uvaPequiVelameSilvestre
+199.097,C10H15O4,Succinic acid,[32],BetônicaPequiAroeiraCipó-uvaCoffeeVelameSilvestre
+195.066,C10H12O4,Hydroxyconiferyl alcohol,[32],AroeiraCipó-uvaSilvestre
+187.097,C9H16O4,Azelaic acid,[32],BetônicaAroeiraCoffeeCipó-uvaPequiVelameSilvestre
+185.118,C10H18O3,Royal jelly acid,[32],BetônicaPequiAroeiraCoffee
+181.050,C9H10O4,Syringaldehyd,[32],BetônicaCoffeeAroeiraCipó-uvaPequiVelameSilvestre
+179.035,C9H8O4,Cafeic acid,"[32,33,34,35]",BetônicaAroeiraCoffeeCipó-uvaPequiVelameSilvestre
+169.014,C7H6O5,Gallic acid,"[33,34]",BetônicaCoffeeAroeiraCipó-uvaPequiVelame
+165.055,C9H10O3,Phenyllactic acid,[32],BetônicaAroeiraCipó-uvaCoffeePequiVelameSilvestre
+163.040,C9H8O3,Coumaric acid,"[33,34]",CoffeeAroeiraCipó-uvaPequi
+151.040,C8H8O3,Vanillic acid,[35],BetônicaCoffeeAroeiraCipó-uvaPequiVelameSilvestre
+144.045,C9H7NO,Quinolinol,[32],BetônicaPequiAroeiraCipó-uvaVelameSilvestre
+137.024,C7H6O3,p-hydroxybenzoic acid,[32],Cipó-uvaCoffeeVelameSilvestre

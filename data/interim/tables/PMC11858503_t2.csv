@@ -1,0 +1,10 @@
+Texture Properties,Type of Sausage,,
+Control,0.2% of Honey,0.4% of Honey,
+Firmness (N),13.98 ± 1.67 a,15.74 ± 2.65 a,9.39 ± 1.83 b
+Toughness (N/s),93.14 ± 12.42 a,114.27 ± 15.07 b,67.68 ± 17.18 c
+Hardness (N),"18,981.66 ± 1479.23 a","17,454.86 ± 3921.45 b","19,191.99 ± 2059.07 a,c"
+Adhesiveness (N/s),−107.49 ± 69.14 a,−110.47 ± 61.38 a,−403.88 ± 743.23 b
+Springiness (ratio),0.722 ± 0.036 a,0.713 ± 0.058 a,0.753 ± 0.015 a
+Cohesiveness (ratio),0.586 ± 0.098 a,0.523 ± 0.108 a,0.604 ± 0.058 b
+Chewiness (N),7128.58 ± 1287 a,6469.36 ± 1801.55 b,8749.92 ± 1412.25 c
+Resilience (ratio),0.229 ± 0.089 a,0.222 ± 0.047 a,0.254 ± 0.022 b

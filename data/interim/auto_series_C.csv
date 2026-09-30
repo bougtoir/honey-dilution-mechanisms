@@ -1,0 +1,95 @@
+pmcid,table_idx,row_idx,col_idx,conc_label,honey_label,organism_label,concentration,outcome,value,unit,extract
+PMC2478674,1,3,1,50%,E. cladocalyx (Bluegum),Dilution,50.0,series,5.25,,auto_C
+PMC2478674,1,3,2,25%,E. cladocalyx (Bluegum),,25.0,series,6.41,,auto_C
+PMC2478674,1,3,3,21%,E. cladocalyx (Bluegum),,21.0,series,6.47,,auto_C
+PMC2478674,1,3,4,17%,E. cladocalyx (Bluegum),,17.0,series,6.69,,auto_C
+PMC2478674,1,3,5,12.50%,E. cladocalyx (Bluegum),,12.5,series,7.1,,auto_C
+PMC2478674,1,3,6,6.25%,E. cladocalyx (Bluegum),,6.25,series,7.2,,auto_C
+PMC2478674,1,3,7,3.12%,E. cladocalyx (Bluegum),,3.12,series,7.28,,auto_C
+PMC2478674,1,4,1,50%,Erica species (Fynbos),Dilution,50.0,series,5.19,,auto_C
+PMC2478674,1,4,2,25%,Erica species (Fynbos),,25.0,series,6.28,,auto_C
+PMC2478674,1,4,3,21%,Erica species (Fynbos),,21.0,series,6.39,,auto_C
+PMC2478674,1,4,4,17%,Erica species (Fynbos),,17.0,series,6.54,,auto_C
+PMC2478674,1,4,5,12.50%,Erica species (Fynbos),,12.5,series,6.71,,auto_C
+PMC2478674,1,4,6,6.25%,Erica species (Fynbos),,6.25,series,6.96,,auto_C
+PMC2478674,1,4,7,3.12%,Erica species (Fynbos),,3.12,series,7.15,,auto_C
+PMC2478674,1,5,1,50%,L. cordifolium (Pincushion),Dilution,50.0,series,5.23,,auto_C
+PMC2478674,1,5,2,25%,L. cordifolium (Pincushion),,25.0,series,6.4,,auto_C
+PMC2478674,1,5,3,21%,L. cordifolium (Pincushion),,21.0,series,6.52,,auto_C
+PMC2478674,1,5,4,17%,L. cordifolium (Pincushion),,17.0,series,6.7,,auto_C
+PMC2478674,1,5,5,12.50%,L. cordifolium (Pincushion),,12.5,series,6.9,,auto_C
+PMC2478674,1,5,6,6.25%,L. cordifolium (Pincushion),,6.25,series,7.3,,auto_C
+PMC2478674,1,5,7,3.12%,L. cordifolium (Pincushion),,3.12,series,7.38,,auto_C
+PMC2478674,1,6,1,50%,L. scoparium (Manuka),Dilution,50.0,series,5.17,,auto_C
+PMC2478674,1,6,2,25%,L. scoparium (Manuka),,25.0,series,6.3,,auto_C
+PMC2478674,1,6,3,21%,L. scoparium (Manuka),,21.0,series,6.45,,auto_C
+PMC2478674,1,6,4,17%,L. scoparium (Manuka),,17.0,series,6.64,,auto_C
+PMC2478674,1,6,5,12.50%,L. scoparium (Manuka),,12.5,series,6.89,,auto_C
+PMC2478674,1,6,6,6.25%,L. scoparium (Manuka),,6.25,series,7.18,,auto_C
+PMC2478674,1,6,7,3.12%,L. scoparium (Manuka),,3.12,series,7.3,,auto_C
+PMC4023514,0,2,2,Mean MIC% (w/v) ± SE,Progenitor strain,,25.6,series,15.3,,auto_C
+PMC4023514,0,3,2,Mean MIC% (w/v) ± SE,Recovered isolate,,30.6,series,22.6,,auto_C
+PMC4023514,0,4,2,Mean MIC% (w/v) ± SE,p- value,,0.05,series,0.05,,auto_C
+PMC4783026,2,2,2,MIC % (w/v),Citrus,,50.0,series,70.0,%w/v,auto_C
+PMC4783026,2,3,2,MIC % (w/v),Clover,,50.0,series,70.0,%w/v,auto_C
+PMC4783026,2,4,2,MIC % (w/v),Marjoram,,25.0,series,70.0,%w/v,auto_C
+PMC6659206,2,2,2,25% in water,Standard,Zone of inhibition (mm),25.0,series,16.8,mm,auto_C
+PMC6659206,2,2,3,25% in catalase,Standard,,25.0,series,15.4,mm,auto_C
+PMC6659206,2,3,2,25% in water,H01,Zone of inhibition (mm),25.0,series,16.7,mm,auto_C
+PMC6659206,2,4,2,25% in water,H02,Zone of inhibition (mm),25.0,series,11.3,mm,auto_C
+PMC6659206,2,5,2,25% in water,H03,Zone of inhibition (mm),25.0,series,18.3,mm,auto_C
+PMC6659206,2,5,3,25% in catalase,H03,,25.0,series,11.4,mm,auto_C
+PMC6659206,2,6,2,25% in water,H04,Zone of inhibition (mm),25.0,series,16.9,mm,auto_C
+PMC6659206,2,7,2,25% in water,H05,Zone of inhibition (mm),25.0,series,15.5,mm,auto_C
+PMC6659206,2,7,3,25% in catalase,H05,,25.0,series,11.8,mm,auto_C
+PMC6659206,2,8,2,25% in water,H06,Zone of inhibition (mm),25.0,series,15.2,mm,auto_C
+PMC6659206,2,9,2,25% in water,H07,Zone of inhibition (mm),25.0,series,11.5,mm,auto_C
+PMC6659206,2,10,2,25% in water,H08,Zone of inhibition (mm),25.0,series,18.0,mm,auto_C
+PMC6659206,2,11,2,25% in water,H09,Zone of inhibition (mm),25.0,series,13.9,mm,auto_C
+PMC6659206,2,12,2,25% in water,H11,Zone of inhibition (mm),25.0,series,14.1,mm,auto_C
+PMC6659206,3,2,2,25% in water,Standard,Zone of inhibition (mm),25.0,series,16.0,mm,auto_C
+PMC6659206,3,2,3,25% in catalase,Standard,,25.0,series,14.9,mm,auto_C
+PMC6659206,3,3,2,25% in water,H01,Zone of inhibition (mm),25.0,series,17.2,mm,auto_C
+PMC6659206,3,4,2,25% in water,H02,Zone of inhibition (mm),25.0,series,13.4,mm,auto_C
+PMC6659206,3,5,2,25% in water,H03,Zone of inhibition (mm),25.0,series,18.1,mm,auto_C
+PMC6659206,3,5,3,25% in catalase,H03,,25.0,series,11.4,mm,auto_C
+PMC6659206,3,6,2,25% in water,H04,Zone of inhibition (mm),25.0,series,17.2,mm,auto_C
+PMC6659206,3,7,2,25% in water,H05,Zone of inhibition (mm),25.0,series,14.5,mm,auto_C
+PMC6659206,3,7,3,25% in catalase,H05,,25.0,series,11.8,mm,auto_C
+PMC6659206,3,8,2,25% in water,H06,Zone of inhibition (mm),25.0,series,14.5,mm,auto_C
+PMC6659206,3,9,2,25% in water,H07,Zone of inhibition (mm),25.0,series,11.8,mm,auto_C
+PMC6659206,3,10,2,25% in water,H08,Zone of inhibition (mm),25.0,series,17.5,mm,auto_C
+PMC6659206,3,11,2,25% in water,H09,Zone of inhibition (mm),25.0,series,12.8,mm,auto_C
+PMC6659206,3,12,2,25% in water,H11,Zone of inhibition (mm),25.0,series,12.6,mm,auto_C
+PMC8234392,1,4,2,12.50%,3,MIC,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,4,3,12.50%,3,,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,4,4,12.50%,3,MBC,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,4,5,12.50%,3,,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,5,2,12.50%,4,MIC,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,5,3,12.50%,4,,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,5,4,12.50%,4,MBC,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,5,5,12.50%,4,,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,6,2,12.50%,5,MIC,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,6,3,12.50%,5,,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,6,4,12.50%,5,MBC,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,6,5,12.50%,5,,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,7,2,12.50%,6,MIC,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,7,3,12.50%,6,,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,7,4,12.50%,6,MBC,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,7,5,12.50%,6,,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,8,2,12.50%,7,MIC,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,8,3,12.50%,7,,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,8,4,12.50%,7,MBC,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,8,5,12.50%,7,,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,9,2,12.50%,8,MIC,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,9,3,12.50%,8,,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,9,4,12.50%,8,MBC,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,9,5,12.50%,8,,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,10,2,12.50%,9,MIC,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,10,3,12.50%,9,,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,10,4,12.50%,9,MBC,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,10,5,12.50%,9,,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,11,2,12.50%,10,MIC,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,11,3,12.50%,10,,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,11,4,12.50%,10,MBC,12.5,series,25.0,%v/v,auto_C
+PMC8234392,1,11,5,12.50%,10,,12.5,series,25.0,%v/v,auto_C

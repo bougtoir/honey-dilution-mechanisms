@@ -1,0 +1,8 @@
+,GC-MS
+Device,"Agilent 6890N (Agilent Technologies, Santa Clara, CA, USA)"
+Column,"30 × 0.25 mm i.d, Agilent SLB-5MS (film thickness 0.25 µm)"
+Program,"60 °C 3 min, 8 °C/min 60–250 °C, 250 °C 1 min"
+Carrier gas,"High-purity helium 6.0, 1.0 mL/min, (37 cm/s), constant flow"
+Injector,250 °C
+Injection,Split ratio 1:50
+Detector,Agilent 5973N (MS)

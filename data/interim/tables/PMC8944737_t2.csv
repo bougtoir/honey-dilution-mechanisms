@@ -1,0 +1,11 @@
+Physicochemical Parameters,Indexes of Correlation,,,,,,,,
+pH,-,-,-,-,-,-,-,-,-
+H2O2,-,-,,,,,,,
+Free acidity,-,-,-,,,,,,
+Lactonic acidity,-,-,r = 0.952p < 0.00001,-,,,,,
+TPC,-,-,-,-,-,,,,
+TFC,-,-,-,-,-,-,,,
+DPPH,-,r = 0.802p = 0.00521,-,-,-,r = 0.89p = 0.00054,-,,
+Tyrosinase inhibition,-,-,-,-,"r = 0.636,p = 0.04791","r = 0.872,p = 0.03304","r = 0.696,p = 0.0251",-,
+Kojic acid,-,-,-,-,-,-,"r = 0696,p = 0.0251","r = 0.975,p < 0.0001",-
+,pH,H2O2,Free acidity,Lactonic acidity,TPC,TFC,DPPH,Tyrosinaseinhibition,Kojic acid

@@ -1,0 +1,11 @@
+Targeted Microbe,Efficacy,Active Constituents,Ref.
+Staphylococcus aureus,MIC: 1.1 mM (MGO)MIC: 4.3 mM (GO),MGO/GO,[82]
+Escherichia coli,MIC: 1.1 mM (MGO)MIC: 6.9 mM (GO),MGO/GO,[82]
+Pseudomonas aeruginosa,MIC: 12% w/vMBC: 16% w/v,N/R,[83]
+Salmonella enterica,MIC = 8.9% (v/v),N/R,[84]
+Pseudomonas aeruginosa (ATCC 27853),MIC = 9.5% (w/v); MBC = 12% (w/v),N/R,[91]
+Pseudomonas aeruginosa (biofilm),MIC: 5–7% w/v; MBC: 15% w/v,N/R,"[92,93]"
+"E. coli, Salmonella typhimurium, Salmonella enteritidis, Salmonella mississippi, Yersinia enterocolitica, Enterobacter aerogenes, Enterobacter cloacae, Shigella flexneri, Shigella sonnei",MIC: 5–10% (v/v); MBC: 5–10% (v/v); Enterobacter spp. MIC/MBC = 10–17%,"H2O2, MGO",[93]
+Staphylococcus aureus,"MIC50: UMF 5+ = 6%, UMF 10+ = 7%, UMF 15+ = 15%; for Enterobacteriaceae, MIC50 ~21–27%",MGO,[94]
+Bacillus subtilis,MIC = 0.8 mM,MGO,[95]
+Escherichia coli,MIC = 1.2 mM,MGO,[95]

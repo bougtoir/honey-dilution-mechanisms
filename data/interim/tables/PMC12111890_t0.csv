@@ -1,0 +1,2 @@
+Insecticide,Toxicity Regression Equation,LC20 (mg·L−1),95% Confidence Interval,LC50 (mg·L−1),95% Confidence Interval,R2
+SPI,y = 1.043 x + 0.391,0.066,0.044 ~ 0.092,0.421,0.290 ~ 0.701,0.966

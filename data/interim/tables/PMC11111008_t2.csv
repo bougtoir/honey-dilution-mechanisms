@@ -1,0 +1,18 @@
+Method,Accuracy,Difficulty,Safety,Comments
+Antimicrobial Activity,,,,
+Phenol Equivalence,Fair—but underestimates non-peroxide factors in non-Leptospermum honeys,High,Hazardous chemical—phenol; requires PC2 facilities for S. aureus,Only performed with the bacterial pathogen S. aureus
+Minimum Inhibitory Concentration *,Good,Medium,Safe; requires PC2 facilities for microbial pathogens,"Can readily be applied to a wide variety of microbes including bacteria, yeasts, and moulds"
+Hydrogen Peroxide,,,,
+HRP *,Good,High,Hazardous chemical– 6M H2SO4,"Cheap for bulk samples, expensive for few samples"
+ADHP *,Good,Medium,Safe,"Cheap for bulk samples, expensive for few samples"
+Strip Test *,Good,Low,Safe,"Cheap for few samples, expensive for bulk samples"
+Phenolics,,,,
+FC,Fair—but affected by non-phenolic reducing compounds,Low,Safe,"May have utility for comparing multiple samples, but should not be used to determine absolute values"
+FBBB *,Good,Medium,Safe,More accurate than FC for determining absolute values
+Antioxidants,,,,
+FRAP,Good,Medium,Safe,Produces results in alignment with DPPH
+DPPH *,Good,Medium,Hazardous chemical—DPPH,Produces results in alignment with FRAP but is more strongly associated with antimicrobial activity
+Colour by Spectrophotometer,,,,
+Pfund,Poor—vulnerable to turbidity and crystallisation,Low,Safe,"Very inaccurate, should be avoided"
+mAU *,Good,Low,Safe,Gives the best correlation with colour assessed visually
+CIELAB,Poor—saturated at lower wavelengths,Medium,Safe,May have utility when in-depth comparison across the colour spectrum is desired and honeys can be diluted to avoid saturation

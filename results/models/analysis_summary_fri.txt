@@ -1,0 +1,14 @@
+B1: eligible 412; PMCID 255; OA-XML 234; extracted 103. Median year ex vs non-ex: 2022 vs 2020 (p=0.000215)
+A1b: log-log slope zone~conc = 0.33 +/- 0.55 (sub-linear if <1)
+A5-CV: LOSO-CV R2 chem=-32.317 label=-0.119 both=-32.317 null=-0.119
+S-low_rob: {'n': 185, 'studies': 6, 'median': 25.0}
+S-manuka_excluded: {'n': 1932, 'median': 20.0}
+S-manuka_only: {'n': 123, 'median': 15.0}
+S-w_v_basis_only: {'n': 315, 'median': 15.0}
+S-v_v_basis_only: {'n': 157, 'median': 8.0}
+S-aw_measured_studies: {'n': 126, 'studies': 2, 'median': 25.0}
+S-h2o2_measured_studies: {'n': 226, 'studies': 7, 'median': 16.0}
+S-peer_reviewed_only: {'n': 2055, 'median': 19.7, 'note': 'extracted corpus contains no preprint-DOI rows'}
+S-loo_manuka_ns_frac: 0.38
+A2 by-study (ratio>1 = natural more potent): PMC11111008/MIC:n=3,r=1.19; PMC3406342/MIC:n=1,r=1.30; PMC6659206/MIC:n=3,r=2.69; PMC7076972/zone:n=4,r=nan; PMC8234392/MBC:n=2,r=1.06; PMC8234392/MIC:n=2,r=1.06; PMC8304482/zone:n=6,r=1.46
+A2 direction: 16/21 pairs natural more potent (median ratio 1.38)

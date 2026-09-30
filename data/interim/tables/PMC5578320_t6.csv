@@ -1,0 +1,7 @@
+Inhibition Zone (mm),Growth a,Description,Assessment
+>1,None,"inhibition zone exceeding 1 mm, no growth b",Good effect
+1–0,None,"inhibition zone up to 1 mm, no growth b",
+0,None,"no inhibition zone, no growth c",
+0,Slight,"no inhibition zone, only some restricted colonies, growth nearly totally suppressed d",Limit of efficacy
+0,Moderate,"no inhibition zone, compare to the control growth reduced to half e",Insufficient effect
+0,Heavy,"no inhibition zone, compare to the control no growth reduction or only slightly reduced growth",

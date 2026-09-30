@@ -1,0 +1,18 @@
+study_id,honey,organism,condition,n,n_conc,spearman_rho,p,measure,outcome
+PMC11376693,Manuka UMF15+,CRE isolate,untreated,19,3,0.710148114710999,0.000657588669237219,zone,zone
+PMC11376693,Manuka UMF15+,E. coli,untreated,3,3,1.0,0.0,zone,zone
+PMC11376693,Manuka UMF15+,K. pneumoniae,untreated,3,3,1.0,0.0,zone,zone
+PMC11792292,Citrus,P. aeruginosa,untreated,4,4,1.0,0.0,pct_inhib_biofilm,pct_inhib_biofilm
+PMC11792292,Thyme,P. aeruginosa,untreated,4,4,1.0,0.0,pct_inhib_biofilm,pct_inhib_biofilm
+PMC12532491,"Apis mellifera honey (Awi, Ethiopia)",E. coli,untreated,5,5,0.9999999999999999,1.4042654220543672e-24,zone,zone
+PMC12532491,"Apis mellifera honey (Awi, Ethiopia)",K. pneumoniae,untreated,5,5,0.9999999999999999,1.4042654220543672e-24,zone,zone
+PMC12532491,"Apis mellifera honey (Awi, Ethiopia)",P. aeruginosa,untreated,5,5,0.9746794344808964,0.004818230468198537,zone,zone
+PMC12532491,"Apis mellifera honey (Awi, Ethiopia)",S. aureus,untreated,5,5,0.9999999999999999,1.4042654220543672e-24,zone,zone
+PMC12532491,"Apis mellifera honey (Awi, Ethiopia)",Salmonella,untreated,5,5,0.9999999999999999,1.4042654220543672e-24,zone,zone
+PMC2478674,E. cladocalyx (Bluegum),other,untreated,7,7,-1.0,0.0,pH,series
+PMC2478674,Erica species (Fynbos),other,untreated,7,7,-1.0,0.0,pH,series
+PMC2478674,L. cordifolium (Pincushion),other,untreated,7,7,-1.0,0.0,pH,series
+PMC2478674,L. scoparium (Manuka),other,untreated,7,7,-1.0,0.0,pH,series
+PMC8944737,Greek honeys (n=42),Enterobacter,untreated,5,5,-0.39999999999999997,0.5046315754686911,n_outperform_manuka,n_outperform_manuka
+PMC8944737,Greek honeys (n=42),K. pneumoniae,untreated,9,5,-0.03390317518104052,0.930999140566256,n_outperform_manuka,n_outperform_manuka
+PMC8944737,Greek honeys (n=42),P. aeruginosa,untreated,5,5,-0.5642880936468347,0.32172333582430024,n_outperform_manuka,n_outperform_manuka

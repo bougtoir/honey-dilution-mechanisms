@@ -1,0 +1,1029 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="fsn372165" xml:lang="en" article-type="research-article" dtd-version="1.4"><?da-xref-anchor-style superscripted?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Food Sci Nutr</journal-id><journal-id journal-id-type="iso-abbrev">Food Sci Nutr</journal-id><journal-id journal-id-type="pmc-domain-id">2357</journal-id><journal-id journal-id-type="pmc-domain">fsn</journal-id><journal-id journal-id-type="nlm-id">101605473</journal-id><journal-id journal-id-type="publisher-id">FSN3</journal-id><journal-title-group><journal-title>Food Science &amp; Nutrition</journal-title></journal-title-group><issn pub-type="epub">2048-7177</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13522720</article-id><article-id pub-id-type="pmcid-ver">PMC13522720.1</article-id><article-id pub-id-type="pmcaid">13522720</article-id><article-id pub-id-type="pmcaiid">13522720</article-id><article-id pub-id-type="pmid">42666442</article-id><article-id pub-id-type="doi">10.1002/fsn3.72165</article-id><article-id pub-id-type="publisher-id">FSN372165</article-id><article-id pub-id-type="other">6644518</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Phytochemical Profiling and Antibacterial Activity of Moroccan Monofloral Honeys Against Multidrug‐Resistant Uropathogens: In Vitro, <styled-content style="fixed-case" toggle="no">ADMET</styled-content>, Molecular Docking, and Molecular Dynamics Approaches</article-title></title-group><contrib-group><contrib id="fsn372165-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Chikhaoui</surname><given-names initials="M">Mourad</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0001-1782-8205</contrib-id><xref rid="fsn372165-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="fsn372165-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>chimoura7@gmail.com</email></address></contrib><contrib id="fsn372165-cr-0002" contrib-type="author"><name name-style="western"><surname>Galman</surname><given-names initials="A">Aziz</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0004-1580-7488</contrib-id><xref rid="fsn372165-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="fsn372165-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="fsn372165-cr-0003" contrib-type="author"><name name-style="western"><surname>Chetoui</surname><given-names initials="A">Ahmed</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7876-8285</contrib-id><xref rid="fsn372165-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="fsn372165-cr-0004" contrib-type="author"><name name-style="western"><surname>Khibech</surname><given-names initials="O">Oussama</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0007-9407-7576</contrib-id><xref rid="fsn372165-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="fsn372165-cr-0005" contrib-type="author"><name name-style="western"><surname>Kachmar</surname><given-names initials="MR">Mohamed Reda</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8191-1129</contrib-id><xref rid="fsn372165-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="fsn372165-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="fsn372165-cr-0006" contrib-type="author"><name name-style="western"><surname>Bouddine</surname><given-names initials="T">Toufik</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0915-1257</contrib-id><xref rid="fsn372165-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="fsn372165-cr-0007" contrib-type="author"><name name-style="western"><surname>Bouhrim</surname><given-names initials="M">Mohamed</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9944-811X</contrib-id><xref rid="fsn372165-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="fsn372165-cr-0008" contrib-type="author"><name name-style="western"><surname>Nasr</surname><given-names initials="FA">Fahd A.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6496-7822</contrib-id><xref rid="fsn372165-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="fsn372165-cr-0009" contrib-type="author"><name name-style="western"><surname>Al‐Zharani</surname><given-names initials="M">Mohammed</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0810-4803</contrib-id><xref rid="fsn372165-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="fsn372165-cr-0010" contrib-type="author" corresp="yes"><name name-style="western"><surname>Qurtam</surname><given-names initials="AA">Ashraf Ahmed</given-names></name><xref rid="fsn372165-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref><address><email>aaqurtam@imamu.edu.sa</email></address></contrib><contrib id="fsn372165-cr-0011" contrib-type="author"><name name-style="western"><surname>Lotfi</surname><given-names initials="R">Rachid</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0004-1770-2698</contrib-id><xref rid="fsn372165-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="fsn372165-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="fsn372165-cr-0012" contrib-type="author"><name name-style="western"><surname>El Hajjouji</surname><given-names initials="H">Houda</given-names></name><xref rid="fsn372165-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="fsn372165-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Ecology and Environment Laboratory, Faculty of Sciences Ben M'sik</named-content>
+<institution>Hassan II University</institution>
+<city>Casablanca</city>
+<country country="MA">Morocco</country>
+</aff><aff id="fsn372165-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Higher Institute of Nursing Professions and Health Techniques</institution>
+<city>Beni‐Mellal</city>
+<country country="MA">Morocco</country>
+</aff><aff id="fsn372165-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Applied Engineering and Technology Laboratory, Faculty of Sciences, and Techniques</named-content>
+<institution>Sultan Moulay Slimane University</institution>
+<city>Beni‐Mellal</city>
+<country country="MA">Morocco</country>
+</aff><aff id="fsn372165-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Biological Engineering Laboratory, Faculty of Sciences, and Techniques</named-content>
+<institution>Sultan Moulay Slimane University</institution>
+<city>Beni‐Mellal</city>
+<country country="MA">Morocco</country>
+</aff><aff id="fsn372165-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Applied and Environmental Chemistry Laboratory, Department of Chemistry, Faculty of Sciences</named-content>
+<institution>Mohammed I University</institution>
+<city>Oujda</city>
+<country country="MA">Morocco</country>
+</aff><aff id="fsn372165-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Valorization of Medicinal and Aromatic Plants and Environment Team, Faculty of Sciences</named-content>
+<institution>Moulay Ismail University</institution>
+<city>Meknes</city>
+<country country="MA">Morocco</country>
+</aff><aff id="fsn372165-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Bioactive and Environmental Health Laboratory, Faculty of Sciences</named-content>
+<institution>Moulay Ismail University</institution>
+<city>Meknes</city>
+<country country="MA">Morocco</country>
+</aff><aff id="fsn372165-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Laboratoires TBC, Laboratory of Pharmacology, Pharmacokinetics, and Clinical Pharmacy</named-content>
+<institution>Faculty of Pharmaceutical and Biological Sciences</institution>
+<city>Lille</city>
+<country country="FR">France</country>
+</aff><aff id="fsn372165-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Biology Department, College of Science</named-content>
+<institution>Imam Mohammad Ibn Saud Islamic University (IMSIU)</institution>
+<city>Riyadh</city>
+<country country="SA">Saudi Arabia</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Mourad Chikhaoui (<email>chimoura7@gmail.com</email>)<break/>
+Ashraf Ahmed Qurtam (<email>aaqurtam@imamu.edu.sa</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>8</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2026</year></pub-date><volume>14</volume><issue seq="800">9</issue><issue-id pub-id-type="pmc-issue-id">520349</issue-id><issue-id pub-id-type="doi">10.1002/fsn3.v14.9</issue-id><elocation-id>e72165</elocation-id><history>
+<date date-type="rev-recd"><day>21</day><month>6</month><year>2026</year></date>
+<date date-type="received"><day>04</day><month>8</month><year>2025</year></date>
+<date date-type="accepted"><day>23</day><month>6</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>27</day><month>08</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>29</day><month>08</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-08-29 15:25:17.067"><day>29</day><month>08</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Food Science &amp; Nutrition</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="FSN3-14-e72165.pdf"><?pdf-name FSN3-14-e72165.pdf?><?pdf-size 3448773?><?pdf-md5 f19f01170d25e2525d3b01d3c19e8dff?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:5002/13522720/f19f01170d25/FSN3-14-e72165.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:FSN3-14-e72165.pdf"/><abstract><title>ABSTRACT</title><p>Urinary tract infections represent a significant public health issue exacerbated by bacterial antibiotic resistance. Honey, due to its phenolic compounds, offers a promising natural alternative. This study explores the phenolic profile of monofloral honeys from the Beni Mellal‐Khenifra region and their antibacterial activity against multidrug‐resistant strains. Four monofloral honeys from Beni Mellal‐Khenifra were analyzed for their phenolic composition and evaluated for antibacterial activity against multidrug‐resistant uropathogenic bacteria. Computational studies were also performed to explore the potential mechanisms of action of the identified compounds. HPLC‐UV detection identified distinct phenolic profiles in four monofloral honeys. Carob honey showed the highest diversity, with eight compounds identified, notably myricetin (63.99 μg/mg), trans‐ferulic acid (33.99 μg/mg), gallic acid (21.02 μg/mg), naringin (17.95 μg/mg), catechin (3.66 μg/mg), and trans‐cinnamic acid (2.75 μg/mg). Euphorbia honey was rich in hydroxycinnamic acids, especially caffeic acid (285.35 μg/mg), p‐coumaric acid (190.93 μg/mg), and trans‐ferulic acid (125.37 μg/mg). Anise honey contained high levels of naringin (669.84 μg/mg), along with myricetin (90.08 μg/mg) and 3‐hydroxybenzoic acid (76.59 μg/mg). In contrast, citrus honey exhibited the lowest polyphenolic content, with only gallic acid (0.21 μg/mg) and catechin (2.69 μg/mg) detected. The honey samples exhibited notable antibacterial activity against multidrug‐resistant uropathogenic bacteria, including <italic toggle="no">
+<styled-content style="fixed-case" toggle="no">E. coli</styled-content>, <styled-content style="fixed-case" toggle="no">K. pneumoniae</styled-content>
+</italic>, and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content>. Among them, euphorbia and carob honeys demonstrated the highest antibacterial efficacy, with MBC values of 25% (v/v) against <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> and 50% against <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content> and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">K. pneumoniae</italic>
+</styled-content>. In contrast, citrus and anise honeys showed lower bactericidal activity, with MBC values reaching 75% (v/v) for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content> and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">K. pneumoniae</italic>
+</styled-content>, and 50% for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content>. <italic toggle="no">In silico,</italic> analyses showed that kaempferol, quercetin, catechin, and myricetin exhibit high binding affinities (up to −8.3 kcal/mol) against major bacterial targets. Molecular dynamics confirmed the stability of the quercetin‐GyrB complex (RMSD ~0.35 nm). ADMET and toxicity profiles identified catechin and 3‐hydroxybenzoic acid as the most promising candidates, combining good intestinal absorption, low predicted toxicity (LD50≈10,000 mg/kg), and favorable pharmacokinetics. These findings confirm the important role of honey's phenolic compounds in inhibiting multidrug‐resistant bacteria. Future research should focus on in vivo validation and the formulation of effective therapeutic products based on these honeys.</p></abstract><abstract abstract-type="graphical"><p>Multidrug‐resistant bacteria infections require alternative antimicrobial strategies. This study evaluated the phenolic composition, antibacterial activity, and <italic toggle="no">in silico</italic> properties of four Moroccan monofloral honeys. Carob honey showed the greatest phenolic diversity, whereas citrus honey contained the lowest polyphenolic content. Euphorbia and carob honeys exhibited the strongest antibacterial activity against <italic toggle="no">
+<styled-content style="fixed-case" toggle="no">E. coli</styled-content>, <styled-content style="fixed-case" toggle="no">K. pneumoniae</styled-content>
+</italic>, and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content>, while citrus and anise honeys were less effective. Molecular docking revealed that kaempferol, quercetin, catechin, and myricetin displayed high binding affinities against key bacterial targets. ADMET analysis identified catechin and 3‐hydroxybenzoic acid as the most promising compounds, with favorable intestinal absorption and safety profiles.<boxed-text position="anchor" content-type="graphic" id="fsn372165-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="FSN3-14-e72165-g004.webp"><?image-name FSN3-14-e72165-g004.webp?><?image-size 31552?><?image-md5 84b7c409bc9764f92cd3c3aebc12360a?><?image-image-server-status NEVER_LOAD?><?image-original-height 393?><?image-original-width 331?><?image-scaled-height 393?><?image-scaled-width 331?><?image-cloudpmc-urn urn:cdn:blobs/5002/13522720/84b7c409bc97/FSN3-14-e72165-g004.webp?></graphic></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="fsn372165-kwd-0001">antibacterial activity</kwd><kwd id="fsn372165-kwd-0002">computational biology</kwd><kwd id="fsn372165-kwd-0003">monofloral honey</kwd><kwd id="fsn372165-kwd-0004">phenolic compounds</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Imam Mohammad Ibn Saud Islamic University</institution></institution-wrap>
+</funding-source><award-id>IMSIU‐DDRSP2601</award-id></award-group></funding-group><counts><fig-count count="9"/><table-count count="7"/><page-count count="17"/><word-count count="11100"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.6 mode:remove_FC converted:28.08.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="fsn372165-body-0001"><sec id="fsn372165-sec-0001"><label>1</label><title>Introduction</title><p>Urinary tract infections (UTIs) are a common reason for medical consultations and antibiotic prescriptions in general practice. They represent the second most frequent site of community‐acquired bacterial infections after respiratory infections and remain the leading cause of reported nosocomial infections (Thiolet et al. <xref rid="fsn372165-bib-0062" ref-type="bibr">2007</xref>), thus posing a major public health concern. Antibiotic susceptibility testing demonstrated that the majority of isolates responsible for UTIs exhibited high levels of resistance to the most commonly used antibiotics (Chikhaoui et al. <xref rid="fsn372165-bib-0017" ref-type="bibr">2023</xref>). The growing antibiotic resistance among bacteria involved in UTIs limits the choice of available antibiotics, highlighting the crucial importance of laboratory tests both for the accurate diagnosis of these infections and for guiding appropriate antibiotic therapy. However, the excessive and sometimes unfounded use of antibiotics to treat UTIs is a problematic practice. It is concerning to note that more than 50% of antibiotics prescribed for empirical treatment are deemed inappropriate (Dellit et al. <xref rid="fsn372165-bib-0024" ref-type="bibr">2007</xref>). This excessive and non‐targeted use of antibiotics exposes patients to an increased risk of toxicity while fueling the development of bacterial resistance to medications. Furthermore, the emergence of resistance in nearly all potentially pathogenic bacteria is alarming, making the treatment of infections increasingly difficult, or even impossible in some cases (Carle <xref rid="fsn372165-bib-0015" ref-type="bibr">2009</xref>). Consequently, the World Health Organization (WHO) has warned that antibiotic resistance could become the leading cause of mortality worldwide by 2050 (Bertholom <xref rid="fsn372165-bib-0011" ref-type="bibr">2016</xref>). To address this crisis, the WHO has strongly encouraged member states to explore alternative solutions, including natural product‐based alternative medicines (Mama et al. <xref rid="fsn372165-bib-0045" ref-type="bibr">2019</xref>). This alternative approach could offer new perspectives in infection treatment while reducing excessive antibiotic use and potentially slowing the spread of bacterial resistance. Among the natural products attracting particular interest in medical research, honey holds a notable place. It has been used as a natural remedy since 2000 <sc>bc</sc> (Ballot‐Flurin <xref rid="fsn372165-bib-0008" ref-type="bibr">2013</xref>; Johnston et al. <xref rid="fsn372165-bib-0039" ref-type="bibr">2018</xref>). However, its antibacterial properties were not scientifically demonstrated until 1892 (Mama et al. <xref rid="fsn372165-bib-0045" ref-type="bibr">2019</xref>). This discovery paved the way for numerous subsequent studies that confirmed honey's effectiveness against a wide range of bacterial strains, including aerobic, anaerobic, Gram‐positive, and Gram‐negative bacteria (Belhaj et al. <xref rid="fsn372165-bib-0010" ref-type="bibr">2016</xref>; Bucekova et al. <xref rid="fsn372165-bib-0014" ref-type="bibr">2019</xref>; Elbanna et al. <xref rid="fsn372165-bib-0026" ref-type="bibr">2014</xref>; Hegazi et al. <xref rid="fsn372165-bib-0034" ref-type="bibr">2017</xref>; Montenegro et al. <xref rid="fsn372165-bib-0050" ref-type="bibr">2009</xref>). Encouragingly, honey has also shown promising results in combating antibiotic‐resistant bacteria (Agbabiaka et al. <xref rid="fsn372165-bib-0004" ref-type="bibr">2020</xref>; Farhana et al. <xref rid="fsn372165-bib-0027" ref-type="bibr">2023</xref>; McLoone et al. <xref rid="fsn372165-bib-0046" ref-type="bibr">2020</xref>; Owayss et al. <xref rid="fsn372165-bib-0054" ref-type="bibr">2020</xref>). Beyond its antibacterial properties, honey offers several additional advantages, including its non‐toxic nature, minimal risk of adverse effects, the absence of bacterial resistance development, relatively low maintenance costs, and widespread local availability (Farhana et al. <xref rid="fsn372165-bib-0027" ref-type="bibr">2023</xref>; Majtan et al. <xref rid="fsn372165-bib-0044" ref-type="bibr">2020</xref>). The antibacterial properties of honey vary significantly depending on its physicochemical characteristics, such as acidity, osmolality levels, and enzymatic generation of hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) (Hegazi et al. <xref rid="fsn372165-bib-0034" ref-type="bibr">2017</xref>). Moreover, the presence of certain proteinaceous or phytochemical compounds, such as aromatic acids and phenolic compounds, can also influence these antibacterial properties (Cheng et al. <xref rid="fsn372165-bib-0016" ref-type="bibr">2019</xref>). In traditional medicine, the use of honey as a treatment has been reported as an old practice dating back centuries in countries like China, India, Egypt, Greece, and Rome, and has been documented in several religious texts, including the Quran, Veda and the Bible (Dai et al. <xref rid="fsn372165-bib-0021" ref-type="bibr">2021</xref>; Hellner et al. <xref rid="fsn372165-bib-0035" ref-type="bibr">2008</xref>; Shahsuvaryan <xref rid="fsn372165-bib-0061" ref-type="bibr">2016</xref>). Several in vitro and in vivo studies have demonstrated the antimicrobial, antiviral, antifungal, anticancer, and antidiabetic activity of honey (Afrin et al. <xref rid="fsn372165-bib-0003" ref-type="bibr">2018</xref>; Cucu et al. <xref rid="fsn372165-bib-0020" ref-type="bibr">2021</xref>; Mellor et al. <xref rid="fsn372165-bib-0047" ref-type="bibr">2010</xref>; Pichichero et al. <xref rid="fsn372165-bib-0056" ref-type="bibr">2010</xref>; Premratanachai and Chanchao <xref rid="fsn372165-bib-0057" ref-type="bibr">2014</xref>; Samarghandian et al. <xref rid="fsn372165-bib-0060" ref-type="bibr">2011</xref>). In addition, protective effects on the cardiovascular, nervous, respiratory, and gastrointestinal systems have been reported (Alvarez‐Suarez et al. <xref rid="fsn372165-bib-0006" ref-type="bibr">2016</xref>). Moreover, a protective effect of honey has also been observed under physiological conditions characterized by high levels of free radicals, such as those of athletes practicing different sports (Peternelj and Coombes <xref rid="fsn372165-bib-0055" ref-type="bibr">2011</xref>). In Morocco, honey constitutes an essential component of both food and traditional medicine (Chikhaoui et al. <xref rid="fsn372165-bib-0017" ref-type="bibr">2023</xref>). Consequently, its per capita consumption (0.52 to 0.75 kg/year) is relatively high compared to neighboring countries such as Algeria (0.20 kg/year) and Tunisia (0.17 to 0.20 kg/year) (Haderbache and Mohammedi <xref rid="fsn372165-bib-0031" ref-type="bibr">2015</xref>; Hussein <xref rid="fsn372165-bib-0036" ref-type="bibr">2000</xref>; Moujanni et al. <xref rid="fsn372165-bib-0051" ref-type="bibr">2017</xref>). According to the Haut‐Commissariat au Plan, the Beni Mellal‐Khenifra region ranks third nationally in honey production (HCP <xref rid="fsn372165-bib-0033" ref-type="bibr">2017</xref>). This production includes honeys with distinctive biological, palynological, and physicochemical properties, which support their use not only as natural sweeteners but also as preventive agents or even as therapeutic remedies (Belhaj et al. <xref rid="fsn372165-bib-0010" ref-type="bibr">2016</xref>). A study we conducted in the Beni Mellal‐Khenifra region revealed that 82% of the people surveyed used honey to treat a total of 42 symptoms or conditions. The most frequently mentioned ailments were respiratory diseases, skin conditions, and gastrointestinal disorders (Chikhaoui et al. <xref rid="fsn372165-bib-0017" ref-type="bibr">2023</xref>). However, despite the widespread medicinal use of honey, no in‐depth scientific study has been conducted in this region to characterize its bioactive compounds or evaluate its therapeutic potential. It is within this context that the present research aims to characterize the phenolic profile of monofloral honeys from the Beni Mellal‐Khenifra region (Morocco) and to assess their antibacterial activity against multidrug‐resistant uropathogenic strains.</p></sec><sec sec-type="materials-and-methods" id="fsn372165-sec-0002"><label>2</label><title>Materials and Methods</title><sec id="fsn372165-sec-0003"><label>2.1</label><title>Chemicals and Reagents</title><p>For chromatographic analyses, acetonitrile (HPLC grade) and formic acid (≥ 98%) used in the mobile phase were purchased from Sigma‐Aldrich (USA). Ultrapure water was produced using a Millipore purification system. Phenolic acid and flavonoid standards, including gallic acid, caffeic acid, p‐coumaric acid, trans‐ferulic acid, quercetin, kaempferol, myricetin, naringin, and catechin, used for compound identification and quantification, were obtained from Macherey‐Nagel (Düren, Germany). For microbiological assays, culture media such as Mueller‐Hinton broth, Eosin Methylene Blue (EMB) agar, and Baird‐Parker agar were supplied by Biokar Diagnostics (France). Biochemical reagents required for bacterial strain identification, including Indole, Methyl Red, Voges‐Proskauer, Citrate, Catalase, and Coagulase tests, were provided by BioMérieux. Regarding in silico analyses, molecular structures were drawn using ChemDraw 22 (PerkinElmer). Molecular docking was performed with PyRx 0.9.9 using AutoDock Vina 1.2.5, and molecular dynamics simulations were conducted with GROMACS 2021.3. The three‐dimensional structures of target proteins were retrieved from the Protein Data Bank (PDB). Pharmacokinetic and toxicity evaluations of the compounds were carried out using the SwissADME, ADMETlab 3.0, and ProTox‐III online platforms. Chromatographic data acquisition and processing were performed using ChromNAV 2.0 software (JASCO Corporation, Japan).</p></sec><sec id="fsn372165-sec-0004"><label>2.2</label><title>Honey Sample Collection</title><p>This study focused on four honey samples from four different sites (Tadla, Tagzirte, El Ksiba and Souk Sebt) in the Beni Mellal region, specifically citrus, euphorbia, anis, and carob honeys.</p><p>The identification of monofloral honeys was not based on pollen analysis but on a controlled field collection strategy. Empty frames were initially placed in hives located in areas dominated by a single plant species (carob, citrus, euphorbia, and anise) during the corresponding flowering period. Honey was harvested exclusively from these frames, ensuring the predominant botanical origin of the samples, in accordance with common beekeeping practices when pollen analysis is not performed.</p><p>The honeys were collected between March and October 2021 (Table <xref rid="fsn372165-tbl-0001" ref-type="table">1</xref>). All samples were filtered through sterile gauze to remove debris and stored in sterile airtight glass containers at 4°C in the dark until use (Bogdanov and Blumer <xref rid="fsn372165-bib-0012" ref-type="bibr">2001</xref>).</p><table-wrap position="float" id="fsn372165-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Botanical‐geographical origins and harvesting periods of the studied honey samples.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Honey samples</th><th align="center" rowspan="2" valign="bottom" colspan="1">Botanical origins</th><th align="center" rowspan="2" valign="bottom" colspan="1">Harvesting site</th><th align="center" colspan="3" valign="bottom" rowspan="1">Geographical coordinates</th><th align="center" rowspan="2" valign="bottom" colspan="1">Harvesting period</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">Latitude (N)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Longitude (W)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Altitude (m a.s.l.)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Citrus honey</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Citrus</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Tadla</td><td align="center" valign="top" rowspan="1" colspan="1">30°15′11.0919″</td><td align="center" valign="top" rowspan="1" colspan="1">6°35′11.5458″</td><td align="center" valign="top" rowspan="1" colspan="1">548</td><td align="center" valign="top" rowspan="1" colspan="1">March 2021</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Euphorbia honey</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Euphorbia</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Tagzirt</td><td align="center" valign="top" rowspan="1" colspan="1">32°26′51.6951″</td><td align="center" valign="top" rowspan="1" colspan="1">6°10′6.64932″</td><td align="center" valign="top" rowspan="1" colspan="1">737</td><td align="center" valign="top" rowspan="1" colspan="1">July 2021</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Carob honey</td><td align="center" valign="top" rowspan="1" colspan="1">
+<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Ceratonia siliqua</italic>
+</styled-content>
+</td><td align="center" valign="top" rowspan="1" colspan="1">El Ksiba</td><td align="center" valign="top" rowspan="1" colspan="1">32°35′16.3644″</td><td align="center" valign="top" rowspan="1" colspan="1">6°3′49.15152″</td><td align="center" valign="top" rowspan="1" colspan="1">765</td><td align="center" valign="top" rowspan="1" colspan="1">October 2021</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Anise honey</td><td align="center" valign="top" rowspan="1" colspan="1">
+<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Pimpinella anisum</italic>
+</styled-content>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Souk Sebt</td><td align="center" valign="top" rowspan="1" colspan="1">32°15′31.1281″</td><td align="center" valign="top" rowspan="1" colspan="1">6°49′29.3458″</td><td align="center" valign="top" rowspan="1" colspan="1">443</td><td align="center" valign="top" rowspan="1" colspan="1">October 2021</td></tr></tbody></table><table-wrap-foot id="fsn372165-ntgp-0001"><fn id="fsn372165-note-0001"><p>
+<italic toggle="yes">Note:</italic> m a.s.l.: meters above sea level.</p></fn></table-wrap-foot></table-wrap></sec><sec id="fsn372165-sec-0005"><label>2.3</label><title>Preparation of Honey Solutions</title><p>In this study, different concentrations (25%, 50%, 75%, and 100%) of each honey sample were prepared. To prepare a 75% honey solution (v/v). Similarly, to prepare 50% and 25% honey solutions (v/v), 0.5 mL of honey was diluted in 0.5 mL of sterile water, and 0.25 mL of honey was diluted in 0.75 mL of sterile water, respectively (Mama et al. <xref rid="fsn372165-bib-0045" ref-type="bibr">2019</xref>).</p></sec><sec id="fsn372165-sec-0006"><label>2.4</label><title>Phytochemical Characterization</title><sec id="fsn372165-sec-0007"><label>2.4.1</label><title>Determination of Total Phenol Content (<styled-content style="fixed-case" toggle="no">TPC</styled-content>)</title><p>The TPC was determined using the Folin–Ciocalteu reagent method as described by Živić et al. (<xref rid="fsn372165-bib-0065" ref-type="bibr">2019</xref>) with some modifications. A volume of 0.2 mL of honey dissolved in distilled water was mixed with 1.5 mL of Folin–Ciocalteu reagent (10%) diluted in ultrapure water. After 5 min, 1.5 mL of sodium carbonate (Na<sub>2</sub>CO<sub>3</sub>; 7.5%) dissolved in ultrapure water was added to the mixture, and the final solution was incubated in the dark for 30 min at 25°C. Absorbance was measured at 760 nm using a spectrophotometer, and TPC was calculated based on a standard calibration curve using gallic acid, expressed as milligrams Gallic Acid Equivalent per 100 g of honey (mg GAE/100 g). The standard curve was produced for gallic acid within the concentration range from 100 to 1000 mg/L (<italic toggle="yes">R</italic>
+<sup>2</sup> = 0.9998, <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:mi mathvariant="normal">y</mml:mi><mml:mo>=</mml:mo><mml:mn>0.1254</mml:mn><mml:mi mathvariant="normal">x</mml:mi><mml:mo>−</mml:mo><mml:mn>0.1424</mml:mn></mml:mrow></mml:mrow></mml:math>). Three independent experiments were performed in triplicate, and results were reported as the mean ± standard error.</p></sec><sec id="fsn372165-sec-0008"><label>2.4.2</label><title>Determination of Total Flavonoids Content (<styled-content style="fixed-case" toggle="no">TFC</styled-content>)</title><p>The TFC was determined using the method described by Miguel et al. (<xref rid="fsn372165-bib-0048" ref-type="bibr">2010</xref>), with slight modifications. Briefly, 2.5 mL of aqueous extracts obtained from the studied honey samples, previously dissolved in ultrapure water, were mixed with 2.5 mL of a 2% aluminum chloride (AlCl<sub>3</sub>) solution prepared in ultrapure water. After incubation for 1 h at room temperature, absorbance was measured at a wavelength of 420 nm using a spectrophotometer. Quercetin was used as the reference standard to construct a calibration curve under the same experimental conditions. The flavonoid content was expressed as milligrams of quercetin equivalent per 100 g of crude extract (mg QE/100 g). Each experiment was conducted in triplicate, with results presented as the mean ± standard error.</p></sec><sec id="fsn372165-sec-0009"><label>2.4.3</label><title>Identification of Phenolic Compounds</title><p>The phenolic composition of the honey samples was identified using reverse‐phase high‐performance liquid chromatography (RP‐HPLC), following the method previously described by Kachmar et al. (<xref rid="fsn372165-bib-0040" ref-type="bibr">2025</xref>). The column used was an EC NUCLEOSIL (5 μm, C18, 100–5, 250 × 4.6 mm; Macherey‐Nagel, Germany) and the conditions were as follows. The mobile phase consisted of two solvents: water‐formic acid (1%) (A) and acetonitrile (B), starting with 5% B and using a gradient to obtain 15% B at 3 min, 25% B at 13 min, 30% B at 25 min, 35% B at 35 min, 45% B at 39 min, 55% B at 47 min, 75% B at 56 min and 100% B at 60 min. The UV detection was at 280 nm. The injection volume was 20 μL, and the flow rate was fixed at 0.9 mL/min during the whole experiment. The HPLC system was controlled by ChromNAV 2.0—JASCO software. Identification was performed by comparing the retention time of each peak in the honey chromatogram with the corresponding standard. Moreover, to ensure the superposition of each standard with the corresponding molecule, each extract was spiked with standards corresponding to the suspected molecules, and an increase was observed in the concentration of these molecules.</p></sec><sec id="fsn372165-sec-0010"><label>2.4.4</label><title>Quantification of Phenolic Compounds Contents</title><p>For the quantification of phenolic compounds, 20 μL of aqueous freeze‐dried extract dissolved in ultrapure water was analyzed using an HPLC‐UV unit, with an NUCLEOSIL EC column (5 μm, C18, 100–5, 250 x 4.6 mm; Macherey‐Nagel, Germany), and following the conditions described in the previous section. Spectral data of all peaks were collected at a wavelength λ = 280 nm. Data were processed on a system assisted with ChromNAV 2.0 HPLC software—JASCO. The concentrations of phenolic acids and flavonoids detected in the aqueous extracts of the studied honey extracts were deduced from the calibration curves established with the corresponding standards.</p></sec></sec><sec id="fsn372165-sec-0011"><label>2.5</label><title>Antibacterial Activity Testing</title><sec id="fsn372165-sec-0012"><label>2.5.1</label><title>Collection of Bacterial Cultures</title><p>The in vitro antimicrobial activity of the honeys was tested against three human uropathogenic bacterial strains: <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Escherichia coli</italic>
+</styled-content> (<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content>), <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Klebsiella pneumoniae</italic>
+</styled-content> (<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">K. pneumoniae</italic>
+</styled-content>), and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> (<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content>), which were isolated from urine samples collected at the Clinical Laboratory of the Regional Hospital Center (CLRHC) of the Beni Mellal‐Khenifra region. The purity of strains was confirmed through subculturing on selective media, specifically Eosin Methylene Blue (EMB) agar for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content> and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">K. pneumoniae</italic>
+</styled-content>, and Baird‐Parker agar for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content>. To accurately verify the identity of the organisms, a series of microbiological and biochemical tests were performed, including Gram staining, the Indole test, the Methyl Red test, the Voges‐Proskauer test, the Citrate test, the Catalase test, and the Coagulase test. The purified strains were subjected to an antibiogram test, then stored in a nutrient medium consisting of 2/3 Brain Heart Infusion (BHI) and 1/3 glycerol at −20°C for long‐term storage.</p></sec><sec id="fsn372165-sec-0013"><label>2.5.2</label><title>Determination of the Minimum Inhibitory Concentration (<styled-content style="fixed-case" toggle="no">MIC</styled-content>) and Minimum Bactericidal Concentration (<styled-content style="fixed-case" toggle="no">MBC</styled-content>) of Honey Samples</title><p>The MIC of the honey samples was determined using the macrodilution tube method, also known as the turbidimetric assay (Mama et al. <xref rid="fsn372165-bib-0045" ref-type="bibr">2019</xref>; Fritsche et al. <xref rid="fsn372165-bib-0028" ref-type="bibr">2007</xref>). Mueller‐Hinton broth was prepared as the culture medium, and seven sterile test tubes, labeled 1 to 6, were used. Tube 1 served as a negative control to verify the absence of contamination, while tube 2 acted as a positive control to confirm normal bacterial growth. Tubes 3 to 6 contained progressively lower concentrations of honey at 100%, 75%, 50%, and 25% (<italic toggle="yes">v/v</italic>), respectively. Except for tube 1 (negative control), all other tubes were inoculated with 100 μL of a fresh bacterial suspension of the tested pathogenic bacteria, adjusted to a 0.5 McFarland standard (1 × 10<sup>6</sup> CFU/mL). Following incubation for 24 h at 37°C under aerobic conditions, the tubes were visually examined, and the MIC was recorded as the lowest honey concentration in which microbial turbidity was not observed. To determine the MBC, samples from the tubes containing honey concentrations equal to or greater than the MIC were cultured onto sterile nutrient agar plates (EMB for <italic toggle="yes">
+<styled-content style="fixed-case" toggle="no">E. coli</styled-content> and <styled-content style="fixed-case" toggle="no">K. pneumoniae</styled-content>
+</italic>, and Baird‐Parker for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content>) using the streak‐plate technique. The plates were then incubated for 24 h at 37°C under aerobic conditions. The lowest concentration of honey that showed no growth of the tested organisms was considered the MBC (Mama et al. <xref rid="fsn372165-bib-0045" ref-type="bibr">2019</xref>). All experiments were performed in triplicate, including three independent biological replicates, and each measurement was conducted in three technical replicates to ensure the reproducibility and reliability of the results.</p></sec></sec><sec id="fsn372165-sec-0014"><label>2.6</label><title>In Silico Analysis</title><sec id="fsn372165-sec-0015"><label>2.6.1</label><title>Molecular Docking</title><p>Molecular docking was carried out in PyRx 0.9.9 running AutoDock Vina 1.2.5 (Trott and Olson <xref rid="fsn372165-bib-0063" ref-type="bibr">2010</xref>). The eleven study ligands and the reference ciprofloxacin were drawn in ChemDraw 22, exported as SDF files, energy‐minimized with the Universal Force Field, protonated, and converted to PDBQT directly within PyRx. The three target structures (PDB 1KZN, 1SHV, 3ZG5) were prepared in AutoDockTools 1.5.7 by removing crystallographic waters, adding polar hydrogens, and assigning Gasteiger charges. Grid boxes were then defined as follows: 1KZN center (18.38, 30.67, 36.62 Å) and dimensions 12.33 × 15.80 × 16.43 Å<sup>3</sup>; 1SHV center (30.30, 24.85, 4.088 Å) and dimensions 18.18 × 10.00 × 13.11 Å<sup>3</sup>; 3ZG5 center (3.59, −9.60, 59.44 Å) and dimensions 10.07 × 10.69 × 11.46 Å<sup>3</sup>. Redocking the native ligands at an exhaustiveness of 8 reproduced their experimental poses with RMSD values of 0.313 Å (1KZN), 1.462 Å (1SHV) and 1.117 Å (3ZG5), confirming protocol reliability. All other Vina parameters were left at default settings, and these validated grids were subsequently used to dock the full polyphenol set alongside ciprofloxacin.</p></sec><sec id="fsn372165-sec-0016"><label>2.6.2</label><title>Molecular Dynamics Simulations</title><p>Molecular‐dynamics simulations were run in GROMACS 2021.3 (Abraham et al. <xref rid="fsn372165-bib-0002" ref-type="bibr">2015</xref>). Using gmx pdb2gmx with the AMBER99SB‐ILDN force field, the protein was first preprocessed to add missing hydrogens and assign the correct protonation states. Ligand parameters were generated separately, yielding validated.itp and .gro files that were then merged with the protein to assemble the full complex. The system was centered in a cubic TIP3P water box, neutralized with counter‐ions, and subjected to steepest‐descent energy minimization. Temperature and pressure were stabilized through successive NVT and NPT equilibration phases, after which a 100 ns production run was carried out. Coordinates and velocities were recorded at regular intervals, producing a trajectory that documents the complex's stability, conformational behavior, and key intermolecular interactions under near‐physiological conditions.</p></sec><sec id="fsn372165-sec-0017"><label>2.6.3</label><title>In Silico Analysis of Pharmacokinetic Properties</title><p>Each molecule was first sketched in ChemDraw and converted to a canonical SMILES string, then processed by two prediction suites: SwissADME (Daina et al. <xref rid="fsn372165-bib-0022" ref-type="bibr">2017</xref>), which supplied the core physicochemical descriptors and drug‐likeness filters, and ADMETlab 3 (Fu et al. <xref rid="fsn372165-bib-0029" ref-type="bibr">2024</xref>), used here exclusively to estimate melting point, boiling point, plasma clearance, and half‐life (t<sub>0.5</sub>). Merging the SwissADME output with these four ADMETlab 3 parameters produced, for each compound, a concise ADME fingerprint that offers an early appraisal of its likely in vivo behavior.</p></sec><sec id="fsn372165-sec-0018"><label>2.6.4</label><title>In Silico Prediction of Toxicity</title><p>Toxicity profiles were generated with ProTox‐III in line with current best‐practice guidelines (Banerjee et al. <xref rid="fsn372165-bib-0009" ref-type="bibr">2024</xref>). Validated ChemDraw SMILES strings were uploaded to the platform, which merges extensive toxicology databases with ensemble machine‐learning and Bayesian classifiers to flag structural alerts. For each molecule, ProTox‐III provides a complete endpoint panel, including acute oral LD<sub>50</sub>, its corresponding GHS hazard class, and percentage‐likelihood scores for hepatotoxicity, carcinogenicity, immunotoxicity, mutagenicity, and cytotoxicity, thereby highlighting potential in vivo liabilities. This rapid, high‐resolution screening streamlines candidate prioritization before laboratory testing and accelerates data‐driven decisions in drug‐discovery and environmental‐safety workflows.</p></sec></sec><sec id="fsn372165-sec-0019"><label>2.7</label><title>Statistical Analysis</title><p>Statistical analyses were conducted using SPSS version 25.0. Descriptive statistics were calculated and presented as means ± standard deviations (SD). Differences in total polyphenol content among honey samples were evaluated using one‐way analysis of variance (ANOVA) followed by Tukey's post hoc test (<italic toggle="yes">p</italic> &lt; 0.05). Before applying the tests, the assumptions of normality and homogeneity of variances were verified. Relationships between phytochemical parameters and the bactericidal activity of honey were evaluated using Pearson correlation coefficients (<italic toggle="yes">r</italic>).</p></sec></sec><sec id="fsn372165-sec-0020"><label>3</label><title>Results and Discussion</title><sec id="fsn372165-sec-0021"><label>3.1</label><title>Phytochemical Characterizations</title><sec id="fsn372165-sec-0022"><label>3.1.1</label><title>Polyphenol Content of Honey Extracts</title><p>The analysis revealed distinct phenolic markers for each honey type, highlighting the significant influence of botanical origin and geographical factors on their chemical composition (Thiolet et al. <xref rid="fsn372165-bib-0062" ref-type="bibr">2007</xref>; Bucekova et al. <xref rid="fsn372165-bib-0014" ref-type="bibr">2019</xref>). The chromatographic conditions allowed for effective separation of the compounds, as shown in Figure <xref rid="fsn372165-fig-0001" ref-type="fig">1</xref>. Carob honey exhibited the highest diversity of phenolic compounds, with a total of eight identified compounds, namely myricetin (63.99 μg/mg), trans‐ferulic acid (33.99 μg/mg), gallic acid (21.02 μg/mg), naringin (17.95 μg/mg), catechin (3.66 μg/mg), and trans‐cinnamic acid (2.75 μg/mg), kaempferol and quercetin (identified but not quantified). Furthermore, Euphorbia honey was found to contain four phenolic compounds and was notably characterized by a high concentration of hydroxycinnamic acids, particularly caffeic acid (285.35 μg/mg), p‐coumaric acid (190.93 μg/mg), and trans‐ferulic acid (125.37 μg/mg), which were either absent or present in much lower quantities in the other samples. Additionally, it contained a flavonoid (quercetin) which was not quantified. On the other hand, anise honey contained three phenolic compounds and exhibited exceptionally high levels of naringin (669.84 μg/mg), along with significant concentrations of myricetin (90.08 μg/mg) and 3‐hydroxybenzoic acid (76.59 μg/mg). In contrast, citrus honey exhibited only two phenolic compounds, gallic acid (0.21 μg/mg) and catechin (2.69 μg/mg), indicating a modest polyphenol content. Detailed retention times and concentrations of the identified compounds are presented in Table <xref rid="fsn372165-tbl-0002" ref-type="table">2</xref> and Figure <xref rid="fsn372165-fig-0001" ref-type="fig">1</xref>. To the best of our knowledge, no prior studies have examined the phenolic composition of monofloral honeys from the Beni Mellal‐Khenifra region, highlighting the novelty and regional relevance of our findings. Nevertheless, the results of this study align with several international studies. For instance, research in New Zealand and Australia identified similar phenolic compounds, such as gallic, caffeic, and p‐coumaric acids, which we also detected (Kaškonienė et al. <xref rid="fsn372165-bib-0041" ref-type="bibr">2009</xref>). In Poland and Bangladesh, flavonoids like catechin, naringin, and myricetin were found, corroborating our findings in anise and euphorbia honeys (Moniruzzaman et al. <xref rid="fsn372165-bib-0049" ref-type="bibr">2014</xref>; Güneş et al. <xref rid="fsn372165-bib-0030" ref-type="bibr">2017</xref>). Additionally, studies in Algeria and Turkey identified compounds such as myricetin and ferulic acid, present in our citrus and carob honeys (Amessis‐Ouchemoukh et al. <xref rid="fsn372165-bib-0007" ref-type="bibr">2017</xref>; Isa et al. <xref rid="fsn372165-bib-0037" ref-type="bibr">2020</xref>). Despite geographical differences, the consistent presence of common phenolic compounds such as gallic acid, caffeic acid, and catechin across various studies highlights the conserved biosynthetic pathways in the plant species frequented by bees. These similarities reinforce the reliability of phenolic profiles as markers for honey characterization. Several of the identified phenolic compounds, including caffeic acid, gallic acid, naringin, and myricetin, are well known for their antibacterial properties (Kachmar et al. <xref rid="fsn372165-bib-0040" ref-type="bibr">2025</xref>). Their presence suggests a potential contribution to the antimicrobial activity of the tested honey samples, which will be explored in the following section.</p><fig position="float" fig-type="FIGURE" id="fsn372165-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>HPLC chromatograms of honey extracts at 280 nm (A) Citrus honey; (B) Carob honey; (C) Euphorbia honey; (D) Anise honey.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="FSN3-14-e72165-g009.webp"><?image-name FSN3-14-e72165-g009.webp?><?image-size 53170?><?image-md5 59ed883bb746dbee2b80fd649b92a526?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1637?><?image-original-width 1064?><?image-scaled-height 1637?><?image-scaled-width 1064?><?image-cloudpmc-urn urn:cdn:blobs/5002/13522720/59ed883bb746/FSN3-14-e72165-g009.webp?><?thumb-name FSN3-14-e72165-g009.gif?><?thumb-size 5107?><?thumb-md5 584fd3d8dd0ae9c1145ec3f8b1cdeec5?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 200?><?thumb-scaled-width 130?><?thumb-cloudpmc-urn urn:cdn:blobs/5002/13522720/584fd3d8dd0a/FSN3-14-e72165-g009.gif?></graphic></fig><table-wrap position="float" id="fsn372165-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Concentrations (μg/mg) of phenolic compounds in honey samples.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Molecules</th><th align="center" rowspan="2" valign="bottom" colspan="1">RT (min)</th><th align="center" colspan="4" valign="bottom" rowspan="1">Honey origin</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">Citrus honey</th><th align="center" valign="bottom" rowspan="1" colspan="1">Euphorbia honey</th><th align="center" valign="bottom" rowspan="1" colspan="1">Carob honey</th><th align="center" valign="bottom" rowspan="1" colspan="1">Anise honey</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Gallic acid</td><td align="center" valign="top" rowspan="1" colspan="1">7.68</td><td align="center" valign="top" rowspan="1" colspan="1">0.21</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">21.02</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Catechin</td><td align="center" valign="top" rowspan="1" colspan="1">12.0</td><td align="center" valign="top" rowspan="1" colspan="1">2.69</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">3.66</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3‐Hydroxy benzoic acid</td><td align="center" valign="top" rowspan="1" colspan="1">13.6</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">76.59</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Caffeic acid</td><td align="center" valign="top" rowspan="1" colspan="1">13.9</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">285.35</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">trans‐ferulic acid</td><td align="center" valign="top" rowspan="1" colspan="1">14.8</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">125.37</td><td align="center" valign="top" rowspan="1" colspan="1">33.99</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐coumaric acid</td><td align="center" valign="top" rowspan="1" colspan="1">18.6</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">190.93</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Naringin</td><td align="center" valign="top" rowspan="1" colspan="1">20.2</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">17.95</td><td align="center" valign="top" rowspan="1" colspan="1">669.84</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Myricetin</td><td align="center" valign="top" rowspan="1" colspan="1">25.2</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">63.99</td><td align="center" valign="top" rowspan="1" colspan="1">90.08</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">trans‐cinnamic acid</td><td align="center" valign="top" rowspan="1" colspan="1">30.6</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">2.75</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Kaempferol</td><td align="center" valign="top" rowspan="1" colspan="1">42.2</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">NQ</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Quercetin</td><td align="center" valign="top" rowspan="1" colspan="1">44.5</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td><td align="center" valign="top" rowspan="1" colspan="1">NQ</td><td align="center" valign="top" rowspan="1" colspan="1">NQ</td><td align="center" valign="top" rowspan="1" colspan="1">NI</td></tr></tbody></table><table-wrap-foot id="fsn372165-ntgp-0002"><fn id="fsn372165-note-0002"><p>Abbreviations: NI, Not Identified; NQ, Not Quantified.</p></fn></table-wrap-foot></table-wrap></sec><sec id="fsn372165-sec-0023"><label>3.1.2</label><title>Total Polyphenol and Flavonoid Quantification</title><p>Phytochemical analysis revealed marked variability in the bioactive compound content among the investigated honey samples, highlighting the strong influence of botanical origin on their chemical composition. Statistically significant differences were observed in both TPC and TFC (<italic toggle="yes">p</italic> &lt; 0.0001). Euphorbia honey exhibited the highest levels, reaching 30.61 mg GAE/100 g for TPC and 10.51 mg QE/100 g for TFC, whereas citrus honey showed considerably lower values, with 13.53 mg GAE/100 g and 5.95 mg QE/100 g, respectively (Table <xref rid="fsn372165-tbl-0003" ref-type="table">3</xref>). These findings suggest that floral source plays a key role in determining the antioxidant‐related phytochemical profile of honey. Similar observations were reported by Pyrzynska and Biesaga (<xref rid="fsn372165-bib-0058" ref-type="bibr">2009</xref>), who demonstrated that although phenolic compounds are commonly present in honey, their concentrations vary substantially depending on botanical origin.</p><table-wrap position="float" id="fsn372165-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Total phenolic and flavonoid contents in the studied honey samples.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Parameters</th><th align="center" colspan="4" valign="bottom" rowspan="1">Honey origin</th><th align="center" rowspan="2" valign="bottom" colspan="1">
+<italic toggle="yes">F</italic>
+</th><th align="center" rowspan="2" valign="bottom" colspan="1">
+<italic toggle="yes">p</italic>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">Citrus honey</th><th align="center" valign="bottom" rowspan="1" colspan="1">Euphorbia honey</th><th align="center" valign="bottom" rowspan="1" colspan="1">Carob honey</th><th align="center" valign="bottom" rowspan="1" colspan="1">Anise honey</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">TPC (mg EAG/100 g)</td><td align="center" valign="top" rowspan="1" colspan="1">13.55 ± 0.33<sup>a</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">30.61 ± 0.49<sup>b</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">28.24 ± 0.34<sup>c</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">19.29 ± 0.52<sup>d</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">1030.56</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">TFC (mg EQ/100 g)</td><td align="center" valign="top" rowspan="1" colspan="1">5.94 ± 0.17<sup>a</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">10.47 ± 0.57<sup>c</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">9.44 ± 0.45<sup>bc</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">8.33 ± 0.44<sup>b</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">60.63</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.0001</td></tr></tbody></table><table-wrap-foot id="fsn372165-ntgp-0003"><fn id="fsn372165-note-0003"><p>
+<italic toggle="yes">Note:</italic> Values are expressed as mean ± SD (<italic toggle="yes">n</italic> = 3). Statistical analysis was performed using one‐way ANOVA followed by Tukey's post hoc test. Different superscript letters (a–d) indicate statistically significant differences between honey samples (<italic toggle="yes">p</italic> &lt; 0.05).</p><p>Abbreviations: GAE, gallic acid equivalents; QE, quercetin equivalents; TFC, total flavonoid content; TPC, total phenolic content.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="fsn372165-sec-0024"><label>3.2</label><title>Antibacterial Activity</title><p>All tested honey samples exhibited inhibitory activity against the bacterial strains, with MIC values ranging from 25% to 50% (<italic toggle="yes">v</italic>/<italic toggle="yes">v</italic>). Notably, <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> demonstrated a higher susceptibility, with an MIC of 25% (<italic toggle="yes">v/v</italic>), suggesting a potent antibacterial effect at relatively low concentrations. Conversely, <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content> and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">K. pneumoniae</italic>
+</styled-content> required a higher concentration of 50% (<italic toggle="yes">v/v</italic>) for significant bacterial growth inhibition (Figure <xref rid="fsn372165-fig-0002" ref-type="fig">2</xref>). These results highlight the variability in the inhibitory efficacy of different honey types against the tested bacterial strains. The findings of this study are in accordance with previous research evaluating the antibacterial activity of honey against the same bacterial strains. For instance, a study conducted in Pakistan by Farhana et al. (<xref rid="fsn372165-bib-0027" ref-type="bibr">2023</xref>) reported MIC values of 25% and 40% (<italic toggle="yes">w/v</italic>) for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content>, respectively. Similarly, in Nigeria, Isa et al. (<xref rid="fsn372165-bib-0037" ref-type="bibr">2020</xref>) observed MIC variations in local honey samples, ranging from 20% to 60% (<italic toggle="yes">v/v</italic>) against <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content>, <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content>, and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">K. pneumoniae</italic>
+</styled-content>. Conversely, a national study by Belhaj et al. (<xref rid="fsn372165-bib-0010" ref-type="bibr">2016</xref>) reported comparatively higher MIC values, reaching 75% (<italic toggle="yes">v/v</italic>) against <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content>. Although variations in MIC values exist across studies, these findings collectively support the potential antibacterial efficacy of honey against a broad spectrum of bacterial strains. Moreover, they highlight the influence of key factors such as geographical origin, botanical source, and bacterial strain susceptibility, which may contribute to the observed discrepancies in antibacterial activity.</p><fig position="float" fig-type="FIGURE" id="fsn372165-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>MIC and MBC values of honey samples against <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content>, <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">K. pneumoniae</italic>
+</styled-content>, and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content>. Values are expressed as percentage (<italic toggle="yes">v/v</italic>) and represent results obtained from three independent experiments (<italic toggle="yes">n</italic> = 3). MIC and MBC correspond to the lowest honey concentrations required to inhibit visible bacterial growth and to exert a bactericidal effect, respectively.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="FSN3-14-e72165-g003.webp"><?image-name FSN3-14-e72165-g003.webp?><?image-size 23160?><?image-md5 dba9f32ad53f74908540047e40aa6565?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 373?><?image-original-width 1064?><?image-scaled-height 373?><?image-scaled-width 1064?><?image-cloudpmc-urn urn:cdn:blobs/5002/13522720/dba9f32ad53f/FSN3-14-e72165-g003.webp?><?thumb-name FSN3-14-e72165-g003.gif?><?thumb-size 5347?><?thumb-md5 04ade92274f3a5bf644bd44057db82f1?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 70?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/5002/13522720/04ade92274f3/FSN3-14-e72165-g003.gif?></graphic></fig><p>The MBC values obtained in this study are in agreement with those reported by Mustafa et al. (<xref rid="fsn372165-bib-0053" ref-type="bibr">2022</xref>) and Agbabiaka et al. (<xref rid="fsn372165-bib-0004" ref-type="bibr">2020</xref>), who observed MBC values ranging from 25% to 75% (<italic toggle="yes">v/v</italic>) for the same bacterial strains. However, these values are lower than those documented by Isa et al. (<xref rid="fsn372165-bib-0037" ref-type="bibr">2020</xref>), who reported MBC values between 80% and 100% (<italic toggle="yes">v/v</italic>) against the same pathogens. The discrepancies in MBC values across studies may be attributed to multiple factors, including variations in the botanical origin and composition of honey, differences in methodological approaches for MBC determination, geographical diversity of the honey samples, and potential strain‐specific variations among the tested bacteria.</p><p>In our study, the tested honeys demonstrated activity against multidrug‐resistant strains, including <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content> resistant to β‐lactams and quinolones, <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">K. pneumoniae</italic>
+</styled-content> resistant to β‐lactams and sulfonamides, and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> resistant to β‐lactams (Table <xref rid="fsn372165-tbl-0004" ref-type="table">4</xref>). These findings are consistent with previous studies highlighting the antibacterial properties of honey against multidrug‐resistant pathogenic strains (Agbabiaka et al. <xref rid="fsn372165-bib-0004" ref-type="bibr">2020</xref>; Farhana et al. <xref rid="fsn372165-bib-0027" ref-type="bibr">2023</xref>; McLoone et al. <xref rid="fsn372165-bib-0046" ref-type="bibr">2020</xref>; Owayss et al. <xref rid="fsn372165-bib-0054" ref-type="bibr">2020</xref>; Murugan <xref rid="fsn372165-bib-0052" ref-type="bibr">2012</xref>). While these results highlight honey's antibacterial potential, the high concentrations used (25%–75% v/v) limit direct clinical applicability, and no direct comparison with antibiotics is appropriate.</p><table-wrap position="float" id="fsn372165-tbl-0004" content-type="TABLE" orientation="portrait"><label>TABLE 4</label><caption><p>Antibiotic susceptibility patterns of the tested bacterial strains.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Antibiotics</th><th align="center" rowspan="2" valign="bottom" colspan="1">Dose (μg)</th><th align="center" colspan="3" valign="bottom" rowspan="1">Tested bacteria</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">
+<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">K. pneumoniae</italic>
+</styled-content>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Amikacin</td><td align="center" valign="top" rowspan="1" colspan="1">30</td><td align="center" valign="top" rowspan="1" colspan="1">S</td><td align="center" valign="top" rowspan="1" colspan="1">S</td><td align="center" valign="top" rowspan="1" colspan="1">S</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Aztreonam</td><td align="center" valign="top" rowspan="1" colspan="1">30</td><td align="center" valign="top" rowspan="1" colspan="1">S</td><td align="center" valign="top" rowspan="1" colspan="1">R</td><td align="center" valign="top" rowspan="1" colspan="1">S</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ceftazidime</td><td align="center" valign="top" rowspan="1" colspan="1">30</td><td align="center" valign="top" rowspan="1" colspan="1">R</td><td align="center" valign="top" rowspan="1" colspan="1">R</td><td align="center" valign="top" rowspan="1" colspan="1">S</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ciprofloxacin</td><td align="center" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">R</td><td align="center" valign="top" rowspan="1" colspan="1">S</td><td align="center" valign="top" rowspan="1" colspan="1">S</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cefalexin</td><td align="center" valign="top" rowspan="1" colspan="1">10</td><td align="center" valign="top" rowspan="1" colspan="1">S</td><td align="center" valign="top" rowspan="1" colspan="1">S</td><td align="center" valign="top" rowspan="1" colspan="1">S</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ceftriaxone</td><td align="center" valign="top" rowspan="1" colspan="1">30</td><td align="center" valign="top" rowspan="1" colspan="1">R</td><td align="center" valign="top" rowspan="1" colspan="1">R</td><td align="center" valign="top" rowspan="1" colspan="1">R</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cefotaxime</td><td align="center" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">R</td><td align="center" valign="top" rowspan="1" colspan="1">R</td><td align="center" valign="top" rowspan="1" colspan="1">R</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cefepime</td><td align="center" valign="top" rowspan="1" colspan="1">30</td><td align="center" valign="top" rowspan="1" colspan="1">S</td><td align="center" valign="top" rowspan="1" colspan="1">R</td><td align="center" valign="top" rowspan="1" colspan="1">R</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Levofloxacin</td><td align="center" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">R</td><td align="center" valign="top" rowspan="1" colspan="1">S</td><td align="center" valign="top" rowspan="1" colspan="1">S</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Nalidixic acid</td><td align="center" valign="top" rowspan="1" colspan="1">30</td><td align="center" valign="top" rowspan="1" colspan="1">R</td><td align="center" valign="top" rowspan="1" colspan="1">S</td><td align="center" valign="top" rowspan="1" colspan="1">S</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Trimethoprim/sulfamethoxazole</td><td align="center" valign="top" rowspan="1" colspan="1">25</td><td align="center" valign="top" rowspan="1" colspan="1">S</td><td align="center" valign="top" rowspan="1" colspan="1">R</td><td align="center" valign="top" rowspan="1" colspan="1">S</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ticarcillin + CA</td><td align="center" valign="top" rowspan="1" colspan="1">75</td><td align="center" valign="top" rowspan="1" colspan="1">R</td><td align="center" valign="top" rowspan="1" colspan="1">S</td><td align="center" valign="top" rowspan="1" colspan="1">S</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Tobramycin</td><td align="center" valign="top" rowspan="1" colspan="1">10</td><td align="center" valign="top" rowspan="1" colspan="1">R</td><td align="center" valign="top" rowspan="1" colspan="1">S</td><td align="center" valign="top" rowspan="1" colspan="1">S</td></tr></tbody></table><table-wrap-foot id="fsn372165-ntgp-0004"><fn id="fsn372165-note-0004"><p>Abbreviations: R, resistant; S, sensitive.</p></fn></table-wrap-foot></table-wrap><p>The results of our study indicate that the four types of honey analyzed exhibit a broad‐spectrum action, both bacteriostatic and bactericidal, against Gram‐positive and Gram‐negative bacteria, although their efficacy varies depending on the floral origin of the honey and the bacterial strain tested. In this regard, we observed that citrus and anise honeys exhibited the lowest bactericidal activity among the tested honey types. This could be attributed to differences in the floral sources of the honey samples used in this study. Indeed, previous research has shown that the nectar source used in honey production can lead to variations in the antibacterial properties of honeys from different floral origins (Hussein <xref rid="fsn372165-bib-0036" ref-type="bibr">2000</xref>). Furthermore, we also observed that the bacterial strains tested displayed differential sensitivity to the various honey types. Specifically, <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> (Gram‐positive bacteria) appeared to be more sensitive to the tested honeys compared to <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content> and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">K. pneumoniae</italic>
+</styled-content> (Gram‐negative bacteria). These findings are consistent with previous research demonstrating the greater susceptibility of Gram‐positive bacteria compared to Gram‐negative ones (Belhaj et al. <xref rid="fsn372165-bib-0010" ref-type="bibr">2016</xref>; Owayss et al. <xref rid="fsn372165-bib-0054" ref-type="bibr">2020</xref>; Aljaghwani et al. <xref rid="fsn372165-bib-0005" ref-type="bibr">2021</xref>; Cilia et al. <xref rid="fsn372165-bib-0018" ref-type="bibr">2020</xref>). This increased resistance in Gram‐negative bacteria is attributed to their complex three‐layered cell envelope, which provides an additional protective barrier compared to Gram‐positive bacteria (Johnston et al. <xref rid="fsn372165-bib-0039" ref-type="bibr">2018</xref>). Indeed, the antibacterial effect observed in our study could be attributed to the various compounds present in honey, which contribute to reducing or eliminating bacterial activity (Farhana et al. <xref rid="fsn372165-bib-0027" ref-type="bibr">2023</xref>; Mustafa et al. <xref rid="fsn372165-bib-0053" ref-type="bibr">2022</xref>). Among these, phenolic acids and flavonoids are widely recognized as key contributors to honey's antibacterial properties (Kassym et al. <xref rid="fsn372165-bib-0042" ref-type="bibr">2024</xref>). These phenolic compounds, which are secondary metabolites of plants, are introduced into honey during its production, as bees incorporate their enzymatic secretions with floral nectar or plant exudates, both of which contain water, sugars, proteins, and phenolic constituents (Jibril et al. <xref rid="fsn372165-bib-0038" ref-type="bibr">2019</xref>). In the present study, Pearson correlation analysis revealed a highly significant positive relationship between total phenolic content and antibacterial activity (<italic toggle="yes">r</italic> = 0.953), highlighting the substantial role of phenolic compounds in the antimicrobial potential of honey. This association has also been reported in previous studies (Brudzynski <xref rid="fsn372165-bib-0013" ref-type="bibr">2006</xref>; Dżugan et al. <xref rid="fsn372165-bib-0025" ref-type="bibr">2020</xref>).</p></sec><sec id="fsn372165-sec-0025"><label>3.3</label><title>In Silico Analysis</title><sec id="fsn372165-sec-0026"><label>3.3.1</label><title>Molecular Docking</title><p>Docking analyses centered on three high‐quality crystal structures that represent clinically decisive antimicrobial targets (Figure <xref rid="fsn372165-fig-0003" ref-type="fig">3</xref>): 1KZN, the 24‐kDa ATP‐binding domain of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content> GyrB whose inhibition blocks bacterial DNA supercoiling; 1SHV, the archetypal SHV‐1 β‐lactamase from <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">K. pneumoniae</italic>
+</styled-content> that underlies broad β‐lactam resistance; and 3ZG5, PBP2a from MRSA, the hallmark enzyme conferring methicillin resistance in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> (Aati et al. <xref rid="fsn372165-bib-0001" ref-type="bibr">2025</xref>; Zhydzetski et al. <xref rid="fsn372165-bib-0064" ref-type="bibr">2024</xref>). By benchmarking every ligand's binding affinity against ciprofloxacin retained as an internal standard, the resulting score matrix directly gauges each honey‐derived phenolic's ability to compete with a proven antibiotic across three distinct resistance mechanisms. Compounds exhibiting docking energies comparable to those observed for ciprofloxacin across these PDB environments may represent interesting candidates for further investigation against Gram‐negative DNA replication, β‐lactamase‐mediated hydrolysis, or altered MRSA transpeptidase activity. Docking energies (Table <xref rid="fsn372165-tbl-0005" ref-type="table">5</xref>) reveal four honey phenolics: catechin (M<sub>2</sub>), myricetin (M<sub>8</sub>), kaempferol (M<sub>10</sub>), and quercetin (M<sub>11</sub>) that displayed predicted binding affinities within a range comparable to those observed for ciprofloxacin (−7.7, −5.7, −7.5 kcal/mol for 1KZN, 1SHV and 3ZG5, respectively). Quercetin provides the deepest pose in the GyrB site (−8.3 kcal/mol), while kaempferol dominates both SHV‐1 (−6.5 kcal mol<sup>−1</sup>) and PBP2a (−8.1 kcal/mol), suggesting broad inhibitory potential across DNA‐gyrase, β‐lactamase, and MRSA transpeptidase targets. By contrast, simple benzoic and cinnamic acids (gallic acid (M<sub>1</sub>), 3‐hydroxybenzoic acid (M<sub>3</sub>), coumaric acid (M<sub>6</sub>), and trans‐cinnamic acid (M<sub>9</sub>)) exhibit modest affinities (−4.7 to −5.9 kcal mol<sup>−1</sup>), and naringin (M<sub>7</sub>) fails to engage the PBP2a pocket (−2.0 kcal/mol), reflecting the steric and polarity limitations anticipated from its ADME profile. Overall, kaempferol (M<sub>10</sub>) emerges as the most versatile binder, with catechin (M<sub>2</sub>), myricetin (M<sub>8</sub>), and quercetin (M<sub>11</sub>) displaying favorable docking profiles across multiple targets, warranting further experimental investigation.</p><fig position="float" fig-type="FIGURE" id="fsn372165-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>3D ribbon representations of the molecular docking targets: 1KZN (GyrB domain), 1SHV (SHV‐1 β‐lactamase), and 3ZG5 (PBP2a).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="FSN3-14-e72165-g002.webp"><?image-name FSN3-14-e72165-g002.webp?><?image-size 45146?><?image-md5 62b045d31d8d1ab7a5d9411747d930dd?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 313?><?image-original-width 1064?><?image-scaled-height 313?><?image-scaled-width 1064?><?image-cloudpmc-urn urn:cdn:blobs/5002/13522720/62b045d31d8d/FSN3-14-e72165-g002.webp?><?thumb-name FSN3-14-e72165-g002.gif?><?thumb-size 6420?><?thumb-md5 fca16b093dfb95202711111761cb2029?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 59?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/5002/13522720/fca16b093dfb/FSN3-14-e72165-g002.gif?></graphic></fig><table-wrap position="float" id="fsn372165-tbl-0005" content-type="TABLE" orientation="portrait"><label>TABLE 5</label><caption><p>AutoDock Vina predicted binding energies (kcal/mol) of ligands M1–M11 and the reference compound Ciprofloxacin against three molecular targets (1KZN, 1SHV, and 3ZG5).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Molecules</th><th align="center" valign="bottom" rowspan="1" colspan="1">1KZN</th><th align="center" valign="bottom" rowspan="1" colspan="1">1SHV</th><th align="center" valign="bottom" rowspan="1" colspan="1">3ZG5</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">M<sub>1</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−5.7</td><td align="center" valign="top" rowspan="1" colspan="1">−4.7</td><td align="center" valign="top" rowspan="1" colspan="1">−5.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">M<sub>2</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−8.0</td><td align="center" valign="top" rowspan="1" colspan="1">−6.2</td><td align="center" valign="top" rowspan="1" colspan="1">−7.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">M<sub>3</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−5.9</td><td align="center" valign="top" rowspan="1" colspan="1">−4.8</td><td align="center" valign="top" rowspan="1" colspan="1">−5.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">M<sub>4</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−6.3</td><td align="center" valign="top" rowspan="1" colspan="1">−5.4</td><td align="center" valign="top" rowspan="1" colspan="1">−5.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">M<sub>5</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−6.1</td><td align="center" valign="top" rowspan="1" colspan="1">−5.3</td><td align="center" valign="top" rowspan="1" colspan="1">−5.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">M<sub>6</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−5.7</td><td align="center" valign="top" rowspan="1" colspan="1">−5.4</td><td align="center" valign="top" rowspan="1" colspan="1">−5.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">M<sub>7</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−6.4</td><td align="center" valign="top" rowspan="1" colspan="1">−5.6</td><td align="center" valign="top" rowspan="1" colspan="1">−2.0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">M<sub>8</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−8.0</td><td align="center" valign="top" rowspan="1" colspan="1">−6.3</td><td align="center" valign="top" rowspan="1" colspan="1">−7.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">M<sub>9</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−5.9</td><td align="center" valign="top" rowspan="1" colspan="1">−5.8</td><td align="center" valign="top" rowspan="1" colspan="1">−5.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">M<sub>10</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−7.9</td><td align="center" valign="top" rowspan="1" colspan="1">−6.5</td><td align="center" valign="top" rowspan="1" colspan="1">−8.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">M<sub>11</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−8.3</td><td align="center" valign="top" rowspan="1" colspan="1">−6.3</td><td align="center" valign="top" rowspan="1" colspan="1">−7.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ciprofloxacin</td><td align="center" valign="top" rowspan="1" colspan="1">−7.7</td><td align="center" valign="top" rowspan="1" colspan="1">−5.7</td><td align="center" valign="top" rowspan="1" colspan="1">−7.5</td></tr></tbody></table><table-wrap-foot id="fsn372165-ntgp-0005"><fn id="fsn372165-note-0005"><p>
+<italic toggle="yes">Note:</italic> Lower binding‐energy values indicate stronger predicted ligand–target interactions.</p></fn><fn id="fsn372165-note-0006"><p>Abbreviations: 1KZN, GyrB domain; 1SHV, SHV‐1 β‐lactamase; 3ZG5, PBP2a.</p></fn></table-wrap-foot></table-wrap><p>Given its balanced ADME profile, minimal predicted toxicity and one of the strongest docking scores in the set, catechin (M<sub>2</sub>) emerges as the most promising honey metabolite. Accordingly, the forthcoming discussion focuses on the catechin‐1KZN complex, examining its binding stability and key intermolecular contacts within the GyrB pocket as a prelude to Figure <xref rid="fsn372165-fig-0004" ref-type="fig">4</xref>. Ligand catechin (M<sub>2</sub>) nestles deeply inside the ATP‐binding pocket of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content> GyrB (PDB 1KZN), where three tight hydrogen bonds to Asp49 (2.31 Å), Val71 (2.93 Å) and Thr165 (3.05 Å) pin its flavonoid scaffold against both the catalytic rim and the floor of the cleft (Zhydzetski et al. <xref rid="fsn372165-bib-0064" ref-type="bibr">2024</xref>). Ten further van der Waals contacts weave an intimate lattice around the ligand. In contrast, a π–sigma interaction with Thr165 (3.62 Å) and two π‐alkyl contacts at 5.05 Å and 5.21 Å create an aromatic cradle that locks the molecule in place. Surface‐property maps corroborate this picture: the hydrogen‐bond donor/acceptor surface shows a green acceptor belt encircling catechin's hydroxyl donors and magenta donor patches that complement its carbonyl acceptors; the solvent‐accessible surface reveals that most of the ligand is buried, maximizing entropic gain; interpolated charge highlights a negative patch around Asp49/Asp73 that dovetails with catechin's polar groups, whereas the hydrophobic map traces brown streaks under the aromatic rings that coincide with the π‐alkyl contacts; finally, ionizability surfaces display adjacent basic (blue) and acidic (red) regions bridged by the ligand, achieving electrostatic balance. Although three unfavorable donor–donor bumps appear at Thr165 (1.81 Å), Asp73 (2.18 Å) and Val167 (2.02 Å), they sit on the periphery and are unlikely to offset the dominant favorable forces. The combined network of polar, hydrophobic and electrostatically complementary interactions underscored by the ten van der Waals contacts and supportive surface characteristics explains the markedly negative docking energy and underlines the capacity of catechin to obstruct ATP hydrolysis by GyrB, highlighting its promise as a potent antibacterial agent.</p><fig position="float" fig-type="FIGURE" id="fsn372165-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Layered interaction profile of the catechin–GyrB (PDB: 1KZN) complex. (A) Three‐dimensional binding pose within the ATP‐binding pocket; (B) Two‐dimensional interaction diagram highlighting key molecular contacts; (C) Hydrogen‐bond donor/acceptor surface; (D) Solvent‐accessible surface (SAS); (E) Interpolated electrostatic potential map; (F) Hydrophobicity distribution; and (G) Ionizability profile.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="FSN3-14-e72165-g008.webp"><?image-name FSN3-14-e72165-g008.webp?><?image-size 64644?><?image-md5 df963cf1abda3104ee1322bb3b16dd27?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 993?><?image-original-width 1064?><?image-scaled-height 993?><?image-scaled-width 1064?><?image-cloudpmc-urn urn:cdn:blobs/5002/13522720/df963cf1abda/FSN3-14-e72165-g008.webp?><?thumb-name FSN3-14-e72165-g008.gif?><?thumb-size 11222?><?thumb-md5 66b7afcfad24195194ba08260d309c65?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 187?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/5002/13522720/66b7afcfad24/FSN3-14-e72165-g008.gif?></graphic></fig></sec><sec id="fsn372165-sec-0027"><label>3.3.2</label><title>Molecular Dynamics Simulation</title><p>Molecular dynamics (MD) extends the single docking snapshot by capturing, on the nanosecond scale, the real “breathing” of a protein‐ligand complex. Two main descriptors are extracted: the root‐mean‐square deviation (RMSD), which measures the average quadratic deviation of a set of atoms from a reference structure to assess convergence and stability, and the root‐mean‐square fluctuation (RMSF), which gauges the local motions of each residue to pinpoint flexible versus rigid regions (Hamami et al. <xref rid="fsn372165-bib-0032" ref-type="bibr">2022</xref>).</p><p>In Figure <xref rid="fsn372165-fig-0005" ref-type="fig">5</xref>, 100‐ns ligand RMSD profiles reveal distinct behaviors: quercetin in 1KZN‐M11 (green curve) rapidly plateaus at 0.30–0.35 nm, indicating a firmly anchored pose in the GyrB ATP pocket; catechin in 1KZN‐M2 (black) drops to ~0.15 nm before gradually rising to oscillate near 0.60 nm after 70 ns, suggesting a late readjustment and intermediate stability; kaempferol in 3ZG5‐M10 (red) quickly climbs to ~0.60–0.85 nm and remains highly fluctuating, pointing to a less tightly locked pose in the PBP2a transpeptidase cleft. Thus, the lowest and most consistent RMSD confirms the dynamic superiority of the quercetin‐GyrB complex. At the same time, the other two compounds exhibit greater mobility that could be clarified by targeted RMSF analysis.</p><fig position="float" fig-type="FIGURE" id="fsn372165-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>RMSD trajectories over a 100‐ns molecular dynamics simulation for catechin (M2), kaempferol (M10), and quercetin (M11) after least‐squares fitting to their respective target proteins (<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content> GyrB, PDB: 1KZN, and MRSA PBP2a, PDB: 3ZG5).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="FSN3-14-e72165-g007.webp"><?image-name FSN3-14-e72165-g007.webp?><?image-size 67536?><?image-md5 75b84eb4a973c76bb2eba2a974b44a00?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 780?><?image-original-width 998?><?image-scaled-height 780?><?image-scaled-width 998?><?image-cloudpmc-urn urn:cdn:blobs/5002/13522720/75b84eb4a973/FSN3-14-e72165-g007.webp?><?thumb-name FSN3-14-e72165-g007.gif?><?thumb-size 15364?><?thumb-md5 9620317dd6f6a7dd7fc3ce712bf6bd33?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 156?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/5002/13522720/9620317dd6f6/FSN3-14-e72165-g007.gif?></graphic></fig><p>Figure <xref rid="fsn372165-fig-0006" ref-type="fig">6</xref> plots per‐residue backbone RMSF for the two GyrB complexes (catechin—black, quercetin—green) and the PBP2a complex (kaempferol—red). For GyrB, both ligands keep the catalytic rim (Ala47‐Asp49), the cleft floor (Ile78), and the β‐hairpin that carries Thr165 well below 0.12 nm, confirming that the hydrogen‐bond/π‐stack triad identified in docking remains rigid throughout the trajectory. The only large excursion (≈0.30 nm at residues 90–110) lies in a solvent‐exposed loop far from the binding site and does not disrupt the pocket. Notably, quercetin slightly damps fluctuations around residue 165 compared with catechin, mirroring its lower RMSD and tighter anchoring. In PBP2a, the kaempferol trace displays higher overall mobility (up to 0.65 nm); yet the contact belt discussed earlier Lys148‐Ser149, Thr165/Val165 region, Arg151, Val256, Arg241 and Met372 stays under 0.25 nm, whereas adjacent loops rise well above that value. This differential rigidity suggests that the π‐σ, π‐alkyl and quadruple H‐bond network stabilizes the transpeptidase cleft even as peripheral regions flex freely. Taken together, the RMSF patterns in Figure <xref rid="fsn372165-fig-0006" ref-type="fig">6</xref> corroborate the docking‐derived interaction maps: residues directly engaged by the three flavonoids remain dynamically restrained, underscoring the persistence and specificity of their binding contacts over the 100‐ns simulations.</p><fig position="float" fig-type="FIGURE" id="fsn372165-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>Backbone RMSF profiles over 100 ns for the GyrB‐catechin (M2, black) and GyrB‐quercetin (M11, green) complexes, and for the PBP2a‐kaempferol (M10, red) complex.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="FSN3-14-e72165-g005.webp"><?image-name FSN3-14-e72165-g005.webp?><?image-size 37244?><?image-md5 d38e9319a028e522c63252638e6ac3ce?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 569?><?image-original-width 1064?><?image-scaled-height 569?><?image-scaled-width 1064?><?image-cloudpmc-urn urn:cdn:blobs/5002/13522720/d38e9319a028/FSN3-14-e72165-g005.webp?><?thumb-name FSN3-14-e72165-g005.gif?><?thumb-size 7526?><?thumb-md5 de4df1e0cb4b7afc6ff536c017cfa2d5?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 107?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/5002/13522720/de4df1e0cb4b/FSN3-14-e72165-g005.gif?></graphic></fig></sec><sec id="fsn372165-sec-0028"><label>3.3.3</label><title>
+<styled-content style="fixed-case" toggle="no">SwissADME</styled-content> In Silico Profiling and <styled-content style="fixed-case" toggle="no">BOILED</styled-content>‐Egg Analysis</title><p>In this in silico screening, we focus on eleven phenolic metabolites M1: gallic acid, M2: catechin, M3: 3‐hydroxybenzoic acid, M4: caffeic acid, M5: trans‐ferulic acid, M6: p‐coumaric acid, M7: naringin, M8: myricetin, M9: trans‐cinnamic acid, M10: kaempferol, and M11: quercetin, identified as dominant constituents of the four honey samples and whose concentrations correlate positively with the observed bactericidal activity against <italic toggle="yes">
+<styled-content style="fixed-case" toggle="no">E. coli</styled-content>, <styled-content style="fixed-case" toggle="no">K. pneumoniae</styled-content>
+</italic>, and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content>. To benchmark binding energies and pharmacological relevance, we added ciprofloxacin (M12) as a clinical standard.</p><p>Table <xref rid="fsn372165-tbl-0006" ref-type="table">6</xref> shows that the majority of the honey‐derived phenolics (gallic acid (M<sub>1</sub>), p‐coumaric acid (M<sub>6</sub>), trans‐cinnamic acid (M<sub>9</sub>), and quercetin (M<sub>11</sub>)) occupy a physicochemical window largely compatible with oral drugs: molecular weights range from 138 to 302 g/mol (all below ciprofloxacin's 331 g/mol) and cLogP values stay within the optimally balanced 0–2 region, indicating sufficient polarity for solubility without incurring permeability penalties. Their topological polar surface areas (TPSA 37–131 Å<sup>2</sup>) cluster around that of the benchmark (74.6 Å<sup>2</sup>), predicting efficient passive diffusion through the intestinal epithelium, a prediction borne out by the “High” GI‐absorption flag and bioavailability scores ≥ 0.55. By contrast, naringin (M<sub>7</sub>) stands out as an outlier: its extremely high MW (≈581 g/mol), inflated hydrogen‐bond counts (14 acceptors/8 donors), and TPSA of 225 Å<sup>2</sup> generate three Lipinski and one Veber violation, translating into “Low” absorption and the poorest bioavailability score (0.17) (Trott and Olson <xref rid="fsn372165-bib-0063" ref-type="bibr">2010</xref>). Myricetin (M<sub>8</sub>) also straddles oral‐drug limits (TPSA≈152 Å<sup>2</sup>) and registers dual rule violations, yet retains a moderate cLogP (0.79) that partly offsets its permeability deficit. Skin permeability, approximated by log Kp, follows polarity trends: trans‐cinnamic acid (M<sub>9</sub>) exhibits the least negative value (−5.69 cm s<sup>−1</sup>) and thus the highest dermal penetration potential, whereas M<sub>7</sub> drops to −10.15 cm s<sup>−1</sup>, more impermeable than ciprofloxacin (−9.09 cm s<sup>−1</sup>). Efflux liability was predicted for catechin (M2), naringin (M7), and ciprofloxacin (M12), all identified as potential P‐gp substrates, suggesting possible transporter‐mediated reductions in intracellular accumulation. The predicted risk of cytochrome‐mediated drug–drug interactions appeared limited for catechin (M2), naringin (M7), and trans‐cinnamic acid (M9). In contrast, gallic acid (M1), myricetin (M8), kaempferol (M10), and quercetin (M11) were predicted to inhibit CYP3A4, while kaempferol (M10) and quercetin (M11) additionally showed potential CYP2D6 inhibition. These predictions may indicate a possible influence on the pharmacokinetics of co‐administered drugs and warrant further experimental investigation. Unlike these compounds, such inhibitory effects were not predicted for ciprofloxacin (Ramadhan et al. <xref rid="fsn372165-bib-0059" ref-type="bibr">2023</xref>).</p><table-wrap position="float" id="fsn372165-tbl-0006" content-type="TABLE" orientation="portrait"><label>TABLE 6</label><caption><p>Key ADME and drug‐likeness parameters for M1‐M11 versus ciprofloxacin (M<sub>12</sub>).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Parameter</th><th align="center" valign="bottom" rowspan="1" colspan="1">M1</th><th align="center" valign="bottom" rowspan="1" colspan="1">M2</th><th align="center" valign="bottom" rowspan="1" colspan="1">M3</th><th align="center" valign="bottom" rowspan="1" colspan="1">M4</th><th align="center" valign="bottom" rowspan="1" colspan="1">M5</th><th align="center" valign="bottom" rowspan="1" colspan="1">M6</th><th align="center" valign="bottom" rowspan="1" colspan="1">M7</th><th align="center" valign="bottom" rowspan="1" colspan="1">M8</th><th align="center" valign="bottom" rowspan="1" colspan="1">M9</th><th align="center" valign="bottom" rowspan="1" colspan="1">M10</th><th align="center" valign="bottom" rowspan="1" colspan="1">M11</th><th align="center" valign="bottom" rowspan="1" colspan="1">Ciprofloxacin</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Molecular weight (g/mol)</td><td align="center" valign="top" rowspan="1" colspan="1">170.12</td><td align="center" valign="top" rowspan="1" colspan="1">290.27</td><td align="center" valign="top" rowspan="1" colspan="1">138.12</td><td align="center" valign="top" rowspan="1" colspan="1">180.16</td><td align="center" valign="top" rowspan="1" colspan="1">194.18</td><td align="center" valign="top" rowspan="1" colspan="1">164.16</td><td align="center" valign="top" rowspan="1" colspan="1">580.53</td><td align="center" valign="top" rowspan="1" colspan="1">318.24</td><td align="center" valign="top" rowspan="1" colspan="1">148.16</td><td align="center" valign="top" rowspan="1" colspan="1">286.24</td><td align="center" valign="top" rowspan="1" colspan="1">302.24</td><td align="center" valign="top" rowspan="1" colspan="1">331.34</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">H‐bond acceptors</td><td align="center" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">6</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">4</td><td align="center" valign="top" rowspan="1" colspan="1">4</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">14</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">6</td><td align="center" valign="top" rowspan="1" colspan="1">7</td><td align="center" valign="top" rowspan="1" colspan="1">5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">H‐bond donors</td><td align="center" valign="top" rowspan="1" colspan="1">4</td><td align="center" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">6</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">4</td><td align="center" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Rotatable bonds</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">6</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">TPSA (Å<sup>2</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">97.99</td><td align="center" valign="top" rowspan="1" colspan="1">110.38</td><td align="center" valign="top" rowspan="1" colspan="1">57.53</td><td align="center" valign="top" rowspan="1" colspan="1">77.76</td><td align="center" valign="top" rowspan="1" colspan="1">66.76</td><td align="center" valign="top" rowspan="1" colspan="1">57.53</td><td align="center" valign="top" rowspan="1" colspan="1">225.06</td><td align="center" valign="top" rowspan="1" colspan="1">151.59</td><td align="center" valign="top" rowspan="1" colspan="1">37.3</td><td align="center" valign="top" rowspan="1" colspan="1">111.13</td><td align="center" valign="top" rowspan="1" colspan="1">131.36</td><td align="center" valign="top" rowspan="1" colspan="1">74.57</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CLogP</td><td align="center" valign="top" rowspan="1" colspan="1">0.21</td><td align="center" valign="top" rowspan="1" colspan="1">0.85</td><td align="center" valign="top" rowspan="1" colspan="1">1.03</td><td align="center" valign="top" rowspan="1" colspan="1">0.93</td><td align="center" valign="top" rowspan="1" colspan="1">1.36</td><td align="center" valign="top" rowspan="1" colspan="1">1.26</td><td align="center" valign="top" rowspan="1" colspan="1">−0.85</td><td align="center" valign="top" rowspan="1" colspan="1">0.79</td><td align="center" valign="top" rowspan="1" colspan="1">1.79</td><td align="center" valign="top" rowspan="1" colspan="1">1.58</td><td align="center" valign="top" rowspan="1" colspan="1">1.23</td><td align="center" valign="top" rowspan="1" colspan="1">1.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Lipinski: violations</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Veber: violations</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">GI absorption</td><td align="center" valign="top" rowspan="1" colspan="1">High</td><td align="center" valign="top" rowspan="1" colspan="1">High</td><td align="center" valign="top" rowspan="1" colspan="1">High</td><td align="center" valign="top" rowspan="1" colspan="1">High</td><td align="center" valign="top" rowspan="1" colspan="1">High</td><td align="center" valign="top" rowspan="1" colspan="1">High</td><td align="center" valign="top" rowspan="1" colspan="1">Low</td><td align="center" valign="top" rowspan="1" colspan="1">Low</td><td align="center" valign="top" rowspan="1" colspan="1">High</td><td align="center" valign="top" rowspan="1" colspan="1">High</td><td align="center" valign="top" rowspan="1" colspan="1">High</td><td align="center" valign="top" rowspan="1" colspan="1">High</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Bioavailability Score</td><td align="center" valign="top" rowspan="1" colspan="1">0.56</td><td align="center" valign="top" rowspan="1" colspan="1">0.55</td><td align="center" valign="top" rowspan="1" colspan="1">0.85</td><td align="center" valign="top" rowspan="1" colspan="1">0.56</td><td align="center" valign="top" rowspan="1" colspan="1">0.85</td><td align="center" valign="top" rowspan="1" colspan="1">0.85</td><td align="center" valign="top" rowspan="1" colspan="1">0.17</td><td align="center" valign="top" rowspan="1" colspan="1">0.55</td><td align="center" valign="top" rowspan="1" colspan="1">0.85</td><td align="center" valign="top" rowspan="1" colspan="1">0.55</td><td align="center" valign="top" rowspan="1" colspan="1">0.55</td><td align="center" valign="top" rowspan="1" colspan="1">0.55</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">log Kp (cm/s)</td><td align="center" valign="top" rowspan="1" colspan="1">−6.84</td><td align="center" valign="top" rowspan="1" colspan="1">−7.82</td><td align="center" valign="top" rowspan="1" colspan="1">−6.08</td><td align="center" valign="top" rowspan="1" colspan="1">−6.58</td><td align="center" valign="top" rowspan="1" colspan="1">−6.41</td><td align="center" valign="top" rowspan="1" colspan="1">−6.26</td><td align="center" valign="top" rowspan="1" colspan="1">−10.15</td><td align="center" valign="top" rowspan="1" colspan="1">−7.4</td><td align="center" valign="top" rowspan="1" colspan="1">−5.69</td><td align="center" valign="top" rowspan="1" colspan="1">−6.7</td><td align="center" valign="top" rowspan="1" colspan="1">−7.05</td><td align="center" valign="top" rowspan="1" colspan="1">−9.09</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pgp substrate</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CYP2D6 inhibitor</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">No</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CYP3A4 inhibitor</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">No</td></tr></tbody></table><table-wrap-foot id="fsn372165-ntgp-0006"><fn id="fsn372165-note-0007"><p>Abbreviations: CYP, Cytochrome P450; GI, Gastrointestinal absorption; log Kp, coefficient de perméabilité cutanée logarithmique; P‐gp, P‐glycoprotein; TPSA, Topological Polar Surface Area.</p></fn></table-wrap-foot></table-wrap><p>Collectively, the data position 3‐hydroxybenzoic acid (M<sub>3</sub>), trans‐ferulic acid (M<sub>5</sub>), p‐coumaric acid (M<sub>6</sub>) and trans‐cinnamic acid (M<sub>9</sub>) as the phenolics whose rule‐of‐five compliance, high intestinal absorption, lack of transporter or CYP liabilities and favorable bioavailability scores most closely mirror and in some respects surpass the reference profile of ciprofloxacin (M<sub>5</sub>), whereas naringin (M<sub>7</sub>) and, to a lesser extent, myricetin (M<sub>8</sub>) constitute the least orally promising members of the set. In the SwissADME BOILED‐Egg plot (Figure <xref rid="fsn372165-fig-0007" ref-type="fig">7</xref>) (Ramadhan et al. <xref rid="fsn372165-bib-0059" ref-type="bibr">2023</xref>), W log P is mapped against TPSA to distinguish molecules likely to show high human‐intestinal absorption (white ellipse) from those also able to cross the blood–brain barrier (central yellow core). All ligands appear on the plot except naringin (M<sub>7</sub>), whose extreme polarity (TPSA≈225 Å<sup>2</sup>) places it beyond the frame. Three phenolic acids: 3‐hydroxybenzoic (M<sub>3</sub>), p‐coumaric (M<sub>6</sub>) and trans‐cinnamic acid (M<sub>9</sub>) sit well inside the yellow core, indicating a dual potential for efficient oral uptake and CNS penetration, and they are flagged as non‐substrates for P‐gp (red markers). Ciprofloxacin (M<sub>12</sub>) and trans‐ferulic acid (M<sub>5</sub>) lie on the yellow/white boundary, suggesting good absorption but limited brain entry, while gallic acid (M<sub>1</sub>) and caffeic acid (M<sub>4</sub>) occupy a similar position within the white ellipse. Myricetin (M<sub>8</sub>) is present yet plotted just outside the white region, consistent with its predicted “low” intestinal absorption in Table <xref rid="fsn372165-tbl-0006" ref-type="table">6</xref> and negligible CNS accessibility. The more polar flavonoids catechin (M<sub>2</sub>), kaempferol (M<sub>10</sub>) and quercetin (M<sub>11</sub>) cluster near the outer rim of the white area, where rising TPSA curtails permeability; only catechin (M<sub>2</sub>) and ciprofloxacin (M<sub>12</sub>) appear in blue, marking them as likely P‐gp substrates. Overall, the diagram identifies 3‐hydroxybenzoic (M<sub>3</sub>), p‐coumaric (M<sub>6</sub>) and trans‐cinnamic acid (M<sub>9</sub>) as the most pharmacokinetically favorable honey metabolites, whereas the pronounced polarity of myricetin (M<sub>8</sub>) and especially naringin (M<sub>7</sub>) undermines their oral prospects.</p><fig position="float" fig-type="FIGURE" id="fsn372165-fig-0007" orientation="portrait"><label>FIGURE 7</label><caption><p>SwissADME BOILED‐Egg plot of <italic toggle="yes">W log P</italic> versus TPSA for honey‐derived ligands M<sub>1</sub>–M<sub>11</sub> and reference ciprofloxacin (M<sub>12</sub>).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-15" orientation="portrait" xlink:href="FSN3-14-e72165-g006.webp"><?image-name FSN3-14-e72165-g006.webp?><?image-size 18638?><?image-md5 70ecab9f7cbab99acb47f8835c0d5704?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 834?><?image-original-width 1064?><?image-scaled-height 834?><?image-scaled-width 1064?><?image-cloudpmc-urn urn:cdn:blobs/5002/13522720/70ecab9f7cba/FSN3-14-e72165-g006.webp?><?thumb-name FSN3-14-e72165-g006.gif?><?thumb-size 7089?><?thumb-md5 7b9bd73abd157951290c5aeef3ea890f?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 157?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/5002/13522720/7b9bd73abd15/FSN3-14-e72165-g006.gif?></graphic></fig></sec><sec id="fsn372165-sec-0029"><label>3.3.4</label><title>
+<styled-content style="fixed-case" toggle="no">ADMETlab</styled-content> 3 Thermal Stability and Pharmacokinetic Profiling</title><p>ADMETlab 3 data (Figure <xref rid="fsn372165-fig-0008" ref-type="fig">8</xref>) reveal a wide variation in solid‐state stability: melting‐ and boiling‐point outputs link a compound's thermal endurance during manufacturing to its physical persistence, while the plasma‐clearance/half‐life pair indicates how long it remains systemically active in the body (Daina and Zoete <xref rid="fsn372165-bib-0023" ref-type="bibr">2016</xref>). Myricetin (M<sub>8</sub>) is the most refractory, with a melting/boiling point of 367/415°C, whereas trans‐cinnamic acid (M<sub>9</sub>) is the most volatile at 138/298°C. Ciprofloxacin (M<sub>12</sub>) and the simpler phenolic acids gallic acid (M<sub>1</sub>), 3‐hydroxybenzoic (M<sub>3</sub>), caffeic acid (M<sub>4</sub>), trans‐ferulic acid (M<sub>5</sub>) and p‐coumaric (M<sub>6</sub>) occupy the mid‐range (~180°C–227°C for mp and 268°C–326°C for bp), values compatible with conventional solid‐dosage processing. Pharmacokinetic surrogates show plasma clearance values from 1.73 mL min<sup>−1</sup> kg<sup>−1</sup> for naringin (M<sub>7</sub>) up to 14.92 mL min<sup>−1</sup> kg<sup>−1</sup> for catechin (M<sub>2</sub>), with half‐lives varying inversely from 4.31 h to about 2 h. The ligand that most closely mirrors ciprofloxacin (Cl = 3.31 mL min<sup>−1</sup> kg<sup>−1</sup>, t<sub>0.5</sub> = 1.56 h) is 3‐hydroxybenzoic acid (M<sub>3</sub>), exhibiting an identical clearance, a half‐life of 1.92 h, and a manageable mp/bp of ≈190/268°C. trans‐ferulic (M<sub>5</sub>) and p‐coumaric (M<sub>6</sub>) acids show intermediate clearances (8.35 and 7.54 mL min<sup>−1</sup> kg<sup>−1</sup>) and half‐lives of 1.69 and 1.57 h, respectively, with acceptable thermal robustness, but align less precisely with the reference profile. Naringin's long half‐life (4.31 h) is offset by its extreme polarity and anticipated permeability limitations, whereas the rapid clearance of catechin (M<sub>2</sub>) and caffeic acid (M<sub>4</sub>) would likely require more frequent dosing to maintain therapeutic levels. In summary, 3‐hydroxybenzoic acid (M<sub>3</sub>) emerges as the only natural candidate that combines suitable thermal stability with a clearance/half‐life balance closely matching ciprofloxacin. trans‐ferulic and p‐coumaric acids (M<sub>5</sub> and M<sub>6</sub>) remain conditionally promising, while myricetin (M<sub>8</sub>) stands out for exceptional thermal stability but offers only moderate clearance and limited permeability.</p><fig position="float" fig-type="FIGURE" id="fsn372165-fig-0008" orientation="portrait"><label>FIGURE 8</label><caption><p>Predicted thermal properties (mp/bp) and pharmacokinetic surrogate (Cl‐t½) from ADMETlab 3 for M1‐M11 versus ciprofloxacin.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-17" orientation="portrait" xlink:href="FSN3-14-e72165-g001.webp"><?image-name FSN3-14-e72165-g001.webp?><?image-size 43690?><?image-md5 f1575de30f0cefdf113003d561ed9e1e?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 487?><?image-original-width 1064?><?image-scaled-height 487?><?image-scaled-width 1064?><?image-cloudpmc-urn urn:cdn:blobs/5002/13522720/f1575de30f0c/FSN3-14-e72165-g001.webp?><?thumb-name FSN3-14-e72165-g001.gif?><?thumb-size 8530?><?thumb-md5 9a2fcccec4e5f3b5481b0ee7683d8210?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 92?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/5002/13522720/9a2fcccec4e5/FSN3-14-e72165-g001.gif?></graphic></fig></sec><sec id="fsn372165-sec-0030"><label>3.3.5</label><title>In Silico Toxicity Profiling</title><p>ProTox‐III predicts a generally moderate acute‐toxicity profile for the honey phenolics (Table <xref rid="fsn372165-tbl-0007" ref-type="table">7</xref>): gallic acid (M<sub>1</sub>), 3‐hydroxybenzoic acid (M<sub>3</sub>), caffeic acid (M<sub>4</sub>), trans‐ferulic acid (M<sub>5</sub>), p‐coumaric acid (M<sub>6</sub>), naringin (M<sub>7</sub>), trans‐cinnamic acid (M<sub>9</sub>), kaempferol (M<sub>10</sub>), and ciprofloxacin (M<sub>12</sub>) fall into GHS classes 4–5 with oral LD<sub>50</sub> values of 1772–3910 mg/kg (Ciocarlan et al. <xref rid="fsn372165-bib-0019" ref-type="bibr">2024</xref>), whereas catechin (M<sub>2</sub>) shows the widest safety margin in class 6 (≈10,000 mg/kg). Myricetin (M<sub>8</sub>) and quercetin (M<sub>11</sub>) are more worrisome, both assigned to class 3 (LD<sub>50</sub>≈159 mg/kg). Hepatotoxicity is absent across the panel except for a single “active” call in trans‐cinnamic acid (M<sub>9</sub>) with a 54% probability (Table <xref rid="fsn372165-tbl-0007" ref-type="table">7</xref>). Carcinogenicity is flagged for gallic acid (M<sub>1</sub>), caffeic acid (M<sub>4</sub>), p‐coumaric acid (M<sub>6</sub>), and myricetin (M<sub>8</sub>) with probabilities ranging from 50% to 78% (Table <xref rid="fsn372165-tbl-0007" ref-type="table">7</xref>), while immunotoxicity is activated only in trans‐ferulic acid (M<sub>5</sub>), naringin (M<sub>7</sub>), and trans‐cinnamic acid (M<sub>9</sub>) at very high confidence (91%–99%) (Table <xref rid="fsn372165-tbl-0007" ref-type="table">7</xref>). Mutagenicity remains largely silent, apart from a low‐probability activation in myricetin (51%) and a moderate signal in ciprofloxacin (75%) (Table <xref rid="fsn372165-tbl-0007" ref-type="table">7</xref>). Cytotoxicity is predicted inactive for all compounds, including the reference drug. Overall, catechin (M<sub>2</sub>) retains the cleanest safety profile, whereas quercetin (M<sub>11</sub>) and especially myricetin (M<sub>8</sub>) accumulate multiple toxicity alerts that merit thorough experimental follow‐up (Table <xref rid="fsn372165-tbl-0007" ref-type="table">7</xref>).</p><table-wrap position="float" id="fsn372165-tbl-0007" content-type="TABLE" orientation="portrait"><label>TABLE 7</label><caption><p>ProTox‐III prediction of acute toxicity (GHS class and oral LD<sub>50</sub>) and toxicity endpoint assessment for ligands M1–M11 and ciprofloxacin (M12).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Parameter</th><th align="center" valign="bottom" rowspan="1" colspan="1">M<sub>1</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">M<sub>2</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">M<sub>3</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">M<sub>4</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">M<sub>5</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">M<sub>6</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">M<sub>7</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">M<sub>8</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">M<sub>9</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">M<sub>10</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">M<sub>11</sub>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Ciprofloxacin</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">LD<sub>5 0</sub> (mg/kg)</td><td align="center" valign="top" rowspan="1" colspan="1">2000</td><td align="center" valign="top" rowspan="1" colspan="1">10,000</td><td align="center" valign="top" rowspan="1" colspan="1">2000</td><td align="center" valign="top" rowspan="1" colspan="1">2980</td><td align="center" valign="top" rowspan="1" colspan="1">1772</td><td align="center" valign="top" rowspan="1" colspan="1">2850</td><td align="center" valign="top" rowspan="1" colspan="1">2300</td><td align="center" valign="top" rowspan="1" colspan="1">159</td><td align="center" valign="top" rowspan="1" colspan="1">2500</td><td align="center" valign="top" rowspan="1" colspan="1">3919</td><td align="center" valign="top" rowspan="1" colspan="1">159</td><td align="center" valign="top" rowspan="1" colspan="1">2000</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Class</td><td align="center" valign="top" rowspan="1" colspan="1">4</td><td align="center" valign="top" rowspan="1" colspan="1">6</td><td align="center" valign="top" rowspan="1" colspan="1">4</td><td align="center" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">4</td><td align="center" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hepatotoxicity</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">A</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Probability (%)</td><td align="center" valign="top" rowspan="1" colspan="1">61</td><td align="center" valign="top" rowspan="1" colspan="1">72</td><td align="center" valign="top" rowspan="1" colspan="1">52</td><td align="center" valign="top" rowspan="1" colspan="1">57</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">81</td><td align="center" valign="top" rowspan="1" colspan="1">69</td><td align="center" valign="top" rowspan="1" colspan="1">54</td><td align="center" valign="top" rowspan="1" colspan="1">68</td><td align="center" valign="top" rowspan="1" colspan="1">69</td><td align="center" valign="top" rowspan="1" colspan="1">65</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Carcinogenicity</td><td align="center" valign="top" rowspan="1" colspan="1">A</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">A</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">A</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">A</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Probability (%)</td><td align="center" valign="top" rowspan="1" colspan="1">56</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">78</td><td align="center" valign="top" rowspan="1" colspan="1">61</td><td align="center" valign="top" rowspan="1" colspan="1">50</td><td align="center" valign="top" rowspan="1" colspan="1">90</td><td align="center" valign="top" rowspan="1" colspan="1">68</td><td align="center" valign="top" rowspan="1" colspan="1">82</td><td align="center" valign="top" rowspan="1" colspan="1">72</td><td align="center" valign="top" rowspan="1" colspan="1">68</td><td align="center" valign="top" rowspan="1" colspan="1">57</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Immunotoxicity</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">A</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">A</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">A</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Probability (%)</td><td align="center" valign="top" rowspan="1" colspan="1">99</td><td align="center" valign="top" rowspan="1" colspan="1">96</td><td align="center" valign="top" rowspan="1" colspan="1">99</td><td align="center" valign="top" rowspan="1" colspan="1">50</td><td align="center" valign="top" rowspan="1" colspan="1">91</td><td align="center" valign="top" rowspan="1" colspan="1">91</td><td align="center" valign="top" rowspan="1" colspan="1">99</td><td align="center" valign="top" rowspan="1" colspan="1">86</td><td align="center" valign="top" rowspan="1" colspan="1">95</td><td align="center" valign="top" rowspan="1" colspan="1">96</td><td align="center" valign="top" rowspan="1" colspan="1">87</td><td align="center" valign="top" rowspan="1" colspan="1">91</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mutagenicity</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">A</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">A</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Probability (%)</td><td align="center" valign="top" rowspan="1" colspan="1">94</td><td align="center" valign="top" rowspan="1" colspan="1">55</td><td align="center" valign="top" rowspan="1" colspan="1">99</td><td align="center" valign="top" rowspan="1" colspan="1">98</td><td align="center" valign="top" rowspan="1" colspan="1">96</td><td align="center" valign="top" rowspan="1" colspan="1">93</td><td align="center" valign="top" rowspan="1" colspan="1">73</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">96</td><td align="center" valign="top" rowspan="1" colspan="1">52</td><td align="center" valign="top" rowspan="1" colspan="1">51</td><td align="center" valign="top" rowspan="1" colspan="1">75</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cytotoxicity</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td><td align="center" valign="top" rowspan="1" colspan="1">Ina</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Probability (%)</td><td align="center" valign="top" rowspan="1" colspan="1">91</td><td align="center" valign="top" rowspan="1" colspan="1">84</td><td align="center" valign="top" rowspan="1" colspan="1">86</td><td align="center" valign="top" rowspan="1" colspan="1">86</td><td align="center" valign="top" rowspan="1" colspan="1">88</td><td align="center" valign="top" rowspan="1" colspan="1">81</td><td align="center" valign="top" rowspan="1" colspan="1">66</td><td align="center" valign="top" rowspan="1" colspan="1">99</td><td align="center" valign="top" rowspan="1" colspan="1">83</td><td align="center" valign="top" rowspan="1" colspan="1">98</td><td align="center" valign="top" rowspan="1" colspan="1">99</td><td align="center" valign="top" rowspan="1" colspan="1">92</td></tr></tbody></table><table-wrap-foot id="fsn372165-ntgp-0007"><fn id="fsn372165-note-0008"><p>Abbreviations: A, Active; GHS, Globally Harmonized System of Classification and Labelling of Chemicals; Ina, Inactive; LD<sub>50</sub>, median lethal dose.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="fsn372165-sec-0031"><label>3.4</label><title>Limitations of the Study</title><p>This study has several limitations. It was limited to four honey samples from specific sites, which may not fully represent the diversity of honeys in the Beni Mellal‐Khenifra region. The botanical origin of the honeys was not confirmed through pollen analysis; instead, monofloral honeys were identified using a controlled field collection strategy, which, while commonly used in beekeeping, may be less precise than microscopic pollen examination. The number of bacterial isolates tested was also limited, which may affect the generalizability of the antibacterial findings. The concentrations of honey tested (25%–75% v/v) are relatively high and may not be achievable in vivo, so the results primarily reflect the antibacterial potential of honey rather than its direct clinical efficacy. Additionally, the in silico analyses presented are hypothesis‐generating and have not been experimentally validated. These limitations highlight the need for further research using physiologically relevant concentrations, larger panels of bacterial isolates, and in vivo models to better assess the therapeutic potential of honey against bacterial pathogens.</p></sec></sec><sec sec-type="conclusions" id="fsn372165-sec-0032"><label>4</label><title>Conclusion</title><p>The results of this study confirm the therapeutic potential of monofloral honeys from the Beni Mellal‐Khenifra region, which are rich in phenolic compounds, both as natural antibacterial agents and as sources of bioactive metabolites with pharmacological interest. These honeys demonstrated marked efficacy against multidrug‐resistant uropathogenic strains. The in silico analyses further reinforced these findings by revealing that specific phenolic compounds, such as catechin, myricetin, kaempferol, and quercetin, exhibit strong binding affinities to key bacterial targets including GyrB, SHV‐1 β‐lactamase, and PBP2a. Moreover, ADME and toxicological profiling identified catechin and 3‐hydroxybenzoic acid as the most promising candidates due to their good absorption, low predicted toxicity, and compatibility with oral administration. These data support the relevance of further research aimed at isolating, purifying, and evaluating these compounds in vivo, with the goal of developing clinically exploitable formulations.</p></sec><sec id="fsn372165-sec-0039"><title>Author Contributions</title><p>
+<bold>Mohammed Al‐Zharani:</bold> funding acquisition, resources, visualization. <bold>Aziz Galman:</bold> software, investigation, data curation, writing – original draft. <bold>Fahd A. Nasr:</bold> funding acquisition, validation, resources, writing – original draft. <bold>Toufik Bouddine:</bold> resources. <bold>Mohamed Reda Kachmar:</bold> methodology, writing – original draft, writing – review and editing. <bold>Rachid Lotfi:</bold> formal analysis, methodology, writing – original draft, writing – review and editing. <bold>Mourad Chikhaoui:</bold> conceptualization, methodology, writing – original draft, formal analysis, software. <bold>Ashraf Ahmed Qurtam:</bold> funding acquisition, validation, resources, writing – original draft, writing – review and editing. <bold>Ahmed Chetoui:</bold> formal analysis, investigation, writing – original draft. <bold>Houda El Hajjouji:</bold> conceptualization, writing – original draft, validation, supervision, writing – review and editing. <bold>Oussama Khibech:</bold> writing – original draft. <bold>Mohamed Bouhrim:</bold> visualization, software, validation, formal analysis, writing – original draft, writing – review and editing, supervision.</p></sec><sec id="fsn372165-sec-0033"><title>Funding</title><p>This work was supported and funded by the Deanship of Scientific Research at Imam Mohammad Ibn Saud Islamic University (IMSIU) (grant number IMSIU‐DDRSP2601).</p></sec><sec sec-type="conclusions" id="fsn372165-sec-0034"><title>Consent</title><p>The authors have nothing to report.</p></sec><sec sec-type="COI-statement" id="fsn372165-sec-0035"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><ack id="fsn372165-sec-0038"><title>Acknowledgments</title><p>This work was supported and funded by the Deanship of Scientific Research at Imam Mohammad Ibn Saud Islamic University (IMSIU) (grant number IMSIU‐DDRSP2601).</p></ack><sec sec-type="data-availability" id="fsn372165-sec-0037"><title>Data Availability Statement</title><p>The data presented in this study are available on request from the corresponding author.</p></sec><ref-list content-type="cited-references" id="fsn372165-bibl-0001"><title>References</title><ref id="fsn372165-bib-0001"><mixed-citation publication-type="journal" id="fsn372165-cit-0001">
+<string-name name-style="western">
+<surname>Aati</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N. M.</given-names>
+<surname>Lithy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. Y.</given-names>
+<surname>Aati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Khanfar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. M.</given-names>
+<surname>Hassan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H. S.</given-names>
+<surname>Bahr</surname>
+</string-name>. <year>2025</year>. “<article-title>Antimicrobial and Anti‐Biofilm Activities of Medicinal Plant‐Derived Honey Against ESKAPE Pathogens: Insights Into β‐Lactamase Inhibition via Metabolomics and Molecular Modeling Studies</article-title>.” <source>PRO</source>
+<volume>13</volume>, no. <issue>5</issue>: <elocation-id>1294</elocation-id>.</mixed-citation></ref><ref id="fsn372165-bib-0002"><mixed-citation publication-type="journal" id="fsn372165-cit-0002">
+<string-name name-style="western">
+<surname>Abraham</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Murtola</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Schulz</surname>
+</string-name>, et al. <year>2015</year>. “<article-title>GROMACS: High Performance Molecular Simulations Through Multi‐Level Parallelism From Laptops to Supercomputers</article-title>.” <source>SoftwareX</source>
+<volume>1</volume>: <fpage>19</fpage>–<lpage>25</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0003"><mixed-citation publication-type="journal" id="fsn372165-cit-0003">
+<string-name name-style="western">
+<surname>Afrin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Giampieri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gasparrini</surname>
+</string-name>, et al. <year>2018</year>. “<article-title>The Inhibitory Effect of Manuka Honey on Human Colon Cancer HCT‐116 and LoVo Cell Growth. Part 1: The Suppression of Cell Proliferation, Promotion of Apoptosis and Arrest of the Cell Cycle</article-title>.” <source>Food &amp; Function</source>
+<volume>9</volume>, no. <issue>4</issue>: <fpage>2145</fpage>–<lpage>2157</lpage>.<pub-id pub-id-type="pmid">29645049</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1039/c8fo00164b</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0004"><mixed-citation publication-type="journal" id="fsn372165-cit-0004">
+<string-name name-style="western">
+<surname>Agbabiaka</surname>, <given-names>T. O.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>O. J.</given-names>
+<surname>Awelogun</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F. O.</given-names>
+<surname>Otuyelu</surname>
+</string-name>. <year>2020</year>. “<article-title>Antibacterial Activity of Honey (<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Apis mellifera</italic>
+</styled-content>) on <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Pseudomonas aeruginosa</italic>
+</styled-content>, Klebsiella Pneumonia and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Escherichia coli</italic>
+</styled-content> Isolated From Wastewater</article-title>.” <source>Ceylon Journal of Science</source>
+<volume>49</volume>, no. <issue>4</issue>: <fpage>471</fpage>–<lpage>476</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0005"><mixed-citation publication-type="journal" id="fsn372165-cit-0005">
+<string-name name-style="western">
+<surname>Aljaghwani</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K. S.</given-names>
+<surname>Allemailem</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. F.</given-names>
+<surname>Aljaghwani</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>Antimicrobial Effect of Different Types of Honey on Selected ATCC Bacterial Strains</article-title>.” <source>Pharmacognosy Journal</source>
+<volume>13</volume>, no. <issue>1</issue>: <elocation-id>217</elocation-id>.</mixed-citation></ref><ref id="fsn372165-bib-0006"><mixed-citation publication-type="journal" id="fsn372165-cit-0006">
+<string-name name-style="western">
+<surname>Alvarez‐Suarez</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Giampieri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Cordero</surname>
+</string-name>, et al. <year>2016</year>. “<article-title>Activation of AMPK/Nrf2 Signalling by Manuka Honey Protects Human Dermal Fibroblasts Against Oxidative Damage by Improving Antioxidant Response and Mitochondrial Function Promoting Wound Healing</article-title>.” <source>Journal of Functional Foods</source>
+<volume>25</volume>: <fpage>38</fpage>–<lpage>49</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0007"><mixed-citation publication-type="journal" id="fsn372165-cit-0007">
+<string-name name-style="western">
+<surname>Amessis‐Ouchemoukh</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ouchemoukh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Meziant</surname>
+</string-name>, et al. <year>2017</year>. “<article-title>Bioactive Metabolites Involved in the Antioxidant, Anticancer and Anticalpain Activities of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Ficus carica</italic>
+</styled-content> L., Ceratonia Siliqua L. and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Quercus ilex</italic>
+</styled-content> L. Extracts</article-title>.” <source>Industrial Crops and Products</source>
+<volume>95</volume>: <fpage>6</fpage>–<lpage>17</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0008"><mixed-citation publication-type="book" id="fsn372165-cit-0008">
+<string-name name-style="western">
+<surname>Ballot‐Flurin</surname>, <given-names>C.</given-names>
+</string-name>
+<year>2013</year>. <source>L'apithérapie. Bienfaits des produits de la ruche</source>, <fpage>152</fpage>. <publisher-name>Ed. Eyrolles</publisher-name>.</mixed-citation></ref><ref id="fsn372165-bib-0009"><mixed-citation publication-type="journal" id="fsn372165-cit-0009">
+<string-name name-style="western">
+<surname>Banerjee</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Kemmler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Dunkel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Preissner</surname>
+</string-name>. <year>2024</year>. “<article-title>ProTox 3.0: A Webserver for the Prediction of Toxicity of Chemicals</article-title>.” <source>Nucleic Acids Research</source>
+<volume>52</volume>, no. <issue>W1</issue>: <fpage>W513</fpage>–<lpage>W520</lpage>.<pub-id pub-id-type="pmid">38647086</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkae303</pub-id><pub-id pub-id-type="pmcid">PMC11223834</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0010"><mixed-citation publication-type="journal" id="fsn372165-cit-0010">
+<string-name name-style="western">
+<surname>Belhaj</surname>, <given-names>O.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>El Abbadi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Ouchbani</surname>
+</string-name>. <year>2016</year>. “<article-title>Contribution à l'étude de l'activité antibactérienne du miel naturel d'origine marocaine</article-title>.” <source>Revue Marocaine Des Sciences Agronomiques et Vétérinaires</source>
+<volume>4</volume>, no. <issue>3</issue>: <fpage>12</fpage>–<lpage>22</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0011"><mixed-citation publication-type="journal" id="fsn372165-cit-0011">
+<string-name name-style="western">
+<surname>Bertholom</surname>, <given-names>C.</given-names>
+</string-name>
+<year>2016</year>. “<article-title>Épidémiologie des infections urinaires communautaires et nosocomiales</article-title>.” <source>Option/Bio</source>
+<volume>27</volume>, no. <issue>541–542</issue>: <fpage>23</fpage>–<lpage>24</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0012"><mixed-citation publication-type="journal" id="fsn372165-cit-0012">
+<string-name name-style="western">
+<surname>Bogdanov</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Blumer</surname>
+</string-name>. <year>2001</year>. “<article-title>Propriétés antibiotiques naturelles du miel</article-title>.” <source>Revue Suisse d'Agriculture</source>
+<volume>5</volume>: <fpage>219</fpage>–<lpage>222</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0013"><mixed-citation publication-type="journal" id="fsn372165-cit-0013">
+<string-name name-style="western">
+<surname>Brudzynski</surname>, <given-names>K.</given-names>
+</string-name>
+<year>2006</year>. “<article-title>Effect of Hydrogen Peroxide on Antibacterial Activities of Canadian Honeys</article-title>.” <source>Canadian Journal of Microbiology</source>
+<volume>52</volume>, no. <issue>12</issue>: <fpage>1228</fpage>–<lpage>1237</lpage>.<pub-id pub-id-type="pmid">17473892</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1139/w06-086</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0014"><mixed-citation publication-type="journal" id="fsn372165-cit-0014">
+<string-name name-style="western">
+<surname>Bucekova</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Jardekova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Juricova</surname>
+</string-name>, et al. <year>2019</year>. “<article-title>Antibacterial Activity of Different Blossom Honeys: New Findings</article-title>.” <source>Molecules</source>
+<volume>24</volume>, no. <issue>8</issue>: <elocation-id>1573</elocation-id>.<pub-id pub-id-type="pmid">31010070</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/molecules24081573</pub-id><pub-id pub-id-type="pmcid">PMC6514785</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0015"><mixed-citation publication-type="journal" id="fsn372165-cit-0015">
+<string-name name-style="western">
+<surname>Carle</surname>, <given-names>S.</given-names>
+</string-name>
+<year>2009</year>. “<article-title>La résistance aux antibiotiques: un enjeu de santé publique important</article-title>.” <source>Pharmactuel</source>
+<volume>42</volume>, no. <issue>2</issue>: <fpage>6</fpage>–<lpage>21</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0016"><mixed-citation publication-type="journal" id="fsn372165-cit-0016">
+<string-name name-style="western">
+<surname>Cheng</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>He</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Cao</surname>
+</string-name>. <year>2019</year>. “<article-title>Jujube Honey Induces Apoptosis in Human Hepatocellular Carcinoma HepG2 Cell via DNA Damage, p53 Expression, and Caspase Activation</article-title>.” <source>Journal of Food Biochemistry</source>
+<volume>43</volume>, no. <issue>11</issue>: <elocation-id>e12998</elocation-id>.<pub-id pub-id-type="pmid">31373040</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jfbc.12998</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0017"><mixed-citation publication-type="journal" id="fsn372165-cit-0017">
+<string-name name-style="western">
+<surname>Chikhaoui</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Lotfi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ouaamr</surname>
+</string-name>, et al. <year>2023</year>. “<article-title>Therapeutic Uses of Honey by the Population of Beni Mellal‐Khenifra Region in Morocco</article-title>.” <source>Chinese Journal of Otorhinolaryngology Head and Neck Surgery</source>
+<volume>54</volume>: <fpage>1285</fpage>–<lpage>1295</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0018"><mixed-citation publication-type="journal" id="fsn372165-cit-0018">
+<string-name name-style="western">
+<surname>Cilia</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Fratini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Marchi</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>Antibacterial Activity of Honey Samples From Ukraine</article-title>.” <source>Veterinary Sciences</source>
+<volume>7</volume>, no. <issue>4</issue>: <elocation-id>181</elocation-id>.<pub-id pub-id-type="pmid">33233581</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/vetsci7040181</pub-id><pub-id pub-id-type="pmcid">PMC7712053</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0019"><mixed-citation publication-type="journal" id="fsn372165-cit-0019">
+<string-name name-style="western">
+<surname>Ciocarlan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Lungu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Shova</surname>
+</string-name>, et al. <year>2024</year>. “<article-title>Synthesis of Antimicrobial Norlabdane Compounds With Rearranged Cycle B and Molecular Docking Studies</article-title>.” <source>Molecules</source>
+<volume>29</volume>, no. <issue>23</issue>: <elocation-id>5714</elocation-id>.<pub-id pub-id-type="pmid">39683873</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/molecules29235714</pub-id><pub-id pub-id-type="pmcid">PMC11643738</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0020"><mixed-citation publication-type="journal" id="fsn372165-cit-0020">
+<string-name name-style="western">
+<surname>Cucu</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G. M.</given-names>
+<surname>Baci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. R.</given-names>
+<surname>Moise</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>Towards a Better Understanding of Nutritional and Therapeutic Effects of Honey and Their Applications in Apitherapy</article-title>.” <source>Applied Sciences</source>
+<volume>11</volume>, no. <issue>9</issue>: <elocation-id>4190</elocation-id>.</mixed-citation></ref><ref id="fsn372165-bib-0021"><mixed-citation publication-type="book" id="fsn372165-cit-0021">
+<string-name name-style="western">
+<surname>Dai</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y. H.</given-names>
+<surname>Choi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Verpoorte</surname>
+</string-name>. <year>2021</year>. “<part-title>Honey in Traditional Chinese Medicine: A Guide to Future Applications of NADES to Medicines</part-title>.” In <source>Advances in Botanical Research</source>, vol. <volume>97</volume>, <fpage>361</fpage>–<lpage>384</lpage>. <publisher-name>Academic press</publisher-name>.</mixed-citation></ref><ref id="fsn372165-bib-0022"><mixed-citation publication-type="journal" id="fsn372165-cit-0022">
+<string-name name-style="western">
+<surname>Daina</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Michielin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Zoete</surname>
+</string-name>. <year>2017</year>. “<article-title>SwissADME: A Free Web Tool to Evaluate Pharmacokinetics, Drug‐Likeness and Medicinal Chemistry Friendliness of Small Molecules</article-title>.” <source>Scientific Reports</source>
+<volume>7</volume>, no. <issue>1</issue>: <elocation-id>42717</elocation-id>.<pub-id pub-id-type="pmid">28256516</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/srep42717</pub-id><pub-id pub-id-type="pmcid">PMC5335600</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0023"><mixed-citation publication-type="journal" id="fsn372165-cit-0023">
+<string-name name-style="western">
+<surname>Daina</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Zoete</surname>
+</string-name>. <year>2016</year>. “<article-title>A Boiled‐Egg to Predict Gastrointestinal Absorption and Brain Penetration of Small Molecules</article-title>.” <source>ChemMedChem</source>
+<volume>11</volume>, no. <issue>11</issue>: <fpage>1117</fpage>–<lpage>1121</lpage>.<pub-id pub-id-type="pmid">27218427</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cmdc.201600182</pub-id><pub-id pub-id-type="pmcid">PMC5089604</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0024"><mixed-citation publication-type="journal" id="fsn372165-cit-0024">
+<string-name name-style="western">
+<surname>Dellit</surname>, <given-names>T. H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R. C.</given-names>
+<surname>Owens</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>McGowan</surname>
+</string-name>, et al. <year>2007</year>. “<article-title>Infectious Diseases Society of America and the Society for Healthcare Epidemiology of America Guidelines for Developing an Institutional Program to Enhance Antimicrobial Stewardship</article-title>.” <source>Clinical Infectious Diseases</source>
+<volume>44</volume>, no. <issue>2</issue>: <fpage>159</fpage>–<lpage>177</lpage>.<pub-id pub-id-type="pmid">17173212</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1086/510393</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0025"><mixed-citation publication-type="journal" id="fsn372165-cit-0025">
+<string-name name-style="western">
+<surname>Dżugan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Grabek‐Lejko</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Swacha</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Tomczyk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Bednarska</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Kapusta</surname>
+</string-name>. <year>2020</year>. “<article-title>Physicochemical Quality Parameters, Antibacterial Properties and Cellular Antioxidant Activity of Polish Buckwheat Honey</article-title>.” <source>Food Bioscience</source>
+<volume>34</volume>: <elocation-id>100538</elocation-id>.</mixed-citation></ref><ref id="fsn372165-bib-0026"><mixed-citation publication-type="journal" id="fsn372165-cit-0026">
+<string-name name-style="western">
+<surname>Elbanna</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Attalla</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Elbadry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Abdeltawab</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Gamal‐Eldin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. F.</given-names>
+<surname>Ramadan</surname>
+</string-name>. <year>2014</year>. “<article-title>Impact of Floral Sources and Processing on the Antimicrobial Activities of Different Unifloral Honeys</article-title>.” <source>Asian Pacific Journal of Tropical Disease</source>
+<volume>4</volume>, no. <issue>3</issue>: <fpage>194</fpage>–<lpage>200</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0027"><mixed-citation publication-type="journal" id="fsn372165-cit-0027">
+<string-name name-style="western">
+<surname>Farhana</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Khan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sultan</surname>
+</string-name>, et al. <year>2023</year>. “<article-title>The Antibacterial Efficacy of Raw and Sidr Honey Against Antibiotic Resistant Pathogenic Bacterial Strains</article-title>.” <source>Pure and Applied Biology (PAB)</source>
+<volume>12</volume>, no. <issue>3</issue>: <fpage>1463</fpage>–<lpage>1472</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0028"><mixed-citation publication-type="journal" id="fsn372165-cit-0028">
+<string-name name-style="western">
+<surname>Fritsche</surname>, <given-names>T. R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P. F.</given-names>
+<surname>McDermott</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. R.</given-names>
+<surname>Shryock</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. D.</given-names>
+<surname>Walker</surname>
+</string-name>. <year>2007</year>. “<article-title>Agar Dilution and Disk Diffusion Susceptibility Testing of Campylobacter spp</article-title>.” <source>Journal of Clinical Microbiology</source>
+<volume>45</volume>, no. <issue>8</issue>: <fpage>2758</fpage>–<lpage>2759</lpage>.<pub-id pub-id-type="pmid">17675457</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/JCM.00569-07</pub-id><pub-id pub-id-type="pmcid">PMC1951225</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0029"><mixed-citation publication-type="journal" id="fsn372165-cit-0029">
+<string-name name-style="western">
+<surname>Fu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yi</surname>
+</string-name>, et al. <year>2024</year>. “<article-title>ADMETlab 3.0: An Updated Comprehensive Online ADMET Prediction Platform Enhanced With Broader Coverage, Improved Performance, API Functionality and Decision Support</article-title>.” <source>Nucleic Acids Research</source>
+<volume>52</volume>, no. <issue>W1</issue>: <fpage>W422</fpage>–<lpage>W431</lpage>.<pub-id pub-id-type="pmid">38572755</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkae236</pub-id><pub-id pub-id-type="pmcid">PMC11223840</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0030"><mixed-citation publication-type="journal" id="fsn372165-cit-0030">
+<string-name name-style="western">
+<surname>Güneş</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Şahin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Demir</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Borum</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Tosunoğlu</surname>
+</string-name>. <year>2017</year>. “<article-title>Determination of Phenolic Compounds Profile in Chestnut and Floral Honeys and Their Antioxidant and Antimicrobial Activities</article-title>.” <source>Journal of Food Biochemistry</source>
+<volume>41</volume>, no. <issue>3</issue>: <elocation-id>e12345</elocation-id>.</mixed-citation></ref><ref id="fsn372165-bib-0031"><mixed-citation publication-type="journal" id="fsn372165-cit-0031">
+<string-name name-style="western">
+<surname>Haderbache</surname>, <given-names>L.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mohammedi</surname>
+</string-name>. <year>2015</year>. “<article-title>Honey Consumption Behaviors in Algeria: Survey and Expectations</article-title>.” <source>Agriculture</source>
+<volume>6</volume>, no. <issue>1</issue>: <fpage>19</fpage>–<lpage>24</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0032"><mixed-citation publication-type="journal" id="fsn372165-cit-0032">
+<string-name name-style="western">
+<surname>Hamami</surname>, <given-names>S. M. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Fai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. F.</given-names>
+<surname>Aththar</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>Nano Transdermal Delivery Potential of Fucoidan From Sargassum sp.(Brown Algae) as Chemoprevention Agent for Breast Cancer Treatment</article-title>.” <source>Pharmacognosy Journal</source>
+<volume>14</volume>, no. <issue>6</issue>: <fpage>789</fpage>–<lpage>795</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0033"><mixed-citation publication-type="miscellaneous" id="fsn372165-cit-0033">
+<collab collab-type="authors">HCP</collab>
+. <year>2017</year>. <article-title>“Projections de la Population Des régions et Des Provinces 2014–2030”</article-title>.</mixed-citation></ref><ref id="fsn372165-bib-0034"><mixed-citation publication-type="journal" id="fsn372165-cit-0034">
+<string-name name-style="western">
+<surname>Hegazi</surname>, <given-names>A. G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F. M.</given-names>
+<surname>Al Guthami</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. F. M.</given-names>
+<surname>Al Gethami</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. M.</given-names>
+<surname>Abd Allah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>Saleh</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Fouad</surname>
+</string-name>. <year>2017</year>. “<article-title>Potential Antibacterial Activity of Some Saudi Arabia Honey</article-title>.” <source>Veterinary World</source>
+<volume>10</volume>, no. <issue>2</issue>: <fpage>233</fpage>–<lpage>237</lpage>.<pub-id pub-id-type="pmid">28344408</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.14202/vetworld.2017.233-237</pub-id><pub-id pub-id-type="pmcid">PMC5352850</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0035"><mixed-citation publication-type="journal" id="fsn372165-cit-0035">
+<string-name name-style="western">
+<surname>Hellner</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Winter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>von Georgi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Münstedt</surname>
+</string-name>. <year>2008</year>. “<article-title>Apitherapy: Usage and Experience in German Beekeepers</article-title>.” <source>Evidence‐based Complementary and Alternative Medicine</source>
+<volume>5</volume>, no. <issue>4</issue>: <fpage>475</fpage>–<lpage>479</lpage>.<pub-id pub-id-type="pmid">18955222</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ecam/nem052</pub-id><pub-id pub-id-type="pmcid">PMC2586305</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0036"><mixed-citation publication-type="journal" id="fsn372165-cit-0036">
+<string-name name-style="western">
+<surname>Hussein</surname>, <given-names>M. H.</given-names>
+</string-name>
+<year>2000</year>. “<article-title>A Review of Beekeeping in Arab Countries</article-title>.” <source>Bee World</source>
+<volume>81</volume>: <fpage>56</fpage>–<lpage>71</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0037"><mixed-citation publication-type="journal" id="fsn372165-cit-0037">
+<string-name name-style="western">
+<surname>Isa</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Sa'id</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>O. J.</given-names>
+<surname>Adaora</surname>
+</string-name>. <year>2020</year>. “<article-title>Evaluation of Antibacterial Activity of Different Honey Samples on <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content>, Klebsilla Pneumoniae and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Escherichia coli</italic>
+</styled-content> Isolated From Wounds</article-title>.” <source>Science</source>
+<volume>5</volume>, no. <issue>1</issue>: <fpage>107</fpage>–<lpage>111</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0038"><mixed-citation publication-type="journal" id="fsn372165-cit-0038">
+<string-name name-style="western">
+<surname>Jibril</surname>, <given-names>F. I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. B. M.</given-names>
+<surname>Hilmi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Manivannan</surname>
+</string-name>. <year>2019</year>. “<article-title>Isolation and Characterization of Polyphenols in Natural Honey for the Treatment of Human Diseases</article-title>.” <source>Bulletin of the National Research Centre</source>
+<volume>43</volume>: <fpage>1</fpage>–<lpage>9</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0039"><mixed-citation publication-type="journal" id="fsn372165-cit-0039">
+<string-name name-style="western">
+<surname>Johnston</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>McBride</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Dahiya</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Owusu‐Apenten</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. S.</given-names>
+<surname>Nigam</surname>
+</string-name>. <year>2018</year>. “<article-title>Antibacterial Activity of Manuka Honey and Its Components: An Overview</article-title>.” <source>AIMS Microbiology</source>
+<volume>4</volume>, no. <issue>4</issue>: <fpage>655</fpage>–<lpage>664</lpage>.<pub-id pub-id-type="pmid">31294240</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3934/microbiol.2018.4.655</pub-id><pub-id pub-id-type="pmcid">PMC6613335</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0040"><mixed-citation publication-type="journal" id="fsn372165-cit-0040">
+<string-name name-style="western">
+<surname>Kachmar</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Bouddine</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ed‐Dra</surname>
+</string-name>, et al. <year>2025</year>. “<article-title>Biological Potential and Chemical Characterization of</article-title>.” <source>Phyton</source>
+<volume>94</volume>, no. <issue>3</issue>: <fpage>657</fpage>.</mixed-citation></ref><ref id="fsn372165-bib-0041"><mixed-citation publication-type="journal" id="fsn372165-cit-0041">
+<string-name name-style="western">
+<surname>Kaškonienė</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Maruška</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Kornyšova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Charczun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ligor</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Buszewski</surname>
+</string-name>. <year>2009</year>. “<article-title>Quantitative and Qualitative Determination of Phenolic Compounds in Honey</article-title>.” <source>Cheminė Technologija</source>
+<volume>52</volume>, no. <issue>3</issue>: <fpage>74</fpage>–<lpage>80</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0042"><mixed-citation publication-type="journal" id="fsn372165-cit-0042">
+<string-name name-style="western">
+<surname>Kassym</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kussainova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Semenova</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>McLoone</surname>
+</string-name>. <year>2024</year>. “<article-title>Antimicrobial Effect of Honey Phenolic Compounds Against <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content> ‐ An in Vitro Study</article-title>.” <source>Pharmaceuticals</source>
+<volume>17</volume>, no. <issue>5</issue>: <elocation-id>560</elocation-id>.<pub-id pub-id-type="pmid">38794130</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ph17050560</pub-id><pub-id pub-id-type="pmcid">PMC11123796</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0044"><mixed-citation publication-type="journal" id="fsn372165-cit-0044">
+<string-name name-style="western">
+<surname>Majtan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sojka</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Palenikova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bucekova</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Majtan</surname>
+</string-name>. <year>2020</year>. “<article-title>Vitamin C Enhances the Antibacterial Activity of Honey Against Planktonic and Biofilm‐Embedded Bacteria</article-title>.” <source>Molecules</source>
+<volume>25</volume>, no. <issue>4</issue>: <elocation-id>992</elocation-id>.<pub-id pub-id-type="pmid">32102181</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/molecules25040992</pub-id><pub-id pub-id-type="pmcid">PMC7070301</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0045"><mixed-citation publication-type="journal" id="fsn372165-cit-0045">
+<string-name name-style="western">
+<surname>Mama</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Teshome</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Detamo</surname>
+</string-name>. <year>2019</year>. “<article-title>Antibacterial Activity of Honey Against Methicillin‐Resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content>: A Laboratory‐Based Experimental Study</article-title>.” <source>International Journal of Microbiology</source>
+<volume>2019</volume>: <elocation-id>7686130</elocation-id>.<pub-id pub-id-type="pmid">31073310</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2019/7686130</pub-id><pub-id pub-id-type="pmcid">PMC6470442</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0046"><mixed-citation publication-type="journal" id="fsn372165-cit-0046">
+<string-name name-style="western">
+<surname>McLoone</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Tabys</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Fyfe</surname>
+</string-name>. <year>2020</year>. “<article-title>Honey Combination Therapies for Skin and Wound Infections: A Systematic Review of the Literature</article-title>.” <source>Clinical, Cosmetic and Investigational Dermatology</source>
+<volume>13</volume>: <fpage>875</fpage>–<lpage>888</lpage>.<pub-id pub-id-type="pmid">33262630</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/CCID.S282143</pub-id><pub-id pub-id-type="pmcid">PMC7700082</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0047"><mixed-citation publication-type="journal" id="fsn372165-cit-0047">
+<string-name name-style="western">
+<surname>Mellor</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R. H.</given-names>
+<surname>Ritchie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Meredith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O. L.</given-names>
+<surname>Woodman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Morris</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Delbridge</surname>
+</string-name>. <year>2010</year>. “<article-title>High‐Fructose Diet Elevates Myocardial Superoxide Generation in Mice in the Absence of Cardiac Hypertrophy</article-title>.” <source>Nutrition</source>
+<volume>26</volume>, no. <issue>7–8</issue>: <fpage>842</fpage>–<lpage>848</lpage>.<pub-id pub-id-type="pmid">19932004</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.nut.2009.08.017</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0048"><mixed-citation publication-type="journal" id="fsn372165-cit-0048">
+<string-name name-style="western">
+<surname>Miguel</surname>, <given-names>M. G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Nunes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Dandlen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Cavaco</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. D.</given-names>
+<surname>Antunes</surname>
+</string-name>. <year>2010</year>. “<article-title>Phenols and Antioxidant Activity of Hydro‐Alcoholic Extracts of Propolis From Algarve, South of Portugal</article-title>.” <source>Food and Chemical Toxicology</source>
+<volume>48</volume>, no. <issue>12</issue>: <fpage>3418</fpage>–<lpage>3423</lpage>.<pub-id pub-id-type="pmid">20849908</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.fct.2010.09.014</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0049"><mixed-citation publication-type="journal" id="fsn372165-cit-0049">
+<string-name name-style="western">
+<surname>Moniruzzaman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Yung An</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. V.</given-names>
+<surname>Rao</surname>
+</string-name>, et al. <year>2014</year>. “<article-title>Identification of Phenolic Acids and Flavonoids in Monofloral Honey From Bangladesh by High Performance Liquid Chromatography: Determination of Antioxidant Capacity</article-title>.” <source>BioMed Research International</source>
+<volume>2014</volume>, no. <issue>1</issue>: <elocation-id>737490</elocation-id>.<pub-id pub-id-type="pmid">25045696</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2014/737490</pub-id><pub-id pub-id-type="pmcid">PMC4090494</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0050"><mixed-citation publication-type="journal" id="fsn372165-cit-0050">
+<string-name name-style="western">
+<surname>Montenegro</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Salas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Peña</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Pizarro</surname>
+</string-name>. <year>2009</year>. “<article-title>Antibacterial and Antifungic Activity of the Unifloral Honeys of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Quillaja saponaria</italic>
+</styled-content>, an Endemic Chilean Species</article-title>.” <source>Phyton</source>
+<volume>78</volume>, no. <issue>1</issue>: <fpage>141</fpage>–<lpage>146</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0051"><mixed-citation publication-type="journal" id="fsn372165-cit-0051">
+<string-name name-style="western">
+<surname>Moujanni</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Essamadi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Terrab Benjelloun</surname>
+</string-name>. <year>2017</year>. “<article-title>L'apiculture au Maroc: Focus sur la Production de miel</article-title>.” <source>International Journal of Innovation and Applied Studies</source>
+<volume>20</volume>: <fpage>52</fpage>–<lpage>78</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0052"><mixed-citation publication-type="journal" id="fsn372165-cit-0052">
+<string-name name-style="western">
+<surname>Murugan</surname>, <given-names>T.</given-names>
+</string-name>
+<year>2012</year>. “<article-title>Anti‐Bacterial Activity of Honey Against Antibiotic Resistance Induced Wound Pathogens</article-title>.” <source>Journal of Pharmacy Research</source>
+<volume>5</volume>, no. <issue>4</issue>: <fpage>2352</fpage>–<lpage>2354</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0053"><mixed-citation publication-type="journal" id="fsn372165-cit-0053">
+<string-name name-style="western">
+<surname>Mustafa</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Iqbal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Javid</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>Antibacterial Properties of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Apis dorsata</italic>
+</styled-content> Honey Against Some Bacterial Pathogens</article-title>.” <source>Saudi Journal of Biological Sciences</source>
+<volume>29</volume>, no. <issue>2</issue>: <fpage>730</fpage>–<lpage>734</lpage>.<pub-id pub-id-type="pmid">35197738</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.sjbs.2021.09.059</pub-id><pub-id pub-id-type="pmcid">PMC8847928</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0054"><mixed-citation publication-type="journal" id="fsn372165-cit-0054">
+<string-name name-style="western">
+<surname>Owayss</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Elbanna</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Iqbal</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>In Vitro Antimicrobial Activities of Saudi Honeys Originating From Ziziphus Spina‐Christi L. and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Acacia gerrardii</italic>
+</styled-content> Benth. Trees</article-title>.” <source>Food Science &amp; Nutrition</source>
+<volume>8</volume>, no. <issue>1</issue>: <fpage>390</fpage>–<lpage>401</lpage>.<pub-id pub-id-type="pmid">31993165</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/fsn3.1320</pub-id><pub-id pub-id-type="pmcid">PMC6977423</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0055"><mixed-citation publication-type="journal" id="fsn372165-cit-0055">
+<string-name name-style="western">
+<surname>Peternelj</surname>, <given-names>T. T.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Coombes</surname>
+</string-name>. <year>2011</year>. “<article-title>Antioxidant Supplementation During Exercise Training: Beneficial or Detrimental?</article-title>” <source>Sports Medicine</source>
+<volume>41</volume>, no. <issue>12</issue>: <fpage>1043</fpage>–<lpage>1069</lpage>.<pub-id pub-id-type="pmid">22060178</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2165/11594400-000000000-00000</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0056"><mixed-citation publication-type="journal" id="fsn372165-cit-0056">
+<string-name name-style="western">
+<surname>Pichichero</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Cicconi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Mattei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. G.</given-names>
+<surname>Muzi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Canini</surname>
+</string-name>. <year>2010</year>. “<article-title>Acacia Honey and Chrysin Reduce Proliferation of Melanoma Cells Through Alterations in Cell Cycle Progression</article-title>.” <source>International Journal of Oncology</source>
+<volume>37</volume>, no. <issue>4</issue>: <fpage>973</fpage>–<lpage>981</lpage>.<pub-id pub-id-type="pmid">20811719</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ijo_00000748</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0057"><mixed-citation publication-type="journal" id="fsn372165-cit-0057">
+<string-name name-style="western">
+<surname>Premratanachai</surname>, <given-names>P.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Chanchao</surname>
+</string-name>. <year>2014</year>. “<article-title>Review of the Anticancer Activities of Bee Products</article-title>.” <source>Asian Pacific Journal of Tropical Biomedicine</source>
+<volume>4</volume>, no. <issue>5</issue>: <fpage>337</fpage>–<lpage>344</lpage>.<pub-id pub-id-type="pmid">25182716</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.12980/APJTB.4.2014C1262</pub-id><pub-id pub-id-type="pmcid">PMC3985046</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0058"><mixed-citation publication-type="journal" id="fsn372165-cit-0058">
+<string-name name-style="western">
+<surname>Pyrzynska</surname>, <given-names>K.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Biesaga</surname>
+</string-name>. <year>2009</year>. “<article-title>Analysis of Phenolic Acids and Flavonoids in Honey</article-title>.” <source>TrAC Trends in Analytical Chemistry</source>
+<volume>28</volume>, no. <issue>7</issue>: <fpage>893</fpage>–<lpage>902</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0059"><mixed-citation publication-type="journal" id="fsn372165-cit-0059">
+<string-name name-style="western">
+<surname>Ramadhan</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Forestryana</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. I.</given-names>
+<surname>Sayakti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Riyad</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Restapaty</surname>
+</string-name>. <year>2023</year>. “<article-title>In‐Silico Study of Antioxidant‐Anticancer Activity of Phenolic and Flavonoid Compounds of Mangifera Species Using Molecular Docking PLANTs: Bahasa Indonesia</article-title>.” <source>Jurnal Ilmiah Farmasi</source>: <fpage>8</fpage>–<lpage>22</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0060"><mixed-citation publication-type="journal" id="fsn372165-cit-0060">
+<string-name name-style="western">
+<surname>Samarghandian</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Afshari</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Davoodi</surname>
+</string-name>. <year>2011</year>. “<article-title>Chrysin Reduces Proliferation and Induces Apoptosis in the Human Prostate Cancer Cell Line Pc‐3</article-title>.” <source>Clinics</source>
+<volume>66</volume>, no. <issue>6</issue>: <fpage>1073</fpage>–<lpage>1079</lpage>.<pub-id pub-id-type="pmid">21808878</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1590/S1807-59322011000600026</pub-id><pub-id pub-id-type="pmcid">PMC3129972</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0061"><mixed-citation publication-type="journal" id="fsn372165-cit-0061">
+<string-name name-style="western">
+<surname>Shahsuvaryan</surname>, <given-names>M. L.</given-names>
+</string-name>
+<year>2016</year>. “<article-title>Apitherapy Targets (With Honey) in the External Eye Diseases</article-title>.” <source>Vitrectomy for Vitreous Hemorrhage in Diabetic Eye Disease</source>
+<volume>14</volume>, no. <issue>2</issue>: <fpage>48</fpage>.</mixed-citation></ref><ref id="fsn372165-bib-0062"><mixed-citation publication-type="journal" id="fsn372165-cit-0062">
+<string-name name-style="western">
+<surname>Thiolet</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Lacavé</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Tronel</surname>
+</string-name>, et al. <year>2007</year>. “<article-title>Enquête nationale de prévalence des infections nosocomiales</article-title>.” <source>Bulletin Epidémiologique Hebdomadaire</source>
+<volume>51</volume>, no. <issue>52</issue>: <fpage>429</fpage>–<lpage>432</lpage>.</mixed-citation></ref><ref id="fsn372165-bib-0063"><mixed-citation publication-type="journal" id="fsn372165-cit-0063">
+<string-name name-style="western">
+<surname>Trott</surname>, <given-names>O.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Olson</surname>
+</string-name>. <year>2010</year>. “<article-title>AutoDock Vina: Improving the Speed and Accuracy of Docking With a New Scoring Function, Efficient Optimization, and Multithreading</article-title>.” <source>Journal of Computational Chemistry</source>
+<volume>31</volume>, no. <issue>2</issue>: <fpage>455</fpage>–<lpage>461</lpage>.<pub-id pub-id-type="pmid">19499576</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcc.21334</pub-id><pub-id pub-id-type="pmcid">PMC3041641</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0064"><mixed-citation publication-type="journal" id="fsn372165-cit-0064">
+<string-name name-style="western">
+<surname>Zhydzetski</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Głowacka‐Grzyb</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bukowski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Żądło</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Bonar</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Władyka</surname>
+</string-name>. <year>2024</year>. “<article-title>Agents Targeting the Bacterial Cell Wall as Tools to Combat Gram‐Positive Pathogens</article-title>.” <source>Molecules</source>
+<volume>29</volume>, no. <issue>17</issue>: <elocation-id>4065</elocation-id>.<pub-id pub-id-type="pmid">39274911</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/molecules29174065</pub-id><pub-id pub-id-type="pmcid">PMC11396672</pub-id></mixed-citation></ref><ref id="fsn372165-bib-0065"><mixed-citation publication-type="journal" id="fsn372165-cit-0065">
+<string-name name-style="western">
+<surname>Živić</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Milošević</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Dekić</surname>
+</string-name>, et al. <year>2019</year>. “<article-title>Phytochemical and Antioxidant Screening of Some Extracts of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Juniperus communis</italic>
+</styled-content> L. and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Juniperus oxycedrus</italic>
+</styled-content> L</article-title>.” <source>Czech Journal of Food Sciences</source>
+<volume>37</volume>, no. <issue>5</issue>: <fpage>351</fpage>–<lpage>358</lpage>.</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,16 @@
+Bee-Made Product,Microorganisms,Linear Regression,R2,x2 Square Test (p ≤ 0.05),Upper Range of Quantification
+Apitoxin–royal-jelly-based anti-aging creams,S. aureus,y = −2.3189x + 20.952,0.9225,p = 0.00,3.9 × 102
+E. coli,y = −1.7331x + 13.046,0.9485,p = 0.00,4.0 × 102,
+P. aeruginosa,y = −2.6517x + 17.735,0.9343,p = 0.00,2.9 × 102,
+C. albicans,y = −6.1878x + 37.049,0.9319,p = 0.00,3.0 × 102,
+A. brasiliensis,y = −0.1605x + 7.5561,0.9692,p = 0.00,3.5 × 103,
+Propolis–honey-based toothpaste,S. aureus,y = −2.7201x + 18.76,0.9136,p = 0.00,2.8 × 102
+E. coli,y = −1.7514x + 11.9,0.9174,p = 0.00,2.9 × 102,
+P. aeruginosa,y = −2.89x + 17.68,0.9106,p = 0.00,3.0 × 102,
+C. albicans,y = −3.4748x + 25.611,0.9281,p = 0.00,2.0 × 102,
+A. brasiliensis,y = −0.0771x + 4.2792,0.9421,p = 0.00,4.0 × 102,
+"Bee-pollen-, apitoxin-, and royal-jelly-based creams (capillary treatments)",S. aureus,y = −2.5676x + 20.618,0.9241,p = 0.00,4.1 × 102
+E. coli,y = −1.8052x + 12.46,0.9166,p = 0.00,5.0 × 102,
+P. aeruginosa,y = −2.5797x + 18.917,0.9204,p = 0.00,6.0 × 102,
+C. albicans,y = −3.6917x + 28.444,0.9206,p = 0.00,5.0 × 102,
+A. brasiliensis,y = −5.8226x + 41.169,0.9107,p = 0.00,1.0 × 103,

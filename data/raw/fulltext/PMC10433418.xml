@@ -1,0 +1,909 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Microbiology (Reading)</journal-id><journal-id journal-id-type="iso-abbrev">Microbiology (Reading)</journal-id><journal-id journal-id-type="pmc-domain-id">1254</journal-id><journal-id journal-id-type="pmc-domain">mic</journal-id><journal-id journal-id-type="nlm-id">9430468</journal-id><journal-id journal-id-type="publisher-id">micro</journal-id><journal-title-group><journal-title>Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1350-0872</issn><issn pub-type="epub">1465-2080</issn><?publisher_abbrev sgm?><publisher><publisher-name>Microbiology Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10433418</article-id><article-id pub-id-type="pmcid-ver">PMC10433418.1</article-id><article-id pub-id-type="pmcaid">10433418</article-id><article-id pub-id-type="pmcaiid">10433418</article-id><article-id pub-id-type="pmid">37435775</article-id><article-id pub-id-type="doi">10.1099/mic.0.001351</article-id><article-id pub-id-type="publisher-id">001351</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Antimicrobials and AMR</subject></subj-group></article-categories><title-group><article-title>Sweet and sour synergy: exploring the antibacterial and antibiofilm activity of acetic acid and vinegar combined with medical-grade honeys</article-title><alt-title alt-title-type="recto-page-foot">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://mic.microbiologyresearch.org" ext-link-type="uri">http://mic.microbiologyresearch.org</ext-link>
+</alt-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8449-5095</contrib-id><name name-style="western"><surname>Harrison</surname><given-names initials="F">Freya</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cor1" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Blower</surname><given-names initials="A">Anisa</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>de Wolf</surname><given-names initials="C">Christopher</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Connelly</surname><given-names initials="E">Erin</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cor2" ref-type="corresp">*</xref></contrib><aff id="aff1">
+<label>
+<sup>1</sup>​</label>
+<institution content-type="department">School of Life Sciences</institution>, <institution>University of Warwick</institution>, <addr-line content-type="city">Coventry CV4 7AL</addr-line>, <country>UK</country>
+</aff><aff id="aff2">
+<label>
+<sup>2</sup>​</label>
+<institution content-type="department">Warwick Integrative Synthetic Biology Centre</institution>, <institution>University of Warwick</institution>, <addr-line content-type="city">Coventry CV4 7AL</addr-line>, <country>UK</country>
+</aff></contrib-group><author-notes><corresp id="cor1">
+<bold>*Correspondence:</bold> Freya Harrison, <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:F.Harrison@warwick.ac.uk">F.Harrison@warwick.ac.uk</email>
+</corresp><corresp id="cor2">
+<bold>*Correspondence:</bold> Erin Connelly, <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:Erin.Connelly@warwick.ac.uk">Erin.Connelly@warwick.ac.uk</email>
+</corresp><fn fn-type="disclaimer" id="FN2"><p><bold>Disclaimer:</bold> The authors are aware of the different approaches to collation and referencing manuscript names and folio numbers (which may differ from the format chosen for references here); please contact E.C. with any questions.</p></fn></author-notes><pub-date pub-type="collection"><year>2023</year></pub-date><pub-date pub-type="epub"><day>12</day><month>7</month><year>2023</year></pub-date><volume>169</volume><issue>7</issue><issue-id pub-id-type="pmc-issue-id">443328</issue-id><elocation-id>001351</elocation-id><history>
+<date date-type="received"><day>04</day><month>4</month><year>2023</year></date>
+<date date-type="accepted"><day>08</day><month>6</month><year>2023</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>12</day><month>07</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>18</day><month>08</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-10-09 15:25:38.957"><day>09</day><month>10</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>© 2023 The Authors</copyright-statement><copyright-year>2023</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="mic-169-1351.pdf"><?pdf-name mic-169-1351.pdf?><?pdf-size 3331105?><?pdf-md5 8df4ca3e4b26a448c9d04145956c74b1?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:acdd/10433418/8df4ca3e4b26/mic-169-1351.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="mic-169-1351.pdf"/><abstract><p>
+<italic toggle="yes">Oxymel</italic>, a combination of honey and vinegar, has been used as a remedy for wounds and infections in historical and traditional medical settings. While honey is now clinically used to treat infected wounds, this use of a complex, raw natural product (NP) mixture is unusual in modern western medicine. Research into the antimicrobial activity of NPs more usually focuses on finding a single active compound. The acetic acid in vinegar is known to have antibacterial activity at low concentrations and is in clinical use to treat burn wound infections. Here, we investigated the potential for synergistic activity of different compounds present in a complex ingredient used in historical medicine (vinegar) and in an ingredient mixture (<italic toggle="yes">oxymel</italic>). We conducted a systematic review to investigate published evidence for antimicrobial effects of vinegars against human pathogenic bacteria and fungi. No published studies have explicitly compared the activity of vinegar with that of a comparable concentration of acetic acid. We then characterized selected vinegars by HPLC and assessed the antibacterial and antibiofilm activity of the vinegars and acetic acid, alone and in combination with medical-grade honeys, against <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">Pseudomonas aeruginosa</ext-link>
+</named-content>
+</italic> and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">Staphylococcus aureus</ext-link>
+</named-content>
+</italic>. We found that some vinegars have antibacterial activity that exceeds that predicted by their acetic acid content alone, but that this depends on the bacterial species being investigated and the growth conditions (media type, planktonic vs. biofilm). Pomegranate vinegars may be particularly interesting candidates for further study. We also conclude that there is potential for acetic acid, and some vinegars, to show synergistic antibiofilm activity with manuka honey.</p></abstract><kwd-group><kwd>antimicrobials</kwd><kwd>biofilm</kwd><kwd>natural products</kwd><kwd>synergy</kwd></kwd-group><funding-group><award-group><funding-source>University of Warwick</funding-source><principal-award-recipient>NotApplicable</principal-award-recipient></award-group><award-group><funding-source>UKRI</funding-source><award-id>MR/T020652/1</award-id><principal-award-recipient>ErinConnelly</principal-award-recipient></award-group></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>OpenAccessEmbargo</meta-name><meta-value>0</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="s1"><title>Data Summary</title><p>Raw quantitative data and R code for analyses are provided in the supplementary data (Document S1).</p></sec><sec sec-type="intro" id="s2"><title>Introduction</title><p>Vinegar and honey are ubiquitous ingredients in historical and traditional medical remedies across time and cultures up to the present day [<xref rid="R1" ref-type="bibr">1–5</xref>]. One influential medieval text describes honey as having ‘the virtues of both food and medicine,’ and, citing Hippocrates and Ibn-Sīnā, the ability to ‘expel, cleanse, nourish and penetrate’ infection, inflammation and wasting conditions when mixed with vinegar in a combination known as <italic toggle="yes">oxymel</italic> or with the addition of water (<italic toggle="yes">hydromel</italic>) [<xref rid="R6" ref-type="bibr">6</xref>]. This medieval example of <italic toggle="yes">oxymel</italic> as a foundational mixture for remedies and association with ‘cleaning and healing’ of inflamed or infected tissue is indebted to a much earlier medical discourse ranging from Ancient Egypt to the authorities of Antiquity (Hippocrates, Galen, Dioscorides) to the early medieval scholars of Arabic medicine (Ibn-Sīnā) and similar textual and traditional occurrences along the global timeline too numerous to list. In our survey of 40 medieval manuscript sources of 418 Latin, Middle English, Old English and Welsh recipes from the ninth to the 15th centuries, for wounds, skin infections, eye, mouth and throat infections, and all other external infections, there were 151 mentions of vinegar, honey, <italic toggle="yes">oxymel</italic> or <italic toggle="yes">hydromel</italic>. In contrast, another common historical ingredient of current interest, garlic, only appears nine times in this dataset (E. Connelly, unpublished results). Many of these historical uses appear reasonable given current scientific understanding of the antimicrobial activities of both honey and acetic acid (a key component of vinegar), and the wound healing potential of honey.</p><p>The acetic acid in vinegar is known to have antibacterial activity at low concentrations, including the ability to kill Gram-positive and Gram-negative opportunistic pathogens living as monospecies biofilms [<xref rid="R7" ref-type="bibr">7–13</xref>], and a clinical trial is in progress in the UK to assess the efficacy and optimal dose of acetic acid as a topical treatment for colonized burn wounds [<xref rid="R14" ref-type="bibr">14, 15</xref>]. A UK National Survey of burns units carried out in October 2019 found that approximately one-third of units used acetic acid-soaked dressings to treat burns infected with <italic toggle="yes">Pseduomonas aeruginosa</italic> and that a daily dressing of 2.5–3 % acetic acid is a well-tolerated treatment in these patients [<xref rid="R16" ref-type="bibr">16</xref>]. Given the presence of many other compounds in vinegar aside from acetic acid, it is possible that some or all vinegars may contain compounds that could enhance the antimicrobial activity of acetic acid by potentiating its effects on bacteria, or by contributing additional antimicrobial activity of their own. While modern drug discovery research that focuses on natural products usually attempts to isolate a single active compound for development into a medicine, it is increasingly recognized that many antimicrobial plant extracts and plant-derived products may owe their activity to combinations of compounds present within them [<xref rid="R17" ref-type="bibr">17</xref>]. The antimicrobial activity of wine, for instance, which like vinegar contains a range of organic acids, phenolics and alcohol, has been attributed to the combined activity of these different types of compound [<xref rid="R13" ref-type="bibr">13, 18, 19</xref>]. Although some vinegars with an acetic acid content of only 0.1 % can inhibit the growth of a range of bacterial species [<xref rid="R20" ref-type="bibr">20</xref>, <xref rid="R7" ref-type="bibr">7</xref>, <xref rid="R12" ref-type="bibr">12</xref>], there is some evidence that the presence of phenolic compounds in fermented vinegars enhance its antimicrobial effect [<xref rid="R21" ref-type="bibr">21</xref>]. Further research is required to establish the role of polyphenolics and other weak organic acids, such as gallic acid, in contributing to the antimicrobial effect of vinegars, at low concentrations.</p><p>Likewise, honey is a complex natural substance that has received extensive research attention for its healing, immunostimulatory and antimicrobial properties. The rationale for the rediscovery of honey by modern medicine has been extensively reviewed [<xref rid="R22" ref-type="bibr">22–24</xref>], and numerous trials of honey dressings and gels in wound management have been conducted [<xref rid="R25" ref-type="bibr">25–28</xref>]. While most attention has focused on manuka (<italic toggle="yes">Leptospermum</italic>) honey, various non-manuka honeys, including European honeys, have been shown to have good antimicrobial activity (e.g. [<xref rid="R29" ref-type="bibr">29–31</xref>]). Medical honey and honey-impregnated dressings are a common line of care for wound management in clinical settings, including treatment for biofilms, critically colonized wounds and infections with high bacterial levels, chronic ulceration, debridement of dead tissue, malodorous wounds, fungating wounds, burn sites, skin grafts and surgical wounds [<xref rid="R32" ref-type="bibr">32–34</xref>].</p><p>There are parallel occurrences of honey in historical textual accounts for perilous, non-healing wounds, and even surgical wounds with evidence of use as a preventative measure against post-surgical infections or ulceration. Notably, in many instances honey is combined with vinegar, as the pairwise treatment <italic toggle="yes">oxymel</italic>, or as a compound with medicinal plants, metals or other ingredients, in ointments, cleansing washes, plasters and medicated bandages. One Middle English medical recipe collection contains recipes for making <italic toggle="yes">oxymel simple</italic> and <italic toggle="yes">oxymel compound. Oxymel simple</italic> is made of one part honey and two parts vinegar, combined over heat (fire). <italic toggle="yes">Oxymel compound</italic> is <italic toggle="yes">oxymel simple</italic> plus other medicinal ingredients; a common version is <italic toggle="yes">squill oxymel</italic>, which is <italic toggle="yes">oxymel</italic> made with bulbs of the squill, <italic toggle="yes">Drimia maritima</italic> [<xref rid="R35" ref-type="bibr">35</xref>]. A few examples from select later medieval medical and surgical texts include references to a plaster to prevent the development of an ulcer in a wound [<xref rid="R36" ref-type="bibr">36</xref>]; to cleanse wounds of dead tissue [<xref rid="R37" ref-type="bibr">37, 38</xref>]; to remove dead tissue and encourage healing in old <italic toggle="yes">fistulas</italic> (deep-seated ulcer or infection) by applying medicated cloths (<italic toggle="yes">tent</italic>) [<xref rid="R39" ref-type="bibr">39</xref>]; post-surgical washes after cutting of infected swellings [<xref rid="R40" ref-type="bibr">40</xref>]; for all manner of wounds in the head and body [<xref rid="R41" ref-type="bibr">41</xref>]; for <italic toggle="yes">cankers</italic> (wound, ulcer, abscess, sore, swelling) and <italic toggle="yes">festers</italic> (fistula or fistulous wound, abscess, boil) [<xref rid="R42" ref-type="bibr">42–46</xref>]; mouthwashes for <italic toggle="yes">cankers</italic> in the teeth and gums [<xref rid="R47" ref-type="bibr">47–49</xref>]; a plaster for an <italic toggle="yes">aposteme</italic> (inflammation, abscess, swelling) [<xref rid="R50" ref-type="bibr">50</xref>]; and an ointment for itching and pustules in the eyebrows [<xref rid="R51" ref-type="bibr">51</xref>]. In these examples, honey and vinegar were prepared in various ratios, with or without heating, and may be mixed with many other different ingredients, but the big picture of combining them to rinse or dress infected tissues is the inspiration behind the present focus.</p><p>The broad-spectrum antimicrobial activity of vinegar [<xref rid="R7" ref-type="bibr">7</xref>] makes it a promising candidate for further research to test potential synergistic interactions with medical-grade honey. Given the lengthy historical tradition, current clinical uses and research outputs for honey and vinegar as single ingredients, and low-cost availability, it is surprising that <italic toggle="yes">oxymel</italic> has not been well studied. Our previous research to detect communities of ingredients in a network of the recipes in one medieval text showed the existence of a hierarchical structure within the recipes. This resulted in the identification of four core individual ingredients, including honey and vinegar. The results of our pilot experimental data suggest that combinations of honey and vinegar, along with other ingredients, ‘may be worth investigation for their ability to potentiate each other’s antibacterial effects in biofilm models of infection, where the combinatorial activity of agents is more likely to enhance the killing of bacteria with enhanced tolerance’ [<xref rid="R52" ref-type="bibr">52</xref>].</p><p>We therefore wished to test two hypotheses. First, that all or some vinegars may have antibacterial activity exceeding that of an equivalent concentration of pure acetic acid. Second, that combining either pure acetic acid or vinegar with honey may lead to the identification of a synergistic ability to kill pathogenic bacteria grown as biofilms. We conducted a systematic review of the antimicrobial properties of vinegars. We searched for published evidence that included quantitative data on the antimicrobial effect of vinegars against common human bacterial and fungal pathogens and/or against the bacterium <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.10618" ext-link-type="uri">Bacillus subtilis</ext-link>
+</named-content>
+</italic> (because this species is often used as a model Gram-positive organism). Quality screening of articles showed reporting of data to be highly variable in quality. We did not find strong evidence to conclude that the antimicrobial activity of vinegar varies by botanical origin or that the activity of vinegar is entirely due to acetic acid content. We then selected seven types of vinegar, commercially produced from a range of starting materials used to make fermented vinegars, for analysis by reversed-phase HPLC. We then assessed the antibacterial and antibiofilm activity of these vinegars using <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">Staphylococcus aureus</ext-link>
+</named-content>
+</italic> as example Gram-negative and Gram-positive bacterial pathogens, respectively. Our experimental results show the potential for some vinegars to have antibacterial activity that exceeds that predicted by their acetic acid content alone, but that this depends on the bacterial species being investigated and the growth conditions (media type, planktonic vs. biofilm). Furthermore, there is a potential for acetic acid, and some vinegars, to show synergistic antibiofilm effects with manuka honey. These preliminary results will be enhanced by future testing to better understand synergistic implications and applications, including potential development of improved, advanced wound dressings.</p></sec><sec sec-type="methods" id="s3"><title>Methods</title><sec id="s3-1"><title>Systematic review</title><p>Searches for primary research assessing the antimicrobial nature of vinegar were conducted on 17–20 November 2021 using PubMed, Scopus, Web of Science and the Cochrane database of clinical trials. The Boolean search term (‘Vinegar’ AND (‘Antimicrobial’ OR ‘Antibacterial’ OR ‘Antifungal’)) was used to search document title abstract and keyword (for Scopus, Web of Science and Cochrane database of clinical trials). Document title and abstract were searched in PubMed, as it does not allow the targeted searching of keywords. Searches were restricted to exclude reviews (systematic and conference) and editorials, and to include papers of any age or language. Outputs from searches were inputted into one .csv file. Duplicates were then removed manually by using the ‘sort’ function in Microsoft Excel for author, title and DOI.</p><p>Abstracts were then read and screened for the presence of primary quantitative data regarding the effects of whole fermented vinegar or acetic acid as an antimicrobial, against human pathogenic bacteria, fungi and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.10618" ext-link-type="uri">B. subtilis</ext-link>
+</named-content>
+</italic>. Several papers that investigated ‘wood vinegar’, which is pyroligneous acid produced by distillation of plant biomass, were excluded at this stage. Although wood vinegar does contain acetic acid, it is a qualitatively different product from the fermented, edible vinegars used in historical and traditional medicine. Further reasons for exclusion at this stage included articles that were non-empirical or inaccessible (due to language or paywall barriers). As only one author assessed each study, 5 % of abstracts were re-scored by the same author 4 weeks after the initial screening to assess the consistency of the application of inclusion and exclusion criteria.</p><p>Full-text articles of included records were assessed for eligibility. Articles for which the full text was inaccessible due to language, i.e. not written in or translated to English, or paywalled were excluded at this stage (following the request for alternative versions from the authors and translation by our colleagues where possible). Studies that assessed only acetic acid were also excluded. Papers eligible for inclusion were those that contained either MIC or zone of inhibition (ZOI) data testing the antimicrobial nature of vinegar against human bacterial or fungal pathogens and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.10618" ext-link-type="uri">B. subtilis</ext-link>
+</named-content>
+</italic>. Data extracted from eligible papers included vinegar type, test microbe (and details of the strain or isolate), assay method and details of the method (growth medium, temperature and agar thickness for ZOI data), reference to diagnostic guidelines, location of data within the article, units, variance/standard deviation, details of positive and negative controls used, and number of replicates conducted. The extracted data were used to select MIC/ZOI data of sufficient quality (containing an appropriate experimental design, negative control and number of repeats for the technique) for further analysis.</p><p>The systematic review identified only one previous paper which considered honey and vinegar as a combination against bacteria [<xref rid="R53" ref-type="bibr">53</xref>]. The author assayed various honey–vinegar solutions and determined that the combination provides a superior killing effect on select pathogenic bacteria than vinegar alone. However, because this paper did not include a honey-only treatment, it could not assess whether the combinations of vinegar and honey showed additive or synergistic antibacterial effects. To determine if other papers which assessed combinations of honey and vinegar had been missed by our systematic review, an unrestricted search of PubMed, Cochrane Library, Web of Science and Scopus for <italic toggle="yes">oxymel</italic> or <italic toggle="yes">oximel</italic> was conducted on 13 January 2023. The term <italic toggle="yes">oximel</italic> returned no results, while the term <italic toggle="yes">oxymel</italic> revealed a few studies combining <italic toggle="yes">oxymel</italic> with various medicinal plants for obesity-associated inflammation, cardiovascular risk factors and insulin resistance [<xref rid="R54" ref-type="bibr">54</xref>], and the traditional/historical mixture, <italic toggle="yes">squill oxymel</italic> (<italic toggle="yes">Drimia maritima</italic>) for asthma [<xref rid="R55" ref-type="bibr">55</xref>], fatty liver [<xref rid="R56" ref-type="bibr">56</xref>] and chronic obstructive pulmonary disease (COPD) [<xref rid="R57" ref-type="bibr">57</xref>], but no antimicrobial investigations.</p><p>Two authors repeated the search on 13 (Scopus, PubMed, Cochrane) and 19 (Web of Science) January 2023. The search was date restricted to capture new publications from the search conducted in November 2021 to the present (January 2023).</p><p>We did not conduct a systematic review for the activity of honey as its antimicrobial activity and clinical utility are well established.</p></sec><sec id="s3-2"><title>Bacterial strains and culture conditions</title><p>
+<italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> PA14 and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> Newman were used for all experimental work. These species were selected as they are common wound pathogens; we chose to work with commonly studied lab isolates which have been whole-genome sequenced and used in a large number of published studies of antibiotics and novel antibacterial agents. All incubation steps were in air, without shaking, unless specified otherwise. Lysogeny broth (LB) agar (Fisher Scientific) was used for all plating steps, and agar plates were incubated overnight at 37 °C to allow colony growth. MIC assays were conducted in both cation-adjusted Mueller–Hinton broth (caMHB; Sigma Aldrich) and synthetic wound fluid (SWF). SWF comprised 50 % (v/v) peptone water (Sigma Aldrich) and 50 % (v/v) FBS (Gibco), following the recipe of Werthén <italic toggle="yes">et al</italic>. [<xref rid="R56" ref-type="bibr">56</xref>]. Synthetic wounds were prepared following the method of Werthén <italic toggle="yes">et al</italic>. Briefly, synthetic wound solution was created on ice and comprised 2 mg ml<sup>−1</sup> collagen Type 1 (Corning), 0.01 % (v/v) acetic acid, 60 % (v/v) SWF and 10 mM sodium hydroxide. Then, 200 µl of synthetic wound solution was added to the wells of a 48-well plate and placed under short-wave UV light for 10 min to sterilize each wound. Wounds were then incubated at 37 °C for 50–60 min to catalyse full polymerization of the collagen matrix. Wounds were inoculated as follows. Colonies of bacteria from an overnight LB agar plate were added to 5 ml SWF and incubated with shaking for 6 h at 37 °C. These starter cultures were diluted to an OD<sub>600</sub> of 0.05–0.1 and 50 µl of the dilute inoculum was pipetted onto each prepared wound. Biofilms were grown for 24 h at 37 °C. Micrographs demonstrating the ability of <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> to form biofilms using this methodology have been published elsewhere [<xref rid="R58" ref-type="bibr">58, 59</xref>]</p></sec><sec id="s3-3"><title>Vinegar</title><p>Commercially produced vinegars were purchased as detailed in <xref rid="T1" ref-type="table">Table 1</xref>. The pH of an aliquot of each vinegar was measured using an ETI 8100 pH meter (Electronic Temperature Instruments). All vinegars were stored in their original bottles in darkness at room temperature.</p><table-wrap position="float" id="T1" orientation="portrait"><label>Table 1.</label><caption><p>Properties of vinegars and acetic acid</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="top" rowspan="1" colspan="1"/><th align="center" valign="top" rowspan="1" colspan="1">
+<p>Vinegar type</p>
+</th><th align="center" valign="top" rowspan="1" colspan="1">
+<p>Code</p>
+</th><th align="center" valign="top" rowspan="1" colspan="1">
+<p>Brand</p>
+</th><th align="center" valign="top" rowspan="1" colspan="1">
+<p>Notes</p>
+</th><th align="center" valign="top" rowspan="1" colspan="1">
+<p>Manufacturer's stated acidity, %</p>
+</th><th align="center" valign="top" rowspan="1" colspan="1">
+<p>Acetic acid %, by HPLC</p>
+</th><th align="center" valign="top" rowspan="1" colspan="1">
+<p>pH</p>
+</th></tr></thead><tbody><tr><td align="left" valign="middle" rowspan="7" colspan="1">
+<p>Initial vinegar panel for MICs</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Apple cider vinegar</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>ACV</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Aspall's</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Organic, unpasteurised, unfiltered</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>5</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>5.05</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>3.34</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Date vinegar</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>DV</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Elit</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>–</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>4–5</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>5.13</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>2.85</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Grape vinegar</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>GV</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Elit</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>–</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>4–5</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>3.22</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>2.94</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Mead vinegar</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>MV</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Artisan Vinegar Company</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>From wildflower mead, unpasteurised, unfiltered</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Not provided</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>5.23</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>2.8</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Pomegranate vinegar</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>PV1</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>RAW</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Organic, unpasteurised, unfiltered</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Not provided</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>7.71</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>2.95</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Red wine vinegar</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>RWV1</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Aspall's</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Organic</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>6</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>5.92</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>3.19</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>White wine vinegar</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>WWV</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Aspall's</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Organic, unpasteurised</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>6</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>5.04</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>3.1</p>
+</td></tr><tr><td align="left" valign="middle" rowspan="2" colspan="1">
+<p>Replicate vinegars</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Pomegranate vinegar</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>PV2</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Sun and Seed</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Organic, from wild pomegranates</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>6</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>2.4</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>2.87</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Red wine vinegar</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>RWV2</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Marks and Spencer</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>–</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>5</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>8.3</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>2.68</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>6 % acetic acid (Fisher Scientific)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">
+<p>–</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>–</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>–</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<sc>n</sc>/<sc>a</sc>
+</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>6</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>3.21</p>
+</td></tr></tbody></table></table-wrap></sec><sec id="s3-4"><title>Honey</title><p>Two commercially available medical-grade honey preparations were used, MediHoney (product #31805 80 % <italic toggle="yes">Leptospermum</italic> honey wound and burn dressing; Dermasciences) and Revamil (100 % honey gel for wound treatment; Oswell Penda). Both of these brands appear on the British National Formulary section on wound management, which lists medicines that may be used by the UK National Health Service [<xref rid="R32" ref-type="bibr">32</xref>]. Both honeys were stored in their original packaging at room temperature, following the manufacturers’ recommendations.</p></sec><sec id="s3-5"><title>Analysis of vinegars by HPLC</title><p>Reversed-phase HPLC was completed on an Agilent 1260 infinity II preparative HPLC system; this comprised a 600 bar quaternary pump, dual-loop autosampler, eight-channel UV-based diode array detector (DAD), measuring from 190 to 400 nm, and running OpenLab CDS software (version 2.6). Separation was achieved with an Agilent Infinity Lab Poroshell 120 EC-C18 (4.6×150 mm, 2.5 µm particle size) column. First, an undiluted aliquot of each vinegar was analysed to capture a chromatographic ‘fingerprint’ of each vinegar, over a 31 min period, at wavelengths of 210, 260 and 280 nm. A scan was run, and several chromatographic peaks were observed with their peak absorbance near to 260 and/or 280 nm. The method used gradient-grade acetonitrile (ACN; VWR International) and 18.2 MΩ resistivity ultra-pure water (produced from triple-red ultrapure water system) with a starting mix of 5 % ACN to 95 % water. For 10 min a gradient of 5–25 % ACN in water was run through the column, after which the concentration gradient was increased from 25 to 95 % and run for a further 21 min; both of these steps were run at a flow rate of 0.9 ml min<sup>−1</sup> at ~240 bar. An injection volume of 30 µl was used, and separation and detection were conducted at 25 °C. Next, the vinegars were diluted 1:6 in sterile water (Hyclone WFI quality) and triplicate aliquots of each diluted vinegar were run through the HPLC device using the same mobile phase and just the first 10 min of the above method. The acetic acid concentration was quantified in these aliquots. This dilution factor was chosen because it allowed pure acetic acid at concentrations typical of those found in commercial vinegars to be accurately quantified (i.e. the UV signal was not saturated). The reduction in time to 10 min was made because no peaks were observed after 10 min in the original 31 min HPLC run. The injection volume used was 25 µl, and the column temperature was at ~25 °C. This method was also used to analyse a calibration series of 3, 2, 1.5, 1, 0.75, 0.5, 0.38, 0.25, 0.19 and 0.125 % (v/v) pure acetic acid (Fisher Scientific) solutions diluted in distilled water (Hyclone WFI quality; Cytiva). A retention time of approximately 2.6 min was associated with acetic acid in standard solutions. A calibration curve was created using peak area (mAU<sup>2</sup>) at 210 nm and the calibration equation calculated using OpenLab CDS Data Analysis software (version 2.6).</p></sec><sec id="s3-6"><title>MIC assays</title><p>MIC assays were conducted following CLSI (Clinical and Laboratory Standards Institute) guidelines. To do this, 50 µl of each vinegar, or a 6 % (v/v) acetic acid solution, was two-fold serially diluted from 100 – to 0.098 % (v/v) in either caMHB or SWF, in duplicate, in a 96-well microtitre plate (Corning Costar). Five to ten colonies of either <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> or <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> were selected from overnight LB agar plates and resuspended in either caMHB or SWF to a 0.5 McFarland standard (OD<sub>600</sub> of ~0.08–0.1). The bacterial inoculum was then diluted in the same growth medium to a bacterial density of ~5×10<sup>5</sup> c.f.u. ml<sup>−1</sup> and 50 µl of this dilution was added to all test wells. Antibiotic-free media+bacteria wells, and sterile media wells, were used as growth controls and sterility controls, respectively. The bacterial inoculum was serially diluted in PBS and plated on LB agar to confirm the bacterial density in the inoculum. The 96-well plates were incubated at 37 °C for 18 h, and then bacterial growth in each well was visually assessed. The lowest concentration of vinegar or acetic acid with no visible bacterial growth was recorded as the MIC. Minimum bactericidal concentrations (MBCs) were determined by spotting 5 µl from each well of the plate used to determine MICs onto an LB agar plate and incubating overnight at 37 °C (in air). The lowest treatment concentration with no visible bacterial growth was recorded as the MBC.</p></sec><sec id="s3-7"><title>Biofilm killing assays in an <italic toggle="yes">in vitro</italic> synthetic wound model</title><p>Limitations on time and resources restricted the number of vinegars that we could feasibly test in biofilm models. Based on the MIC results, we selected RWV (as an example of the group of vinegars with very similar HPLC profiles) and PV (which had a very different HPLC profile from the other vinegars) for investigation of biofilm-killing ability in an <italic toggle="yes">in vitro</italic> model of a soft tissue wound. To assess the dose response of biofilms to selected vinegars or acetic acid, synthetic wound biofilms of either <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> or <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> were prepared as above in <italic toggle="yes">Bacterial Strains and Culture Conditions</italic>, and then treated topically with different doses of either water, pure acetic acid, RWV1, RWV2, PV1 or PV2 by pipetting 100 µl of the test substance onto the top of the wound (see <xref rid="T1" ref-type="table">Table 1</xref> for key to vinegar types). Doses were tested in triplicate for each species. RWV1, PV1 and acetic acid, plus water controls, were tested in one experiment. RWV2 and PV2, plus water controls, were tested in a second experiment; the work was divided into two experiments due to the labour-intensive nature of working with the wound model. After 24 h of exposure to the treatments, the collagen in the wounds was digested to release bacteria by adding 300 µl of 0.5 mg ml<sup>−1</sup> collagenase type 1 (EMD Millipore) and incubating for 1 h at 37 °C. Digested wounds were mixed by pipetting, serially diluted in PBS and plated on LB agar. The number of viable bacteria in each biofilm was estimated using colony counts. To assess the combined effects of selected vinegars or acetic acid+medical-grade honey on biofilms, synthetic wound biofilms of either <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> or <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> were prepared as above, and then treated topically with either water; RWV1, PV1, RWV2, PV2 or acetic acid at concentrations corresponding to 0.5 % acetic acid; 30 % (w/v) MediHoney 80 % gel; 30 % (w/v) Revamil 100 % honey gel; or each honey gel combined with each vinegar/acetic acid. In all cases, the total treatment volume was 100 µl, the final concentration of acetic acid was 0.5 % and the final concentration of honey gel was 30 %. RWV1, PV1 and acetic acid, plus water controls, were tested in one experiment; RWV2 and PV2, plus water controls, were tested in a second experiment. Each treatment was added to triplicate wounds containing <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> and triplicate wounds containing <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic>. Treated biofilms were incubated at 37 °C for 24 h, and then wounds were enzymatically digested, diluted and plated, as in the dose–response experiment. The two synergy experiments were replicated using fresh starter cultures of each bacterium.</p></sec><sec id="s3-8"><title>Statistical analyses</title><p>For the vinegar or acetic acid dose–response experiment, c.f.u. data were recorded and analysed in R 4.0.4 [<xref rid="R60" ref-type="bibr">60</xref>] by using the package <italic toggle="yes">drc</italic> [<xref rid="R61" ref-type="bibr">61</xref>] to fit a dose–response curve for each treatment and calculate the EC<sub>50</sub>. For the synergy experiment, c.f.u. data were recorded and analysed in R 4.0.4. Data were log-transformed to meet the assumptions of general linear modelling and analysed using ANOVA to test for effects of starter culture used, acid treatment, honey treatment and acid treatment×honey treatment. For the dataset testing RWV2 and PV2 and their combinations with honey against <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> biofilms, one data point was lost and the <italic toggle="yes">car</italic> package [<xref rid="R62" ref-type="bibr">62</xref>] was used to conduct the ANOVA using Type II sums of squares to account for non-orthogonality. Planned contrasts using <italic toggle="yes">t</italic>-tests were used to make post-hoc comparisons between the c.f.u. in each treated biofilm and the relevant water-treated control. A significant acid treatment×honey interaction term in the ANOVA was taken as evidence that synergy could exist between at least one acid treatment and one type of medical-grade honey. We used both the Response Additivity and the Bliss Independence models [<xref rid="R63" ref-type="bibr">63</xref>] as null hypotheses for additive interactions between acetic acid or vinegar and medical-grade honey, for reasons explained in the main text. The R package <italic toggle="yes">lsmeans</italic> [<xref rid="R64" ref-type="bibr">64</xref>] was used to extract fitted means and 95 % confidence intervals for c.f.u. observed in combination treatments, and this was compared with the expected mean c.f.u. under the null hypotheses of Bliss Independence as explained in the main text. Graphs were drawn using DataGraph 5.0 (Visual Data Tools).</p></sec></sec><sec sec-type="results" id="s4"><title>Results</title><sec id="s4-1"><title>A systematic review of published evidence for antimicrobial activity of vinegars</title><p>A systematic review was conducted in November 2021 and repeated in January 2023 to analyse the evidence for differences in antimicrobial properties across vinegar types, and to assess the physiochemical properties that may affect their potency. We searched for papers that included quantitative data on the antimicrobial effect of fermented vinegars against common human bacterial and fungal pathogens and/or against the bacterium <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.10618" ext-link-type="uri">B. subtilis</ext-link>
+</named-content>
+</italic>. As of this date, there were no reviews compiling quantitative evidence.</p><p>Full-text articles, as identified following the process outlined in <xref rid="F1" ref-type="fig">Fig. 1</xref> [<xref rid="R65" ref-type="bibr">65</xref>], were sorted by quantification method, and papers measuring the MIC (<italic toggle="yes">n</italic>=28) or ZOI (using either disc- or well-diffusion techniques, <italic toggle="yes">n</italic>=49) of vinegars were identified and assessed for key quality parameters. The full list of papers, and summary information, is provided in Table S1, available in the online version of this article. Many papers reporting MIC data of vinegars contained unclear experimental protocols, failing to explicitly state media used, growth conditions and/or method of MIC determination (i.e. agar dilution or microdilution). Three papers used a non-standard agar dilution method as opposed to microdilution. A number of different media were used during microdilution assays (including MHB, as endorsed by the CLSI guidelines, tryptic soy and brain heart infusion broths), which are likely to cause some variability in MIC values obtained [<xref rid="R66" ref-type="bibr">66</xref>]. Reporting of quality parameters, such as number of replicates used, and the presence of appropriate positive and negative controls was poor in the MIC dataset, with only five papers in total containing at least two repeats and a negative, untreated, control (i.e. cultures were treated with sterile distilled water).</p><fig position="float" fig-type="figure" id="F1" orientation="portrait"><label>Fig. 1.</label><caption><p>PRISMA diagram showing steps in the systematic review of research articles testing the antimicrobial activity of vinegar. See reference [<xref rid="R65" ref-type="bibr">65</xref>] for Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) guidelines.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="mic-169-1351-g001.jpg"><?image-name mic-169-1351-g001.jpg?><?image-size 97455?><?image-md5 43d39f660e766c34f1c86a2238131b43?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1933?><?image-original-width 2071?><?image-scaled-height 644?><?image-scaled-width 690?><?image-cloudpmc-urn urn:cdn:blobs/acdd/10433418/43d39f660e76/mic-169-1351-g001.jpg?><?thumb-name mic-169-1351-g001.gif?><?thumb-size 17591?><?thumb-md5 51509d784472b7f178d4ab68daf1caf8?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 93?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/acdd/10433418/51509d784472/mic-169-1351-g001.gif?></graphic></fig><p>Studies using a well-diffusion methodology also lacked sufficient experimental detail. Only three studies employing a well-diffusion technique reported agar depth, and a number of these also lacked sufficient replication and/or details of a negative control. The data are therefore incomparable and were excluded from further analysis. In comparison, studies using the disc diffusion method were overall well standardized, with growth medium, disc size and growth temperature being recorded in the majority of cases. However, the lack of reporting for key details such as number of replicates and the presence of a negative control was still problematic in the disc diffusion dataset. Overall, six papers were deemed eligible for full-text analysis and were included in the systematic review.</p><p>Table S2 contains data extracted from 11 papers included for further analysis with MIC or ZOI data [<xref rid="R67" ref-type="bibr">67–77</xref>]. These included tests of four Gram-negative bacterial species (<italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.3093" ext-link-type="uri">Escherichia coli</ext-link>
+</named-content>
+</italic>, <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.10789" ext-link-type="uri">Klebsiella pneumoniae</ext-link>
+</named-content>
+</italic>, <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">Pseudomonas aeruginosa</ext-link>
+</named-content>
+</italic> and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11017" ext-link-type="uri">Salmonella enterica</ext-link>
+</named-content>
+</italic>); four Gram-positive bacterial species (<italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.10618" ext-link-type="uri">Bacillus subtilis</ext-link>
+</named-content>
+</italic>, <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.5096" ext-link-type="uri">Listeria monocytogenes</ext-link>
+</named-content>
+</italic>, <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">Staphylococcus aureus</ext-link>
+</named-content>
+</italic>, <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.5663" ext-link-type="uri">Streptococcus mutans</ext-link>
+</named-content>
+</italic> and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.5606" ext-link-type="uri">Streptococcus pyogenes</ext-link>
+</named-content>
+</italic>); five named fungal species (<italic toggle="yes">Aspergillus</italic> sp<italic toggle="yes">.</italic>, <italic toggle="yes">Candida albicans</italic>, <italic toggle="yes">Candida tropicalis</italic>, <italic toggle="yes">Curvularia</italic> sp<italic toggle="yes">.</italic>, <italic toggle="yes">Lichtheimia</italic> sp.) and an unspecified yeast isolate.</p><p>The studies in this review assessed a large range of commercially and traditionally produced vinegars from diverse botanical origins: blueberry, apple, rice, balsamic, red wine, white wine, rose, grape, pomegranate, date, garlic, quince, peach, pineapple, cornelian cherry, purple onion, grape+lavender honey, apple+lavender honey, gilaburu (<italic toggle="yes">Viburnum opulus</italic>), <italic toggle="yes">Eucommia ulmoides</italic> leaves, <italic toggle="yes">Physalis pubescens</italic> and <italic toggle="yes">Hylocereus monacanthus</italic>. Studies in this review attributed the antimicrobial activity of vinegars to the presence of acetic acid [<xref rid="R70" ref-type="bibr">70, 74, 75</xref>], but also suggest that polyphenolic compounds and the presence of other organic acids may play a role in antimicrobial activity [<xref rid="R68" ref-type="bibr">68–70, 74</xref>]. We cannot conclude from the published literature whether the activity of vinegar is entirely due to its acetic acid content or if whole vinegar is more or less effective than its acetic acid content, i.e. whether other compounds in vinegar potentiate or antagonize the activity of acetic acid. This is because none of the included studies quantified acetic acid in the vinegars used and compared their activity to an equivalent concentration of pure acetic acid. However, the vinegar MICs reported by Kara <italic toggle="yes">et al</italic>. [<xref rid="R76" ref-type="bibr">76</xref>] are very low in equivalent percentage acetic acid, often lower than what is typically reported for pure acetic acid (Table S3). Further, their principal component analysis of vinegar activity and composition showed that MIC does not necessarily correlate with acetic acid content. Due to the variation in methodologies used in the studies included for analysis, it is also challenging to produce meaningful comparisons across studies or to conclude if the antimicrobial activity of vinegar varies significantly by botanical origin. In our previously published assessment of the antimicrobial properties of stinging nettle (<italic toggle="yes">Urtica</italic> spp.) preparations, it was noted that some preparations called for combining nettles with vinegar. Pilot experiments were therefore conducted to assess the MICs and MBCs of several types of commercial vinegars to see if they varied across brands. Red wine vinegar, white wine vinegar and cider vinegar all had low MICs/MBCs for the test species, and these were comparable between species and with MIC/MBC of 6 % acetic acid, although the cider vinegar showed some variability in MIC/MBC between replicates [<xref rid="R77" ref-type="bibr">77</xref>]. However, a more rigorous laboratory assessment of the activity of different vinegars is clearly needed.</p></sec><sec id="s4-2"><title>Characterization of selected vinegars by HPLC</title><p>We selected seven types of vinegar, commercially produced from a range of starting materials, for investigation. These are summarized in <xref rid="T1" ref-type="table">Table 1</xref> and were chosen based on the probable fruits and fruit-based alcoholic beverages used to produce fermented vinegars around the Mediterranean, in Europe and in the Middle East throughout history. Vinegars in our initial panel for MIC testing were analysed by reversed-phase HPLC (RP-HPLC). We first obtained chromatograms of undiluted vinegar samples to visualize the chromatographic ‘fingerprint’ of the different vinegars, and thenceforth worked with vinegars diluted to bring the expected acetic acid concentration into a range quantifiable using HPLC. Representative chromatograms from triplicate aliquots of each vinegar at 210 nm are shown in <xref rid="F2" ref-type="fig">Fig. 2</xref>; triplicate chromatograms for each vinegar are provided in Fig. S1 and similar chromatograms were obtained at 260 and 280 nm (Figs S2 and S3). As can be seen in <xref rid="F2" ref-type="fig">Fig. 2</xref>, all vinegars had a clear peak at approx. 2.6 min, which was confirmed to be acetic acid by testing against an external acetic acid standard (Fig. S4). Other peaks at approx. 1–3 min are likely to represent other weak organic acids, while peaks at later times are likely to be polyphenols and other less polar molecules. With the exception of pomegranate vinegar, the samples had very few peaks after approx. 4 min, and the non-pomegranate vinegars had qualitatively similar chromatograms. The chromatogram for pomegranate vinegar was much more complex, with multiple, often not clearly resolved, peaks running at times later than 4 min. We attempted to use external standards for a selection of expected compounds to identify some of these peaks but, as is often the case with complex mixtures of natural products, we could not unambiguously identify any other peaks in the vinegars. We used an acetic acid calibration series at 210 nm to quantify the acetic acid concentration in the samples. As shown in <xref rid="T1" ref-type="table">Table 1</xref>, the acetic acid concentration of the vinegars in the initial panel ranged from 3.22 % (grape vinegar) to 7.71 % (pomegranate vinegar). Fig. S4 shows chromatograms from example diluted aliquots of each vinegar used for acetic acid quantification, and a reference standard of acetic acid.</p><fig position="float" fig-type="figure" id="F2" orientation="portrait"><label>Fig. 2.</label><caption><p>Reversed-phase HPLC chromatograms of diluted vinegar samples at 210 nm. Representative chromatograms from triplicate aliquots of selected vinegars; see <xref rid="T1" ref-type="table">Table 1</xref> for further details of vinegars tested and Figs S1–S3 for individual chromatograms of aliquots read at 210, 260 and 280 nm. The peak corresponding to acetic acid is marked with a star (see Fig. S4). Retention times are in minutes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="mic-169-1351-g002.jpg"><?image-name mic-169-1351-g002.jpg?><?image-size 54183?><?image-md5 9dc862b81e96170c6c58de58f6fe27e3?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1232?><?image-original-width 2056?><?image-scaled-height 410?><?image-scaled-width 685?><?image-cloudpmc-urn urn:cdn:blobs/acdd/10433418/9dc862b81e96/mic-169-1351-g002.jpg?><?thumb-name mic-169-1351-g002.gif?><?thumb-size 10776?><?thumb-md5 dd9049fb1580cab08c2341ec73fc4a95?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 133?><?thumb-cloudpmc-urn urn:cdn:blobs/acdd/10433418/dd9049fb1580/mic-169-1351-g002.gif?></graphic></fig></sec><sec id="s4-3"><title>An assessment of the antibacterial activity of different vinegars using <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> as example Gram-negative and Gram-positive bacterial pathogens</title><p>We conducted MIC testing by broth microdilution for the initial vinegar panel and pure acetic acid against <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> PA14 and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> Newman in caMHB following CLSI guidelines [<xref rid="R78" ref-type="bibr">78</xref>]. In parallel, we ran the MIC tests in SWF [<xref rid="R58" ref-type="bibr">58</xref>], which provides a more <italic toggle="yes">in vivo</italic>-like model of wound exudate than caMHB. This is important because the environment in which bacteria grow can affect both the activity of antimicrobials (e.g. if they bind serum, which is present in wound exudate and in SWF) and the susceptibility of bacteria to antimicrobials (due to physiological changes in gene expression which alter antibiotic targets, metabolism or efflux). MICs can thus be very different in standard media and in an infected host, and using host-mimicking medium can help to close the gap between <italic toggle="yes">in vitro</italic> estimates of susceptibility and <italic toggle="yes">in vivo</italic> susceptibility [<xref rid="R65" ref-type="bibr">65</xref>]. We chose SWF as a host-mimicking medium due to the prevalent historical use of vinegar and honey in treatments for wounds and other skin and soft tissue infections. The MICs, initially expressed as a percentage (v/v) of vinegar (Table S4), were converted to an equivalent percentage acetic acid using the data in <xref rid="T1" ref-type="table">Table 1</xref>, and the results are presented in <xref rid="F3" ref-type="fig">Fig. 3</xref>. Using this adjustment, MICs which are below the MIC of pure acetic acid reflect the vinegar being more antibacterial than expected if acetic acid is the only explanation for their activity, i.e. additional antibacterial molecules and/or molecules which potentiate the activity of acetic acid are present in the vinegar. Conversely, MICs which are above the MIC of pure acetic acid suggest that the vinegar contains molecules which antagonize the activity of acetic acid.</p><fig position="float" fig-type="figure" id="F3" orientation="portrait"><label>Fig. 3.</label><caption><p>MICs of selected vinegars and acetic acid. MIC tests were conducted against <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> PA14 and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> Newman using a broth microdilution method according to EUCAST guidelines. The assay was repeated in cation-adjusted Muller–Hinton broth (caMHB, left) and synthetic wound fluid (SWF, right).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="mic-169-1351-g003.jpg"><?image-name mic-169-1351-g003.jpg?><?image-size 58232?><?image-md5 79d26ad67d7611c8c5d99c41925ec9dc?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1384?><?image-original-width 1990?><?image-scaled-height 554?><?image-scaled-width 796?><?image-cloudpmc-urn urn:cdn:blobs/acdd/10433418/79d26ad67d76/mic-169-1351-g003.jpg?><?thumb-name mic-169-1351-g003.gif?><?thumb-size 9002?><?thumb-md5 41f788a740cbfdc0612735302a2a27b2?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 115?><?thumb-cloudpmc-urn urn:cdn:blobs/acdd/10433418/41f788a740cb/mic-169-1351-g003.gif?></graphic></fig><p>As shown in <xref rid="F3" ref-type="fig">Fig. 3</xref>, in caMHB, most vinegars were about as effective as an equivalent concentration of pure acetic acid against <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic>; the exception was mead vinegar, which was considerably more active than pure acetic acid. However, most of the vinegars were slightly more effective than pure acetic acid against <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> in caMHB, with the exception of apple cider vinegar, which had very similar activity to that of pure acetic acid. Conducting the MIC assay in SWF had little effect on the activity of vinegars against <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic>, except that date vinegar became less active than expected from its acetic acid content. However, for <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic>, five of the seven vinegars (grape, mead, pomegranate, red wine and white wine vinegars) had a much lower MIC than pure acetic acid when tested in SWF. The duplicate replicates of all MIC or MBC values obtained were within one 2-fold dilution. Taken together, these results show that some vinegars contain antibacterial molecules in addition to acetic acid, and/or molecules that potentiate the activity of acetic acid, depending on the target bacterial species and the test media.</p></sec><sec id="s4-4"><title>Activity of acetic acid, red wine vinegars and pomegranate vinegars against biofilms of <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> in a synthetic wound model</title><p>We selected two vinegars for further exploration of their activity against biofilms of <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic>. These were red wine vinegar (RWV) and pomegranate vinegar (PV). We chose RWV as a representative of the six vinegars with very similar chromatograms, and because wine was probably a common starting material for vinegar manufacture in different locations and in different time periods. PV was chosen as its chromatogram was so different from the other vinegars explored, suggesting that it is a more complex preparation. We purchased additional examples of RWV and PV, from different manufacturers, to see if any characteristics of the vinegar types were reproducible when the vinegars were obtained from different sources. In <xref rid="T1" ref-type="table">Table 1</xref>, the initial RWV and PV used for MIC testing are denoted RWV1 and PV1, and the new samples are denoted RWV2 and PV2. HPLC analysis of undiluted RWV2 and PV2 showed that they had similar chromatograms to RWV1 and PV1, respectively (<xref rid="F4" ref-type="fig">Figs 4</xref>, S5, S6 and S7). Like RWV1, RWV2 contained a relatively high concentration of acetic acid (RWV1: 5.92 %; RWV2: 8.30 %). Interestingly, while PV1 had the second highest concentration of all vinegars tested (7.71 %), PV2 had the lowest (2.4 %).</p><fig position="float" fig-type="figure" id="F4" orientation="portrait"><label>Fig. 4.</label><caption><p>Chromatograms of example aliquots of different red wine and pomegranate vinegars. Representative chromatograms from triplicate aliquots of (a) RWV1 and RWV2, and (<bold>b</bold>) PV1 and PV2; diluted samples at 210 nm. See Figs S5–S7 for individual chromatograms of aliquots read at 210, 260 and 280 nm. Retention times are in minutes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="mic-169-1351-g004.jpg"><?image-name mic-169-1351-g004.jpg?><?image-size 43125?><?image-md5 b81b2603649d6f2f0b15979dc410c5aa?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 2568?><?image-original-width 2062?><?image-scaled-height 856?><?image-scaled-width 687?><?image-cloudpmc-urn urn:cdn:blobs/acdd/10433418/b81b2603649d/mic-169-1351-g004.jpg?><?thumb-name mic-169-1351-g004.gif?><?thumb-size 1756?><?thumb-md5 e2752f8e76e9da586371b30623f7cecc?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 125?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/acdd/10433418/e2752f8e76e9/mic-169-1351-g004.gif?></graphic></fig><p>Biofilms of each bacterial species were grown in an SWF-based soft-tissue wound model [<xref rid="R57" ref-type="bibr">57</xref>]. The model comprises SWF solidified with collagen. Biofilms were allowed to establish in the model for 24 h, and then treated topically with different doses of water, pure acetic acid, RWV1, RWV2, PV1 or PV2. Doses used were 0.5, 1 and 3 % acetic acid or acetic acid equivalent. After 24 h of exposure to the treatments, biofilms were enzymatically degraded to release bacteria and the numbers of viable bacteria in each biofilm were estimated using colony counts. Dose–response curves were fitted to the data and are shown with a linear <italic toggle="yes">y</italic>-axis scale in <xref rid="F5" ref-type="fig">Fig. 5</xref>. Raw data are provided plotted on a logged <italic toggle="yes">y</italic>-axis in Fig. S8. EC<sub>50</sub> values were calculated for each treatment and are summarized in <xref rid="T2" ref-type="table">Table 2</xref>. These reveal that RWV1, RWV2 and PV1 are less bactericidal against biofilms of <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> (had higher EC<sub>50</sub>) than equivalent doses of pure acetic acid. This contrasts with the data for MICs in planktonic cultures of the bacteria in SWF, where RWV1 and PV1 were as effective or more effective at inhibiting the bacteria than pure acetic acid. PV2, on the other hand, had a much lower EC<sub>50</sub> than pure acetic acid against biofilms of both species, reflecting greater biofilm-killing activity.</p><fig position="float" fig-type="figure" id="F5" orientation="portrait"><label>Fig. 5.</label><caption><p>Dose–response of mature biofilms to acetic acid, red wine vinegars and pomegranate vinegars. Triplicate synthetic wounds containing mature biofilms of either <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> PA14 or <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> Newman were topically treated with water, acetic acid at 0.5, 1 or 2 %, or RWV1, RWV2, PV1 or PV2 at concentrations containing 0.5, 1 or 2 % acetic acid. After 24 h of treatment, wounds were enzymatically digested to release bacteria, serially diluted and plated out to count colonies. Colony-forming units (c.f.u.) are used to estimate the number of viable bacterial cells in the biofilms. The R package <italic toggle="yes">drc</italic> [<xref rid="R61" ref-type="bibr">61</xref>] was used to fit dose–response curves for each treatment and the EC<sub>50</sub> for each treatment is indicated by an arrow on the <italic toggle="yes">x</italic>-axis. The EC<sub>50</sub> is the concentration predicted to cause a half-maximal kill. Circles and solid lines are used for RWV1 and PV1 data; squares and dashed lines are used for RWV2 and PV2 data. The acetic acid experiment was repeated and data for the two replica experiments are shown with circles+solid lines and squares+dashed lines. These data are provided on a log-transformed <italic toggle="yes">y</italic>-axis in Fig. S8; raw data and R code are provided in Document S1.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="mic-169-1351-g005.jpg"><?image-name mic-169-1351-g005.jpg?><?image-size 79876?><?image-md5 63f00359ffd51d092b33bd1e6932e47b?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 3343?><?image-original-width 3617?><?image-scaled-height 668?><?image-scaled-width 723?><?image-cloudpmc-urn urn:cdn:blobs/acdd/10433418/63f00359ffd5/mic-169-1351-g005.jpg?><?thumb-name mic-169-1351-g005.gif?><?thumb-size 15385?><?thumb-md5 0d57803e1193fbe555880c01da7ecd9a?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 92?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/acdd/10433418/0d57803e1193/mic-169-1351-g005.gif?></graphic></fig><table-wrap position="float" id="T2" orientation="portrait"><label>Table 2.</label><caption><p>EC<sub>50</sub> of pure acetic acid, red wine vinegars and pomegranate vinegars against mature biofilms of <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> grown in a synthetic wound model</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="top" rowspan="2" colspan="1"/><th align="center" valign="top" colspan="2" rowspan="1">
+<p>EC50 (% acetic acid equivalent)</p>
+</th></tr><tr><th align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic>
+</p>
+</th><th align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic>
+</p>
+</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Acetic acid (replicate 1)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>0.56</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>0.53</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Acetic acid (replicate 2)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>0.49</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>0.33</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>RWV1</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>0.79</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>0.72</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>RWV2</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>0.96</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>0.89</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>PV1</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>0.94</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>0.96</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>PV2</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>0.28</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>0.01</p>
+</td></tr></tbody></table></table-wrap></sec><sec id="s4-5"><title>Synergistic activity of acetic acid and some vinegars with medical-grade honey, against mature biofilms of <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> in a soft-tissue wound model</title><p>We next tested the hypothesis that vinegar and honey may show synergistic antibacterial activity. Our systematic review of the literature did not reveal any published study that tested this hypothesis. We again grew biofilms of either <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> or <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> in the synthetic wound model, and aimed to topically treat these with sub-bactericidal concentrations of acetic acid, RWV1, RWV2, PV1 or PV2, alone or in combination with a sub-bactericidal dose of medical-grade honey. Based on the data shown in <xref rid="F5" ref-type="fig">Figs 5</xref> and S8, we chose 0.5 % acetic acid or equivalent concentrations of vinegar. (As PV2 was so active, this dose still caused some killing, but only enough to cause a 2log<sub>10</sub> drop in c.f.u.; Fig. S8.) We selected two candidate medical-grade honey ointments: the manuka honey product MediHoney 80 % gel and the non-manuka, peroxide honey product Revamil 100 % gel. Pilot experiments identified a treatment of 30 % (w/v) of each honey gel as sub-bactericidal in the biofilm model (data not shown). As shown in Table S5, the diluted acid and vinegars had very similar pH (2.9–3.2); Revamil diluted in sterile water had a comparable pH (3.2), while MediHoney diluted in sterile water had a slightly higher pH of 4.1. Acetic acid, RWV1 and PV1 were tested in one set of experiments; RWV2 and PV2 were tested in a second set. Each individual treatment or combination was tested against three biofilms of each species; the experiment was then repeated with a fresh starter culture of bacteria to yield six replicates of each treatment. The results of these experiments are shown in <xref rid="F6" ref-type="fig">Fig. 6</xref>.</p><fig position="float" fig-type="figure" id="F6" orientation="portrait"><label>Fig. 6.</label><caption><p>Effect of treating biofilms with acetic acid or vinegar, alone and in combination with medical-grade honey. Triplicate synthetic wounds containing mature biofilms of either <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> PA14 or <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> Newman were topically treated with water, 0.5 % acetic acid or RWV1, RWV2, PV1 or PV2 at concentrations containing 0.5 % acetic acid, MediHoney 80 % gel at 30 % (w/v), Revamil 100 % gel at 30 % (w/v) or combinations of each acid treatment plus each honey treatment. The experiment was repeated with a further set of triplicate wounds from a fresh starter culture. Circles and squares denote the replica experiments. After 24 h of treatment, wounds were enzymatically digested to release bacteria, serially diluted and plated out to count colonies. Colony-forming units (c.f.u.) are used to estimate the number of viable bacterial cells in the biofilms. (<bold>a</bold>) ANOVA revealed no significant interaction between acid treatment and honey treatment (acid <italic toggle="yes">F</italic>
+<sub>3,48</sub>=8.35, <italic toggle="yes">P</italic>&lt;0.001; honey <italic toggle="yes">F</italic>
+<sub>2,48</sub>=8.18, <italic toggle="yes">P</italic>&lt;0.001; acid×honey <italic toggle="yes">F</italic>
+<sub>6,48</sub>=1.46, <italic toggle="yes">P=</italic>0.213). (<bold>b</bold>) ANOVA revealed a significant interaction between acid treatment and honey treatment (acid <italic toggle="yes">F</italic>
+<sub>2,35</sub>=180, <italic toggle="yes">P</italic>&lt;0.001; honey <italic toggle="yes">F</italic>
+<sub>2,35</sub>=21.3, <italic toggle="yes">P</italic>&lt;0.001; acid×honey <italic toggle="yes">F</italic>
+<sub>4,35</sub>=20.8, <italic toggle="yes">P</italic>&lt;0.001). Planned contrasts using <italic toggle="yes">t</italic>-tests of each treatment versus the water-treated control showed that only PV2, PV2+Revamil and PV2+Medihoney caused any reduction in c.f.u. compared with the control (<italic toggle="yes">P</italic>&lt;0.001). (<bold>c</bold>) ANOVA revealed a significant interaction between acid treatment and honey treatment (acid <italic toggle="yes">F</italic>
+<sub>3,48</sub>=83.5, <italic toggle="yes">P</italic>&lt;0.001; honey <italic toggle="yes">F</italic>
+<sub>2,48</sub>=179, <italic toggle="yes">P</italic>&lt;0.001; acid×honey <italic toggle="yes">F</italic>
+<sub>6,48</sub>=28.2, <italic toggle="yes">P</italic>&lt;0.001). Planned contrasts using <italic toggle="yes">t</italic>-tests of each treatment versus the water-treated control showed that acetic acid, acetic acid+either honey, PV+MediHoney, RWV and RWV+MediHoney caused reductions in c.f.u. compared with the control (<italic toggle="yes">P≤</italic>0.003). (<bold>d</bold>) ANOVA revealed a significant interaction between acid treatment and honey treatment (acid <italic toggle="yes">F</italic>
+<sub>2,36</sub>=121, <italic toggle="yes">P</italic>&lt;0.001; honey <italic toggle="yes">F</italic>
+<sub>2,36</sub>=5.22, <italic toggle="yes">P=</italic>0.010; acid×honey <italic toggle="yes">F</italic>
+<sub>4,36</sub>=4.18, <italic toggle="yes">P=</italic>0.007). Planned contrasts using <italic toggle="yes">t</italic>-tests of each treatment versus the water-treated control showed that only PV2, PV2+Revamil and PV2+MediHoney caused reductions in c.f.u. compared with the control (<italic toggle="yes">P&lt;</italic>0.001). For the data shown in (b)–(d), the predicted c.f.u. in combination treatments under the assumption of no additive effects of acetic acid/vinegar and honey were calculated as described in the main text and plotted as horizontal bars. The fitted means and associated 95 % confidence intervals for the observed c.f.u. in combination treatments were calculated using the R package <italic toggle="yes">lsmeans</italic> and added to the plots as small black circles and associated error bars. The predicted mean c.f.u. for combination treatments under Response Additivity and Bliss Independence are shown as thick horizontal black and grey bars, respectively. Where the 95 % confidence intervals around observed means do not overlap with these predicted values, the observed c.f.u. is significantly different from that predicted under the respective null model. Raw data and associated R code are provided in Document S1; data were log-transformed prior to analysis to meet the assumptions of ANOVA and the R package <italic toggle="yes">car</italic> [<xref rid="R62" ref-type="bibr">62</xref>] was used to conduct the ANOVA on the data in (b) because a missing value led to non-orthogonality.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="mic-169-1351-g006.jpg"><?image-name mic-169-1351-g006.jpg?><?image-size 67484?><?image-md5 579d82abb1425c75dfd2af66946fbf91?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1275?><?image-original-width 2049?><?image-scaled-height 425?><?image-scaled-width 683?><?image-cloudpmc-urn urn:cdn:blobs/acdd/10433418/579d82abb142/mic-169-1351-g006.jpg?><?thumb-name mic-169-1351-g006.gif?><?thumb-size 12912?><?thumb-md5 08106d67534fca700378108bf6f71889?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 128?><?thumb-cloudpmc-urn urn:cdn:blobs/acdd/10433418/08106d67534f/mic-169-1351-g006.gif?></graphic></fig><p>Tests for synergy of antibacterial agents usually rely on a checkerboard design, where multiple concentrations of each agent are tested and fully cross-factored. This allows the MIC or MBC of each agent to be calculated when used alone, and when in combination with the second agent. Using these data, a fractional inhibitory concentration can be calculated and used to determine if the agents show additive, synergistic or antagonistic activity. Alternatively, a synergy landscape can be plotted using a statistical model chosen based on the known mechanisms of action of the agents and regions of concentrations resulting in additive, synergistic or antagonistic activity can be identified [<xref rid="R79" ref-type="bibr">79, 80</xref>]. The scale of a checkerboard-style experiment when working with five types of acetic acid treatment, two different honeys and a biofilm model is prohibitive, and so we limited ourselves to testing only one concentration of each agent, which was chosen to be sub-bactericidal or minimally bactericidal based on previous experiments. We therefore used the following procedure to test for synergy. First, for each species we used ANOVA to test for the effect on c.f.u. of starter culture, honey treatment (none, Revamil or MediHoney), acid treatment (in experiment 1: none, AA, RWV1 or PV1; in experiment 2: none, RWV2 or PV2) and acid×honey. Synergy or antagonism can only be possible if the interaction term is significant, because a significant interaction means that the effect of the acid treatment depends on the honey treatment, and vice versa. In the experiments using acetic acid, RWV1 and PV1, the interaction was not significant for <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> (<xref rid="F6" ref-type="fig">Fig. 6a</xref>) but was significant for <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> (<xref rid="F6" ref-type="fig">Fig. 6b</xref>). In the experiments using RWV2 and PV2, the interaction was significant for both <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> (<xref rid="F6" ref-type="fig">Fig. 6c, d</xref>). Thus, we concluded that neither honey was synergistic or antagonistic with acetic acid, RWV1 or PV1 against biofilms of <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic>, but that interactions between honey and acetic acid/vinegar should be further explored in the other data sets.</p><p>When testing for synergy between antibacterial agents, various null hypotheses that predict the effect of combination treatment in the absence of synergy have been proposed [<xref rid="R80" ref-type="bibr">80</xref>]. These depend on the mechanisms of action of the two agents being combined. Acetic acid and other weak acids kill bacteria by crossing the cell membrane, collapsing the proton gradient necessary for ATP synthesis and acidifying the cytoplasm, leading to denaturation of proteins and DNA (see [<xref rid="R7" ref-type="bibr">7, 81</xref>] and references therein). Honeys similarly have a range of effects on bacteria: all honeys exert some effect via osmotic stress and low pH; peroxide generated by honeys such as Revamil produce free radicals that damage components of the cell membrane, wall and intracellular targets; and methylglyoxal present in manuka honeys such as MediHoney can disrupt protein and DNA synthesis, as well as altering cell membrane permeability and damaging cell surface structures (see [<xref rid="R82" ref-type="bibr">82</xref>] and references therein). Thus, acetic acid (or vinegar) and honey probably attack multiple, partially overlapping sets of cellular targets and do not have identical mechanisms of bactericidal action.</p><p>Different reference models of drug synergy make different assumptions about the test agents’ mechanisms of action and dose–response curves. Because our test agents have multiple, partially overlapping mechanisms of action, and because the dose–response relationships in our model has not been fully explored, we assessed their activity using two different synergy models that are amenable to use for single-dose experiments: the Response Additivity or Linear Interaction Effect, and Bliss Independence (reviewed by [<xref rid="R63" ref-type="bibr">63</xref>]).</p><p>Under Response Additivity, the combined effect of non-interacting agents should be the sum of their individual effects: i.e. if A causes an <italic toggle="yes">a</italic>log<sub>10</sub> kill and B causes a <italic toggle="yes">b</italic>log<sub>10</sub> kill, Response Additivity should produce an (<italic toggle="yes">a+b</italic>)log<sub>10</sub> kill [<xref rid="R63" ref-type="bibr">63</xref>]. Synergy would produce a greater than (<italic toggle="yes">a</italic>+<italic toggle="yes">b</italic>)log<sub>10</sub> kill, and antagonism would produce a less than (<italic toggle="yes">a</italic>+<italic toggle="yes">b</italic>)log<sub>10</sub> kill. We therefore calculated the predicted viable c.f.u. count for each combination treatment under Response Additivity, shown as horizontal black bars on the plots in <xref rid="F6" ref-type="fig">Fig. 6</xref>. By plotting the 95 % confidence interval around the observed mean c.f.u. in each combination treatment, we can see whether the observed c.f.u. is significantly less than or greater than the predicted c.f.u. under Response Additivity. Using this method, we concluded that PV2 showed synergistic activity with MediHoney and Revamil against <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> biofilms; however, the magnitude of this effect for Revamil was very small and probably not biologically meaningful (<xref rid="F6" ref-type="fig">Fig. 6c</xref>). For <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> biofilms, acetic acid, RWV1, PV1 and PV2 showed synergistic activity with MediHoney, although this effect was very small for PV1. None of the vinegars, nor acetic acid, showed any meaningful synergy with Revamil against <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> (<xref rid="F6" ref-type="fig">Fig. 6b, d</xref>).</p><p>Under Bliss Independence, if A and B act independently (additively), and the probability of being a cell being killed (fractional change in viable cells) by A is <italic toggle="yes">p</italic>(<italic toggle="yes">A</italic>) and the probability of being a cell being killed by B is <italic toggle="yes">p</italic>(<italic toggle="yes">B</italic>), then independent action results in a fractional decrease in viable cells under combination treatment of <italic toggle="yes">p</italic>(<italic toggle="yes">A</italic>)<italic toggle="yes">+p</italic>(<italic toggle="yes">B</italic>)<italic toggle="yes">−</italic>[<italic toggle="yes">p</italic>(<italic toggle="yes">A</italic>)<italic toggle="yes">×p</italic>(<italic toggle="yes">B</italic>)] [<xref rid="R60" ref-type="bibr">60</xref>]. This leads to the predicted mean c.f.u. indicated by the horizontal grey bars in <xref rid="F6" ref-type="fig">Fig. 6</xref>; under the Bliss null model, there is no major change in our conclusions; the only difference related to the two cases where Response Additivity showed statistically significant but very slight synergy (PV1+Revamil in <xref rid="F6" ref-type="fig">Fig. 6c</xref>, PV2+Revamil in <xref rid="F6" ref-type="fig">Fig. 6d</xref>); neither of these combinations was synergistic under Bliss Independence.</p><p>In conclusion, our results show the potential for some vinegars to have antibacterial activity that exceeds that predicted by their acetic acid content alone, but that this depends on the bacterial species being investigated and the growth conditions (media type, planktonic vs. biofilm). Pomegranate vinegars may be a particularly interesting candidate vinegar for further chemical and microbiological study. We also conclude that there is a potential for acetic acid, and some vinegars, to show synergistic antibiofilm effects with manuka honey.</p></sec></sec><sec sec-type="discussion" id="s5"><title>Discussion</title><p>In natural product (NP) research, the protocols for examining chemical composition are often based on looking at a single ingredient, as has been the case with honey and vinegar as individual components, or a single compound purified from a complex NP. Here our question concerns the potential of synergistic pairing present in a complex ingredient (vinegar) and an ingredient mixture (<italic toggle="yes">oxymel</italic>), in which the summed activity of compounds present may be greater than each individual part [<xref rid="R17" ref-type="bibr">17, 83</xref>]. The activity of NPs, and NPs in mixtures, is well understood to be impacted by biological variation present in plants as well as the physiological state of the microbes they are used against (reviewed by [<xref rid="R84" ref-type="bibr">84</xref>]). One systematic review reported a great degree of variation in values between brands of medical honeys [<xref rid="R85" ref-type="bibr">85</xref>]. In the case of medical-grade manuka honey, calculation of a unique manuka factor (UMF), which is a measure of its anti-staphylococcal activity <italic toggle="yes">in vitro</italic> and is well correlated with its total phenolic and methylglyoxal content, is used to overcome product variation [<xref rid="R86" ref-type="bibr">86</xref>]. However, in the case of whole vinegar, aside from acetic acid, specific contributing antimicrobial molecules and their biocidal activity are largely unknown. Unsurprisingly, previous research has identified that chemical compounds present in vinegar, and the concentrations at which they are found, vary between batches produced [<xref rid="R68" ref-type="bibr">68</xref>]. Acetic acid, for topical medical applications, has received the most research attention for its evidenced efficacy, and also perhaps due to this challenge in assessing whole vinegar and variability in physicochemical properties (such as traditionally distilled vinegars versus commercial vinegars, and the botanical origin of the vinegar) [<xref rid="R87" ref-type="bibr">87</xref>]. This added complexity is part of what makes the investigation of NPs more difficult and time-consuming than purified compounds.</p><p>Our systematic review found that the published evidence was insufficient to create comparisons of the antimicrobial activities of vinegars, or to draw meaningful conclusions about the contribution of compounds other than acetic acid to the antimicrobial activities of vinegars, due to the variability in methodologies and variation in quality of the studies. Although there is some evidence that acetic acid has a dose-dependent effect on the antimicrobial activity of vinegars, other molecules present and interactions between the two have not been fully explored. To address gaps highlighted by the review, we characterized selected vinegars by HPLC and assessed their antibacterial and antibiofilm activity using <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> as example Gram-negative and Gram-positive bacterial pathogens.</p><p>We found that the concentration of acetic acid in a range of commercial vinegars did not explain their MIC in planktonic culture. Depending on the growth medium used and the target species, many vinegars had a lower MIC than that of an equivalent concentration of pure acetic acid, suggesting that other compounds present in the vinegars could have potentiating or synergistic effects on the activity of acetic acid. Further investigation of the biofilm eradication activity of two red wine vinegars and two pomegranate vinegars in a synthetic wound model concluded that in a biofilm context, the red wine vinegars and one of the pomegranate vinegars were as effective or slightly less effective than equivalent doses of pure acetic acid, but were still able to clear biofilms of both bacterial species at low doses. The second pomegranate vinegar had a stronger biofilm eradication ability than an equivalent concentration of acetic acid. Further work is needed to identify which compounds present in the vinegar are responsible for lending this additional antibiofilm activity.</p><p>We then explored the potential for a combination of medical-grade honey and acetic acid or selected vinegars to show synergistic biofilm eradication activity in the synthetic wound model. The scale of a checkerboard-style experiment was prohibitive given the use of a biofilm model, so we instead used single doses of honey or acetic acid/vinegar that caused no or low levels of killing in the biofilm model. Using the assumption of Response Additivity as a null model, we found that strong synergy existed between manuka-based MediHoney and three test treatments (acetic acid, one red wine vinegar and one pomegranate vinegar) when used to treat <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> biofilms. When used to treat <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> biofilms, only one pomegranate vinegar and the MediHoney showed strong synergy. None of the vinegars, nor acetic acid, showed any synergy with a peroxide-generating honey preparation under the Response Additivity model for estimating synergy in single-dose experiments. Using Bliss Independence as a null model for synergy testing did, however, suggest some synergy between the peroxide-generating Revamil honey and acetic acid or vinegar.</p><p>Further work is needed to fully explore the interactions between acetic acid or vinegars, with manuka honey. Ideally, a range of lab and clinical isolates of <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> and <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic> should be used in checkerboard and time-kill analysis of honey and acetic acid/vinegar combinations to provide ‘gold standard’ analysis of their interactions and the potential for synergy at a range of doses [<xref rid="R79" ref-type="bibr">79</xref>], compared with investigations into the mechanisms by which bacteria treated with combined versus individual agents are killed.</p><p>Our work confirms earlier suggestions that compounds present in some vinegars may enhance their antibacterial activity above that provided by acetic acid. To the best of our knowledge, our work also provides the first published study to address whether combinations of acetic acid or vinegar with honey can have synergistic antibiofilm effects. We demonstrated that acetic acid can synergize with a manuka-based medical-grade honey preparation in a biofilm eradication assay using either <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> or <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.2553" ext-link-type="uri">P. aeruginosa</ext-link>
+</named-content>
+</italic>. We also found that one pomegranate vinegar showed synergy with the honey against both study bacteria, and that one red wine vinegar showed synergy with the honey against <italic toggle="yes">
+<named-content content-type="species">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.1601/nm.11043" ext-link-type="uri">S. aureus</ext-link>
+</named-content>
+</italic> only.</p><p>The results from this preliminary study suggest that future research should concentrate on expanding the investigation of pomegranate vinegar to assess the spectrum of activity against other pathogenic species not included in the present study, and against clinical isolates of these species as well as laboratory strains. Fungal pathogens, such as <italic toggle="yes">Candida albicans</italic>, are also well established to colonize non-healing wounds, complicating treatment. It is therefore necessary to explore the efficacy of promising ingredient combinations against both clinical bacterial and fungal isolates. This work would support established applications and other ongoing investigations of honey and vinegar/acetic acid in a clinical context.</p><p>Medical honeys are used clinically not only for their bactericidal effect but their ability to generate an optimal environment within the wound bed, accelerating healing. Promising observed antibiofilm synergistic activity between manuka-based medical honey and acetic acid may complement these well-established beneficial properties of honey. The use of <italic toggle="yes">in vitro</italic> assays in this study does not facilitate the investigation of the effect of this combination on wound healing beyond antimicrobial or antibiofilm activity. Future work, therefore, should include tissue culture and/or <italic toggle="yes">in vivo</italic> assessment of wound healing. Providing that combinations of manuka honey and acetic acid do not produce adverse effects on tissue healing, a combined wound dressing product could be a suitable candidate for progression to a Phase I trial to assess superiority to dressings using each agent alone.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Data</title><supplementary-material position="float" id="supp1" content-type="local-data" orientation="portrait"><caption><title>Supplementary material 1</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mic-169-1351-s001.xlsx" position="float" orientation="portrait"><?suppdata-name mic-169-1351-s001.xlsx?><?suppdata-size 60311?><?suppdata-md5 b53baa0335cb5ecbb286b6f716f34424?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.spreadsheetml.sheet?><?suppdata-cloudpmc-urn urn:app:acdd/10433418/b53baa0335cb/mic-169-1351-s001.xlsx?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material position="float" id="supp2" content-type="local-data" orientation="portrait"><caption><title>Supplementary material 2</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mic-169-1351-s002.xlsx" position="float" orientation="portrait"><?suppdata-name mic-169-1351-s002.xlsx?><?suppdata-size 79825?><?suppdata-md5 e7627973df539d865c74d41bfad17605?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.spreadsheetml.sheet?><?suppdata-cloudpmc-urn urn:app:acdd/10433418/e7627973df53/mic-169-1351-s002.xlsx?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material position="float" id="supp3" content-type="local-data" orientation="portrait"><caption><title>Supplementary material 3</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mic-169-1351-s001.pdf" position="float" orientation="portrait"><?suppdata-name mic-169-1351-s001.pdf?><?suppdata-size 6901324?><?suppdata-md5 b82b870250d1322b32113049647be677?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:acdd/10433418/b82b870250d1/mic-169-1351-s001.pdf?><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ack1"><title>Funding information</title><p>The study was funded by a UKRI Future Leaders Fellowship awarded to E.C. MR/T020652/1. A.B. contributed to this research during her final-year research project for the MBio degree in Biological Sciences at the University of Warwick, which provided additional funding for laboratory consumables. The authors acknowledge use of the Agilent 1260 infinity II Preparative HPLC system and training support provided by the WISB Research Technology Facility within the School of Life Sciences, University of Warwick.</p></ack><ack id="ack2"><title>Acknowledgements</title><p>We thank Naseeba Alozaibi, Arwa Hasan and Derar Hasan Abdel-Qader for providing translations of the paper by Dallee Hamad into English; Hannah Bower for sharing her manuscript images; Bridget Penman and Oluwatosin Orababa for helpful discussions of using null models to test for synergy in single-dose experiments; the WISB Research Technology Facility, School of Life Sciences, University of Warwick, for training and support in the use of the Agilent 1260 infinity II Preparative HPLC system; and the Media Preparation Facility in the School of Life Sciences at the University of Warwick, with special thanks to Cerith Harries and Caroline Stewart.</p></ack><ack id="ack3"><title>Author contributions</title><p>Conceptualisation: E.C., Formal Analysis: F.H., Funding Acquisition: E.C., F.H., Investigation: A.B., C.d.W., F.H., Supervision: E.C., F.H., Writing – original draft: E.C., F.H., Writing – review &amp; editing: A.B., C.d.W., E.C., F.H.</p></ack><ack id="ack4"><title>Conflicts of interest</title><p content-type="COI-statement">The authors declare that there are no conflicts of interest.</p></ack><fn-group><fn id="fn1"><p>Abbreviations: ACN, acetonitrile; caMHB, cation-adjusted Mueller–Hinton broth; LB, Lysogeny broth; MBC, minimum bactericidal concentration; NP, natural product; RP-HPLC, reversed-phase HPLC; SWF, synthetic wound fluid; ZOI, zone of inhibition.</p></fn><fn id="fn2"><p>Five supplementary tables, eight supplementary figures and one supplementary data file are available with the online version of this article.</p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kuropatnicki</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Kłósek</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kucharzewski</surname><given-names>M</given-names></name>
+</person-group><article-title>Honey as medicine: historical perspectives</article-title><source>J Apic Res</source><year>2018</year><volume>57</volume><fpage>113</fpage><lpage>118</lpage><pub-id pub-id-type="doi">10.1080/00218839.2017.1411182</pub-id></element-citation></ref><ref id="R2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Eteraf-Oskouei</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Najafi</surname><given-names>M</given-names></name>
+</person-group><article-title>Traditional and modern uses of natural honey in human diseases: a review</article-title><source>Iran J Basic Med Sci</source><year>2013</year><volume>16</volume><fpage>731</fpage><lpage>742</lpage><pub-id pub-id-type="pmid">23997898</pub-id><pub-id pub-id-type="pmcid">PMC3758027</pub-id></element-citation></ref><ref id="R3"><label>3</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name name-style="western"><surname>Mazza</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Murooka</surname><given-names>Y</given-names></name>
+</person-group><part-title>Vinegars through the ages</part-title><person-group person-group-type="editor">
+<name name-style="western"><surname>Solieri</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Giudici</surname><given-names>P</given-names></name>
+</person-group><source>Vinegars of the World</source><publisher-loc>Milano</publisher-loc><publisher-name>Springer Milan</publisher-name><year>2009</year><fpage>17</fpage><lpage>39</lpage><pub-id pub-id-type="doi">10.1007/978-88-470-0866-3</pub-id></element-citation></ref><ref id="R4"><label>4</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name name-style="western"><surname>Krug</surname><given-names>I</given-names></name>
+</person-group><part-title>The wounded soldier: honey and late medieval military medicine</part-title><person-group person-group-type="editor">
+<name name-style="western"><surname>Krug</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Tracy</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>DeVries</surname><given-names>K</given-names></name>
+</person-group><source>Wounds and Wound Repair in Medieval Culture</source><publisher-name>Brill</publisher-name><year>2015</year><fpage>194</fpage><lpage>214</lpage><pub-id pub-id-type="doi">10.1163/9789004306455</pub-id></element-citation></ref><ref id="R5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zargaran</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Zarshenas</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Mehdizadeh</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Mohagheghzadeh</surname><given-names>A</given-names></name>
+</person-group><article-title>Oxymel in medieval Persia</article-title><source>Pharm Hist</source><year>2012</year><volume>42</volume><fpage>11</fpage><lpage>13</lpage><pub-id pub-id-type="pmid">22530314</pub-id></element-citation></ref><ref id="R6"><label>6</label><element-citation publication-type="book"><source>Lylye of Medicynes</source><publisher-loc>Ashmole 1505</publisher-loc><publisher-name>Oxford Bodleian Library, MS</publisher-name><fpage>147v</fpage><lpage>157r</lpage></element-citation></ref><ref id="R7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Halstead</surname><given-names>FD</given-names></name>
+<name name-style="western"><surname>Rauf</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Moiemen</surname><given-names>NS</given-names></name>
+<name name-style="western"><surname>Bamford</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Wearn</surname><given-names>CM</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The antibacterial activity of acetic acid against biofilm-producing pathogens of relevance to burns patients</article-title><source>PLoS One</source><year>2015</year><volume>10</volume><elocation-id>e0136190</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0136190</pub-id><pub-id pub-id-type="pmid">26352256</pub-id><pub-id pub-id-type="pmcid">PMC4566994</pub-id></element-citation></ref><ref id="R8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Halstead</surname><given-names>FD</given-names></name>
+<name name-style="western"><surname>Rauf</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bamford</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Wearn</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Bishop</surname><given-names>JRB</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Antimicrobial dressings: comparison of the ability of a panel of dressings to prevent biofilm formation by key burn wound pathogens</article-title><source>Burns</source><year>2015</year><volume>41</volume><fpage>1683</fpage><lpage>1694</lpage><pub-id pub-id-type="doi">10.1016/j.burns.2015.06.005</pub-id><pub-id pub-id-type="pmid">26188884</pub-id></element-citation></ref><ref id="R9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bjarnsholt</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Alhede</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Jensen</surname><given-names>PØ</given-names></name>
+<name name-style="western"><surname>Nielsen</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Johansen</surname><given-names>HK</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Antibiofilm properties of acetic acid</article-title><source>Adv Wound Care</source><year>2015</year><volume>4</volume><fpage>363</fpage><lpage>372</lpage><pub-id pub-id-type="doi">10.1089/wound.2014.0554</pub-id><pub-id pub-id-type="pmid">26155378</pub-id><pub-id pub-id-type="pmcid">PMC4486441</pub-id></element-citation></ref><ref id="R10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ryssel</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Kloeters</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Germann</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Schäfer</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Wiedemann</surname><given-names>G</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The antimicrobial effect of acetic acid--an alternative to common local antiseptics?</article-title><source>Burns</source><year>2009</year><volume>35</volume><fpage>695</fpage><lpage>700</lpage><pub-id pub-id-type="doi">10.1016/j.burns.2008.11.009</pub-id><pub-id pub-id-type="pmid">19286325</pub-id></element-citation></ref><ref id="R11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ryssel</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Germann</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Riedel</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Reichenberger</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hellmich</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Suprathel-acetic acid matrix versus acticoat and aquacel as an antiseptic dressing: an in vitro study</article-title><source>Ann Plast Surg</source><year>2010</year><volume>65</volume><fpage>391</fpage><lpage>395</lpage><pub-id pub-id-type="doi">10.1097/SAP.0b013e3181d6e2f2</pub-id><pub-id pub-id-type="pmid">20798627</pub-id></element-citation></ref><ref id="R12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Giudici</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>F</given-names></name>
+</person-group><article-title>Vinegar functions on health: constituents, sources, and formation mechanisms</article-title><source>Compr Rev Food Sci Food Saf</source><year>2016</year><volume>15</volume><fpage>1124</fpage><lpage>1138</lpage><pub-id pub-id-type="doi">10.1111/1541-4337.12228</pub-id><pub-id pub-id-type="pmid">33401833</pub-id></element-citation></ref><ref id="R13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Boban</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Tonkic</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Budimir</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Modun</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Sutlovic</surname><given-names>D</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Antimicrobial effects of wine: separating the role of polyphenols, pH, ethanol, and other wine components</article-title><source>J Food Sci</source><year>2010</year><volume>75</volume><fpage>M322</fpage><lpage>M326</lpage><pub-id pub-id-type="doi">10.1111/j.1750-3841.2010.01622.x</pub-id><pub-id pub-id-type="pmid">20629891</pub-id></element-citation></ref><ref id="R14"><label>14</label><element-citation publication-type="webpage"><article-title>ISRCTN11636684: A clinical trial looking at the efficacy and optimal dose of acetic acid in burn wound infections</article-title><comment>n.d</comment><comment>10.1186/ISRCTN11636684</comment></element-citation></ref><ref id="R15"><label>15</label><element-citation publication-type="webpage"><person-group>
+<collab>NIHR</collab>
+<collab>SRMRC</collab>
+</person-group><article-title>AceticA. Examining the efficacy and optimal dose of acetic acid to treat colonised burns wounds IRAS ID 142301</article-title><comment>n.d</comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://srmrc.nihr.ac.uk/trials/acetica/" ext-link-type="uri">https://srmrc.nihr.ac.uk/trials/acetica/</ext-link><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjopen-2021-058006</pub-id><pub-id pub-id-type="pmcid">PMC10533794</pub-id><pub-id pub-id-type="pmid">37748846</pub-id></element-citation></ref><ref id="R16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Nour</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Reid</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Sathanantham</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Mackie</surname><given-names>I</given-names></name>
+</person-group><article-title>Acetic acid dressings used to treat pseudomonas colonised burn wounds: a UK national survey</article-title><source>Burns</source><year>2022</year><volume>48</volume><fpage>1364</fpage><lpage>1367</lpage><pub-id pub-id-type="doi">10.1016/j.burns.2021.07.011</pub-id><pub-id pub-id-type="pmid">34862089</pub-id></element-citation></ref><ref id="R17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Caesar</surname><given-names>LK</given-names></name>
+<name name-style="western"><surname>Cech</surname><given-names>NB</given-names></name>
+</person-group><article-title>Synergy and antagonism in natural product extracts: when 1 + 1 does not equal 2</article-title><source>Nat Prod Rep</source><year>2019</year><volume>36</volume><fpage>869</fpage><lpage>888</lpage><pub-id pub-id-type="doi">10.1039/c9np00011a</pub-id><pub-id pub-id-type="pmid">31187844</pub-id><pub-id pub-id-type="pmcid">PMC6820002</pub-id></element-citation></ref><ref id="R18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Carneiro</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Couto</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Mena</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Queiroz</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Hogg</surname><given-names>T</given-names></name>
+</person-group><article-title>Activity of wine against <italic toggle="yes">Campylobacter jejuni</italic>
+</article-title><source>Food Control</source><year>2008</year><volume>19</volume><fpage>800</fpage><lpage>805</lpage><pub-id pub-id-type="doi">10.1016/j.foodcont.2007.08.006</pub-id></element-citation></ref><ref id="R19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Møretrø</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Daeschel</surname><given-names>MA</given-names></name>
+</person-group><article-title>Wine is bactericidal to foodborne pathogens</article-title><source>J Food Sci</source><year>2004</year><volume>69</volume><fpage>M251</fpage><lpage>M257</lpage><pub-id pub-id-type="doi">10.1111/j.1365-2621.2004.tb09938.x</pub-id></element-citation></ref><ref id="R20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Budak</surname><given-names>NH</given-names></name>
+<name name-style="western"><surname>Aykin</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Seydim</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Greene</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Guzel-Seydim</surname><given-names>ZB</given-names></name>
+</person-group><article-title>Functional properties of vinegar</article-title><source>J Food Sci</source><year>2014</year><volume>79</volume><fpage>R757</fpage><lpage>R764</lpage><pub-id pub-id-type="doi">10.1111/1750-3841.12434</pub-id><pub-id pub-id-type="pmid">24811350</pub-id></element-citation></ref><ref id="R21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kelebek</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Kadiroğlu</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Demircan</surname><given-names>NB</given-names></name>
+<name name-style="western"><surname>Selli</surname><given-names>S</given-names></name>
+</person-group><article-title>Screening of bioactive components in grape and apple vinegars: antioxidant and antimicrobial potential</article-title><source>J Inst Brew</source><year>2017</year><volume>123</volume><fpage>407</fpage><lpage>416</lpage><pub-id pub-id-type="doi">10.1002/jib.432</pub-id></element-citation></ref><ref id="R22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Maddocks</surname><given-names>SE</given-names></name>
+<name name-style="western"><surname>Jenkins</surname><given-names>RE</given-names></name>
+</person-group><article-title>Honey: a sweet solution to the growing problem of antimicrobial resistance?</article-title><source>Future Microbiol</source><year>2013</year><volume>8</volume><fpage>1419</fpage><lpage>1429</lpage><pub-id pub-id-type="doi">10.2217/fmb.13.105</pub-id><pub-id pub-id-type="pmid">24199801</pub-id></element-citation></ref><ref id="R23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Jenkins</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Roberts</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>HL</given-names></name>
+</person-group><article-title>On the antibacterial effects of manuka honey: mechanistic insights</article-title><source>RRB</source><year>2015</year><volume>6</volume><fpage>215</fpage><lpage>244</lpage><pub-id pub-id-type="doi">10.2147/RRB.S75754</pub-id></element-citation></ref><ref id="R24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Molan</surname><given-names>PC</given-names></name>
+</person-group><article-title>Potential of honey in the treatment of wounds and burns</article-title><source>Am J Clin Dermatol</source><year>2001</year><volume>2</volume><fpage>13</fpage><lpage>19</lpage><pub-id pub-id-type="doi">10.2165/00128071-200102010-00003</pub-id><pub-id pub-id-type="pmid">11702616</pub-id></element-citation></ref><ref id="R25"><label>25</label><element-citation publication-type="webpage"><article-title>Food and Drug Administration Executive Summary: Classification of Wound Dressings Combined with Drugs, Prepared for the Meeting of the General and Plastic Surgery Devices Advisory Panel September 20-21</article-title><year>2016</year><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.fda.gov/media/100005/download" ext-link-type="uri">https://www.fda.gov/media/100005/download</ext-link></element-citation></ref><ref id="R26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Derwin</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Patton</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Avsar</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Strapp</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Moore</surname><given-names>Z</given-names></name>
+</person-group><article-title>The impact of topical agents and dressing on pH and temperature on wound healing: a systematic, narrative review</article-title><source>Int Wound J</source><year>2022</year><volume>19</volume><fpage>1397</fpage><lpage>1408</lpage><pub-id pub-id-type="doi">10.1111/iwj.13733</pub-id><pub-id pub-id-type="pmid">34931445</pub-id><pub-id pub-id-type="pmcid">PMC9493238</pub-id></element-citation></ref><ref id="R27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Jull</surname><given-names>AB</given-names></name>
+<name name-style="western"><surname>Cullum</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Dumville</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Westby</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Deshpande</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Honey as a topical treatment for wounds</article-title><source>Cochrane Database Syst Rev</source><year>2015</year><elocation-id>CD005083</elocation-id><pub-id pub-id-type="doi">10.1002/14651858.CD005083.pub4</pub-id><pub-id pub-id-type="pmid">25742878</pub-id><pub-id pub-id-type="pmcid">PMC9719456</pub-id></element-citation></ref><ref id="R28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Grego</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Robino</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Tramuta</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Giusto</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Boi</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Evaluation of antimicrobial activity of Italian honey for wound healing application in veterinary medicine</article-title><source>Schweiz Arch Tierheilkd</source><year>2016</year><volume>158</volume><fpage>521</fpage><lpage>527</lpage><pub-id pub-id-type="doi">10.17236/sat00075</pub-id><pub-id pub-id-type="pmid">27504886</pub-id></element-citation></ref><ref id="R29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Fidaleo</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Zuorro</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lavecchia</surname><given-names>R</given-names></name>
+</person-group><article-title>Antimicrobial activity of some Italian honeys against pathogenic bacteria</article-title><source>Chem Eng Trans</source><year>2011</year><fpage>1015</fpage><lpage>1020</lpage></element-citation></ref><ref id="R30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Cooke</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Dryden</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Patton</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Brennan</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Barrett</surname><given-names>J</given-names></name>
+</person-group><article-title>The antimicrobial activity of prototype modified honeys that generate reactive oxygen species (ROS) hydrogen peroxide</article-title><source>BMC Res Notes</source><year>2015</year><volume>8</volume><fpage>20</fpage><pub-id pub-id-type="doi">10.1186/s13104-014-0960-4</pub-id><pub-id pub-id-type="pmid">25627827</pub-id><pub-id pub-id-type="pmcid">PMC4312449</pub-id></element-citation></ref><ref id="R31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Masoura</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gkatzionis</surname><given-names>K</given-names></name>
+</person-group><article-title>The antimicrobial mechanism of Greek thyme honeys against methicillin‐resistant <italic toggle="yes">Staphylococcus aureus</italic> clinical isolates: a case study of comparison with manuka honey</article-title><source>Int J of Food Sci Tech</source><year>2022</year><volume>57</volume><fpage>7076</fpage><lpage>7084</lpage><pub-id pub-id-type="doi">10.1111/ijfs.16045</pub-id></element-citation></ref><ref id="R32"><label>32</label><element-citation publication-type="webpage"><article-title>British National Formulary</article-title><comment>n.d</comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://bnf.nice.org.uk/wound-management/honey-dressings.html" ext-link-type="uri">https://bnf.nice.org.uk/wound-management/honey-dressings.html</ext-link></element-citation></ref><ref id="R33"><label>33</label><element-citation publication-type="book"><person-group>
+<collab>Oxford Health NHS Foundation Trust</collab>
+</person-group><source>Medical Honey Simplified. A Guide to the Role of Honey in Wound Management for Healthcare Professionals, OP-061</source><year>2015</year></element-citation></ref><ref id="R34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Mitchell</surname><given-names>T</given-names></name>
+</person-group><article-title>Use of Manuka honey for autolytic debridement in necrotic and sloughy wounds</article-title><source>J Community Nurs</source><year>2018</year><volume>32</volume><fpage>38</fpage><lpage>43</lpage></element-citation></ref><ref id="R35"><label>35</label><element-citation publication-type="book"><person-group>
+<collab>Cambridge University Library</collab>
+</person-group><source>MS. Kk.6.33, Fol. 31v</source></element-citation></ref><ref id="R36"><label>36</label><element-citation publication-type="book"><person-group>
+<collab>Oxford Bodleian Library</collab>
+</person-group><source>MS. Ashmole 1505, Fol. 26r</source></element-citation></ref><ref id="R37"><label>37</label><element-citation publication-type="book"><person-group>
+<collab>Oxford Bodleian Library</collab>
+</person-group><source>MS. Ashmole 1505, Fol. 27r</source></element-citation></ref><ref id="R38"><label>38</label><element-citation publication-type="book"><person-group>
+<collab>Oxford Bodleian Library</collab>
+</person-group><source>MS. Add. A. 106, Fol. 183v</source></element-citation></ref><ref id="R39"><label>39</label><element-citation publication-type="book"><person-group>
+<collab>Oxford Bodleian Library</collab>
+</person-group><source>MS. Ashmole 1505, Fol. 28r</source></element-citation></ref><ref id="R40"><label>40</label><element-citation publication-type="book"><person-group>
+<collab>Oxford Bodleian Library</collab>
+</person-group><source>MS. Ashmole 1505, Fol. 137v</source></element-citation></ref><ref id="R41"><label>41</label><element-citation publication-type="book"><person-group>
+<collab>Cambridge University Library</collab>
+</person-group><source>MS. Kk.6.33, Fol. 49r</source></element-citation></ref><ref id="R42"><label>42</label><element-citation publication-type="book"><person-group>
+<collab>Oxford Bodleian Library</collab>
+</person-group><source>MS. Add. A. 106, Fol. 186r</source></element-citation></ref><ref id="R43"><label>43</label><element-citation publication-type="book"><person-group>
+<collab>Oxford Bodleian Library</collab>
+</person-group><source>MS. Add. B. 60, Fols 101r-101v</source></element-citation></ref><ref id="R44"><label>44</label><element-citation publication-type="book"><person-group>
+<collab>Oxford Bodleian Library</collab>
+</person-group><source>MS. Ashmole 1432, Fol. 43r</source></element-citation></ref><ref id="R45"><label>45</label><element-citation publication-type="book"><person-group>
+<collab>Cambridge University Library</collab>
+</person-group><source>MS. Kk.6.33, Fols 7r, 80v, 10</source></element-citation></ref><ref id="R46"><label>46</label><element-citation publication-type="book"><person-group>
+<collab>British Library</collab>
+</person-group><source>MS. Lansdowne 680, Fol. 62r</source></element-citation></ref><ref id="R47"><label>47</label><element-citation publication-type="book"><person-group>
+<collab>Oxford Bodleian Library</collab>
+</person-group><source>MS. Add. A. 106, Fol. 285r</source></element-citation></ref><ref id="R48"><label>48</label><element-citation publication-type="book"><person-group>
+<collab>Oxford Bodleian Library</collab>
+</person-group><source>MS. Add. B. 60, Fol. 29r</source></element-citation></ref><ref id="R49"><label>49</label><element-citation publication-type="book"><person-group>
+<collab>British Library</collab>
+</person-group><source>MS. Lansdowne 680, Fol. 3r</source></element-citation></ref><ref id="R50"><label>50</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name name-style="western"><surname>von Fleischhacker</surname><given-names>R</given-names></name>
+</person-group><source>Lanfrank’s Science of Cirurgie</source><publisher-loc>London</publisher-loc><publisher-name>Pub</publisher-name></element-citation></ref><ref id="R51"><label>51</label><element-citation publication-type="book"><person-group>
+<collab>Oxford Bodleian Library</collab>
+</person-group><source>MS. Douce 304, Fol. 19v</source></element-citation></ref><ref id="R52"><label>52</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Connelly</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Del Genio</surname><given-names>CI</given-names></name>
+<name name-style="western"><surname>Harrison</surname><given-names>F</given-names></name>
+</person-group><article-title>Data mining a medieval medical text reveals patterns in ingredient choice that reflect biological activity against infectious agents</article-title><source>mBio</source><year>2020</year><volume>11</volume><elocation-id>e03136-19</elocation-id><pub-id pub-id-type="doi">10.1128/mBio.03136-19</pub-id><pub-id pub-id-type="pmid">32047130</pub-id><pub-id pub-id-type="pmcid">PMC7018648</pub-id></element-citation></ref><ref id="R53"><label>53</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Dallee Hamad</surname><given-names>B</given-names></name>
+</person-group><article-title>Inhibitory effect of vinegar and its mixture with honey on some pathogenic bacteria</article-title><source>J Edu Sci</source><year>2010</year><volume>23</volume><fpage>31</fpage><lpage>41</lpage><pub-id pub-id-type="doi">10.33899/edusj.2010.58454</pub-id></element-citation></ref><ref id="R54"><label>54</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Nimrouzi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Abolghasemi</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Sharifi</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Nasiri</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Akbari</surname><given-names>A</given-names></name>
+</person-group><article-title>Thyme oxymel by improving of inflammation, oxidative stress, dyslipidemia and homeostasis of some trace elements ameliorates obesity induced by high-fructose/fat diet in male rat</article-title><source>Biomed Pharmacother</source><year>2020</year><volume>126</volume><fpage>110079</fpage><pub-id pub-id-type="doi">10.1016/j.biopha.2020.110079</pub-id><pub-id pub-id-type="pmid">32200256</pub-id></element-citation></ref><ref id="R55"><label>55</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Nejatbakhsh</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Karegar-Borzi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Amin</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Eslaminejad</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hosseini</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Squill Oxymel, a traditional formulation from <italic toggle="yes">Drimia Maritima</italic> (L.) Stearn, as an add-on treatment in patients with moderate to severe persistent asthma: a pilot, triple-blind, randomized clinical trial</article-title><source>J Ethnopharmacol</source><year>2017</year><volume>196</volume><fpage>186</fpage><lpage>192</lpage><pub-id pub-id-type="doi">10.1016/j.jep.2016.12.032</pub-id><pub-id pub-id-type="pmid">27998692</pub-id></element-citation></ref><ref id="R56"><label>56</label><element-citation publication-type="webpage"><article-title>IRCT201705261165N20, Effect of squill oxymel in control of mild to moderate fatty liver</article-title><comment>n.d</comment><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://en.irct.ir/trial/319" ext-link-type="uri">http://en.irct.ir/trial/319</ext-link></element-citation></ref><ref id="R57"><label>57</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Mohammadi-Araghi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Eslaminejad</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Karegar-Borzi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Mazloomzadeh</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Nejatbakhsh</surname><given-names>F</given-names></name>
+</person-group><article-title>An add-on treatment for moderate COPD with squill-oxymel (a traditional formulation from <italic toggle="yes">Drimia maritima (L.) Stearn</italic>): a pilot randomized triple-blinded placebo-controlled clinical trial</article-title><source>Evid Based Complement Alternat Med</source><year>2022</year><volume>2022</volume><elocation-id>5024792</elocation-id><pub-id pub-id-type="doi">10.1155/2022/5024792</pub-id><pub-id pub-id-type="pmid">35677368</pub-id><pub-id pub-id-type="pmcid">PMC9170410</pub-id></element-citation></ref><ref id="R58"><label>58</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Werthén</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Henriksson</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Jensen</surname><given-names>PØ</given-names></name>
+<name name-style="western"><surname>Sternberg</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Givskov</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>An in vitro model of bacterial infections in wounds and other soft tissues</article-title><source>APMIS</source><year>2010</year><volume>118</volume><fpage>156</fpage><lpage>164</lpage><pub-id pub-id-type="doi">10.1111/j.1600-0463.2009.02580.x</pub-id><pub-id pub-id-type="pmid">20132180</pub-id></element-citation></ref><ref id="R59"><label>59</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Garcia Maset</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hapeshi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lapage</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Harrington Niamh</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Littler Jenny</surname><given-names>L</given-names></name>
+<etal>et al</etal>
+</person-group><comment>n.d.</comment><article-title>Combining SNAPs with antibiotics shows enhanced synergistic efficacy against <italic toggle="yes">S. Aureus</italic> and <italic toggle="yes">P. Aeruginosa</italic> Biofilms</article-title><source>npj Biofilms and Microbiomes. in press</source><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41522-023-00401-8</pub-id><pub-id pub-id-type="pmcid">PMC10250483</pub-id><pub-id pub-id-type="pmid">37291132</pub-id></element-citation></ref><ref id="R60"><label>60</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name name-style="western"><surname>Team</surname><given-names>RC</given-names></name>
+</person-group><article-title>R: A Language and Environment for Statistical Computing</article-title><publisher-loc>Vienna, Austria</publisher-loc><publisher-name>R Foundation for Statistical Computing</publisher-name><year>2021</year><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.R-project.org" ext-link-type="uri">http://www.R-project.org</ext-link></element-citation></ref><ref id="R61"><label>61</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ritz</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Baty</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Streibig</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Gerhard</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Xia</surname><given-names>Y</given-names></name>
+</person-group><article-title>Dose-response analysis using R</article-title><source>PLoS One</source><year>2015</year><volume>10</volume><elocation-id>e0146021</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0146021</pub-id><pub-id pub-id-type="pmid">26717316</pub-id><pub-id pub-id-type="pmcid">PMC4696819</pub-id></element-citation></ref><ref id="R62"><label>62</label><element-citation publication-type="other"><person-group person-group-type="author">
+<name name-style="western"><surname>Fox</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Weisberg</surname><given-names>S</given-names></name>
+</person-group><article-title>An R Companion to Applied Regression</article-title><year>2011</year></element-citation></ref><ref id="R63"><label>63</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Duarte</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Vale</surname><given-names>N</given-names></name>
+</person-group><article-title>Evaluation of synergism in drug combinations and reference models for future orientations in oncology</article-title><source>Curr Res Pharmacol Drug Discov</source><year>2022</year><volume>3</volume><elocation-id>100110</elocation-id><pub-id pub-id-type="doi">10.1016/j.crphar.2022.100110</pub-id><pub-id pub-id-type="pmid">35620200</pub-id><pub-id pub-id-type="pmcid">PMC9127325</pub-id></element-citation></ref><ref id="R64"><label>64</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lenth</surname><given-names>RV</given-names></name>
+</person-group><article-title>Least-squares means: the R package Lsmeans</article-title><source>J Stat Softw</source><year>2016</year><volume>69</volume><pub-id pub-id-type="doi">10.18637/jss.v069.i01</pub-id></element-citation></ref><ref id="R65"><label>65</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Page</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>McKenzie</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Bossuyt</surname><given-names>PM</given-names></name>
+<name name-style="western"><surname>Boutron</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Hoffmann</surname><given-names>TC</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Updating guidance for reporting systematic reviews: development of the PRISMA 2020 statement</article-title><source>J Clin Epidemiol</source><year>2021</year><volume>134</volume><fpage>103</fpage><lpage>112</lpage><pub-id pub-id-type="doi">10.1016/j.jclinepi.2021.02.003</pub-id><pub-id pub-id-type="pmid">33577987</pub-id></element-citation></ref><ref id="R66"><label>66</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ersoy</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Heithoff</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Barnes</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Tripp</surname><given-names>GK</given-names></name>
+<name name-style="western"><surname>House</surname><given-names>JK</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Correcting a fundamental flaw in the paradigm for antimicrobial susceptibility testing</article-title><source>EBioMedicine</source><year>2017</year><volume>20</volume><fpage>173</fpage><lpage>181</lpage><pub-id pub-id-type="doi">10.1016/j.ebiom.2017.05.026</pub-id><pub-id pub-id-type="pmid">28579300</pub-id><pub-id pub-id-type="pmcid">PMC5478264</pub-id></element-citation></ref><ref id="R67"><label>67</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Rabeea</surname><given-names>IS</given-names></name>
+<name name-style="western"><surname>Janabi</surname><given-names>AMH</given-names></name>
+</person-group><article-title>Antibacterial activity of different concentrations of date vinegar in comparison to ciprofloxacin against multidrug-resistance <italic toggle="yes">Pseudomonas aeruginosa</italic> isolated from infected burn</article-title><source>Anti Infect Agent</source><year>2018</year><volume>16</volume><fpage>96</fpage><lpage>99</lpage><pub-id pub-id-type="doi">10.2174/2211352516666180611082404</pub-id></element-citation></ref><ref id="R68"><label>68</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kara</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Assouguem</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kamaly</surname><given-names>OMA</given-names></name>
+<name name-style="western"><surname>Benmessaoud</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Imtara</surname><given-names>H</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The impact of apple variety and the production methods on the antibacterial activity of vinegar samples</article-title><source>Molecules</source><year>2021</year><volume>26</volume><elocation-id>5437</elocation-id><pub-id pub-id-type="doi">10.3390/molecules26185437</pub-id><pub-id pub-id-type="pmid">34576910</pub-id><pub-id pub-id-type="pmcid">PMC8471607</pub-id></element-citation></ref><ref id="R69"><label>69</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kadiroğlu</surname><given-names>P</given-names></name>
+</person-group><article-title>FTIR spectroscopy for prediction of quality parameters and antimicrobial activity of commercial vinegars with chemometrics</article-title><source>J Sci Food Agric</source><year>2018</year><volume>98</volume><fpage>4121</fpage><lpage>4127</lpage><pub-id pub-id-type="doi">10.1002/jsfa.8929</pub-id><pub-id pub-id-type="pmid">29393512</pub-id></element-citation></ref><ref id="R70"><label>70</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Jia</surname><given-names>C-F</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>W-N</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>B-L</given-names></name>
+</person-group><article-title>Manufacture and antibacterial characteristics of <italic toggle="yes">Eucommia ulmoides</italic> leaves vinegar</article-title><source>Food Sci Biotechnol</source><year>2020</year><volume>29</volume><fpage>657</fpage><lpage>665</lpage><pub-id pub-id-type="doi">10.1007/s10068-019-00712-7</pub-id><pub-id pub-id-type="pmid">32419964</pub-id><pub-id pub-id-type="pmcid">PMC7221032</pub-id></element-citation></ref><ref id="R71"><label>71</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Darus</surname><given-names>FM</given-names></name>
+<name name-style="western"><surname>Misa</surname><given-names>NAA</given-names></name>
+<name name-style="western"><surname>Ismail</surname><given-names>ZS</given-names></name>
+<name name-style="western"><surname>Mahidin</surname><given-names>H</given-names></name>
+</person-group><article-title>Assessment of antifungal agent for the treatment of <italic toggle="yes">Culvularia</italic> sp. and <italic toggle="yes">Lichtheimia</italic> sp. IOP Conference Series</article-title><source>Earth Environ Sci</source><year>2019</year><volume>373</volume><fpage>012019</fpage><pub-id pub-id-type="doi">10.1088/1755-1315/373/1/012019</pub-id></element-citation></ref><ref id="R72"><label>72</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Fonseca</surname><given-names>M da S</given-names></name>
+<name name-style="western"><surname>Santos</surname><given-names>VAQ</given-names></name>
+<name name-style="western"><surname>Calegari</surname><given-names>GC</given-names></name>
+<name name-style="western"><surname>Dekker</surname><given-names>RFH</given-names></name>
+<name name-style="western"><surname>Barbosa-Dekker</surname><given-names>A de M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Blueberry and honey vinegar: successive batch production, antioxidant potential and antimicrobial ability</article-title><source>Braz J Food Technol</source><year>2018</year><volume>21</volume><elocation-id>e2017101</elocation-id><pub-id pub-id-type="doi">10.1590/1981-6723.10117</pub-id></element-citation></ref><ref id="R73"><label>73</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Pedroso</surname><given-names>J de F</given-names></name>
+<name name-style="western"><surname>Sangalli</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Brighenti</surname><given-names>FL</given-names></name>
+<name name-style="western"><surname>Tanaka</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Koga-Ito</surname><given-names>CY</given-names></name>
+</person-group><article-title>Control of bacterial biofilms formed on pacifiers by antimicrobial solutions in spray</article-title><source>Int J Paediatr Dent</source><year>2018</year><volume>28</volume><fpage>578</fpage><lpage>586</lpage><pub-id pub-id-type="doi">10.1111/ipd.12413</pub-id><pub-id pub-id-type="pmid">30051634</pub-id></element-citation></ref><ref id="R74"><label>74</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Fernandes</surname><given-names>ACF</given-names></name>
+<name name-style="western"><surname>de Souza</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Ramos</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Pereira</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Schwan</surname><given-names>RF</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Sensorial, antioxidant and antimicrobial evaluation of vinegars from surpluses of physalis (<italic toggle="yes">Physalis pubescens L</italic>.) and red pitahaya (<italic toggle="yes">Hylocereus monacanthus</italic>)</article-title><source>J Sci Food Agric</source><year>2019</year><volume>99</volume><fpage>2267</fpage><lpage>2274</lpage><pub-id pub-id-type="doi">10.1002/jsfa.9422</pub-id><pub-id pub-id-type="pmid">30328118</pub-id></element-citation></ref><ref id="R75"><label>75</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Antoniewicz</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Jakubczyk</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kwiatkowski</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Maciejewska-Markiewicz</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Kochman</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Analysis of antioxidant capacity and antimicrobial properties of selected polish grape vinegars obtained by spontaneous fermentation</article-title><source>Molecules</source><year>2021</year><volume>26</volume><elocation-id>4727</elocation-id><pub-id pub-id-type="doi">10.3390/molecules26164727</pub-id><pub-id pub-id-type="pmid">34443313</pub-id><pub-id pub-id-type="pmcid">PMC8397985</pub-id></element-citation></ref><ref id="R76"><label>76</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kara</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Assouguem</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Fadili</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Benmessaoud</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Alshawwa</surname><given-names>SZ</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Contribution to the evaluation of physicochemical properties, total phenolic content, antioxidant potential, and antimicrobial activity of vinegar commercialized in Morocco</article-title><source>Molecules</source><year>2022</year><volume>27</volume><elocation-id>770</elocation-id><pub-id pub-id-type="doi">10.3390/molecules27030770</pub-id><pub-id pub-id-type="pmid">35164034</pub-id><pub-id pub-id-type="pmcid">PMC8840122</pub-id></element-citation></ref><ref id="R77"><label>77</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Harrison</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Furner-Pardoe</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Connelly</surname><given-names>E</given-names></name>
+</person-group><article-title>An assessment of the evidence for antibacterial activity of stinging nettle (<italic toggle="yes">Urtica dioica</italic>) extracts</article-title><source>Access Microbiol</source><year>2022</year><volume>4</volume><elocation-id>000336</elocation-id><pub-id pub-id-type="doi">10.1099/acmi.0.000336</pub-id><pub-id pub-id-type="pmid">35693473</pub-id><pub-id pub-id-type="pmcid">PMC9175978</pub-id></element-citation></ref><ref id="R78"><label>78</label><element-citation publication-type="book"><part-title>Clinical Laboratory Standards Institute</part-title><source>Performance Standards for Antimicrobial Susceptibility Testing (CLSI Document M100, 2020)</source><year>2020</year></element-citation></ref><ref id="R79"><label>79</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Doern</surname><given-names>CD</given-names></name>
+</person-group><article-title>When does 2 plus 2 equal 5? A review of antimicrobial synergy testing</article-title><source>J Clin Microbiol</source><year>2014</year><volume>52</volume><fpage>4124</fpage><lpage>4128</lpage><pub-id pub-id-type="doi">10.1128/JCM.01121-14</pub-id><pub-id pub-id-type="pmid">24920779</pub-id><pub-id pub-id-type="pmcid">PMC4313275</pub-id></element-citation></ref><ref id="R80"><label>80</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ianevski</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>He</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Aittokallio</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Tang</surname><given-names>J</given-names></name>
+</person-group><article-title>SynergyFinder: a web application for analyzing drug combination dose-response matrix data</article-title><source>Bioinformatics</source><year>2017</year><volume>33</volume><fpage>2413</fpage><lpage>2415</lpage><pub-id pub-id-type="doi">10.1093/bioinformatics/btx162</pub-id><pub-id pub-id-type="pmid">28379339</pub-id><pub-id pub-id-type="pmcid">PMC5554616</pub-id></element-citation></ref><ref id="R81"><label>81</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kundukad</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Udayakumar</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Grela</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Kaur</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Rice</surname><given-names>SA</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Weak acids as an alternative anti-microbial therapy</article-title><source>Biofilm</source><year>2020</year><volume>2</volume><fpage>100019</fpage><pub-id pub-id-type="doi">10.1016/j.bioflm.2020.100019</pub-id><pub-id pub-id-type="pmid">33447805</pub-id><pub-id pub-id-type="pmcid">PMC7798471</pub-id></element-citation></ref><ref id="R82"><label>82</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bouzo</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Cokcetin</surname><given-names>NN</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Ballerin</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Bottomley</surname><given-names>AL</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Characterizing the mechanism of action of an ancient antimicrobial, manuka honey, against <italic toggle="yes">Pseudomonas aeruginosa</italic> using modern transcriptomics</article-title><source>mSystems</source><year>2020</year><volume>5</volume><elocation-id>e00106-20</elocation-id><pub-id pub-id-type="doi">10.1128/mSystems.00106-20</pub-id><pub-id pub-id-type="pmid">32606022</pub-id><pub-id pub-id-type="pmcid">PMC7329319</pub-id></element-citation></ref><ref id="R83"><label>83</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Tyers</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wright</surname><given-names>GD</given-names></name>
+</person-group><article-title>Drug combinations: a strategy to extend the life of antibiotics in the 21st century</article-title><source>Nat Rev Microbiol</source><year>2019</year><volume>17</volume><fpage>141</fpage><lpage>155</lpage><pub-id pub-id-type="doi">10.1038/s41579-018-0141-x</pub-id><pub-id pub-id-type="pmid">30683887</pub-id></element-citation></ref><ref id="R84"><label>84</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Connelly</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Furner-Pardoe</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Del Genio</surname><given-names>CI</given-names></name>
+<name name-style="western"><surname>Harrison</surname><given-names>F</given-names></name>
+</person-group><article-title>A case study of the ancientbiotics collaboration</article-title><source>Patterns</source><year>2022</year><volume>3</volume><fpage>100632</fpage><pub-id pub-id-type="doi">10.1016/j.patter.2022.100632</pub-id><pub-id pub-id-type="pmid">36569547</pub-id><pub-id pub-id-type="pmcid">PMC9782248</pub-id></element-citation></ref><ref id="R85"><label>85</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Nolan</surname><given-names>VC</given-names></name>
+<name name-style="western"><surname>Harrison</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Wright</surname><given-names>JEE</given-names></name>
+<name name-style="western"><surname>Cox</surname><given-names>JAG</given-names></name>
+</person-group><article-title>Clinical Significance of Manuka and Medical-Grade Honey for Antibiotic-Resistant Infections: A Systematic Review</article-title><source>Antibiotics</source><year>2020</year><volume>9</volume><elocation-id>766</elocation-id><pub-id pub-id-type="doi">10.3390/antibiotics9110766</pub-id><pub-id pub-id-type="pmid">33142845</pub-id><pub-id pub-id-type="pmcid">PMC7693943</pub-id></element-citation></ref><ref id="R86"><label>86</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Johnston</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>McBride</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Dahiya</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Owusu-Apenten</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Nigam</surname><given-names>PS</given-names></name>
+</person-group><article-title>Antibacterial activity of Manuka honey and its components: An overview</article-title><source>AIMS Microbiol</source><year>2018</year><volume>4</volume><fpage>655</fpage><lpage>664</lpage><pub-id pub-id-type="doi">10.3934/microbiol.2018.4.655</pub-id><pub-id pub-id-type="pmid">31294240</pub-id><pub-id pub-id-type="pmcid">PMC6613335</pub-id></element-citation></ref><ref id="R87"><label>87</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Arvaniti</surname><given-names>OS</given-names></name>
+<name name-style="western"><surname>Mitsonis</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Siorokos</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Dermishaj</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Samaras</surname><given-names>Y</given-names></name>
+</person-group><article-title>The physicochemical properties and antioxidant capacities of commercial and homemade Greek vinegars</article-title><source>Acta Sci Pol Technol Aliment</source><year>2019</year><volume>18</volume><fpage>225</fpage><lpage>234</lpage><pub-id pub-id-type="doi">10.17306/J.AFS.0669</pub-id><pub-id pub-id-type="pmid">31569905</pub-id></element-citation></ref></ref-list></back></article>

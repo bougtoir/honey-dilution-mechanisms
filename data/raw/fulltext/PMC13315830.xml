@@ -1,0 +1,1925 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="ijfo9085243" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Food Sci</journal-id><journal-id journal-id-type="iso-abbrev">Int J Food Sci</journal-id><journal-id journal-id-type="pmc-domain-id">2916</journal-id><journal-id journal-id-type="pmc-domain">intjfoodsci</journal-id><journal-id journal-id-type="nlm-id">101627297</journal-id><journal-id journal-id-type="publisher-id">IJFO</journal-id><journal-title-group><journal-title>International Journal of Food Science</journal-title></journal-title-group><issn pub-type="epub">2314-5765</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13315830</article-id><article-id pub-id-type="pmcid-ver">PMC13315830.1</article-id><article-id pub-id-type="pmcaid">13315830</article-id><article-id pub-id-type="pmcaiid">13315830</article-id><article-id pub-id-type="pmid">42382736</article-id><article-id pub-id-type="doi">10.1155/ijfo/9085243</article-id><article-id pub-id-type="publisher-id">IJFO9085243</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>South African Honey: Anti‐<italic toggle="yes">Helicobacter pylori</italic> Activity and Combined Effect With the Gut Microbiome</article-title></title-group><contrib-group><contrib id="cr-0001" contrib-type="author"><name name-style="western"><surname>Dinat</surname><given-names initials="S">Sarhana</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4040-6828</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cr-0002" contrib-type="author"><name name-style="western"><surname>Orchard</surname><given-names initials="A">Ané</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6767-7110</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cr-0003" contrib-type="author"><name name-style="western"><surname>Allsopp</surname><given-names initials="M">Mike</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0620-0612</contrib-id><xref rid="aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cr-0004" contrib-type="author" corresp="yes"><name name-style="western"><surname>van Vuuren</surname><given-names initials="S">Sandy</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4859-1845</contrib-id><xref rid="aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>sandy.vanvuuren@wits.ac.za</email></address></contrib></contrib-group><contrib-group><contrib id="cr-0005" contrib-type="editor"><name name-style="western"><surname>Bardhan</surname><given-names initials="M">Munmun</given-names></name><address><email>mbardhan@wiley.com</email></address></contrib></contrib-group><aff id="aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pharmacy and Pharmacology</named-content>, <named-content content-type="organisation-division">Faculty of Health Sciences</named-content>, <institution>University of the Witwatersrand</institution>, <city>Johannesburg</city>, <country>South Africa</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://wits.ac.za" ext-link-type="uri">wits.ac.za</ext-link>
+</aff><aff id="aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Honeybee Research Section</named-content>, <named-content content-type="organisation-division">Plant Protection Research Institute</named-content>, <named-content content-type="organisation-division">Agricultural Research Council</named-content>, <city>Stellenbosch</city>, <country>South Africa</country>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://arc.agric.za" ext-link-type="uri">arc.agric.za</ext-link>
+</aff><pub-date pub-type="epub"><day>29</day><month>6</month><year>2026</year></pub-date><pub-date pub-type="collection"><year>2026</year></pub-date><volume>2026</volume><issue-id pub-id-type="pmc-issue-id">503605</issue-id><elocation-id>9085243</elocation-id><history>
+<date date-type="rev-recd"><day>11</day><month>5</month><year>2026</year></date>
+<date date-type="received"><day>17</day><month>12</month><year>2025</year></date>
+<date date-type="accepted"><day>22</day><month>5</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>29</day><month>06</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>01</day><month>07</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-07-01 09:25:16.720"><day>01</day><month>07</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">Copyright © 2026 Sarhana Dinat et al. International Journal of Food Science published by John Wiley &amp; Sons Ltd.</copyright-statement><copyright-year>2026</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="IJFO-2026-9085243.pdf"><?pdf-name IJFO-2026-9085243.pdf?><?pdf-size 641869?><?pdf-md5 1c0ed04ee169497330184f722d74cb8b?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:861a/13315830/1c0ed04ee169/IJFO-2026-9085243.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:IJFO-2026-9085243.pdf"/><abstract><p>Honey has been revered for its medicinal properties for thousands of years, with medicinal uses including treating inflammation and gastric ulcers. The gut pathogen <italic toggle="yes">Helicobacter pylori</italic> is known to cause inflammation and gastric ulcers. Current treatment options for infection with <italic toggle="yes">H. pylori</italic> present several concerns due to the rapid gain in resistance and dysbiosis caused to the gut microbiome. While the anti‐<italic toggle="yes">H. pylori</italic> properties of honey have been studied globally, a comprehensive range of southern African honeys has yet to be explored against this pathogen. This study is aimed at investigating South African honey for its anti‐<italic toggle="yes">H. pylori</italic> activity and interaction with gut microbiome species. A total of 76 raw honey samples derived from South African apiarists were investigated, along with Manuka honey included for comparison. The anti‐<italic toggle="yes">H. pylori</italic> activity and interaction with the gut microbiome species were assessed using the minimum inhibitory concentration (MIC) agar dilution assay. The hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) concentration of antimicrobially active samples was determined using colorimetric test strips. A third of the investigated honeys showed activity comparable with that of Manuka honey. Honey derived from fynbos, citrus, coriander, and buchu floral sources demonstrated the best anti‐<italic toggle="yes">H. pylori</italic> activity (MIC of 6.25%). An increase in anti‐<italic toggle="yes">H. pylori</italic> activity was observed for up to 82.50% of combinations of honey and <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species. A positive correlation (R<sup>2</sup> = 0.76) between increased anti‐<italic toggle="yes">H. pylori</italic> activity and increased H<sub>2</sub>O<sub>2</sub> concentrations was observed. These results demonstrate not only the potential of South African honey as anti‐<italic toggle="yes">H. pylori</italic> agents, but also the importance of their interactions with the gut microbiome to enhance inhibition of this ulcer‐causing pathogen.</p></abstract><kwd-group><title>Keywords</title><kwd id="kwd-0001">antimicrobial activity</kwd><kwd id="kwd-0002">gut microbiome species</kwd><kwd id="kwd-0003">hydrogen peroxide</kwd><kwd id="kwd-0004">
+<italic toggle="yes">Lacticaseibacillus</italic> species</kwd><kwd id="kwd-0005">
+<italic toggle="yes">Lactobacillus</italic> species</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>National Research Foundation</institution><institution-id institution-id-type="doi">10.13039/501100001321</institution-id></institution-wrap>
+</funding-source><award-id>129672</award-id></award-group></funding-group><counts><fig-count count="2"/><table-count count="4"/><ref-count count="49"/><page-count count="13"/><word-count count="6359"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.2 mode:remove_FC converted:30.06.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ijfo9085243-cit-2001">
+<string-name name-style="western">
+<surname>Dinat</surname>, <given-names>Sarhana</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Orchard</surname>, <given-names>Ané</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Allsopp</surname>, <given-names>Mike</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>van Vuuren</surname>, <given-names>Sandy</given-names>
+</string-name>, 
+<article-title>South African Honey: Anti‐<italic toggle="yes">Helicobacter pylori</italic> Activity and Combined Effect With the Gut Microbiome</article-title>, 
+<source>International Journal of Food Science</source>, <volume>2026</volume>, <elocation-id>9085243</elocation-id>, 13 pages, <year>2026</year>. 
+<pub-id pub-id-type="doi">10.1155/ijfo/9085243</pub-id>
+</mixed-citation>
+</p><fn-group><fn id="note-0001"><p>
+<bold>Academic Editor:</bold> Munmun Bardhan</p></fn></fn-group></notes></front><body><sec id="sec-0001"><title>1. Introduction</title><p>The gut pathogen <italic toggle="yes">Helicobacter pylori</italic> has been found to colonize the majority of the global population and up to 84% of South Africans [<xref rid="bib-0001" ref-type="bibr">1</xref>, <xref rid="bib-0002" ref-type="bibr">2</xref>]. Colonization by <italic toggle="yes">H. pylori</italic> causes inflammation in endothelial cells, resulting in diseases such as chronic gastritis, gastric cancer, and most notably, gastric ulcers [<xref rid="bib-0003" ref-type="bibr">3</xref>]. Conventional treatment options involve the use of multiple antibiotics, a proton pump inhibitor, and bismuth [<xref rid="bib-0004" ref-type="bibr">4</xref>]. These options are increasingly losing their efficacy due to <italic toggle="yes">H. pylori</italic> rapidly gaining resistance to the commonly used antibiotics, particularly in developing countries [<xref rid="bib-0005" ref-type="bibr">5</xref>].</p><p>The antibiotics used for treatment have also been noted to elicit changes in the gut microbiome, impacting on groups of bacteria that are key in maintaining the hosts′ health and metabolism [<xref rid="bib-0006" ref-type="bibr">6</xref>–<xref rid="bib-0008" ref-type="bibr">8</xref>]. This dysbiosis in the gut microbiome has been linked to the onset of symptoms such as diarrhea, vomiting, and nausea [<xref rid="bib-0008" ref-type="bibr">8</xref>]. Gut microbiome dysbiosis has also been linked to reinfection with <italic toggle="yes">H. pylori</italic>, with recurrence rates of over 50% recorded following treatment with antibiotics [<xref rid="bib-0009" ref-type="bibr">9</xref>]. As such, finding alternatives that can effectively treat <italic toggle="yes">H. pylori</italic> infections with minimal impact to the gut microbiome is essential. A number of gut microbiome species such as <italic toggle="yes">Lactobacillus</italic>, <italic toggle="yes">Lacticaseibacillus</italic>, and <italic toggle="yes">Bifidobacterium</italic> species have also been noted to hold therapeutic potential. These species both occur naturally in the gut microbiome and are used supplementally to restore and maintain the gut microbiome. These species have also been found to manage gastro‐intestinal symptoms associated with <italic toggle="yes">H. pylori</italic> infections [<xref rid="bib-0009" ref-type="bibr">9</xref>].</p><p>The use of honey for nutritional and medicinal purposes has been documented in numerous religious and historic texts since 5500 BC [<xref rid="bib-0010" ref-type="bibr">10</xref>]. The physicochemical properties, color, composition, and flavor are determined by the floral sources used, thereby varying between geographical regions [<xref rid="bib-0010" ref-type="bibr">10</xref>]. South Africa boasts a vast variety of indigenous flora. The Cape is home to one of the most diverse temperate florae globally, with the Cape Floral Kingdom recognized as a UNESCO World Heritage Site for its immense plant diversity and unique fynbos biome [<xref rid="bib-0011" ref-type="bibr">11</xref>, <xref rid="bib-0012" ref-type="bibr">12</xref>]. There are over 1000 nectar‐ and pollen‐producing plant species recorded in South Africa, with at least 488 indigenous species [<xref rid="bib-0013" ref-type="bibr">13</xref>, <xref rid="bib-0014" ref-type="bibr">14</xref>]. As the properties of honey are known to be dependent on the floral sources used, the honey produced from bees foraging from the diverse range of plants noted in South Africa has the potential for a multitude of unique properties.</p><p>During nectar harvesting, the enzyme glucose oxidase is added by bees to honey [<xref rid="bib-0015" ref-type="bibr">15</xref>]. While this enzyme remains inactive in honey, upon dilution with water, glucose oxidase converts <italic toggle="yes">β</italic>‐D‐glucose into hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) and D‐gluconic acid [<xref rid="bib-0015" ref-type="bibr">15</xref>, <xref rid="bib-0016" ref-type="bibr">16</xref>]. H<sub>2</sub>O<sub>2</sub> has been described as one of the primary compounds responsible for the antibacterial activity of honey, with a strong correlation noted between H<sub>2</sub>O<sub>2</sub> concentration in honey and inhibition of bacterial growth [<xref rid="bib-0017" ref-type="bibr">17</xref>–<xref rid="bib-0019" ref-type="bibr">19</xref>].</p><p>Honey has been shown to act as an antiulcer agent and play a role in restoring and balancing the gut microbiome [<xref rid="bib-0010" ref-type="bibr">10</xref>, <xref rid="bib-0020" ref-type="bibr">20</xref>]. As <italic toggle="yes">H. pylori</italic> is causative in the onset of gastric ulcers, honey could serve as a potential treatment for <italic toggle="yes">H. pylori</italic> infections and related ailments. Several studies have assessed honey for antimicrobial activity against <italic toggle="yes">H. pylori</italic> globally [<xref rid="bib-0021" ref-type="bibr">21</xref>, <xref rid="bib-0022" ref-type="bibr">22</xref>], where various types of honey from Germany, Switzerland, Iran, Oman, and Saudi Arabia were also found to possess antibacterial activity against <italic toggle="yes">H. pylori</italic> [<xref rid="bib-0021" ref-type="bibr">21</xref>–<xref rid="bib-0023" ref-type="bibr">23</xref>]. Manuka honey, a widely renowned honey known for medicinal purposes native to New Zealand, has been shown to have remarkable antimicrobial activity against <italic toggle="yes">H. pylori</italic>, with as little as 5% v/v completely inhibiting growth [<xref rid="bib-0023" ref-type="bibr">23</xref>]. In contrast to other honey, the antimicrobial activity seen in Manuka honey is reported to be a result of the methylglyoxal present in these honey samples, with little to no H<sub>2</sub>O<sub>2</sub> found in Manuka samples, adding to its unique properties [<xref rid="bib-0017" ref-type="bibr">17</xref>, <xref rid="bib-0018" ref-type="bibr">18</xref>]. As such, Manuka honey is often regarded as the “gold standard” of medicinal honey. The investigation of southern African honey in this context has been extremely limited, despite the vast potential for unique honey from this geographical region. Only six commercial, samples of South African honey have been investigated for anti‐<italic toggle="yes">H. pylori</italic> activity [<xref rid="bib-0024" ref-type="bibr">24</xref>]. Investigation of a broad range of the unique honey produced from South African floral sources has been sorely neglected. Thus, this study presents the first investigation into the anti‐<italic toggle="yes">H. pylori</italic> activity of a comprehensive range of apiarist‐derived South African honey samples. Furthermore, the anti‐<italic toggle="yes">H. pylori</italic> activity of the novel combination of South African honey and gut microbiome species was investigated, along with the first assessment of the H<sub>2</sub>O<sub>2</sub> concentration of the antimicrobially active South African honey samples.</p></sec><sec id="sec-0002"><title>2. Materials and Methods</title><sec id="sec-0003"><title>2.1. Honey Samples</title><p>A total of 76 unheated, non‐irradiated, raw honey samples were collected from various regions around South Africa from apiarists from the South African Bee Industry Organization (SABIO) (Table S1, Figure <xref rid="fig-0001" ref-type="fig">1</xref>). A Manuka honey sample was obtained from New Zealand to serve as the “gold standard” control (Forest and Bees Native Honey, Stratford; methylglyoxal (MGO) 67+). A sample from Mozambique and three samples from Malawi were also included for further comparison. Perceived nectar sources were recorded as indicated by the beekeepers. The samples were stored away from light at ambient temperature (±20°C).</p><fig position="float" fig-type="Figure" id="fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Geographic distribution of honey samples collected for this study (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.mapchart.net/" ext-link-type="uri">https://www.mapchart.net/</ext-link>).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="IJFO-2026-9085243-g001.jpg"><?image-name IJFO-2026-9085243-g001.jpg?><?image-size 30339?><?image-md5 c7965b6504c4208466e97781fb52fffb?><?image-image-server-status NEVER_LOAD?><?image-original-height 730?><?image-original-width 600?><?image-scaled-height 730?><?image-scaled-width 600?><?image-cloudpmc-urn urn:cdn:blobs/861a/13315830/c7965b6504c4/IJFO-2026-9085243-g001.jpg?><?thumb-name IJFO-2026-9085243-g001.gif?><?thumb-size 2374?><?thumb-md5 ba5942ff72c4962f15dec5f7bdc07894?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 122?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/861a/13315830/ba5942ff72c4/IJFO-2026-9085243-g001.gif?></graphic></fig></sec><sec id="sec-0004"><title>2.2. Bacterial Strains and Culture Conditions</title><p>Three clinical isolates of <italic toggle="yes">H. pylori</italic> were isolated from patients with gastritis (Chris Hani Baragwanath Academic Hospital; Dr. Ayodeji Idowu—African Institute of Digestive Diseases) (Ethical Clearance Number: M210891, Human Research Ethics Committee, University of the Witwatersrand). Media used for culturing consisted of brain–heart infusion (BHI) broth or Columbia blood agar (CBA) (Thermo Scientific), supplemented with <italic toggle="yes">Campylobacter</italic> selective supplements (Skirrows—Oxoid) and 7% fetal bovine serum. The <italic toggle="yes">H. pylori</italic> strains were cultured at 37°C in a micro‐aerobic environment using a micro‐aerobic gas pack (CampyGen) for 24 h in broth and 72 h on agar.</p><p>The gut microbiome species used included <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species, as these species are known to occur naturally in the gut and are used most frequently for therapeutic restoration of the gut flora. These included; <italic toggle="yes">Lactobacillus acidophilus</italic> ATCC 314, <italic toggle="yes">Lacticaseibacillus casei</italic> (formerly known as <italic toggle="yes">Lactobacillus casei</italic>) ATCC 334, and <italic toggle="yes">Lacticaseibacillus rhamnosus</italic> (formerly known as <italic toggle="yes">Lactobacillus rhamnosus</italic>) ATCC 7469 (Davies Diagnostics). All <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species were cultured in MRS broth or on MRS agar (Thermo Scientific) at 5% CO<sub>2</sub> and 37°C for 24 h. Cultures were enumerated using the serial dilution method, where the colony forming units (CFU)/mL were determined for the respective cultures [<xref rid="bib-0025" ref-type="bibr">25</xref>].</p></sec><sec id="sec-0005"><title>2.3. Antimicrobial Assays</title><p>Antimicrobial testing was carried out using an agar dilution assay to determine the minimum inhibitory concentration (MIC) of honey against <italic toggle="yes">H. pylori</italic> strains and against the <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species. Honey was added aseptically to molten CBA or MRS agar, in a series of concentrations (50%, 25%, 12.50%, 6.25%, and 3.13% v/v). The honey‐agar solutions were dispensed into the wells of 24‐well microtiter plates and allowed to solidify. The honey‐agar plates were inoculated with bacterial cultures (0.50 MacFarland turbidity standard) and incubated according to each species′ respective culture conditions (Section <xref rid="sec-0004" ref-type="sec">2.2</xref>) [<xref rid="bib-0026" ref-type="bibr">26</xref>]. A negative control was included, consisting of agar alone. Amoxicillin was selected as a positive control, as it is recommended most frequently for the treatment of <italic toggle="yes">H. pylori</italic> infections [<xref rid="bib-0004" ref-type="bibr">4</xref>]. Amoxicillin (Sigma‐Aldrich) was included at a range of concentrations (40.00, 20.00, 10.00, 5.00, and 2.50 <italic toggle="yes">μ</italic>g/mL). The MIC values for each honey sample were taken as the lowest concentration of honey to inhibit visible growth on the agar plates. All assays were carried out in triplicate, with results reported as mean ± standard deviation. The antimicrobial activity of each honey sample was compared with that of the “gold standard,” Manuka honey, and noteworthy activity determined to be MIC values less than or equal to the MIC of Manuka honey.</p><p>The inhibition of <italic toggle="yes">H. pylori</italic> by <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species was assessed using an agar dilution assay. Cultures of each <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species were added to CBA (a volume of 1 mL of culture was added per 10 mL of agar). Each <italic toggle="yes">Lactobacillus/Lacticaseibacillus</italic> species was added to agar in a range of concentrations (0.02–3.00 × 10<sup>8</sup> CFU/mL). The culture‐agar solutions were dispensed into the wells of 24‐well microtiter plates and allowed to solidify. The plates were inoculated with <italic toggle="yes">H. pylori</italic> and allowed to incubate in a micro‐aerobic environment to allow <italic toggle="yes">H. pylori</italic> to grow. The plates were observed for visible growth of <italic toggle="yes">H. pylori</italic> after 72 h, and the MIC taken as that concentration of <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> that inhibited visible growth completely. Negative controls of agar alone and <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> alone, and a positive control of 0.01 mg/mL of amoxicillin, were included, and the assay carried out in triplicate.</p><p>Antibiotic susceptibility of each <italic toggle="yes">H. pylori</italic> strain was determined using MIC Test Strips (Liofilchem) for amoxicillin (92021), ciprofloxacin (92045), clarithromycin (92048), metronidazole (92087), and tetracycline (92114). A volume of 100 <italic toggle="yes">μ</italic>L of <italic toggle="yes">H. pylori</italic> culture was spread onto CBA. Each MIC test strip was placed aseptically onto the plate and incubated for 72 h under micro‐aerobic conditions. The MIC was taken as the lowest concentration to inhibit visible growth. The assay was performed in triplicate, with MIC values reported as mean ± standard deviation.</p></sec><sec id="sec-0006"><title>2.4. Anti‐<italic toggle="yes">H. pylori</italic> Assay of Honey–<italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> Combinations</title><p>The effects of honey combined with <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species were investigated against <italic toggle="yes">H. pylori</italic> using an agar dilution assay with selective CBA. Each honey sample was added in a range of concentrations to molten CBA (Section <xref rid="sec-0005" ref-type="sec">2.3</xref>). This was followed by aliquots of each <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species (1 mL of culture at a concentration 1 × 10<sup>8</sup> CFU/mL per 10 mL of agar). The Lactobacillus/Lacticaseibacillus–honey‐agar solutions were dispensed into the wells of 24‐well microtiter plates and allowed to solidify. Aliquots of <italic toggle="yes">H. pylori</italic> culture were spread onto these agar plates and incubated at 37°C for 72 h in a micro‐aerobic environment to allow for the growth of <italic toggle="yes">H. pylori</italic> alone. The MIC was taken as the lowest concentration of honey in that combination to completely inhibit visible growth. Negative controls consisting of agar alone and of the respective <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species alone, a culture control of <italic toggle="yes">H. pylori</italic>, and a positive control of 0.01 mg/mL amoxicillin were included. All assays were performed in triplicate, and the mean reported with standard deviations summarized as a range.</p></sec><sec id="sec-0007"><title>2.5. Assessment of H<sub>2</sub>O<sub>2</sub> Content</title><p>The concentrations of H<sub>2</sub>O<sub>2</sub> were determined in samples that had demonstrated the best antimicrobial activity, along with the Manuka honey. Samples that demonstrated the poorest antimicrobial activity were also selected for comparison. The concentrations of H<sub>2</sub>O<sub>2</sub> were quantified using colorimetric test strips (MQuant, Merck 110011). Honey samples were weighed and dissolved in sterile water (1 g of honey in 4 mL of water). After 1 h, the H<sub>2</sub>O<sub>2</sub> concentrations were determined according to the manufacturers′ guide and the final H<sub>2</sub>O<sub>2</sub> concentration reported in mg/mL/h at ~25°C [<xref rid="bib-0027" ref-type="bibr">27</xref>]. The concentrations of H<sub>2</sub>O<sub>2</sub> recorded were plotted against the antimicrobial activity of the honey samples against <italic toggle="yes">H. pylori</italic>, and the coefficient of determination (R<sup>2</sup>) was calculated to determine the strength of the correlation.</p></sec><sec id="sec-0008"><title>2.6. Statistical Analysis</title><p>The independent sample t‐test, performed using Microsoft Excel, was used to assess the significance of the change in MIC values of honey alone compared with honey combined with <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species, where <italic toggle="yes">p</italic> values &lt; 0.05 were considered significant.</p></sec></sec><sec id="sec-0009"><title>3. Results and Discussion</title><sec id="sec-0010"><title>3.1. Antimicrobial Activity</title><p>The MIC values of 76 South African honey samples were determined against three clinical <italic toggle="yes">H. pylori</italic> strains (Table <xref rid="tbl-0001" ref-type="table">1</xref>). Antimicrobial activity of each honey sample was compared with that of Manuka honey, where noteworthy activity was taken as MIC values equal to or less than the MIC of Manuka honey for that strain. The negative controls showed complete growth, whereas the positive control, amoxicillin, had an MIC of 10.00 <italic toggle="yes">μ</italic>g/mL for all three strains. A total of 24 honey samples showed noteworthy activity against at least one <italic toggle="yes">H. pylori</italic> strain, with nine samples showing noteworthy activity against all three strains. Samples 35, 43, and 59 held the best anti‐<italic toggle="yes">H. pylori</italic> activity, with mean MIC values of 6.25% v/v.</p><table-wrap position="float" id="tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>The minimum inhibitory concentrations in % v/v of southern African honey samples against three clinical <italic toggle="yes">H. pylori</italic> strains and the mean across all three strains, represented at mean ± standard deviation.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead><tr><th rowspan="2" align="left" colspan="1">Honey sample</th><th colspan="3" align="center" rowspan="1">MIC (% v/v)</th></tr><tr><th align="center" rowspan="1" colspan="1">Strain 1</th><th align="center" rowspan="1" colspan="1">Strain 2</th><th align="center" rowspan="1" colspan="1">Strain 3</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">20.83 ± 7.22</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+<sup>
+<bold>a</bold>
+</sup> ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>10.42</bold> ± 3.61</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">10.42 ± 3.61</td><td align="center" rowspan="1" colspan="1">20.83 ± 7.22</td><td align="center" rowspan="1" colspan="1">16.67 ± 7.22</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">16.67 ± 7.22</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="center" rowspan="1" colspan="1">8.33 ± 3.61</td><td align="center" rowspan="1" colspan="1">16.67 ± 7.22</td><td align="center" rowspan="1" colspan="1">10.42 ± 3.61</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">16.67 ± 7.22</td><td align="center" rowspan="1" colspan="1">10.42 ± 3.61</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="center" rowspan="1" colspan="1">16.67 ± 7.22</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">11</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">41.67 ± 14.43</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">13</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">16.67 ± 7.22</td><td align="center" rowspan="1" colspan="1">10.42 ± 3.61</td></tr><tr><td align="left" rowspan="1" colspan="1">14</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">16</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">17</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">18</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">20.83 ± 7.22</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">20</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">21</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">22</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">&gt; 50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">23</td><td align="center" rowspan="1" colspan="1">33.33 ± 14.43</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">24</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">25</td><td align="center" rowspan="1" colspan="1">16.67 ± 7.22</td><td align="center" rowspan="1" colspan="1">16.67 ± 7.22</td><td align="center" rowspan="1" colspan="1">10.42 ± 3.61</td></tr><tr><td align="left" rowspan="1" colspan="1">26</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">27</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">28</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>10.42</bold> ± 3.61</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">29</td><td align="center" rowspan="1" colspan="1">&gt; 50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">&gt; 50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">&gt; 50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">30</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">31</td><td align="center" rowspan="1" colspan="1">33.33 ± 14.43</td><td align="center" rowspan="1" colspan="1">33.33 ± 14.43</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">32</td><td align="center" rowspan="1" colspan="1">33.33 ± 14.43</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">33.33 ± 14.43</td></tr><tr><td align="left" rowspan="1" colspan="1">33</td><td align="center" rowspan="1" colspan="1">16.67 ± 7.22</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">34</td><td align="center" rowspan="1" colspan="1">&gt; 50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">&gt; 50.0 ± 0.000</td><td align="center" rowspan="1" colspan="1">&gt; 50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">35</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">36</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">37</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">38</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">39</td><td align="center" rowspan="1" colspan="1">41.67 ± 14.43</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">40</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">41</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">42</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">43</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">44</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">45</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">46</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">47</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">48</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">49</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">16.67 ± 7.22</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">50</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">51</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">52</td><td align="center" rowspan="1" colspan="1">&gt; 50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">&gt; 50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">&gt; 50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">53</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">54</td><td align="center" rowspan="1" colspan="1">&gt; 50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">&gt; 50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">&gt; 50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">55</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">56</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">16.67 ± 7.22</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">57</td><td align="center" rowspan="1" colspan="1">41.67 ± 14.43</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">58</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">59</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">60</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">61</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>10.42</bold> ± 3.61</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">62</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">63</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">64</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>8.33</bold> ± 3.61</td><td align="center" rowspan="1" colspan="1">8.33 ± 3.61</td></tr><tr><td align="left" rowspan="1" colspan="1">65</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">66</td><td align="center" rowspan="1" colspan="1">20.83 ± 7.22</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">20.83 ± 7.22</td></tr><tr><td align="left" rowspan="1" colspan="1">67</td><td align="center" rowspan="1" colspan="1">&gt; 50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">&gt; 50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">&gt; 50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">68</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">69</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">41.67 ± 14.43</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">70</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>10.42</bold> ± 3.61</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold> ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">71</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">72</td><td align="center" rowspan="1" colspan="1">33.33 ± 14.43</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">73</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold> ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">74</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">41.67 ± 14.43</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">75</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">76</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">16.67 ± 7.22</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">A1</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">25.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">A2</td><td align="center" rowspan="1" colspan="1">50.00 ±0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">A3</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">A4</td><td align="center" rowspan="1" colspan="1">33.33 ± 14.43</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td><td align="center" rowspan="1" colspan="1">50.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">M</td><td align="center" rowspan="1" colspan="1">6.25 ± 0.00</td><td align="center" rowspan="1" colspan="1">12.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">6.25 ± 0.00</td></tr></tbody></table><table-wrap-foot><fn id="note-0002"><p>
+<sup>a</sup>Noteworthy antimicrobial activity (≤ MIC of Manuka honey for each strain) denoted in bold.</p></fn></table-wrap-foot></table-wrap><p>Numerous samples of South African honey that demonstrated noteworthy activity were of Western Cape origin. The Cape is noted to house one of the most diverse temperate florae in the world, with over 3000 plants recorded for therapeutic use [<xref rid="bib-0011" ref-type="bibr">11</xref>, <xref rid="bib-0028" ref-type="bibr">28</xref>]. Perceived floral sources of honey with noteworthy activity included African basil, coriander, citrus, plum, various fynbos such as coastal and mountain fynbos, and buchu. Although African basil‐ or coriander‐derived honey samples were not previously investigated against <italic toggle="yes">H. pylori</italic>, plant extracts of African basil (<italic toggle="yes">Ocimum suave</italic> L.) and coriander (<italic toggle="yes">Eryngium foetidum</italic> L.) have previously shown antimicrobial activity against <italic toggle="yes">H. pylori</italic> [<xref rid="bib-0029" ref-type="bibr">29</xref>, <xref rid="bib-0030" ref-type="bibr">30</xref>].</p><p>Citrus‐derived honey had an average MIC of 6.25% v/v in this study. These findings are consistent with those previously reported, where citrus‐derived honey was found to be one of the most active honeys when investigated against <italic toggle="yes">H. pylori.</italic> These honey samples demonstrated MIC values ranging from 0.01% to 10.00% v/v and were found to inhibit the enzyme urease, an enzyme used by <italic toggle="yes">H. pylori</italic> during growth and when colonizing the gastric mucosa [<xref rid="bib-0023" ref-type="bibr">23</xref>, <xref rid="bib-0031" ref-type="bibr">31</xref>, <xref rid="bib-0032" ref-type="bibr">32</xref>]. Inhibition of urease could thus be a potential mechanism of the antimicrobial activity of honey noted against <italic toggle="yes">H. pylori.</italic>
+</p><p>Fynbos‐derived honey was found to inhibit clinical <italic toggle="yes">H. pylori</italic> strains in this study at various concentrations (6.25%–50.00% v/v), which aligns with the anti‐<italic toggle="yes">H. pylori</italic> activity previously reported, where fynbos‐derived honey demonstrated antimicrobial activity against clinical <italic toggle="yes">H. pylori</italic> strains at a range of concentrations (10.00%–50.00% v/v) [<xref rid="bib-0023" ref-type="bibr">23</xref>]. Fynbos‐derived honey also showed varying antimicrobial activity against various <italic toggle="yes">Streptococcus</italic> species as well as against common bacterial wound pathogens [<xref rid="bib-0026" ref-type="bibr">26</xref>, <xref rid="bib-0033" ref-type="bibr">33</xref>]. The wide variation of activity observed in fynbos‐derived honey could be the result of differences in geographic location, or variable species of fynbos used as the floral sources. Although buchu‐derived honey has not previously been studied against <italic toggle="yes">H. pylori</italic>, buchu (<italic toggle="yes">Agathosma betulina</italic> [P.J. Bergius] Pillans and <italic toggle="yes">Agathosma crenulata</italic> [L.] Pillans) has been used traditionally in South Africa for treating gastric ulcers and has been shown to have anti‐inflammatory activity [<xref rid="bib-0034" ref-type="bibr">34</xref>, <xref rid="bib-0035" ref-type="bibr">35</xref>].</p><p>The honey samples investigated from other African countries in this study showed moderate anti‐<italic toggle="yes">H. pylori</italic> activity. A mean MIC of 44.44% was recorded for the Mozambican macadamia‐derived honey (Sample A4), whereas the South African Gauteng macadamia‐derived honey (Sample 19) had a mean MIC of 25.00%. This could be attributed to the difference in biomes and climates between the regions from which the samples were harvested, as Mozambique is predominantly made up of savannah biomes and has a warmer, wetter climate, whereas Gauteng is predominantly made up of grassland, with a comparatively cooler, drier climate [<xref rid="bib-0036" ref-type="bibr">36</xref>, <xref rid="bib-0037" ref-type="bibr">37</xref>]. Interestingly, the South African Mpumalanga macadamia‐derived honey (Sample 29) showed similar activity (&gt; 50.00% v/v) to that of the Mozambique sample. This could be due to the proximity of the regions of origin, as the area of origin of Sample 29, Barberton, is geographically closer to Mozambique than Gauteng. African honey has been poorly explored for its antimicrobial activity against <italic toggle="yes">H. pylori</italic> [<xref rid="bib-0038" ref-type="bibr">38</xref>]. In a study investigating several Nigerian honey variants, <italic toggle="yes">H. pylori</italic> were found to be the most susceptible [<xref rid="bib-0039" ref-type="bibr">39</xref>]. The results from this study as well as that of Ademokoya [<xref rid="bib-0038" ref-type="bibr">38</xref>] show the potential of African honey to be utilized in treating <italic toggle="yes">H. pylori</italic> infections.</p><p>When investigating any inhibitory effect the honey samples might hold against the <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species, no inhibition at the highest concentration tested was observed for all three species. This favorable outcome indicates that the investigated honey samples do not hinder the growth of naturally occurring gut microbiome species that play a key role in maintaining gut health. This is in contrast with conventionally used antibiotics that have been shown to result in gut microbiome dysbiosis.</p><p>When investigating the inhibition of <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species against <italic toggle="yes">H. pylori</italic>, a mean MIC value of 1.50 × 10<sup>8</sup> CFU/mL was recorded for <italic toggle="yes">L. acidophilus</italic>, <italic toggle="yes">L. casei</italic>, and <italic toggle="yes">L. rhamnosus</italic>. This indicates that the <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species exhibit inhibitory effects on the <italic toggle="yes">H. pylori</italic> strains. <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species have been noted to employ several mechanisms of action when inhibiting <italic toggle="yes">H. pylori</italic> infections, such as decreasing inflammatory cytokines and interfering with adhesion, thereby reducing its ability to colonize the gastric mucosa [<xref rid="bib-0040" ref-type="bibr">40</xref>].</p><p>The antibiotic susceptibility profile of each of the clinical <italic toggle="yes">H. pylori</italic> strains was determined and is summarized in Table <xref rid="tbl-0002" ref-type="table">2</xref>. The antibiotics assessed included those most commonly recommended for treatment of <italic toggle="yes">H. pylori</italic> infections [<xref rid="bib-0004" ref-type="bibr">4</xref>]. The results indicated that all three strains were most susceptible to amoxicillin and showed complete resistance to metronidazole. The overall trend indicated variability in the susceptibility of each of the strains, with Strain 1 being the most susceptible to amoxicillin, clarithromycin, and ciprofloxacin. Clinical strains have typically been shown to have varying antimicrobial susceptibility [<xref rid="bib-0041" ref-type="bibr">41</xref>]. This variability is often seen in isolated strains, as each strain is noted to hold unique resistance mechanisms and mutations, as a result of the unique antimicrobial and environmental exposures, which can also lead to hetero‐resistance within strains isolated from a single host [<xref rid="bib-0029" ref-type="bibr">29</xref>].</p><table-wrap position="float" id="tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>The minimum inhibitory concentrations in <italic toggle="yes">μ</italic>g/mL of antibiotics against three clinical <italic toggle="yes">H. pylori</italic> strains, represented at mean ± standard deviation.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead><tr><th rowspan="2" align="left" colspan="1">Antibiotic</th><th colspan="3" align="center" rowspan="1">MIC (<italic toggle="yes">μ</italic>g/mL)</th></tr><tr><th align="center" rowspan="1" colspan="1">Strain 1</th><th align="center" rowspan="1" colspan="1">Strain 2</th><th align="center" rowspan="1" colspan="1">Strain 3</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Amoxicillin</td><td align="center" rowspan="1" colspan="1">0.13 ± 0.00</td><td align="center" rowspan="1" colspan="1">0.13 ± 0.00</td><td align="center" rowspan="1" colspan="1">0.19 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Clarithromycin</td><td align="center" rowspan="1" colspan="1">0.38 ± 0.00</td><td align="center" rowspan="1" colspan="1">0.50 ± 0.00</td><td align="center" rowspan="1" colspan="1">1.00 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Metronidazole</td><td align="center" rowspan="1" colspan="1">Complete resistance</td><td align="center" rowspan="1" colspan="1">Complete resistance</td><td align="center" rowspan="1" colspan="1">Complete resistance</td></tr><tr><td align="left" rowspan="1" colspan="1">Tetracycline</td><td align="center" rowspan="1" colspan="1">0.75 ± 0.00</td><td align="center" rowspan="1" colspan="1">0.75 ± 0.00</td><td align="center" rowspan="1" colspan="1">0.75 ± 0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Ciprofloxacin</td><td align="center" rowspan="1" colspan="1">0.16 ± 0.00</td><td align="center" rowspan="1" colspan="1">0.31 ± 0.00</td><td align="center" rowspan="1" colspan="1">0.31 ± 0.00</td></tr></tbody></table></table-wrap></sec><sec id="sec-0011"><title>3.2. Anti‐<italic toggle="yes">H. pylori</italic> Assay of Honey–<italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> Combinations</title><p>The interaction of gut microbiome species with honey was investigated for its antimicrobial activity against <italic toggle="yes">H. pylori</italic> (Table <xref rid="tbl-0003" ref-type="table">3</xref>). The overall trend showed a significant increase in the anti‐<italic toggle="yes">H. pylori</italic> activity when <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species were combined with honey, compared with that of the honey alone when exposed to <italic toggle="yes">H. pylori</italic>. Complete inhibition was observed for the positive control. No growth was observed for the negative controls, where selective CBA was inoculated with each <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species. The culture controls, where <italic toggle="yes">H. pylori</italic> alone were inoculated onto selective CBA, showed growth. These results indicated that the selective CBA allowed for the growth of <italic toggle="yes">H. pylori</italic> only, and not the <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species, when results of the combination assays were recorded.</p><table-wrap position="float" id="tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>The minimum inhibitory concentrations in % v/v of honey combined with one of three <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species against three <italic toggle="yes">H. pylori</italic> strains.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead><tr><th rowspan="3" align="left" colspan="1">Honey sample</th><th colspan="9" align="center" rowspan="1">MIC (% v/v)</th></tr><tr><th colspan="3" align="center" rowspan="1">
+<italic toggle="yes">L. acidophilus</italic>
+</th><th colspan="3" align="center" rowspan="1">
+<italic toggle="yes">L. casei</italic>
+</th><th colspan="3" align="center" rowspan="1">
+<italic toggle="yes">L. rhamnosus</italic>
+</th></tr><tr><th align="center" rowspan="1" colspan="1">Strain 1</th><th align="center" rowspan="1" colspan="1">Strain 2</th><th align="center" rowspan="1" colspan="1">Strain 3</th><th align="center" rowspan="1" colspan="1">Strain 1</th><th align="center" rowspan="1" colspan="1">Strain 2</th><th align="center" rowspan="1" colspan="1">Strain 3</th><th align="center" rowspan="1" colspan="1">Strain 1</th><th align="center" rowspan="1" colspan="1">Strain 2</th><th align="center" rowspan="1" colspan="1">Strain 3</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+<sup>
+<bold>a</bold>
+</sup>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">20.83</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>8.33</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>10.42</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">11</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>20.83</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>8.33</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">13</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>5.21</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">14</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">16</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>20.83</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">17</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">18</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>20.83</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">20</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">21</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td></tr><tr><td align="left" rowspan="1" colspan="1">22</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>20.83</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">23</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>8.33</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">24</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">25</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td></tr><tr><td align="left" rowspan="1" colspan="1">26</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">6.25</td></tr><tr><td align="left" rowspan="1" colspan="1">27</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">28</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>8.33</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td></tr><tr><td align="left" rowspan="1" colspan="1">29</td><td align="center" rowspan="1" colspan="1">50.00</td><td align="center" rowspan="1" colspan="1">50.00</td><td align="center" rowspan="1" colspan="1">50.00</td><td align="center" rowspan="1" colspan="1">50.00</td><td align="center" rowspan="1" colspan="1">50.00</td><td align="center" rowspan="1" colspan="1">50.00</td><td align="center" rowspan="1" colspan="1">50.00</td><td align="center" rowspan="1" colspan="1">50.00</td><td align="center" rowspan="1" colspan="1">50.00</td></tr><tr><td align="left" rowspan="1" colspan="1">30</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td></tr><tr><td align="left" rowspan="1" colspan="1">31</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">32</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">33</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">34</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>8.33</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">35</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td></tr><tr><td align="left" rowspan="1" colspan="1">36</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>16.67</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>16.67</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>16.67</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">37</td><td align="center" rowspan="1" colspan="1">50.00</td><td align="center" rowspan="1" colspan="1">50.00</td><td align="center" rowspan="1" colspan="1">50.00</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>41.67</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">50.00</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">38</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td></tr><tr><td align="left" rowspan="1" colspan="1">39</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>8.33</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">40</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>10.42</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">41</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>16.67</bold>
+</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">12.50</td></tr><tr><td align="left" rowspan="1" colspan="1">42</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">43</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td></tr><tr><td align="left" rowspan="1" colspan="1">44</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>20.83</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">45</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td></tr><tr><td align="left" rowspan="1" colspan="1">46</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">47</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td></tr><tr><td align="left" rowspan="1" colspan="1">48</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>8.33</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td></tr><tr><td align="left" rowspan="1" colspan="1">49</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td></tr><tr><td align="left" rowspan="1" colspan="1">50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>8.33</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">51</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>10.42</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">52</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">53</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td></tr><tr><td align="left" rowspan="1" colspan="1">54</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>20.83</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>16.67</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>20.83</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">55</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td></tr><tr><td align="left" rowspan="1" colspan="1">56</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td></tr><tr><td align="left" rowspan="1" colspan="1">57</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>5.21</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">58</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td></tr><tr><td align="left" rowspan="1" colspan="1">59</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td></tr><tr><td align="left" rowspan="1" colspan="1">60</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">61</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td></tr><tr><td align="left" rowspan="1" colspan="1">62</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>16.67</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">63</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td></tr><tr><td align="left" rowspan="1" colspan="1">64</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">65</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>8.33</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>20.83</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">66</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">67</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">68</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>8.33</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">69</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">25.00</td></tr><tr><td align="left" rowspan="1" colspan="1">70</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td></tr><tr><td align="left" rowspan="1" colspan="1">71</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">72</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>16.67</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>20.83</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">73</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td></tr><tr><td align="left" rowspan="1" colspan="1">74</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">75</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>10.42</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>3.13</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">76</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">12.50</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">12.50</td></tr><tr><td align="left" rowspan="1" colspan="1">A1</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">25.00</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">A2</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>20.83</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>16.67</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">A3</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">A4</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>12.50</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">M</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">6.25</td><td align="center" rowspan="1" colspan="1">
+<bold>6.25</bold>
+</td><td align="center" rowspan="1" colspan="1">6.25</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value<sup>b</sup>
+</td><td align="center" rowspan="1" colspan="1">&lt; 0.001</td><td align="center" rowspan="1" colspan="1">&lt; 0.001</td><td align="center" rowspan="1" colspan="1">&lt; 0.001</td><td align="center" rowspan="1" colspan="1">&lt; 0.001</td><td align="center" rowspan="1" colspan="1">&lt; 0.001</td><td align="center" rowspan="1" colspan="1">&lt; 0.001</td><td align="center" rowspan="1" colspan="1">&lt; 0.001</td><td align="center" rowspan="1" colspan="1">&lt; 0.001</td><td align="center" rowspan="1" colspan="1">&lt; 0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">stdev<sup>c</sup>
+</td><td colspan="3" align="center" rowspan="1">0.00–6.59</td><td colspan="3" align="center" rowspan="1">0.00–11.02</td><td colspan="3" align="center" rowspan="1">0.00–12.67</td></tr></tbody></table><table-wrap-foot><fn id="note-0003"><p>
+<sup>a</sup>MIC values of combinations that are lower than the MIC of that honey alone are denoted in bold.</p></fn><fn id="note-0004"><p>
+<sup>b</sup>
+<italic toggle="yes">p</italic> values calculated using the t‐test, where <italic toggle="yes">p</italic> &lt; 0.05 is considered significant.</p></fn><fn id="note-0005"><p>
+<sup>c</sup>Standard deviations represented as a range.</p></fn></table-wrap-foot></table-wrap><p>The significant increase in the anti‐<italic toggle="yes">H. pylori</italic> activity seen when honey was combined with the <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species indicates that these species are inhibiting <italic toggle="yes">H. pylori</italic> growth. This was also seen when the <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species were investigated against <italic toggle="yes">H. pylori</italic> alone. The greatest increase in antimicrobial activity was seen in combinations with <italic toggle="yes">L. casei</italic>, where 82.50% of honey samples combined with <italic toggle="yes">L. casei</italic> had better activity than the respective honey alone against at least one strain. Up to a fourfold increase in activity was noted for four honey samples when combined with <italic toggle="yes">L. casei</italic>. These results are indicative of positive interactions between the investigated South African honey and the <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> gut microbiome species.</p><p>
+<italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species are noted to inhibit the growth of <italic toggle="yes">H. pylori</italic> by producing antimicrobials including lactic acid and H<sub>2</sub>O<sub>2</sub>. Lactic acid was found to inhibit urease, whereas H<sub>2</sub>O<sub>2</sub> was noted to damage bacterial cell walls and membranes [<xref rid="bib-0042" ref-type="bibr">42</xref>]. Several studies have investigated the anti‐<italic toggle="yes">H. pylori</italic> activity of probiotics, including <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species, combined with standard therapy, and found that the combinations improved <italic toggle="yes">H. pylori</italic> eradication and reduced side effects [<xref rid="bib-0042" ref-type="bibr">42</xref>–<xref rid="bib-0044" ref-type="bibr">44</xref>]. These results were, however, determined to be strain‐specific [<xref rid="bib-0042" ref-type="bibr">42</xref>], which could account for the greater anti‐<italic toggle="yes">H. pylori</italic> activity noted for combinations with <italic toggle="yes">L. casei</italic> in this study.</p><p>Although honey combined with <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species was not found to be previously studied against <italic toggle="yes">H. pylori</italic>, honey combined with <italic toggle="yes">Lactiplantibacillus plantarum</italic> (formerly known as <italic toggle="yes">Lactobacillus plantarum</italic>) was found to inhibit wound pathogens both <italic toggle="yes">in vitro</italic> and <italic toggle="yes">in vivo</italic>, as well as accelerate wound healing [<xref rid="bib-0045" ref-type="bibr">45</xref>]. A microbiota of diverse lactic acid bacteria, including <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic>, was found abundantly in bee honey crops. These lactic acid bacteria act as symbionts for bees, protecting them against microbial infections [<xref rid="bib-0046" ref-type="bibr">46</xref>]. These symbionts are found abundantly in honey, where they were shown to produce a variety of extracellular proteins and antimicrobials [<xref rid="bib-0047" ref-type="bibr">47</xref>]. The increase in anti‐<italic toggle="yes">H. pylori</italic> activity observed from the honey–<italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> combinations investigated in this study could thus be attributed to the longstanding symbiotic relationship between honeybees, the honey produced, and <italic toggle="yes">Lactobacillus</italic>/<italic toggle="yes">Lacticaseibacillus</italic> species.</p></sec><sec id="sec-0012"><title>3.3. H<sub>2</sub>O<sub>2</sub> Content</title><p>The H<sub>2</sub>O<sub>2</sub> concentrations were determined in selected honey samples (Table <xref rid="tbl-0004" ref-type="table">4</xref>), with honey from blue gum, citrus, plum, and coriander floral sources showing the highest concentrations of H<sub>2</sub>O<sub>2</sub>. The R<sup>2</sup> value calculated indicated a strong positive correlation between the antimicrobial activity against <italic toggle="yes">H. pylori</italic> and H<sub>2</sub>O<sub>2</sub> concentration of tested honey samples (R<sup>2</sup> = 0.76) (Figure <xref rid="fig-0002" ref-type="fig">2</xref>). Honey samples with MIC values of ≥ 50.00% v/v held H<sub>2</sub>O<sub>2</sub> concentrations between 0.00 and 5.00 mg/mL/h, whereas H<sub>2</sub>O<sub>2</sub> concentrations of samples with noteworthy MIC values ranged from 10.00 to 50.00 mg/mL/h. No detectable H<sub>2</sub>O<sub>2</sub> concentration was recorded for the Manuka honey sample.</p><table-wrap position="float" id="tbl-0004" content-type="Table" orientation="portrait"><label>Table 4</label><caption><p>The hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) content in mg/mL/h of selected honey samples.</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">Honey sample</th><th align="center" rowspan="1" colspan="1">H<sub>2</sub>O<sub>2</sub> (mg/mL/h)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>3</bold>
+<sup>
+<bold>a</bold>
+</sup>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+<sup>
+<bold>a</bold>
+</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>4</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>10.00</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>7</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>20.00</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>8</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>20.00</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>13</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>17.50</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>21</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">22</td><td align="center" rowspan="1" colspan="1">0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>26</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>28</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>30.00</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">29</td><td align="center" rowspan="1" colspan="1">5.00</td></tr><tr><td align="left" rowspan="1" colspan="1">34</td><td align="center" rowspan="1" colspan="1">0.00</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>35</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>30.00</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">36</td><td align="center" rowspan="1" colspan="1">2.00</td></tr><tr><td align="left" rowspan="1" colspan="1">37</td><td align="center" rowspan="1" colspan="1">0.50</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>43</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>50.00</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">52</td><td align="center" rowspan="1" colspan="1">0.25</td></tr><tr><td align="left" rowspan="1" colspan="1">54</td><td align="center" rowspan="1" colspan="1">1.25</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>59</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>61</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>17.50</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">62</td><td align="center" rowspan="1" colspan="1">2.50</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>63</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>15.00</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>64</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>25.00</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">67</td><td align="center" rowspan="1" colspan="1">2.50</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>70</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>17.50</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">M</td><td align="center" rowspan="1" colspan="1">0.00</td></tr></tbody></table><table-wrap-foot><fn id="note-0006"><p>
+<sup>a</sup>Samples with noteworthy MIC values denoted in bold.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="Figure" id="fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Correlation between the mean MIC values in % v/v of South African honey samples and the concentration of H<sub>2</sub>O<sub>2</sub> in mg/mL/h.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="IJFO-2026-9085243-g002.jpg"><?image-name IJFO-2026-9085243-g002.jpg?><?image-size 44441?><?image-md5 8c8d0d28276cd635a5090eeeb8166fe0?><?image-image-server-status NEVER_LOAD?><?image-original-height 410?><?image-original-width 600?><?image-scaled-height 410?><?image-scaled-width 600?><?image-cloudpmc-urn urn:cdn:blobs/861a/13315830/8c8d0d28276c/IJFO-2026-9085243-g002.jpg?><?thumb-name IJFO-2026-9085243-g002.gif?><?thumb-size 2321?><?thumb-md5 25a97639faea91292dce4d93ab03cb4d?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 117?><?thumb-cloudpmc-urn urn:cdn:blobs/861a/13315830/25a97639faea/IJFO-2026-9085243-g002.gif?></graphic></fig><p>Significant correlations between H<sub>2</sub>O<sub>2</sub> concentrations and MICs have been previously reported [<xref rid="bib-0018" ref-type="bibr">18</xref>]. A H<sub>2</sub>O<sub>2</sub> concentration of 1.25 mg/mL/h was observed for the South African honey sample of <italic toggle="yes">Eucalyptus</italic> floral source in this study, while a maximum H<sub>2</sub>O<sub>2</sub> concentration of 0.93 ± 0.12 mM was recorded for Australian honey of <italic toggle="yes">Eucalyptus</italic> floral source [<xref rid="bib-0019" ref-type="bibr">19</xref>]. No detectable H<sub>2</sub>O<sub>2</sub> was recorded for the South African orange blossom honey sample in this study. Similarly, low concentrations (0.01 ± 0.00 to 0.05 ± 0.01 mM) were recorded for orange blossom honey samples from Crete, Greece [<xref rid="bib-0048" ref-type="bibr">48</xref>]. A study investigating Nigerian honey found that honey diluted with water was more effective against <italic toggle="yes">H. pylori</italic> compared with the undiluted sample [<xref rid="bib-0041" ref-type="bibr">41</xref>]. This activity could be attributed to H<sub>2</sub>O<sub>2</sub>, as H<sub>2</sub>O<sub>2</sub> is produced when honey is diluted with water [<xref rid="bib-0015" ref-type="bibr">15</xref>, <xref rid="bib-0016" ref-type="bibr">16</xref>].</p><p>While other compounds and physicochemical factors of honey can contribute to antimicrobial activity, only two honey compounds, H<sub>2</sub>O<sub>2</sub> and methylglyoxal, are classified as true antibacterials [<xref rid="bib-0018" ref-type="bibr">18</xref>]. The Manuka honey sample investigated in this study had no detectable H<sub>2</sub>O<sub>2</sub>. Manuka honey has been noted to contain little to no detectable H<sub>2</sub>O<sub>2</sub>, with antimicrobial activity attributed to the high levels of methylglyoxal present [<xref rid="bib-0017" ref-type="bibr">17</xref>, <xref rid="bib-0049" ref-type="bibr">49</xref>]. The anti‐<italic toggle="yes">H. pylori</italic> activity of South African honey observed in this study could thus be attributed to the H<sub>2</sub>O<sub>2</sub> present in the samples upon dilution.</p><p>A wide variation was observed between the H<sub>2</sub>O<sub>2</sub> concentrations recorded for the South African honey samples. H<sub>2</sub>O<sub>2</sub> content has previously been noted to vary between honey samples, even when derived from the same floral source [<xref rid="bib-0019" ref-type="bibr">19</xref>]. Factors affecting H<sub>2</sub>O<sub>2</sub> accumulation include the age, storage, and processing of the honey, as glucose oxidase is sensitive to heat and light, as well as bee diet and health [<xref rid="bib-0019" ref-type="bibr">19</xref>]. The presence of other compounds, such as catalase, metalloenzymes, and ascorbic acid, was found to reduce H<sub>2</sub>O<sub>2</sub> accumulation in honey. Variation in H<sub>2</sub>O<sub>2</sub> concentrations could also be the result of varying amounts of glucose oxidase present in the honey samples, as glucose oxidase is produced by bees during nectar collection and is thus dependent on bee health [<xref rid="bib-0018" ref-type="bibr">18</xref>].</p></sec></sec><sec id="sec-0013"><title>4. Conclusion</title><p>This study presents for the first time the anti‐<italic toggle="yes">H. pylori</italic> activity of a comprehensive range of South African honey samples. Varying antimicrobial activity against <italic toggle="yes">H. pylori</italic> was observed, with a third of the honey variants showing activity comparable with that of Manuka honey. The best anti‐<italic toggle="yes">H. pylori</italic> activity was demonstrated by honey produced using fynbos as the floral source. This flora is indigenous to South Africa. Honey sourced from citrus and coriander floral sources was found to possess high anti‐<italic toggle="yes">H. pylori</italic> activity as well. When the honey samples were combined with gut microbiome species, the activity against <italic toggle="yes">H. pylori</italic> was greatly increased, with combinations of honey and <italic toggle="yes">L. casei</italic> showing the greatest increase in antimicrobial activity. The correlation between the anti‐<italic toggle="yes">H. pylori</italic> activity of South African honey and the H<sub>2</sub>O<sub>2</sub> concentrations present was investigated for the first time, with results indicating that the anti‐<italic toggle="yes">H. pylori</italic> activity of South African honey can be attributed to its H<sub>2</sub>O<sub>2</sub> content.</p><p>While the results of this study demonstrate the antimicrobial effect of South African honey, investigation into the <italic toggle="yes">in vivo</italic> effects is required to determine the potential of South African honey for treating <italic toggle="yes">H. pylori</italic> infections and related ailments such as inflammation and gastric ulcers. Furthermore, investigation into the chemical composition of different honey samples could aid in the standardization of such natural products and provide insight into structure: anti‐<italic toggle="yes">H. pylori</italic> activity.</p><p>The results of this study present the unique honey of South Africa as an effective antimicrobial agent against <italic toggle="yes">H. pylori</italic>, not only by inhibiting <italic toggle="yes">H. pylori</italic> growth independently but also by enhancing this inhibition through interaction with gut microbiome species.</p></sec><sec id="sec-0015"><title>Funding</title><p>The laboratory component of this study was supported by the National Research Foundation (NRF) of South Africa (Thuthuka Fund, Grant Number: 129672). The NRF is also acknowledged for postgraduate funding (MND200622534983).</p></sec><sec id="sec-0016"><title>Ethics Statement</title><p>An ethical waiver was obtained from the University of the Witwatersrand Human Research Ethics Committee (W‐CBP‐210906‐01).</p></sec><sec sec-type="COI-statement" id="sec-0017"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="link-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supporting Information</bold> Additional supporting information can be found online in the Supporting Information section. Table S1: Description of the southern African honey samples collected from beekeepers in conjunction with SABIO.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="IJFO-2026-9085243-s001.docx" position="float" orientation="portrait"><?suppdata-name IJFO-2026-9085243-s001.docx?><?suppdata-size 23133?><?suppdata-md5 719920000408ad9aa2383ad15766156b?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type vnd.openxmlformats-officedocument.wordprocessingml.document?><?suppdata-cloudpmc-urn urn:app:861a/13315830/719920000408/IJFO-2026-9085243-s001.docx?></media></supplementary-material></sec></body><back><ack id="sec-0014"><title>Acknowledgments</title><p>The authors acknowledge all South African beekeepers who generously donated honey samples, especially Kai Hichert. Dr. Ayodeji Idowu and the Department of Gastroenterology, African Institute of Digestive Diseases, Chris Hani Baragwanath Academic Hospital, as well as Dr. Hafeez Mohamed and Austell Pharmaceuticals, are acknowledged for the <italic toggle="yes">H. pylori</italic> cultures provided.</p></ack><sec sec-type="data-availability" id="sec-0019"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list><ref id="bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cit-0001">
+<string-name name-style="western">
+<surname>Goh</surname>
+<given-names>K. L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chan</surname>
+<given-names>W. K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Shiota</surname>
+<given-names>S.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Yamaoka</surname>
+<given-names>Y.</given-names>
+</string-name>, <article-title>Epidemiology of <italic toggle="yes">Helicobacter pylori</italic> Infection and Public Health Implications</article-title>, <source>Helicobacter</source>. (<year>2011</year>) <volume>16</volume>, no. Supplement 1, <fpage>1</fpage>–<lpage>9</lpage>, <pub-id pub-id-type="doi">10.1111/j.1523-5378.2011.00874.x</pub-id>, 21896079.<pub-id pub-id-type="pmcid">PMC3719046</pub-id><pub-id pub-id-type="pmid">21896079</pub-id></mixed-citation></ref><ref id="bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cit-0002">
+<string-name name-style="western">
+<surname>Tanih</surname>
+<given-names>N. F.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Ndip</surname>
+<given-names>N.</given-names>
+</string-name>, <article-title>A South African Perspective on <italic toggle="yes">Helicobacter pylori</italic>: Prevalence, Epidemiology and Antimicrobial Chemotherapy</article-title>, <source>African Journal of Microbiology Research</source>. (<year>2013</year>) <volume>7</volume>, no. 21, <fpage>2430</fpage>–<lpage>2437</lpage>, <pub-id pub-id-type="doi">10.5897/AJMR2013.5594</pub-id>.</mixed-citation></ref><ref id="bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cit-0003">
+<string-name name-style="western">
+<surname>Gobert</surname>
+<given-names>A. P.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>K. T.</given-names>
+</string-name>, <article-title>The Immune Battle Against <italic toggle="yes">Helicobacter pylori</italic> Infection: NO Offense</article-title>, <source>Trends in Microbiology</source>. (<year>2016</year>) <volume>24</volume>, no. 5, <fpage>366</fpage>–<lpage>376</lpage>, <pub-id pub-id-type="doi">10.1016/j.tim.2016.02.005</pub-id>, 26916789.<pub-id pub-id-type="pmid">26916789</pub-id>
+<pub-id pub-id-type="pmcid">PMC4841705</pub-id></mixed-citation></ref><ref id="bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cit-0004">
+<string-name name-style="western">
+<surname>De Francesco</surname>
+<given-names>V.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Giorgio</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hassan</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Manes</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Vannella</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Panella</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ierardi</surname>
+<given-names>E.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Zullo</surname>
+<given-names>A.</given-names>
+</string-name>, <article-title>Worldwide <italic toggle="yes">H. pylori</italic> Antibiotic Resistance: A Systematic Review</article-title>, <source>Journal of Gastrointestinal and Liver Diseases</source>. (<year>2010</year>) <volume>19</volume>, no. 4, <fpage>409</fpage>–<lpage>414</lpage>, 21188333.<pub-id pub-id-type="pmid">21188333</pub-id>
+</mixed-citation></ref><ref id="bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cit-0005">
+<string-name name-style="western">
+<surname>Ansari</surname>
+<given-names>S.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Yamaoka</surname>
+<given-names>Y.</given-names>
+</string-name>, <article-title>Current Understanding and Management of <italic toggle="yes">Helicobacter pylori</italic> Infection: An Updated Appraisal</article-title>, <source>F1000Research</source>. (<year>2018</year>) <volume>7</volume>, <elocation-id>e721</elocation-id>, <pub-id pub-id-type="doi">10.12688/f1000research.14149.1</pub-id>, 29946428.<pub-id pub-id-type="pmcid">PMC5998008</pub-id><pub-id pub-id-type="pmid">29946428</pub-id></mixed-citation></ref><ref id="bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cit-0006">
+<string-name name-style="western">
+<surname>Edlund</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Beyer</surname>
+<given-names>G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hiemer-Bau</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ziege</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Lode</surname>
+<given-names>H.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Nord</surname>
+<given-names>C. E.</given-names>
+</string-name>, <article-title>Comparative Effects of Moxifloxacin and Clarithromycin on the Normal Intestinal Microflora</article-title>, <source>Scandinavian Journal of Infectious Diseases</source>. (<year>2000</year>) <volume>32</volume>, no. 1, <fpage>81</fpage>–<lpage>85</lpage>, <pub-id pub-id-type="doi">10.1080/00365540050164272</pub-id>, 10716083.<pub-id pub-id-type="pmid">10716083</pub-id>
+</mixed-citation></ref><ref id="bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cit-0007">
+<string-name name-style="western">
+<surname>Raymond</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ouameur</surname>
+<given-names>A. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Déraspe</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Iqbal</surname>
+<given-names>N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gingras</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Dridi</surname>
+<given-names>B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Leprohon</surname>
+<given-names>P.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Plante</surname>
+<given-names>P. L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Giroux</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bérubé</surname>
+<given-names>È.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Frenette</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Boudreau</surname>
+<given-names>D. K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Simard</surname>
+<given-names>J. L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chabot</surname>
+<given-names>I.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Domingo</surname>
+<given-names>M. C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Trottier</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Boissinot</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Huletsky</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Roy</surname>
+<given-names>P. H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ouellette</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bergeron</surname>
+<given-names>M. G.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Corbeil</surname>
+<given-names>J.</given-names>
+</string-name>, <article-title>The Initial State of the Human Gut Microbiome Determines Its Reshaping by Antibiotics</article-title>, <source>ISME Journal</source>. (<year>2016</year>) <volume>10</volume>, no. 3, <fpage>707</fpage>–<lpage>720</lpage>, <pub-id pub-id-type="doi">10.1038/ismej.2015.148</pub-id>, 26359913.<pub-id pub-id-type="pmid">26359913</pub-id>
+<pub-id pub-id-type="pmcid">PMC4817689</pub-id></mixed-citation></ref><ref id="bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cit-0008">
+<string-name name-style="western">
+<surname>Ridlon</surname>
+<given-names>J. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kang</surname>
+<given-names>D. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hylemon</surname>
+<given-names>P. B.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Bajaj</surname>
+<given-names>J. S.</given-names>
+</string-name>, <article-title>Bile Acids and the Gut Microbiome</article-title>, <source>Current Opinion in Gastroenterology</source>. (<year>2014</year>) <volume>30</volume>, no. 3, <fpage>332</fpage>–<lpage>338</lpage>, <pub-id pub-id-type="doi">10.1097/MOG.0000000000000057</pub-id>, 24625896.<pub-id pub-id-type="pmid">24625896</pub-id>
+<pub-id pub-id-type="pmcid">PMC4215539</pub-id></mixed-citation></ref><ref id="bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cit-0009">
+<string-name name-style="western">
+<surname>Ermolenko</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Varsin</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Baryshnikova</surname>
+<given-names>N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Svarval</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Ferman</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Besedina</surname>
+<given-names>N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Zakrevskaya</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Molostova</surname>
+<given-names>A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Suvorov</surname>
+<given-names>A.</given-names>
+</string-name>, <article-title>Gastrointestinal Dysbiosis Accompanied of <italic toggle="yes">Helicobacter pylori</italic> Infection and Its Correction by Probiotic</article-title>, <source>Journal of Clinical Gastroenterology and Treatment</source>. (<year>2018</year>) <volume>4</volume>, no. 1, <pub-id pub-id-type="doi">10.23937/2469-584X/1510055</pub-id>.</mixed-citation></ref><ref id="bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cit-0010">
+<string-name name-style="western">
+<surname>Israili</surname>
+<given-names>Z. H.</given-names>
+</string-name>, <article-title>Antimicrobial Properties of Honey</article-title>, <source>American Journal of Therapeutics</source>. (<year>2014</year>) <volume>21</volume>, no. 4, <fpage>304</fpage>–<lpage>323</lpage>, <pub-id pub-id-type="doi">10.1097/MJT.0b013e318293b09b</pub-id>.<pub-id pub-id-type="pmid">23782759</pub-id>
+</mixed-citation></ref><ref id="bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cit-0011">
+<string-name name-style="western">
+<surname>Van Wyk</surname>
+<given-names>B. E.</given-names>
+</string-name>, <article-title>A Broad Review of Commercially Important Southern African Medicinal Plants</article-title>, <source>Journal of Ethnopharmacology</source>. (<year>2008</year>) <volume>119</volume>, no. 3, <fpage>342</fpage>–<lpage>355</lpage>, <pub-id pub-id-type="doi">10.1016/j.jep.2008.05.029</pub-id>, 18577439.<pub-id pub-id-type="pmid">18577439</pub-id>
+</mixed-citation></ref><ref id="bib-0012"><label>12</label><mixed-citation publication-type="book" id="cit-0012">
+<string-name name-style="western">
+<surname>Claudino-Sales</surname>
+<given-names>V.</given-names>
+</string-name>, <part-title>Cape Floral Region Protected Areas, South Africa. In: Coastal World Heritage Sites</part-title>, <source>Coastal Research Library</source>, <year>2019</year>, <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="bib-0013"><label>13</label><mixed-citation publication-type="book" id="cit-0013">
+<string-name name-style="western">
+<surname>Johannsmeier</surname>
+<given-names>M. F.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Mostert</surname>
+<given-names>A. J. N.</given-names>
+</string-name>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Johannesmeier</surname>
+<given-names>M. F.</given-names>
+</string-name>
+</person-group>, <part-title>South African Nectar and Pollen Flora</part-title>, <source>Beekeeping in South Africa</source>, <year>2010</year>, <publisher-name>ARC-Plant Protection Research Institute</publisher-name>, <fpage>127</fpage>–<lpage>148</lpage>.</mixed-citation></ref><ref id="bib-0014"><label>14</label><mixed-citation publication-type="miscellaneous" id="cit-0014">
+<string-name name-style="western">
+<surname>South African National Biodiversity Institute (SANBI)</surname>
+</string-name>, <article-title>Indigenous South African Plants That Provide Food for Honeybees</article-title>, <year>2018</year>, Last accessed: 11/13/2024, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.sanbi.org/wp-content/uploads/2018/05/kirstenbosch-nbg-list-plants-provide-food-honey-bees.pdf" ext-link-type="uri">http://www.sanbi.org/wp-content/uploads/2018/05/kirstenbosch-nbg-list-plants-provide-food-honey-bees.pdf</ext-link>.</mixed-citation></ref><ref id="bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cit-0015">
+<string-name name-style="western">
+<surname>White</surname>
+<given-names>J. W.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Subers</surname>
+<given-names>M. H.</given-names>
+</string-name>, <article-title>Studies on Honey Inhibine. 4. Destruction of the Peroxide Accumulation System by Light</article-title>, <source>Journal of Food Science</source>. (<year>1964</year>) <volume>29</volume>, no. 6, <fpage>819</fpage>–<lpage>828</lpage>, <pub-id pub-id-type="doi">10.1111/j.1365-2621.1964.tb00455.x</pub-id>.</mixed-citation></ref><ref id="bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cit-0016">
+<string-name name-style="western">
+<surname>Kwakman</surname>
+<given-names>P. H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Velde</surname>
+<given-names>A. A. T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>de Boer</surname>
+<given-names>L.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Speijer</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Vandenbroucke-Grauls</surname>
+<given-names>C. M. J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Zaat</surname>
+<given-names>S. A.</given-names>
+</string-name>, <article-title>How Honey Kills Bacteria</article-title>, <source>FASEB Journal</source>. (<year>2010</year>) <volume>24</volume>, no. 7, <fpage>2576</fpage>–<lpage>2582</lpage>, <pub-id pub-id-type="doi">10.1096/fj.09-150789</pub-id>.<pub-id pub-id-type="pmid">20228250</pub-id>
+</mixed-citation></ref><ref id="bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cit-0017">
+<string-name name-style="western">
+<surname>Lehmann</surname>
+<given-names>D. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Krishnakumar</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Batres</surname>
+<given-names>M. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hakola-Parry</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cokcetin</surname>
+<given-names>N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Harry</surname>
+<given-names>E.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Carter</surname>
+<given-names>D. A.</given-names>
+</string-name>, <article-title>A Cost-Effective Colourimetric Assay for Quantifying Hydrogen Peroxide in Honey</article-title>, <source>Access Microbiology</source>. (<year>2019</year>) <volume>1</volume>, no. 10, <elocation-id>e000065</elocation-id>, <pub-id pub-id-type="doi">10.1099/acmi.0.000065</pub-id>, 32974499.<pub-id pub-id-type="pmid">32974499</pub-id>
+<pub-id pub-id-type="pmcid">PMC7491932</pub-id></mixed-citation></ref><ref id="bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cit-0018">
+<string-name name-style="western">
+<surname>Brudzynski</surname>
+<given-names>K.</given-names>
+</string-name>, <article-title>A Current Perspective on Hydrogen Peroxide Production in Honey. A Review</article-title>, <source>Food Chemistry</source>. (<year>2020</year>) <volume>332</volume>, <elocation-id>e127229</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.foodchem.2020.127229</pub-id>, 32688187.<pub-id pub-id-type="pmid">32688187</pub-id></mixed-citation></ref><ref id="bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cit-0019">
+<string-name name-style="western">
+<surname>Guttentag</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Krishnakumar</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cokcetin</surname>
+<given-names>N.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Harry</surname>
+<given-names>E.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Carter</surname>
+<given-names>D.</given-names>
+</string-name>, <article-title>Factors Affecting the Production and Measurement of Hydrogen Peroxide in Honey Samples</article-title>, <source>Access Microbiology</source>. (<year>2021</year>) <volume>3</volume>, no. 3, <elocation-id>e000198</elocation-id>, <pub-id pub-id-type="doi">10.1099/acmi.0.000198</pub-id>, 34151153.<pub-id pub-id-type="pmcid">PMC8209695</pub-id><pub-id pub-id-type="pmid">34151153</pub-id></mixed-citation></ref><ref id="bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cit-0020">
+<string-name name-style="western">
+<surname>Fazalda</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Quraisiah</surname>
+<given-names>A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Nur Azlina</surname>
+<given-names>M. F.</given-names>
+</string-name>, <article-title>Antiulcer Effect of Honey in Nonsteroidal Anti-Inflammatory Drugs Induced Gastric Ulcer Model in Rats: A Systematic Review</article-title>, <source>Evidence-Based Complementary and Alternative Medicine</source>. (<year>2018</year>) <volume>2018</volume>, <elocation-id>e7515692</elocation-id>, <pub-id pub-id-type="doi">10.1155/2018/7515692</pub-id>, 30105063.<pub-id pub-id-type="pmcid">PMC6076929</pub-id><pub-id pub-id-type="pmid">30105063</pub-id></mixed-citation></ref><ref id="bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cit-0021">
+<string-name name-style="western">
+<surname>Ali</surname>
+<given-names>A. T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chowdhury</surname>
+<given-names>M. N.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Al Humayyd</surname>
+<given-names>M. S.</given-names>
+</string-name>, <article-title>Inhibitory Effect of Natural Honey on <italic toggle="yes">Helicobacter pylori</italic>
+</article-title>, <source>Tropical Gastroenterology</source>. (<year>1991</year>) <volume>12</volume>, no. 3, <fpage>139</fpage>–<lpage>143</lpage>, 1841451.<pub-id pub-id-type="pmid">1841451</pub-id>
+</mixed-citation></ref><ref id="bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cit-0022">
+<string-name name-style="western">
+<surname>Nzeako</surname>
+<given-names>B. C.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Al-Namaani</surname>
+<given-names>F.</given-names>
+</string-name>, <article-title>The Antibacterial Activity of Honey on <italic toggle="yes">Helicobacter pylori</italic>
+</article-title>, <source>Sultan Qaboos University Medical Journal</source>. (<year>2006</year>) <volume>6</volume>, no. 2, <fpage>71</fpage>–<lpage>76</lpage>, 21748138, <pub-id pub-id-type="doi">10.18295/2075-0528.2629</pub-id>.<pub-id pub-id-type="pmid">21748138</pub-id>
+<pub-id pub-id-type="pmcid">PMC3074916</pub-id></mixed-citation></ref><ref id="bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cit-0023">
+<string-name name-style="western">
+<surname>Manyi-Loh</surname>
+<given-names>C. E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Clarke</surname>
+<given-names>A. M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Green</surname>
+<given-names>E.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Ndip</surname>
+<given-names>R. N.</given-names>
+</string-name>, <article-title>Inhibitory and Bactericidal Activity of Selected South African Honeys and Their Solvent Extracts Against Clinical Isolates of <italic toggle="yes">Helicobacter pylori</italic>
+</article-title>, <source>Pakistan Journal of Pharmaceutical Sciences</source>. (<year>2013</year>) <volume>26</volume>, no. 5, <fpage>897</fpage>–<lpage>906</lpage>, 24035944.<pub-id pub-id-type="pmid">24035944</pub-id>
+</mixed-citation></ref><ref id="bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cit-0024">
+<string-name name-style="western">
+<surname>Somal</surname>
+<given-names>N. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Coley</surname>
+<given-names>K. E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Molan</surname>
+<given-names>P. C.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Hancock</surname>
+<given-names>B. M.</given-names>
+</string-name>, <article-title>Susceptibility of <italic toggle="yes">Helicobacter pylori</italic> to the Antibacterial Activity of Manuka Honey</article-title>, <source>Journal of the Royal Society of Medicine</source>. (<year>1994</year>) <volume>87</volume>, no. 1, <fpage>9</fpage>–<lpage>12</lpage>, <pub-id pub-id-type="doi">10.1177/014107689408700106</pub-id>, 8308841.<pub-id pub-id-type="pmcid">PMC1294271</pub-id><pub-id pub-id-type="pmid">8308841</pub-id></mixed-citation></ref><ref id="bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cit-0025">
+<string-name name-style="western">
+<surname>Herigstad</surname>
+<given-names>B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hamilton</surname>
+<given-names>M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Heersink</surname>
+<given-names>J.</given-names>
+</string-name>, <article-title>How to Optimize the Drop Plate Method for Enumerating Bacteria</article-title>, <source>Journal of Microbiological Methods</source>. (<year>2001</year>) <volume>44</volume>, no. 2, <fpage>121</fpage>–<lpage>129</lpage>, <pub-id pub-id-type="doi">10.1016/S0167-7012(00)00241-4</pub-id>, 11165341.<pub-id pub-id-type="pmid">11165341</pub-id>
+</mixed-citation></ref><ref id="bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cit-0026">
+<string-name name-style="western">
+<surname>Khan</surname>
+<given-names>F.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Hill</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Kaehler</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Allsopp</surname>
+<given-names>M.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>van Vuuren</surname>
+<given-names>S.</given-names>
+</string-name>, <article-title>Antimicrobial Properties and Isotope Investigations of South African Honey</article-title>, <source>Journal of Applied Microbiology</source>. (<year>2014</year>) <volume>117</volume>, no. 2, <fpage>366</fpage>–<lpage>379</lpage>, <pub-id pub-id-type="doi">10.1111/jam.12533</pub-id>, 24775444.<pub-id pub-id-type="pmid">24775444</pub-id>
+</mixed-citation></ref><ref id="bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cit-0027">
+<string-name name-style="western">
+<surname>Kerkvliet</surname>
+<given-names>J. D.</given-names>
+</string-name>, <article-title>Screening Method for the Determination of Peroxide Acumulation in Honey and Relation With HMF Content</article-title>, <source>Journal of Apicultural Research</source>. (<year>1996</year>) <volume>35</volume>, no. 3-4, <fpage>110</fpage>–<lpage>117</lpage>, <pub-id pub-id-type="doi">10.1080/00218839.1996.11100920</pub-id>.</mixed-citation></ref><ref id="bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cit-0028">
+<string-name name-style="western">
+<surname>Goldblatt</surname>
+<given-names>P.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Manning</surname>
+<given-names>J. C.</given-names>
+</string-name>, <article-title>Plant Diversity of the Cape Region of Southern Africa</article-title>, <source>Annals of the Missouri Botanical Garden</source>. (<year>2002</year>) <volume>89</volume>, no. 2, <fpage>281</fpage>–<lpage>302</lpage>, <pub-id pub-id-type="doi">10.2307/3298566</pub-id>.</mixed-citation></ref><ref id="bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cit-0029">
+<string-name name-style="western">
+<surname>Tan</surname>
+<given-names>P. V.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Mezui</surname>
+<given-names>C.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Boda</surname>
+<given-names>M.</given-names>
+</string-name>, <article-title>Anti-<italic toggle="yes">Helicobacter</italic> and Gastroduodenal Cytoprotective Actions of the Leaf Aqueous Extract of <italic toggle="yes">Ocimum suave</italic> (Lamiaceae)</article-title>, <source>Journal of Medicinal Plants Research</source>. (<year>2011</year>) <volume>5</volume>, no. 25, <fpage>5958</fpage>–<lpage>5966</lpage>.</mixed-citation></ref><ref id="bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cit-0030">
+<string-name name-style="western">
+<surname>Kouitcheu Mabeku</surname>
+<given-names>L. B.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Eyoum Bille</surname>
+<given-names>B.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Nguepi</surname>
+<given-names>E.</given-names>
+</string-name>, <article-title>In Vitro and In Vivo Anti-<italic toggle="yes">Helicobacter</italic> Activities of <italic toggle="yes">Eryngium foetidum</italic> (Apiaceae), <italic toggle="yes">Bidens pilosa</italic> (Asteraceae), and <italic toggle="yes">Galinsoga ciliata</italic> (Asteraceae) Against <italic toggle="yes">Helicobacter pylori</italic>
+</article-title>, <source>BioMed Research International</source>. (<year>2016</year>) <volume>2016</volume>, <elocation-id>e2171032</elocation-id>, <pub-id pub-id-type="doi">10.1155/2016/2171032</pub-id>, 27631003.<pub-id pub-id-type="pmcid">PMC5007343</pub-id><pub-id pub-id-type="pmid">27631003</pub-id></mixed-citation></ref><ref id="bib-0031"><label>31</label><mixed-citation publication-type="book" id="cit-0031">
+<string-name name-style="western">
+<surname>Matongo</surname>
+<given-names>F.</given-names>
+</string-name>, <source>Inhibitory Potential of Honey on the Enzymatic Activity of Helicobacter pylori Urease</source>, <year>2012</year>, <publisher-name>PhD diss., University of Fort Hare</publisher-name>.</mixed-citation></ref><ref id="bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cit-0032">
+<string-name name-style="western">
+<surname>Kusters</surname>
+<given-names>J. G.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Van Vliet</surname>
+<given-names>A. H.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Kuipers</surname>
+<given-names>E. J.</given-names>
+</string-name>, <article-title>Pathogenesis of <italic toggle="yes">Helicobacter pylori</italic> Infection</article-title>, <source>Clinical Microbiology Reviews</source>. (<year>2006</year>) <volume>19</volume>, no. 3, <fpage>449</fpage>–<lpage>490</lpage>, <pub-id pub-id-type="doi">10.1128/cmr.00054-05</pub-id>, 16847081.<pub-id pub-id-type="pmid">16847081</pub-id>
+<pub-id pub-id-type="pmcid">PMC1539101</pub-id></mixed-citation></ref><ref id="bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cit-0033">
+<string-name name-style="western">
+<surname>Basson</surname>
+<given-names>N. J.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Grobler</surname>
+<given-names>S. R.</given-names>
+</string-name>, <article-title>Antimicrobial Activity of Two South African Honeys Produced From Indigenous <italic toggle="yes">Leucospermum cordifolium</italic> and <italic toggle="yes">Erica</italic> Species on Selected Micro-Organisms</article-title>, <source>BMC Complementary and Alternative Medicine</source>. (<year>2008</year>) <volume>8</volume>, no. 1, <fpage>1</fpage>–<lpage>4</lpage>, <pub-id pub-id-type="doi">10.1186/1472-6882-8-41</pub-id>, 18627601.<pub-id pub-id-type="pmid">18627601</pub-id>
+<pub-id pub-id-type="pmcid">PMC2478674</pub-id></mixed-citation></ref><ref id="bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cit-0034">
+<string-name name-style="western">
+<surname>De Beer</surname>
+<given-names>J. J.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Van Wyk</surname>
+<given-names>B. E.</given-names>
+</string-name>, <article-title>An Ethnobotanical Survey of the Agter–Hantam, Northern Cape Province, South Africa</article-title>, <source>South African Journal of Botany</source>. (<year>2011</year>) <volume>77</volume>, no. 3, <fpage>741</fpage>–<lpage>754</lpage>, <pub-id pub-id-type="doi">10.1016/j.sajb.2011.03.013</pub-id>.</mixed-citation></ref><ref id="bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cit-0035">
+<string-name name-style="western">
+<surname>Brendler</surname>
+<given-names>T.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Abdel-Tawab</surname>
+<given-names>M.</given-names>
+</string-name>, <article-title>Buchu (<italic toggle="yes">Agathosma betulina</italic> and <italic toggle="yes">A. crenulata</italic>): Rightfully Forgotten or Underutilized?</article-title>, <source>Frontiers in Pharmacology</source>. (<year>2022</year>) <volume>13</volume>, <elocation-id>e813142</elocation-id>, <pub-id pub-id-type="doi">10.3389/fphar.2022.813142</pub-id>.<pub-id pub-id-type="pmcid">PMC8859318</pub-id><pub-id pub-id-type="pmid">35197854</pub-id></mixed-citation></ref><ref id="bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cit-0036">
+<string-name name-style="western">
+<surname>Jury</surname>
+<given-names>M. R.</given-names>
+</string-name>, <article-title>Climate Trends in Southern Africa (With Erratum)</article-title>, <source>South African Journal of Science</source>. (<year>2013</year>) <volume>109</volume>, no. 1, <fpage>1</fpage>–<lpage>11</lpage>, <pub-id pub-id-type="doi">10.1590/sajs.2013/980</pub-id>.</mixed-citation></ref><ref id="bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cit-0037">
+<string-name name-style="western">
+<surname>Neumann</surname>
+<given-names>F. H.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Bamford</surname>
+<given-names>M. K.</given-names>
+</string-name>, <article-title>Shaping of Modern Southern African Biomes: Neogene Vegetation and Climate Changes</article-title>, <source>Transactions of the Royal Society of South Africa</source>. (<year>2015</year>) <volume>70</volume>, no. 3, <fpage>195</fpage>–<lpage>212</lpage>, <pub-id pub-id-type="doi">10.1080/0035919X.2015.1072859</pub-id>.</mixed-citation></ref><ref id="bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cit-0038">
+<string-name name-style="western">
+<surname>Dinat</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Orchard</surname>
+<given-names>A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Van Vuuren</surname>
+<given-names>S.</given-names>
+</string-name>, <article-title>Antimicrobial Activity of Southern African Medicinal Plants on <italic toggle="yes">Helicobacter pylori</italic> and <italic toggle="yes">Lactobacillus</italic> Species</article-title>, <source>Journal of Ethnopharmacology</source>. (<year>2024</year>) <volume>330</volume>, no. 330, <elocation-id>e118238</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.jep.2024.118238</pub-id>, 38663780.<pub-id pub-id-type="pmid">38663780</pub-id></mixed-citation></ref><ref id="bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cit-0039">
+<string-name name-style="western">
+<surname>Ademokoya</surname>
+<given-names>A. A.</given-names>
+</string-name>, <article-title>Evaluation of Antimicrobial Effect of Natural Honey on Some Enteric Pathogens</article-title>, <source>International Journal of Clinical Medicine</source>. (<year>2017</year>) <volume>6</volume>, no. 1, <fpage>11</fpage>–<lpage>14</lpage>.</mixed-citation></ref><ref id="bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cit-0040">
+<string-name name-style="western">
+<surname>Sanchez</surname>
+<given-names>D. A.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Martinez</surname>
+<given-names>L. R.</given-names>
+</string-name>, <article-title>Underscoring Interstrain Variability and the Impact of Growth Conditions on Associated Antimicrobial Susceptibilities in Preclinical Testing of Novel Antimicrobial Drugs</article-title>, <source>Critical Reviews in Microbiology</source>. (<year>2019</year>) <volume>45</volume>, no. 1, <fpage>51</fpage>–<lpage>64</lpage>, <pub-id pub-id-type="doi">10.1080/1040841X.2018.1538934</pub-id>, 30522365.<pub-id pub-id-type="pmid">30522365</pub-id>
+<pub-id pub-id-type="pmcid">PMC6905375</pub-id></mixed-citation></ref><ref id="bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cit-0041">
+<string-name name-style="western">
+<surname>Ruggiero</surname>
+<given-names>P.</given-names>
+</string-name>, <article-title>Use of Probiotics in the Fight Against <italic toggle="yes">Helicobacter pylori</italic>
+</article-title>, <source>World Journal of Gastrointestinal Pathophysiology</source>. (<year>2014</year>) <volume>5</volume>, no. 4, <fpage>384</fpage>–<lpage>391</lpage>, <pub-id pub-id-type="doi">10.4291/wjgp.v5.i4.384</pub-id>, 25400981.<pub-id pub-id-type="pmid">25400981</pub-id>
+<pub-id pub-id-type="pmcid">PMC4231502</pub-id></mixed-citation></ref><ref id="bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cit-0042">
+<string-name name-style="western">
+<surname>Mestre</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Sathiya Narayanan</surname>
+<given-names>R.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Rivas</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>John</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Abdulqader</surname>
+<given-names>M. A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Khanna</surname>
+<given-names>T.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Chakinala</surname>
+<given-names>R. C.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>S.</given-names>
+</string-name>, <article-title>Role of Probiotics in the Management of <italic toggle="yes">Helicobacter pylori</italic>
+</article-title>, <source>Cureus</source>. (<year>2022</year>) <volume>14</volume>, no. 6, <elocation-id>e26463</elocation-id>, <pub-id pub-id-type="doi">10.7759/cureus.26463</pub-id>, 35919364.<pub-id pub-id-type="pmid">35919364</pub-id>
+<pub-id pub-id-type="pmcid">PMC9338786</pub-id></mixed-citation></ref><ref id="bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cit-0043">
+<string-name name-style="western">
+<surname>Felley</surname>
+<given-names>C.</given-names>
+</string-name> and 
+<string-name name-style="western">
+<surname>Michetti</surname>
+<given-names>P.</given-names>
+</string-name>, <article-title>Probiotics and <italic toggle="yes">Helicobacter pylori</italic>
+</article-title>, <source>Best Practice &amp; Research Clinical Gastroenterology</source>. (<year>2003</year>) <volume>17</volume>, no. 5, <fpage>785</fpage>–<lpage>791</lpage>, <pub-id pub-id-type="doi">10.1016/S1521-6918(03)00070-2</pub-id>.<pub-id pub-id-type="pmid">14507588</pub-id>
+</mixed-citation></ref><ref id="bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cit-0044">
+<string-name name-style="western">
+<surname>Goderska</surname>
+<given-names>K.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Pena</surname>
+<given-names>S. A.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Alarcon</surname>
+<given-names>T.</given-names>
+</string-name>, <article-title>
+<italic toggle="yes">Helicobacter pylori</italic> Treatment: Antibiotics or Probiotics</article-title>, <source>Applied Microbiology and Biotechnology</source>. (<year>2018</year>) <volume>102</volume>, no. 1, <fpage>1</fpage>–<lpage>7</lpage>, <pub-id pub-id-type="doi">10.1007/s00253-017-8535-7</pub-id>, 29075827.<pub-id pub-id-type="pmid">29075827</pub-id>
+<pub-id pub-id-type="pmcid">PMC5748437</pub-id></mixed-citation></ref><ref id="bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cit-0045">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Xiao</surname>
+<given-names>H.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Su</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>D.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Jia</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Yin</surname>
+<given-names>Q.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gao</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Tang</surname>
+<given-names>Y.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Bai</surname>
+<given-names>Q.</given-names>
+</string-name>, <article-title>Synergistic Inhibitory Effect of Honey and <italic toggle="yes">Lactobacillus plantarum</italic> on Pathogenic Bacteria and Their Promotion of Healing in Infected Wounds</article-title>, <source>Pathogens</source>. (<year>2023</year>) <volume>12</volume>, no. 3, <elocation-id>e501</elocation-id>, <pub-id pub-id-type="doi">10.3390/pathogens12030501</pub-id>, 36986423.<pub-id pub-id-type="pmcid">PMC10053434</pub-id><pub-id pub-id-type="pmid">36986423</pub-id></mixed-citation></ref><ref id="bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cit-0046">
+<string-name name-style="western">
+<surname>Vásquez</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Forsgren</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Fries</surname>
+<given-names>I.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Paxton</surname>
+<given-names>R. J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Flaberg</surname>
+<given-names>E.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Szekely</surname>
+<given-names>L.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Olofsson</surname>
+<given-names>T. C.</given-names>
+</string-name>, <article-title>Symbionts as Major Modulators of Insect Health: Lactic Acid Bacteria and Honeybees</article-title>, <source>PLoS One</source>. (<year>2012</year>) <volume>7</volume>, no. 3, <elocation-id>e33188</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pone.0033188</pub-id>, 22427985.<pub-id pub-id-type="pmid">22427985</pub-id>
+<pub-id pub-id-type="pmcid">PMC3299755</pub-id></mixed-citation></ref><ref id="bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cit-0047">
+<string-name name-style="western">
+<surname>Butler</surname>
+<given-names>È.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Alsterfjord</surname>
+<given-names>M.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Olofsson</surname>
+<given-names>T. C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Karlsson</surname>
+<given-names>C.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Malmström</surname>
+<given-names>J.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Vásquez</surname>
+<given-names>A.</given-names>
+</string-name>, <article-title>Proteins of Novel Lactic Acid Bacteria From <italic toggle="yes">Apis mellifera mellifera</italic>: An Insight Into the Production of Known Extra-Cellular Proteins During Microbial Stress</article-title>, <source>BMC Microbiology</source>. (<year>2013</year>) <volume>13</volume>, no. 1, <fpage>1</fpage>–<lpage>12</lpage>, <pub-id pub-id-type="doi">10.1186/1471-2180-13-235</pub-id>, 24148670.<pub-id pub-id-type="pmid">24148670</pub-id>
+<pub-id pub-id-type="pmcid">PMC4015849</pub-id></mixed-citation></ref><ref id="bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cit-0048">
+<string-name name-style="western">
+<surname>Alygizou</surname>
+<given-names>A.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Grigorakis</surname>
+<given-names>S.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Gotsiou</surname>
+<given-names>P.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Loupassaki</surname>
+<given-names>S.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Calokerinos</surname>
+<given-names>A. C.</given-names>
+</string-name>, <article-title>Quantification of Hydrogen Peroxide in Cretan Honey and Correlation With Physicochemical Parameters</article-title>, <source>Journal of Analytical Methods in Chemistry</source>. (<year>2021</year>) <volume>2021</volume>, no. 1, <elocation-id>e5554305</elocation-id>, <pub-id pub-id-type="doi">10.1155/2021/5554305</pub-id>, 33996167.<pub-id pub-id-type="pmcid">PMC8096559</pub-id><pub-id pub-id-type="pmid">33996167</pub-id></mixed-citation></ref><ref id="bib-0049"><label>49</label><mixed-citation publication-type="journal" id="cit-0049">
+<string-name name-style="western">
+<surname>Majtan</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Bohova</surname>
+<given-names>J.</given-names>
+</string-name>, 
+<string-name name-style="western">
+<surname>Prochazka</surname>
+<given-names>E.</given-names>
+</string-name>, and 
+<string-name name-style="western">
+<surname>Klaudiny</surname>
+<given-names>J.</given-names>
+</string-name>, <article-title>Methylglyoxal May Affect Hydrogen Peroxide Accumulation in Manuka Honey Through the Inhibition of Glucose Oxidase</article-title>, <source>Journal of Medicinal Food</source>. (<year>2014</year>) <volume>17</volume>, no. 2, <fpage>290</fpage>–<lpage>293</lpage>, <pub-id pub-id-type="doi">10.1089/jmf.2012.0201</pub-id>, 24192110.<pub-id pub-id-type="pmid">24192110</pub-id>
+<pub-id pub-id-type="pmcid">PMC3929242</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,13 @@
+No.,Criteria,Microbiological relevance,"Camplin and Maddock, 2014 [10]","Cooper et al, 2014 [23]","Halstead et al, 2016 [24]","Lu et al, 2019 [27]","Maddocks et al, 2013 [25]","Morroni et al, 2018. [26]"
+1,Clearly stated aims/objectives,The objectives are clearly stated. The specific strain of P. aeruginosa and type of medical-grade honey is defined.,2,2,2,2,2,2
+2,Detailed explanation of sample size calculation,A sufficient number of replications had been performed for valid results.,1,1,1,1,1,1
+3,Detailed explanation of sampling technique,"The studies describe how the biofilm was harvested, how it was diluted, how the samples were processed to accurately measure the outcome.",1,1,1,1,1,1
+4,Details of comparison group,The studies had defined the negative control and any positive controls.,2,2,2,2,2,2
+5,Detailed explanation of methodology,"The methodology of studies includes specific microbiological details: bacterial strain, culture conditions, the method used to grow the biofilm, the concentration and form of honey used, the exposure time.",2,2,2,2,2,2
+6,Operator details,"Operator details must meet standardized protocols. However, it is less critical for automated OD measurements.",0,0,0,0,0,0
+7,Randomization,The studies did not provide details regarding sequence generation and allocation concealment.,0,0,0,0,0,0
+8,Method of measurement of outcome,The method to measure outcome of biofilm biomass is crystal violet assay for optical density measurement.,2,2,2,2,2,2
+9,Outcome assessor details,The studies did not state number of outcome assessors and details regarding training and calibration of assessor(s).,0,0,0,0,0,0
+10,Blinding,"No details regarding blinding of operator(s), outcome assessor(s), and statistician.",0,0,0,0,0,0
+11,Statistical analysis,"The studies use valid statistical tests (e.g., t-test, ANOVA).",2,0,1,2,1,2
+12,Presentation of results,The studies provide summary statistics and visual representations.,2,2,2,2,2,2

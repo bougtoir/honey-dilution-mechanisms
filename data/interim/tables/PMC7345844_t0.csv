@@ -1,0 +1,10 @@
+No. of Isolates,Antimicrobial Resistance Profile,Resistance Genes Detected,Enterotoxin Genes Detected a,Other Toxin Genes Detected a,Biofilm Genes Detected a,MLST a,SCCmec Type a
+6,Susceptible,-,se-int; sec2,siet,icaA; icaD,ST 44,-
+5,OX-AMC-AML-CL-ENR-MAR,mecA; blaZ; tetM;aacA-aphD,se-int; sec,siet; lukS/F-I,icaA2; icaD5,ST 1062; ST 713,IV1; II-III4
+4,OX-AMC-AML-CL-CVN-TE-ENR-MAR,mecA; blaZ; tetM;tetK; aacA-aphD,se-int3; sec,siet; lukS/F-I3,icaA; icaD,ST 1062; ST 712,IV1; II-III3
+2,TE,tetM,se-int; sec1,siet,icaA; icaD,ST 108,-
+2,TE-ENR-MAR-CVN,tetK,sec1,siet,icaA1; icaD,ST 127; ST 100,-
+1,CVN,blaZ,se-int,siet,icaA; icaD,ST 28,-
+1,OX-AMC-AML-CL-CVN-TE-ENR,mecA; blaZ; tetM,sec,siet; lukS/F-I,icaA; icaD,ST 71,-
+1,AMC-AML-CVN-ENR,blaZ,se-int,siet,icaD,ST 71,IV
+1,OX-AMC-AML-CVN- TE-ENR-MAR,mecA; blaZ; tetM,,siet,icaA; icaD,ST 26,IV

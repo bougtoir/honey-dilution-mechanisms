@@ -1,0 +1,8 @@
+(A),Source,Moisture,Hygroscopicity Level,aw,,L*,a*,,b*,Solubility,,Tapped Density,Tg1
+,A: Drying-honey concentration,**,***,NS,,NS,***,,NS,***,,***,***
+,B: Bot. orig.,**,NS,NS,,***,***,,***,**,,***,NS
+,Interaction: AB,**,NS,NS,,**,**,,*,**,,*,NS
+(B),Source,TPC,TPC-E,TFCC,TFCQ,ABTS•+,ROO•,•OH,O2•−,Anti-infl.,St. aureus,L. mono,E. coli
+,A: Drying -honey concentration,**,NS,NS,NS,**,**,NS,NS,***,**,NS,***
+,B: Bot. Orig.,***,***,***,***,***,***,NS,**,***,NS,**,***
+,Interaction: AB,NS,NS,**,**,NS,***,NS,NS,***,NS,NS,***

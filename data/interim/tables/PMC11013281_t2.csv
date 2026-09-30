@@ -1,0 +1,23 @@
+Honey,Geographical Origin,pH,Color,Total Dicarbonyl Content (mg/kg)
+Washington A,Washington,3.80,89.94 (Light amber) 1,16.81
+Washington B,Washington,3.81,89.94 (Light amber),37.60
+Washington C,Washington,3.83,90.45 (Light amber),30.91
+Washington D,Washington,3.74,90.84 (Light amber),27.66
+Washington E,Washington,3.83,91.11 (Light amber),30.62
+Washington F,Washington,3.81,90.76 (Light amber),27.36
+Texas A,Texas,4.20,117.69 (Dark amber),34.87
+Texas B,Texas,4.00,117.31 (Dark amber),34.07
+Texas C,Texas,3.75,118.27 (Dark amber),51.58
+Texas D,Texas,3.73,118.42 (Dark amber),42.09
+Texas E,Texas,3.74,119.86 (Dark amber),48.00
+Texas F,Texas,4.05,120.44 (Dark amber),36.80
+SoCal A,California,3.88,99. 97 (Amber),27.38
+SoCal B,California,3.90,100.56 (Amber),41.00
+SoCal C,California,3.82,100.53 (Amber),46.94
+SoCal D,California,3.83,99.42 (Amber),50.19
+SoCal E,California,3.86,100.77 (Amber),47.60
+SoCal F,California,3.96,99.76 (Amber),55.74
+Manuka,New Zealand,3.87,64.42 (Light Amber),36.98
+Average,,3.86 ± 0.11,100.92 ± 14.58,38.12 ± 10.16
+Range,,3.74–4.20,64.42–119.45,16.81–55.74
+Regression values,,R = 0.267(p > 0.05),R = 0.668(p < 0.05),

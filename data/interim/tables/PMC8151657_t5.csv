@@ -1,0 +1,12 @@
+Species,Bacteriocins,Target,Ref.
+L. acidophilus,acidocin,Lactobacillus sp.Listeria monocytogenes Enterococcus faecalis,"[85,90]"
+,lactacins,Lactobacillus fermentum Enterococcus faecalis Lactobacillus delbrueckii Lactobacillus helveticus Lactobacillus debrweckii Lactobacillus helveticus Lactobacillus.bulgaricus. Lactococcus lactis.,[90]
+L. helveticus,helveticin J,Lactobacillus Lactobacillus bulgaricus Lactococcus lactis,"[85,91]"
+,lactocin 27,,[90]
+L. johnsonii,lactacin F,,[77]
+L. kunkeei,kunkicin,,
+L. plantarum,plantaricin,"Listeria monocytogenes Staphylococcusaureus, Salmonella typhimurium and Escherichia coli",[92]
+,,"Bacillus cereus, B. pumilus, B. megaterium, Pediococcus, Carnobacteria, Clostiridia and Propionobacteria",
+L. lactis,nisin,"Staphylococcus aureus, Listeria innocua, Lactobacillus sakei, Lactobacillus plantarum, Bacillus spp. Micrococcus spp. Clostridium spp.","[85,93]"
+,lacticin 3147,Clostridium sp. Listeria monocytogenes Staphylococcus aureus MRSA VRE Enterococcus faecalis Propionibacterium acne Streptococcus mutans,[85]
+Pedicoccus pentosaceus,pediocin,Listeria monocytogenes Lactobacillus Lactococcus Leuconostoc Pediococcus Staphylococcus Enterococcus Listeria Clostridium,"[63,85]"

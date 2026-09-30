@@ -1,0 +1,18 @@
+Bacterial strain,MIC90 (μg/ml),Antibiogram (Table 2)
+MRSA (#5),5.4,MRSA No. 1
+MRSA (#6),5.4,MRSA No.2
+Klebsiella pneumonia (#1),14.4,K. pneumonia No.1
+K. pneumonia (#19),14.4,K. pneumonia No.2
+Pseudomonas aeruginosa (#34),25.5,P. aeruginosa No.3
+P. aeruginosa (#35),33,P. aeruginosa No.4
+P. aeruginosa (#6),5.7,P. aeruginosa No.1
+ESBL P. mirabilis (#2),5.7,P. mirabilis No.1
+ESBL Escherichia coli NDM (#4),5.7,E. coli No.4
+ESBL E. coli (#7),23,E. coli No.1
+ESBL E. coli (#8),14.4,E. coli No.2
+ESBL Klebsiella spp. (#9),14.4,K. pneumonia No.3
+ESBL E. coli (#10),24.0,E. coli No.3
+VRE (#17),5.4,VRE No.1
+VRE,5.7,VRE No.2
+E. coli ATCC,15.8,
+B. subtilis ATCC,4.8,

@@ -1,0 +1,8 @@
+Antibiotic,HpU1,HpU2,HpU3,HpU4,HpU5,HpU6,HpG1,HpG2,HpG3,HpG4,HpG5,HpG6,HpG7,HpG8,HpRef,Clinical Breakpoints (mg/L) *,
+,,,,,,,,,,,,,,,,Susceptible,Resistant
+Amoxicillin,R,R,S,R,R,R,S,S,S,S,R,S,R,S,S,≤0.12,>0.12
+Clarithromycin,R,S,R,S,R,R,R,S,S,S,S,S,S,S,S,≤0.25,>0.5
+Metronidazole,S,R,R,S,S,R,S,S,R,R,S,S,R,R,S,≤8,>8
+Tetracycline,R,S,S,R,R,S,S,S,S,R,R,R,R,S,S,≤1,>1
+Levofloxacin,R,R,R,S,R,S,S,R,R,S,R,S,S,S,S,≤1,>1
+Rifampicin **,R,S,R,R,S,R,S,S,R,S,R,S,S,S,S,≤1,>1

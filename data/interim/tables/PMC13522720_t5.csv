@@ -1,0 +1,15 @@
+Parameter,M1,M2,M3,M4,M5,M6,M7,M8,M9,M10,M11,Ciprofloxacin
+Molecular weight (g/mol),170.12,290.27,138.12,180.16,194.18,164.16,580.53,318.24,148.16,286.24,302.24,331.34
+H‐bond acceptors,5,6,3,4,4,3,14,8,2,6,7,5
+H‐bond donors,4,5,2,3,2,2,8,6,1,4,5,2
+Rotatable bonds,1,1,1,2,3,2,6,1,2,1,1,3
+TPSA (Å2),97.99,110.38,57.53,77.76,66.76,57.53,225.06,151.59,37.3,111.13,131.36,74.57
+CLogP,0.21,0.85,1.03,0.93,1.36,1.26,−0.85,0.79,1.79,1.58,1.23,1.1
+Lipinski: violations,0,0,0,0,0,0,3,1,0,0,0,0
+Veber: violations,0,0,0,0,0,0,1,1,0,0,0,0
+GI absorption,High,High,High,High,High,High,Low,Low,High,High,High,High
+Bioavailability Score,0.56,0.55,0.85,0.56,0.85,0.85,0.17,0.55,0.85,0.55,0.55,0.55
+log Kp (cm/s),−6.84,−7.82,−6.08,−6.58,−6.41,−6.26,−10.15,−7.4,−5.69,−6.7,−7.05,−9.09
+Pgp substrate,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes
+CYP2D6 inhibitor,No,No,No,No,No,No,No,No,No,Yes,Yes,No
+CYP3A4 inhibitor,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No

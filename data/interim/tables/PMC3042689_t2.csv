@@ -1,0 +1,11 @@
+,Antibacterial activity (zone of inhibition in mm),,,,
+Test organisms,Extracts,,,Positive control,
+,Methanol,Ethanol,Ethyl acetate,Ciprofloxacin,Tetracycline
+S.aureus MTCC-737,11.54 ± 2.1,nd,9.15 ± 3.8,14.75 ± 1.0,26.44 ± 1.7
+B.cereus MTCC-430,23.70 ± 1,6.94 ± 1.4,nd,16.67 ± 1.8,17.01 ± 4.2
+B.subtilis MTCC-736,nd,7.83 ± 5.5,7.25 ± 2.3,19.01 ± 4.3,21.01 ± 6.1
+M.luteus MTCC-2470,18.52 ± 2.1,nd,nd,23.85 ± 0.9,nd
+S.typhi MTCC-531,37.94 ± 11.7,35.92 ± 13.2,36.58 ± 7.9,14.75 ± 3.1,26.96 ± 0.9
+E.coli MTCC-1687,28.49 ± 5.1,16.14 ± 7.3,17.75 ± 11.2,16.67 ± 0.9,16.03 ± 1.1
+P.aeruginosa MTCC-741,33.40 ± 5,23.43 ± 14.1,24.60 ± 13.5,19.01 ± 1.7,11.03 ± 0.51
+E.faecalis MTCC-439,8.13 ± 1.7,nd,nd,nd,nd

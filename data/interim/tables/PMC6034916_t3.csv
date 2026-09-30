@@ -1,0 +1,5 @@
+,DPPH,ABTS,TPC,Well diffusion assay S. aureus,Well diffusion assay P. aeruginosa
+DPPH,,0.574a,−0.371,−0.055,0.064
+ABTS,,,−0.457,−0.003,0.260
+TPC,,,,0.176,−0.567a
+Well diffusion assay S. aureus,,,,,−0.031

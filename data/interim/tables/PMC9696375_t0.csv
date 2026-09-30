@@ -1,0 +1,5 @@
+Antioxidative Agent,Mode of Study,Outcome,Mechanism of Action (Antioxidant Signaling Pathway),References
+Gallic acid,Sprague-Dawley ratsHuman type II alveolar epithelial cell line (A549),"↔ IL-6 and TNF-α↓ lymphocyte and macrophages cell↓ lipid peroxidation ↑ Increase GSH, SOD, and CAT↓ ROS production,↑ in Nrf2, GCL, ERK, and JNK↓ p38 gene expressionactivation of Nrf2",Nrf2-antioxidant response element signaling pathway,[24]
+"chrysin, apigenin, luteolin",rat primary hepatocytes,"↑ GSH ↑ GSH: oxidized GSH ratio↑ HO-1, GCLC, and GCLM gene transcription",Modulating ERK2/Nrf2/ARE signaling pathways,[27]
+Gallic acid,Sprague-Dawley rats,"↓ lung airspace enlargement↓ MDA levels ↓ GSH, SOD, and CAT ↑ Nrf2 and HO-1 gene expression ↓ NF-κB gene expression",Modulating Nrf2-HO-1-NF-κB signaling pathways,[25]
+Apigenin,MouseCardiac fibroblasts,"↑ SOD, glutathione peroxidase ↑ miR-122-5p expression↓ miR-155-5p expression↓ HIF-1α↑ c-Ski↓ TGF-β1-induced Smad2/3↑ Smad7",Suppression of NF-κB/TGF-β1,[29]

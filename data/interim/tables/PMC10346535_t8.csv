@@ -1,0 +1,17 @@
+Condition,Subjects,Parameter,Effect,References
+Cardiovascular risk factors,Healthy subjectsDiabetic subjectsSubjects with hyperlipidaemia,FBG,↓,"[12,13,18,19,20,21]"
+TG,↓,,,
+TC,↓,,,
+LDL,↓,,,
+HDL,↑,,,
+Glucose tolerance,Healthy subjectsDiabetic subjects,Increase in BGL,↓,"[21,23,24,25]"
+Increase in BIL,↓,,,
+Alcohol metabolism,Healthy subjects,Intoxication time,↓,"[27,28]"
+Cancer,Patients with acute myeloid leukaemiaPatients with head and neck cancer,Mucositis severity,↓,"[29,30,31,32,33,34,39]"
+Body weight,↑,,,
+URTIs,Children with URTIs,Cough frequency and severity,↓,"[42,43,44,45,46]"
+Combined symptom score,↓,,,
+Sleep quality,↑,,,
+Parent’s sleep quality,↑,,,
+Wounds,Children with pyomyositis abscessesWomen with episiotomy woundPatients with diabetes,Wound healing,↑,"[51,52,53,54]"
+Discharge,↓,,,

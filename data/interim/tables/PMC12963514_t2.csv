@@ -1,0 +1,16 @@
+Antibiotic,Bacteria,n,"Additive, n (%)","Reduced, n (%)","Indifference, n (%)",p,Significant effect
+Chloramphenicol,S. aureus,15,11 (73.3),1 (6.7),3 (20.0),0.006,Additive
+Chloramphenicol,MRSCN,6,6 (100.0),0 (0.0),0 (0.0),0.031,Additive
+Chloramphenicol,Streptococci,9,4 (44.4),0 (0.0),5 (55.6),0.125,
+Tetracycline,S. aureus,15,15 (100.0),0 (0.0),0 (0.0),< 0.001,Additive
+Tetracycline,MRSCN,6,6 (100.0),0 (0.0),0 (0.0),0.031,Additive
+Tetracycline,Streptococci,9,0 (0.0),4 (44.4),5 (55.6),0.125,
+Gentamicin,S. aureus,15,8 (53.3),4 (26.7),3 (20.0),0.388,
+Gentamicin,MRSCN,6,6 (100.0),0 (0.0),0 (0.0),0.031,Additive
+Gentamicin,Streptococci,9,1 (11.1),4 (44.4),4 (44.4),0.375,
+Tobramycin,S. aureus,15,2 (13.3),6 (40.0),7 (46.7),0.289,
+Tobramycin,MRSCN,6,5 (83.3),0 (0.0),1 (16.7),0.063,
+Tobramycin,Streptococci,9,3 (33.3),2 (22.2),4 (44.4),1000,
+Ofloxacin,S. aureus,15,1 (6.7),10 (66.7),4 (26.7),0.012,Reduced
+Ofloxacin,MRSCN,6,0 (0.0),0 (0.0),6 (100.0),NA,
+Ofloxacin,Streptococci,9,0 (0.0),9 (100.0),0 (0.0),0.004,Reduced

@@ -1,0 +1,23 @@
+Bacterial Isolates,"Inhibition Zones against Pathogenic Bacteria, mm",,,,,
+Staphlococcus aureus,Bacillus cereus,Salmonella thyphimurium,Escheria coli,Klebsiella pneumonia,Pseudomonas aeruginosa,
+B. pumilus HTI-1,+++,NI,NI,NI,NI,NI
+B. pumilus HTI-2,+++,NI,NI,NI,NI,NI
+B. pumilus HTI-3,NI,NI,NI,NI,NI,NI
+B. pumilus HTI-4,++,NI,NI,NI,+,NI
+B. pumilus HTI-5,++,NI,NI,NI,NI,NI
+B. pumilus HTI-6,+++,NI,NI,NI,NI,NI
+B. pumilus HTI-7,+++,++,NI,NI,++,NI
+B. pumilus HTI-8,+++,NI,NI,NI,NI,NI
+B. altitudinis HTI-11,NI,NI,NI,NI,NI,++
+B. altitudinis HTI-14,+++,NI,NI,NI,NI,NI
+B. altitudinis HTI-15,+++,NI,NI,NI,NI,NI
+B. megaterium HTI-16,NI,NI,NI,NI,NI,NI
+B. megaterium HTI-17,NI,NI,NI,NI,NI,NI
+B. megaterium HTI-18,NI,NI,NI,NI,NI,NI
+B. amyloliquefaciens HTI-19,+++,++,++,++,NI,+
+B. amyloliquefaciens HTI-20,+++,NI,NI,+++,NI,NI
+B. aryabhattai HTI-21,NI,NI,NI,NI,NI,NI
+B. aryabhattai HTI-22,NI,NI,NI,NI,NI,NI
+B. subtilis HTI-23,+,NI,+++,NI,++,++
+L. rhamnosus GG,+++,+++,+++,+++,++,+++
+Tetracycline(20ug/µl),+++,+++,+++,+++,+++,+++

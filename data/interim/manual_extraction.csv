@@ -1,0 +1,546 @@
+pmcid,source,honey_label,organism,outcome,concentration_pct,condition,value,sd,unit,notes
+PMC6659206,t1,Manuka,MRSA (10 clinical isolates),MIC,,untreated,14.0,0.0,%v/v,
+PMC6659206,t1,Sumra,MRSA (10 clinical isolates),MIC,,untreated,12.0,0.0,%v/v,
+PMC6659206,t1,Simulated honey (sugar),MRSA (10 clinical isolates),MIC,,untreated,35.0,0.0,%v/v,
+PMC6659206,t1,Manuka,MSSA ATCC 29213,MIC,,untreated,14.0,0.0,%v/v,
+PMC6659206,t1,Sumra,MSSA ATCC 29213,MIC,,untreated,12.0,0.0,%v/v,
+PMC6659206,t1,Simulated honey (sugar),MSSA ATCC 29213,MIC,,untreated,35.0,0.0,%v/v,
+PMC6659206,t1,Manuka,Escherichia coli ATCC 25922,MIC,,untreated,15.0,0.0,%v/v,
+PMC6659206,t1,Sumra,Escherichia coli ATCC 25922,MIC,,untreated,15.0,0.0,%v/v,
+PMC6659206,t1,Simulated honey (sugar),Escherichia coli ATCC 25922,MIC,,untreated,30.0,0.0,%v/v,
+PMC6659206,t2,Manuka,MSSA,zone,50.0,untreated,16.8,,mm,
+PMC6659206,t2,Manuka,MSSA,zone,50.0,catalase,15.4,,mm,
+PMC6659206,t2,Manuka,MSSA,zone,25.0,untreated,12.5,,mm,
+PMC6659206,t2,Manuka,MSSA,zone,25.0,catalase,11.1,,mm,
+PMC6659206,t2,H01 Sidr,MSSA,zone,50.0,untreated,16.7,,mm,
+PMC6659206,t2,H01 Sidr,MSSA,zone,25.0,untreated,11.3,,mm,
+PMC6659206,t2,H02 Talha,MSSA,zone,50.0,untreated,11.3,,mm,
+PMC6659206,t2,H02 Talha,MSSA,zone,25.0,untreated,10.1,,mm,
+PMC6659206,t2,H03 Sumra,MSSA,zone,50.0,untreated,18.3,,mm,
+PMC6659206,t2,H03 Sumra,MSSA,zone,50.0,catalase,11.4,,mm,
+PMC6659206,t2,H03 Sumra,MSSA,zone,25.0,untreated,13.0,,mm,
+PMC6659206,t2,H04 Sidr,MSSA,zone,50.0,untreated,16.9,,mm,
+PMC6659206,t2,H04 Sidr,MSSA,zone,25.0,untreated,10.9,,mm,
+PMC6659206,t2,H05 Talha,MSSA,zone,50.0,untreated,15.5,,mm,
+PMC6659206,t2,H05 Talha,MSSA,zone,50.0,catalase,11.8,,mm,
+PMC6659206,t2,H05 Talha,MSSA,zone,25.0,untreated,11.2,,mm,
+PMC6659206,t2,H06 Sumra,MSSA,zone,50.0,untreated,15.2,,mm,
+PMC6659206,t2,H06 Sumra,MSSA,zone,25.0,untreated,10.0,,mm,
+PMC6659206,t2,H07 Zahoor,MSSA,zone,50.0,untreated,11.5,,mm,
+PMC6659206,t2,H08 Zahoor,MSSA,zone,50.0,untreated,18.0,,mm,
+PMC6659206,t2,H08 Zahoor,MSSA,zone,25.0,untreated,12.0,,mm,
+PMC6659206,t2,H09 Zahoor,MSSA,zone,50.0,untreated,13.9,,mm,
+PMC6659206,t2,H09 Zahoor,MSSA,zone,25.0,untreated,10.2,,mm,
+PMC6659206,t2,H11 Sidr,MSSA,zone,50.0,untreated,14.1,,mm,
+PMC6659206,t2,H11 Sidr,MSSA,zone,25.0,untreated,10.0,,mm,
+PMC6659206,t3,Manuka,MRSA,zone,50.0,untreated,16.0,,mm,
+PMC6659206,t3,Manuka,MRSA,zone,50.0,catalase,14.9,,mm,
+PMC6659206,t3,Manuka,MRSA,zone,25.0,untreated,12.0,,mm,
+PMC6659206,t3,Manuka,MRSA,zone,25.0,catalase,11.1,,mm,
+PMC6659206,t3,H01 Sidr,MRSA,zone,50.0,untreated,17.2,,mm,
+PMC6659206,t3,H01 Sidr,MRSA,zone,25.0,untreated,10.2,,mm,
+PMC6659206,t3,H02 Talha,MRSA,zone,50.0,untreated,13.4,,mm,
+PMC6659206,t3,H02 Talha,MRSA,zone,25.0,untreated,10.7,,mm,
+PMC6659206,t3,H03 Sumra,MRSA,zone,50.0,untreated,18.1,,mm,
+PMC6659206,t3,H03 Sumra,MRSA,zone,50.0,catalase,11.4,,mm,
+PMC6659206,t3,H03 Sumra,MRSA,zone,25.0,untreated,13.0,,mm,
+PMC6659206,t3,H04 Sidr,MRSA,zone,50.0,untreated,17.2,,mm,
+PMC6659206,t3,H04 Sidr,MRSA,zone,25.0,untreated,10.9,,mm,
+PMC6659206,t3,H05 Talha,MRSA,zone,50.0,untreated,14.5,,mm,
+PMC6659206,t3,H05 Talha,MRSA,zone,50.0,catalase,11.8,,mm,
+PMC6659206,t3,H05 Talha,MRSA,zone,25.0,untreated,11.1,,mm,
+PMC6659206,t3,H06 Sumra,MRSA,zone,50.0,untreated,14.5,,mm,
+PMC6659206,t3,H06 Sumra,MRSA,zone,25.0,untreated,10.0,,mm,
+PMC6659206,t3,H07 Zahoor,MRSA,zone,50.0,untreated,11.8,,mm,
+PMC6659206,t3,H08 Zahoor,MRSA,zone,50.0,untreated,17.5,,mm,
+PMC6659206,t3,H08 Zahoor,MRSA,zone,25.0,untreated,11.1,,mm,
+PMC6659206,t3,H09 Zahoor,MRSA,zone,50.0,untreated,12.8,,mm,
+PMC6659206,t3,H11 Sidr,MRSA,zone,50.0,untreated,12.6,,mm,
+PMC6659206,t3,H11 Sidr,MRSA,zone,25.0,untreated,10.0,,mm,
+PMC8021062,t0,Honey A,Staphylococcus aureus,zone,,catalase,10.75,,mm,
+PMC8021062,t0,Honey A,Staphylococcus aureus,zone,,untreated,10.7,,mm,
+PMC8021062,t0,Honey B,Staphylococcus aureus,zone,,catalase,13.3,,mm,
+PMC8021062,t0,Honey B,Staphylococcus aureus,zone,,untreated,13.24,,mm,
+PMC8021062,t0,Honey C,Staphylococcus aureus,zone,,catalase,11.05,,mm,
+PMC8021062,t0,Honey C,Staphylococcus aureus,zone,,untreated,10.78,,mm,
+PMC8021062,t0,Honey D,Staphylococcus aureus,zone,,catalase,10.14,,mm,
+PMC8021062,t0,Honey D,Staphylococcus aureus,zone,,untreated,10.05,,mm,
+PMC8021062,t0,Honey E,Staphylococcus aureus,zone,,catalase,9.03,,mm,
+PMC8021062,t0,Honey E,Staphylococcus aureus,zone,,untreated,8.75,,mm,
+PMC7076972,t1,M. favosa (Tobago),S. aureus ATCC 25923,zone,,untreated,27.0,,mm,
+PMC7076972,t1,M. favosa (Tobago),S. aureus ATCC 25923,phenol_equiv,,untreated,22.7,,%w/v phenol,
+PMC7076972,t1,M. favosa (Tobago),S. aureus clinical,zone,,untreated,27.0,,mm,
+PMC7076972,t1,M. favosa (Tobago),S. aureus clinical,phenol_equiv,,untreated,28.6,,%w/v phenol,
+PMC7076972,t1,M. favosa (Tobago),E. coli ATCC 25922,zone,,untreated,12.0,,mm,
+PMC7076972,t1,M. favosa (Tobago),E. coli ATCC 25922,phenol_equiv,,untreated,4.9,,%w/v phenol,
+PMC7076972,t1,M. favosa (Tobago),E. coli clinical,zone,,untreated,14.0,,mm,
+PMC7076972,t1,M. favosa (Tobago),E. coli clinical,phenol_equiv,,untreated,8.9,,%w/v phenol,
+PMC7076972,t1,M. favosa (Tobago),H. influenzae ATCC 19418,zone,,untreated,11.3,,mm,
+PMC7076972,t1,M. favosa (Tobago),H. influenzae ATCC 19418,phenol_equiv,,untreated,4.5,,%w/v phenol,
+PMC7076972,t1,M. favosa (Tobago),S. pyogenes ATCC 19615,zone,,untreated,0.0,,mm,
+PMC7076972,t1,M. favosa (Tobago),S. pyogenes ATCC 19615,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,F. nigra (Trinidad),S. aureus ATCC 25923,zone,,untreated,0.0,,mm,
+PMC7076972,t1,F. nigra (Trinidad),S. aureus ATCC 25923,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,F. nigra (Trinidad),S. aureus clinical,zone,,untreated,0.0,,mm,
+PMC7076972,t1,F. nigra (Trinidad),S. aureus clinical,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,F. nigra (Trinidad),E. coli ATCC 25922,zone,,untreated,0.0,,mm,
+PMC7076972,t1,F. nigra (Trinidad),E. coli ATCC 25922,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,F. nigra (Trinidad),E. coli clinical,zone,,untreated,0.0,,mm,
+PMC7076972,t1,F. nigra (Trinidad),E. coli clinical,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,F. nigra (Trinidad),H. influenzae ATCC 19418,zone,,untreated,10.3,,mm,
+PMC7076972,t1,F. nigra (Trinidad),H. influenzae ATCC 19418,phenol_equiv,,untreated,3.7,,%w/v phenol,
+PMC7076972,t1,F. nigra (Trinidad),S. pyogenes ATCC 19615,zone,,untreated,15.7,,mm,
+PMC7076972,t1,F. nigra (Trinidad),S. pyogenes ATCC 19615,phenol_equiv,,untreated,6.5,,%w/v phenol,
+PMC7076972,t1,F. nigra (Tobago),S. aureus ATCC 25923,zone,,untreated,12.0,,mm,
+PMC7076972,t1,F. nigra (Tobago),S. aureus ATCC 25923,phenol_equiv,,untreated,4.5,,%w/v phenol,
+PMC7076972,t1,F. nigra (Tobago),S. aureus clinical,zone,,untreated,15.0,,mm,
+PMC7076972,t1,F. nigra (Tobago),S. aureus clinical,phenol_equiv,,untreated,8.7,,%w/v phenol,
+PMC7076972,t1,F. nigra (Tobago),E. coli ATCC 25922,zone,,untreated,13.0,,mm,
+PMC7076972,t1,F. nigra (Tobago),E. coli ATCC 25922,phenol_equiv,,untreated,5.9,,%w/v phenol,
+PMC7076972,t1,F. nigra (Tobago),E. coli clinical,zone,,untreated,0.0,,mm,
+PMC7076972,t1,F. nigra (Tobago),E. coli clinical,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,F. nigra (Tobago),H. influenzae ATCC 19418,zone,,untreated,16.0,,mm,
+PMC7076972,t1,F. nigra (Tobago),H. influenzae ATCC 19418,phenol_equiv,,untreated,8.1,,%w/v phenol,
+PMC7076972,t1,F. nigra (Tobago),S. pyogenes ATCC 19615,zone,,untreated,23.0,,mm,
+PMC7076972,t1,F. nigra (Tobago),S. pyogenes ATCC 19615,phenol_equiv,,untreated,13.5,,%w/v phenol,
+PMC7076972,t1,A. mellifera (Aged),S. aureus ATCC 25923,zone,,untreated,0.0,,mm,
+PMC7076972,t1,A. mellifera (Aged),S. aureus ATCC 25923,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,A. mellifera (Aged),S. aureus clinical,zone,,untreated,0.0,,mm,
+PMC7076972,t1,A. mellifera (Aged),S. aureus clinical,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,A. mellifera (Aged),E. coli ATCC 25922,zone,,untreated,0.0,,mm,
+PMC7076972,t1,A. mellifera (Aged),E. coli ATCC 25922,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,A. mellifera (Aged),E. coli clinical,zone,,untreated,0.0,,mm,
+PMC7076972,t1,A. mellifera (Aged),E. coli clinical,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,A. mellifera (Aged),H. influenzae ATCC 19418,zone,,untreated,0.0,,mm,
+PMC7076972,t1,A. mellifera (Aged),H. influenzae ATCC 19418,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,A. mellifera (Aged),S. pyogenes ATCC 19615,zone,,untreated,0.0,,mm,
+PMC7076972,t1,A. mellifera (Aged),S. pyogenes ATCC 19615,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,A. mellifera (Fresh),S. aureus ATCC 25923,zone,,untreated,10.0,,mm,
+PMC7076972,t1,A. mellifera (Fresh),S. aureus ATCC 25923,phenol_equiv,,untreated,3.4,,%w/v phenol,
+PMC7076972,t1,A. mellifera (Fresh),S. aureus clinical,zone,,untreated,0.0,,mm,
+PMC7076972,t1,A. mellifera (Fresh),S. aureus clinical,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,A. mellifera (Fresh),E. coli ATCC 25922,zone,,untreated,0.0,,mm,
+PMC7076972,t1,A. mellifera (Fresh),E. coli ATCC 25922,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,A. mellifera (Fresh),E. coli clinical,zone,,untreated,0.0,,mm,
+PMC7076972,t1,A. mellifera (Fresh),E. coli clinical,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,A. mellifera (Fresh),H. influenzae ATCC 19418,zone,,untreated,0.0,,mm,
+PMC7076972,t1,A. mellifera (Fresh),H. influenzae ATCC 19418,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,A. mellifera (Fresh),S. pyogenes ATCC 19615,zone,,untreated,0.0,,mm,
+PMC7076972,t1,A. mellifera (Fresh),S. pyogenes ATCC 19615,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,Artificial honey,S. aureus ATCC 25923,zone,,untreated,0.0,,mm,
+PMC7076972,t1,Artificial honey,S. aureus ATCC 25923,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,Artificial honey,S. aureus clinical,zone,,untreated,0.0,,mm,
+PMC7076972,t1,Artificial honey,S. aureus clinical,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,Artificial honey,E. coli ATCC 25922,zone,,untreated,0.0,,mm,
+PMC7076972,t1,Artificial honey,E. coli ATCC 25922,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,Artificial honey,E. coli clinical,zone,,untreated,0.0,,mm,
+PMC7076972,t1,Artificial honey,E. coli clinical,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,Artificial honey,H. influenzae ATCC 19418,zone,,untreated,0.0,,mm,
+PMC7076972,t1,Artificial honey,H. influenzae ATCC 19418,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC7076972,t1,Artificial honey,S. pyogenes ATCC 19615,zone,,untreated,0.0,,mm,
+PMC7076972,t1,Artificial honey,S. pyogenes ATCC 19615,phenol_equiv,,untreated,0.0,,%w/v phenol,
+PMC8234392,t0,Lemnos honey No. 1,S. Enteritidis,zone,25.0,untreated,22.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,S. Typhimurium,zone,25.0,untreated,18.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,E. coli,zone,25.0,untreated,22.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,V. parahaemolyticus,zone,25.0,untreated,22.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,P. aeruginosa,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,S. aureus,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,S. epidermidis,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,E. faecalis,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,L. monocytogenes,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,B. cereus,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,S. Enteritidis,zone,12.5,untreated,17.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,S. Typhimurium,zone,12.5,untreated,19.3,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,E. coli,zone,12.5,untreated,19.3,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,V. parahaemolyticus,zone,12.5,untreated,19.5,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,P. aeruginosa,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,S. aureus,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,S. epidermidis,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,E. faecalis,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,L. monocytogenes,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 1,B. cereus,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,S. Enteritidis,zone,25.0,untreated,21.3,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,S. Typhimurium,zone,25.0,untreated,19.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,E. coli,zone,25.0,untreated,21.3,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,V. parahaemolyticus,zone,25.0,untreated,20.7,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,P. aeruginosa,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,S. aureus,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,S. epidermidis,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,E. faecalis,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,L. monocytogenes,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,B. cereus,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,S. Enteritidis,zone,12.5,untreated,19.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,S. Typhimurium,zone,12.5,untreated,14.5,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,E. coli,zone,12.5,untreated,18.7,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,V. parahaemolyticus,zone,12.5,untreated,19.3,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,P. aeruginosa,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,S. aureus,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,S. epidermidis,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,E. faecalis,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,L. monocytogenes,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 2,B. cereus,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,S. Enteritidis,zone,25.0,untreated,20.7,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,S. Typhimurium,zone,25.0,untreated,25.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,E. coli,zone,25.0,untreated,21.3,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,V. parahaemolyticus,zone,25.0,untreated,23.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,P. aeruginosa,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,S. aureus,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,S. epidermidis,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,E. faecalis,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,L. monocytogenes,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,B. cereus,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,S. Enteritidis,zone,12.5,untreated,17.5,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,S. Typhimurium,zone,12.5,untreated,9.5,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,E. coli,zone,12.5,untreated,19.3,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,V. parahaemolyticus,zone,12.5,untreated,18.3,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,P. aeruginosa,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,S. aureus,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,S. epidermidis,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,E. faecalis,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,L. monocytogenes,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 3,B. cereus,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,S. Enteritidis,zone,25.0,untreated,24.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,S. Typhimurium,zone,25.0,untreated,20.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,E. coli,zone,25.0,untreated,21.3,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,V. parahaemolyticus,zone,25.0,untreated,20.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,P. aeruginosa,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,S. aureus,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,S. epidermidis,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,E. faecalis,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,L. monocytogenes,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,B. cereus,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,S. Enteritidis,zone,12.5,untreated,19.7,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,S. Typhimurium,zone,12.5,untreated,18.3,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,E. coli,zone,12.5,untreated,18.3,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,V. parahaemolyticus,zone,12.5,untreated,18.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,P. aeruginosa,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,S. aureus,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,S. epidermidis,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,E. faecalis,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,L. monocytogenes,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 4,B. cereus,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,S. Enteritidis,zone,25.0,untreated,23.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,S. Typhimurium,zone,25.0,untreated,22.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,E. coli,zone,25.0,untreated,21.3,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,V. parahaemolyticus,zone,25.0,untreated,23.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,P. aeruginosa,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,S. aureus,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,S. epidermidis,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,E. faecalis,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,L. monocytogenes,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,B. cereus,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,S. Enteritidis,zone,12.5,untreated,20.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,S. Typhimurium,zone,12.5,untreated,12.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,E. coli,zone,12.5,untreated,21.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,V. parahaemolyticus,zone,12.5,untreated,21.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,P. aeruginosa,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,S. aureus,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,S. epidermidis,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,E. faecalis,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,L. monocytogenes,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 5,B. cereus,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,S. Enteritidis,zone,25.0,untreated,20.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,S. Typhimurium,zone,25.0,untreated,23.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,E. coli,zone,25.0,untreated,22.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,V. parahaemolyticus,zone,25.0,untreated,21.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,P. aeruginosa,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,S. aureus,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,S. epidermidis,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,E. faecalis,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,L. monocytogenes,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,B. cereus,zone,25.0,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,S. Enteritidis,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,S. Typhimurium,zone,12.5,untreated,12.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,E. coli,zone,12.5,untreated,20.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,V. parahaemolyticus,zone,12.5,untreated,18.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,P. aeruginosa,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,S. aureus,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,S. epidermidis,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,E. faecalis,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,L. monocytogenes,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t0,Lemnos honey No. 6,B. cereus,zone,12.5,untreated,5.0,,mm,zone=5 mm = no inhibition (well diameter)
+PMC8234392,t1,Lemnos honey No. 1,S. Typhimurium,MIC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Lemnos honey No. 1,S. Typhimurium,MBC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Lemnos honey No. 1,S. aureus,MIC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Lemnos honey No. 1,S. aureus,MBC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Lemnos honey No. 2,S. Typhimurium,MIC,,untreated,12.5,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 2,S. Typhimurium,MBC,,untreated,12.5,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 2,S. aureus,MIC,,untreated,12.5,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 2,S. aureus,MBC,,untreated,12.5,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 3,S. Typhimurium,MIC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Lemnos honey No. 3,S. Typhimurium,MBC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Lemnos honey No. 3,S. aureus,MIC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Lemnos honey No. 3,S. aureus,MBC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Lemnos honey No. 4,S. Typhimurium,MIC,,untreated,25.0,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 4,S. Typhimurium,MBC,,untreated,25.0,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 4,S. aureus,MIC,,untreated,25.0,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 4,S. aureus,MBC,,untreated,25.0,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 5,S. Typhimurium,MIC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Lemnos honey No. 5,S. Typhimurium,MBC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Lemnos honey No. 5,S. aureus,MIC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Lemnos honey No. 5,S. aureus,MBC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Lemnos honey No. 6,S. Typhimurium,MIC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Lemnos honey No. 6,S. Typhimurium,MBC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Lemnos honey No. 6,S. aureus,MIC,,untreated,25.0,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 6,S. aureus,MBC,,untreated,25.0,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 7,S. Typhimurium,MIC,,untreated,25.0,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 7,S. Typhimurium,MBC,,untreated,25.0,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 7,S. aureus,MIC,,untreated,25.0,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 7,S. aureus,MBC,,untreated,25.0,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 8,S. Typhimurium,MIC,,untreated,25.0,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 8,S. Typhimurium,MBC,,untreated,25.0,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 8,S. aureus,MIC,,untreated,25.0,,%v/v,censor=
+PMC8234392,t1,Lemnos honey No. 8,S. aureus,MBC,,untreated,25.0,,%v/v,censor=
+PMC8234392,t1,Manuka honey,S. Typhimurium,MIC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Manuka honey,S. Typhimurium,MBC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Manuka honey,S. aureus,MIC,,untreated,25.0,,%v/v,censor=
+PMC8234392,t1,Manuka honey,S. aureus,MBC,,untreated,25.0,,%v/v,censor=
+PMC8234392,t1,Glucose syrup (82% v/v),S. Typhimurium,MIC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Glucose syrup (82% v/v),S. Typhimurium,MBC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Glucose syrup (82% v/v),S. aureus,MIC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t1,Glucose syrup (82% v/v),S. aureus,MBC,,untreated,25.0,,%v/v,censor=gt
+PMC8234392,t2,Lemnos honey No. 1,,pH,,,3.55,,pH,
+PMC8234392,t2,Lemnos honey No. 1,,aw,,,0.574,,aw,
+PMC8234392,t2,Lemnos honey No. 2,,pH,,,3.61,,pH,
+PMC8234392,t2,Lemnos honey No. 2,,aw,,,0.587,,aw,
+PMC8234392,t2,Lemnos honey No. 3,,pH,,,3.6,,pH,
+PMC8234392,t2,Lemnos honey No. 3,,aw,,,0.568,,aw,
+PMC8234392,t2,Lemnos honey No. 4,,pH,,,3.62,,pH,
+PMC8234392,t2,Lemnos honey No. 4,,aw,,,0.574,,aw,
+PMC8234392,t2,Lemnos honey No. 5,,pH,,,3.6,,pH,
+PMC8234392,t2,Lemnos honey No. 5,,aw,,,0.597,,aw,
+PMC8234392,t2,Lemnos honey No. 6,,pH,,,3.67,,pH,
+PMC8234392,t2,Lemnos honey No. 6,,aw,,,0.551,,aw,
+PMC8234392,t2,Lemnos honey No. 7,,pH,,,3.62,,pH,
+PMC8234392,t2,Lemnos honey No. 7,,aw,,,0.57,,aw,
+PMC8234392,t2,Lemnos honey No. 8,,pH,,,3.63,,pH,
+PMC8234392,t2,Lemnos honey No. 8,,aw,,,0.604,,aw,
+PMC8234392,t2,Manuka honey,,pH,,,4.26,,pH,
+PMC8234392,t2,Manuka honey,,aw,,,0.627,,aw,
+PMC8234392,t2,Glucose syrup (82% v/v),,pH,,,4.85,,pH,
+PMC8234392,t2,Glucose syrup (82% v/v),,aw,,,0.731,,aw,
+PMC8944737,t3,Greek honeys (n=42),Enterobacter cloacae subsp. dissolvens,n_outperform_manuka,75.0,untreated,2.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Enterobacter cloacae subsp. dissolvens,n_outperform_manuka,50.0,untreated,8.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Enterobacter cloacae subsp. dissolvens,n_outperform_manuka,25.0,untreated,16.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Enterobacter cloacae subsp. dissolvens,n_outperform_manuka,12.5,untreated,18.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Enterobacter cloacae subsp. dissolvens,n_outperform_manuka,6.25,untreated,5.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Pseudomonas aeruginosa,n_outperform_manuka,75.0,untreated,7.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Pseudomonas aeruginosa,n_outperform_manuka,50.0,untreated,6.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Pseudomonas aeruginosa,n_outperform_manuka,25.0,untreated,23.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Pseudomonas aeruginosa,n_outperform_manuka,12.5,untreated,9.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Pseudomonas aeruginosa,n_outperform_manuka,6.25,untreated,9.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Klebsiella pneumoniae subsp. pneumoniae (1),n_outperform_manuka,75.0,untreated,6.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Klebsiella pneumoniae subsp. pneumoniae (1),n_outperform_manuka,50.0,untreated,11.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Klebsiella pneumoniae subsp. pneumoniae (1),n_outperform_manuka,25.0,untreated,30.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Klebsiella pneumoniae subsp. pneumoniae (1),n_outperform_manuka,12.5,untreated,10.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Klebsiella pneumoniae subsp. pneumoniae (2),n_outperform_manuka,75.0,untreated,5.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Klebsiella pneumoniae subsp. pneumoniae (2),n_outperform_manuka,50.0,untreated,19.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Klebsiella pneumoniae subsp. pneumoniae (2),n_outperform_manuka,25.0,untreated,31.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Klebsiella pneumoniae subsp. pneumoniae (2),n_outperform_manuka,12.5,untreated,12.0,,count,
+PMC8944737,t3,Greek honeys (n=42),Klebsiella pneumoniae subsp. pneumoniae (2),n_outperform_manuka,6.25,untreated,2.0,,count,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 1,zone,50.0,untreated,4.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 1,zone,80.0,untreated,12.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 1,zone,100.0,untreated,14.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 2,zone,50.0,untreated,2.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 2,zone,80.0,untreated,7.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 2,zone,100.0,untreated,9.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 3,zone,50.0,untreated,2.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 3,zone,80.0,untreated,8.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 3,zone,100.0,untreated,9.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 4,zone,50.0,untreated,0.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 4,zone,80.0,untreated,6.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 4,zone,100.0,untreated,10.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 5,zone,50.0,untreated,0.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 5,zone,80.0,untreated,8.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 5,zone,100.0,untreated,10.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 6,zone,50.0,untreated,3.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 6,zone,80.0,untreated,10.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 6,zone,100.0,untreated,12.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 7,zone,50.0,untreated,6.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 7,zone,80.0,untreated,10.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 7,zone,100.0,untreated,12.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 8,zone,50.0,untreated,4.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 8,zone,80.0,untreated,7.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 8,zone,100.0,untreated,10.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 9,zone,50.0,untreated,3.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 9,zone,80.0,untreated,8.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 9,zone,100.0,untreated,9.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 10,zone,50.0,untreated,4.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 10,zone,80.0,untreated,12.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 10,zone,100.0,untreated,12.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 11,zone,50.0,untreated,4.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 11,zone,80.0,untreated,8.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 11,zone,100.0,untreated,9.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 12,zone,50.0,untreated,6.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 12,zone,80.0,untreated,11.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 12,zone,100.0,untreated,12.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 13,zone,50.0,untreated,2.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 13,zone,80.0,untreated,7.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 13,zone,100.0,untreated,7.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 14,zone,50.0,untreated,2.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 14,zone,80.0,untreated,8.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 14,zone,100.0,untreated,9.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 15,zone,50.0,untreated,3.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 15,zone,80.0,untreated,10.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 15,zone,100.0,untreated,12.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 16,zone,50.0,untreated,6.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 16,zone,80.0,untreated,9.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 16,zone,100.0,untreated,10.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 17,zone,50.0,untreated,0.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 17,zone,80.0,untreated,7.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 17,zone,100.0,untreated,8.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 18,zone,50.0,untreated,2.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 18,zone,80.0,untreated,10.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 18,zone,100.0,untreated,10.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 19,zone,50.0,untreated,2.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 19,zone,80.0,untreated,10.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 19,zone,100.0,untreated,10.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 20,zone,50.0,untreated,7.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 20,zone,80.0,untreated,12.0,,mm,
+PMC11376693,t1,Manuka UMF15+,CRE isolate 20,zone,100.0,untreated,12.0,,mm,
+PMC11376693,t1,Manuka UMF15+,E. coli ATCC,zone,50.0,untreated,10.0,,mm,
+PMC11376693,t1,Manuka UMF15+,E. coli ATCC,zone,80.0,untreated,13.0,,mm,
+PMC11376693,t1,Manuka UMF15+,E. coli ATCC,zone,100.0,untreated,14.0,,mm,
+PMC11376693,t1,Manuka UMF15+,K. pneumoniae ATCC,zone,50.0,untreated,8.0,,mm,
+PMC11376693,t1,Manuka UMF15+,K. pneumoniae ATCC,zone,80.0,untreated,12.0,,mm,
+PMC11376693,t1,Manuka UMF15+,K. pneumoniae ATCC,zone,100.0,untreated,14.0,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Escherichia coli,zone,0.0,untreated,0.0,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Escherichia coli,zone,25.0,untreated,15.73,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Escherichia coli,zone,50.0,untreated,21.18,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Escherichia coli,zone,75.0,untreated,21.68,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Escherichia coli,zone,100.0,untreated,22.02,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Staphylococcus aureus,zone,0.0,untreated,0.0,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Staphylococcus aureus,zone,25.0,untreated,9.21,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Staphylococcus aureus,zone,50.0,untreated,12.42,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Staphylococcus aureus,zone,75.0,untreated,13.26,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Staphylococcus aureus,zone,100.0,untreated,16.45,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Klebsiella pneumoniae,zone,0.0,untreated,0.0,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Klebsiella pneumoniae,zone,25.0,untreated,1.23,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Klebsiella pneumoniae,zone,50.0,untreated,5.43,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Klebsiella pneumoniae,zone,75.0,untreated,8.71,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Klebsiella pneumoniae,zone,100.0,untreated,11.55,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Pseudomonas aeruginosa,zone,0.0,untreated,0.0,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Pseudomonas aeruginosa,zone,25.0,untreated,0.0,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Pseudomonas aeruginosa,zone,50.0,untreated,0.57,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Pseudomonas aeruginosa,zone,75.0,untreated,0.62,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Pseudomonas aeruginosa,zone,100.0,untreated,1.93,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Salmonella typhi,zone,0.0,untreated,0.0,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Salmonella typhi,zone,25.0,untreated,10.08,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Salmonella typhi,zone,50.0,untreated,12.63,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Salmonella typhi,zone,75.0,untreated,12.76,,mm,
+PMC12532491,t0,"Apis mellifera honey (Awi, Ethiopia)",Salmonella typhi,zone,100.0,untreated,18.16,,mm,
+PMC9958606,t3,black locust,S. epidermidis,pct_viable,,untreated,57.4,,%,
+PMC9958606,t3,black locust,MRSA,pct_viable,,untreated,62.7,,%,
+PMC9958606,t3,black locust,P. aeruginosa,pct_viable,,untreated,52.7,,%,
+PMC9958606,t3,chestnut,S. epidermidis,pct_viable,,untreated,56.7,,%,
+PMC9958606,t3,chestnut,MRSA,pct_viable,,untreated,50.4,,%,
+PMC9958606,t3,chestnut,P. aeruginosa,pct_viable,,untreated,52.3,,%,
+PMC9958606,t3,goldenrod,S. epidermidis,pct_viable,,untreated,67.4,,%,
+PMC9958606,t3,goldenrod,MRSA,pct_viable,,untreated,53.7,,%,
+PMC9958606,t3,goldenrod,P. aeruginosa,pct_viable,,untreated,56.7,,%,
+PMC9958606,t3,linden,S. epidermidis,pct_viable,,untreated,61.1,,%,
+PMC9958606,t3,linden,MRSA,pct_viable,,untreated,61.2,,%,
+PMC9958606,t3,linden,P. aeruginosa,pct_viable,,untreated,62.8,,%,
+PMC9958606,t3,milkweed,S. epidermidis,pct_viable,,untreated,72.1,,%,
+PMC9958606,t3,milkweed,MRSA,pct_viable,,untreated,75.2,,%,
+PMC9958606,t3,milkweed,P. aeruginosa,pct_viable,,untreated,79.4,,%,
+PMC8209695,t0,Banksia 11,Staphylococcus aureus,phenol_equiv,,untreated (original),17.1,,%w/v phenol,
+PMC8209695,t0,Banksia 11,Staphylococcus aureus,phenol_equiv,,untreated (retested),10.3,,%w/v phenol,
+PMC8209695,t0,Banksia 11,,H2O2,,,1.14,,mM max,
+PMC8209695,t0,Jarrah 2017,Staphylococcus aureus,phenol_equiv,,untreated (retested),12.9,,%w/v phenol,
+PMC8209695,t0,Jarrah 2017,,H2O2,,,1.59,,mM max,
+PMC8209695,t0,Jarrah 5,Staphylococcus aureus,phenol_equiv,,untreated (original),25.4,,%w/v phenol,
+PMC8209695,t0,Jarrah 5,Staphylococcus aureus,phenol_equiv,,untreated (retested),18.4,,%w/v phenol,
+PMC8209695,t0,Jarrah 5,,H2O2,,,2.95,,mM max,
+PMC8209695,t0,Jarrah 8,Staphylococcus aureus,phenol_equiv,,untreated (original),25.1,,%w/v phenol,
+PMC8209695,t0,Jarrah 8,Staphylococcus aureus,phenol_equiv,,untreated (retested),17.1,,%w/v phenol,
+PMC8209695,t0,Jarrah 8,,H2O2,,,2.77,,mM max,
+PMC8209695,t0,Jarrah 10,Staphylococcus aureus,phenol_equiv,,untreated (original),25.7,,%w/v phenol,
+PMC8209695,t0,Jarrah 10,Staphylococcus aureus,phenol_equiv,,untreated (retested),17.5,,%w/v phenol,
+PMC8209695,t0,Jarrah 10,,H2O2,,,2.86,,mM max,
+PMC8209695,t0,Jarrah 13,Staphylococcus aureus,phenol_equiv,,untreated (original),28.1,,%w/v phenol,
+PMC8209695,t0,Jarrah 13,Staphylococcus aureus,phenol_equiv,,untreated (retested),23.4,,%w/v phenol,
+PMC8209695,t0,Jarrah 13,,H2O2,,,3.84,,mM max,
+PMC8209695,t0,Karri 3,Staphylococcus aureus,phenol_equiv,,untreated (original),29.6,,%w/v phenol,
+PMC8209695,t0,Karri 3,Staphylococcus aureus,phenol_equiv,,untreated (retested),25.7,,%w/v phenol,
+PMC8209695,t0,Karri 3,,H2O2,,,2.22,,mM max,
+PMC8209695,t0,Marri 6,Staphylococcus aureus,phenol_equiv,,untreated (original),28.6,,%w/v phenol,
+PMC8209695,t0,Marri 6,Staphylococcus aureus,phenol_equiv,,untreated (retested),24.0,,%w/v phenol,
+PMC8209695,t0,Marri 6,,H2O2,,,1.44,,mM max,
+PMC8209695,t0,Marri 8,Staphylococcus aureus,phenol_equiv,,untreated (original),27.2,,%w/v phenol,
+PMC8209695,t0,Marri 8,Staphylococcus aureus,phenol_equiv,,untreated (retested),24.3,,%w/v phenol,
+PMC8209695,t0,Marri 8,,H2O2,,,2.38,,mM max,
+PMC8209695,t0,Marri 10,Staphylococcus aureus,phenol_equiv,,untreated (original),29.3,,%w/v phenol,
+PMC8209695,t0,Marri 10,Staphylococcus aureus,phenol_equiv,,untreated (retested),20.7,,%w/v phenol,
+PMC8209695,t0,Marri 10,,H2O2,,,2.06,,mM max,
+PMC8209695,t0,Marri 11,Staphylococcus aureus,phenol_equiv,,untreated (original),29.7,,%w/v phenol,
+PMC8209695,t0,Marri 11,Staphylococcus aureus,phenol_equiv,,untreated (retested),25.2,,%w/v phenol,
+PMC8209695,t0,Marri 11,,H2O2,,,2.54,,mM max,
+PMC10141347,t0,H77,,H2O2,,,1319.3,,fluorescence a.u.,source=Buckwheat
+PMC10141347,t0,H77,,TPC,,,513.25,,ug GAE/g,
+PMC10141347,t0,H77,,color,,,1.27,,A560-720,
+PMC10141347,t0,H76,,H2O2,,,1208.0,,fluorescence a.u.,source=Buckwheat
+PMC10141347,t0,H76,,TPC,,,318.74,,ug GAE/g,
+PMC10141347,t0,H76,,color,,,0.72,,A560-720,
+PMC10141347,t0,H226,,H2O2,,,1152.0,,fluorescence a.u.,source=Buckwheat
+PMC10141347,t0,H226,,TPC,,,362.86,,ug GAE/g,
+PMC10141347,t0,H226,,color,,,0.62,,A560-720,
+PMC10141347,t0,H23,,H2O2,,,1210.0,,fluorescence a.u.,source=Buckwheat
+PMC10141347,t0,H23,,TPC,,,410.0,,ug GAE/g,
+PMC10141347,t0,H23,,color,,,1.03,,A560-720,
+PMC10141347,t0,H149,,H2O2,,,1470.0,,fluorescence a.u.,source=Buckwheat
+PMC10141347,t0,H149,,TPC,,,408.03,,ug GAE/g,
+PMC10141347,t0,H149,,color,,,0.88,,A560-720,
+PMC10141347,t0,H221,,H2O2,,,886.0,,fluorescence a.u.,source=Buckwheat (light)
+PMC10141347,t0,H221,,TPC,,,144.0,,ug GAE/g,
+PMC10141347,t0,H221,,color,,,0.38,,A560-720,
+PMC10141347,t0,H208,,H2O2,,,680.0,,fluorescence a.u.,source=Buckwheat (light)
+PMC10141347,t0,H208,,TPC,,,143.55,,ug GAE/g,
+PMC10141347,t0,H208,,color,,,0.37,,A560-720,
+PMC10141347,t0,H11,,H2O2,,,1280.0,,fluorescence a.u.,source=Wildflower/clover
+PMC10141347,t0,H11,,TPC,,,106.97,,ug GAE/g,
+PMC10141347,t0,H11,,color,,,0.13,,A560-720,
+PMC10141347,t0,H210,,H2O2,,,560.0,,fluorescence a.u.,source=Wildflower
+PMC10141347,t0,H210,,TPC,,,120.2,,ug GAE/g,
+PMC10141347,t0,H210,,color,,,0.3,,A560-720,
+PMC10141347,t0,H20,,H2O2,,,1220.0,,fluorescence a.u.,source=Sweet clover/buckwheat
+PMC10141347,t0,H20,,TPC,,,83.75,,ug GAE/g,
+PMC10141347,t0,H20,,color,,,0.24,,A560-720,
+PMC10141347,t0,114,,H2O2,,,424.0,,fluorescence a.u.,source=Sunflower
+PMC10141347,t0,114,,TPC,,,80.82,,ug GAE/g,
+PMC10141347,t0,114,,color,,,0.12,,A560-720,
+PMC10141347,t0,H62,,H2O2,,,529.0,,fluorescence a.u.,source=Borage
+PMC10141347,t0,H62,,TPC,,,66.45,,ug GAE/g,
+PMC10141347,t0,H62,,color,,,0.05,,A560-720,
+PMC9333225,t4,MGO alone,S. aureus ATCC 29213,MIC,,MGO-spike,128.0,,mg/l,censor=
+PMC9333225,t4,MGO alone,E. faecalis ATCC 29212,MIC,,MGO-spike,256.0,,mg/l,censor=
+PMC9333225,t4,MGO alone,E. coli ATCC 25922,MIC,,MGO-spike,128.0,,mg/l,censor=
+PMC9333225,t4,MGO alone,P. aeruginosa ATCC 27853,MIC,,MGO-spike,512.0,,mg/l,censor=
+PMC9333225,t4,Multifloral honey alone,S. aureus ATCC 29213,MIC,,MGO-spike,30.0,,%,censor=gt
+PMC9333225,t4,Multifloral honey alone,E. faecalis ATCC 29212,MIC,,MGO-spike,30.0,,%,censor=gt
+PMC9333225,t4,Multifloral honey alone,E. coli ATCC 25922,MIC,,MGO-spike,29.0,,%,censor=
+PMC9333225,t4,Multifloral honey alone,P. aeruginosa ATCC 27853,MIC,,MGO-spike,25.0,,%,censor=
+PMC9333225,t4,Multifloral + 50 mg/kg MGO,S. aureus ATCC 29213,MIC,,MGO-spike,28.0,,%,censor=
+PMC9333225,t4,Multifloral + 50 mg/kg MGO,E. faecalis ATCC 29212,MIC,,MGO-spike,30.0,,%,censor=gt
+PMC9333225,t4,Multifloral + 50 mg/kg MGO,E. coli ATCC 25922,MIC,,MGO-spike,29.0,,%,censor=
+PMC9333225,t4,Multifloral + 50 mg/kg MGO,P. aeruginosa ATCC 27853,MIC,,MGO-spike,24.0,,%,censor=
+PMC9333225,t4,Multifloral + 100 mg/kg MGO,S. aureus ATCC 29213,MIC,,MGO-spike,19.0,,%,censor=
+PMC9333225,t4,Multifloral + 100 mg/kg MGO,E. faecalis ATCC 29212,MIC,,MGO-spike,30.0,,%,censor=gt
+PMC9333225,t4,Multifloral + 100 mg/kg MGO,E. coli ATCC 25922,MIC,,MGO-spike,25.0,,%,censor=
+PMC9333225,t4,Multifloral + 100 mg/kg MGO,P. aeruginosa ATCC 27853,MIC,,MGO-spike,24.0,,%,censor=
+PMC9333225,t4,Multifloral + 250 mg/kg MGO,S. aureus ATCC 29213,MIC,,MGO-spike,12.0,,%,censor=
+PMC9333225,t4,Multifloral + 250 mg/kg MGO,E. faecalis ATCC 29212,MIC,,MGO-spike,25.0,,%,censor=
+PMC9333225,t4,Multifloral + 250 mg/kg MGO,E. coli ATCC 25922,MIC,,MGO-spike,16.0,,%,censor=
+PMC9333225,t4,Multifloral + 250 mg/kg MGO,P. aeruginosa ATCC 27853,MIC,,MGO-spike,23.0,,%,censor=
+PMC9333225,t4,Multifloral + 500 mg/kg MGO,S. aureus ATCC 29213,MIC,,MGO-spike,8.0,,%,censor=
+PMC9333225,t4,Multifloral + 500 mg/kg MGO,E. faecalis ATCC 29212,MIC,,MGO-spike,17.0,,%,censor=
+PMC9333225,t4,Multifloral + 500 mg/kg MGO,E. coli ATCC 25922,MIC,,MGO-spike,10.0,,%,censor=
+PMC9333225,t4,Multifloral + 500 mg/kg MGO,P. aeruginosa ATCC 27853,MIC,,MGO-spike,21.0,,%,censor=
+PMC9333225,t4,Multifloral + 750 mg/kg MGO,S. aureus ATCC 29213,MIC,,MGO-spike,6.0,,%,censor=
+PMC9333225,t4,Multifloral + 750 mg/kg MGO,E. faecalis ATCC 29212,MIC,,MGO-spike,12.0,,%,censor=
+PMC9333225,t4,Multifloral + 750 mg/kg MGO,E. coli ATCC 25922,MIC,,MGO-spike,9.0,,%,censor=
+PMC9333225,t4,Multifloral + 750 mg/kg MGO,P. aeruginosa ATCC 27853,MIC,,MGO-spike,18.0,,%,censor=
+PMC9333225,t4,Multifloral + 1000 mg/kg MGO,S. aureus ATCC 29213,MIC,,MGO-spike,4.0,,%,censor=
+PMC9333225,t4,Multifloral + 1000 mg/kg MGO,E. faecalis ATCC 29212,MIC,,MGO-spike,10.0,,%,censor=
+PMC9333225,t4,Multifloral + 1000 mg/kg MGO,E. coli ATCC 25922,MIC,,MGO-spike,6.0,,%,censor=
+PMC9333225,t4,Multifloral + 1000 mg/kg MGO,P. aeruginosa ATCC 27853,MIC,,MGO-spike,15.0,,%,censor=

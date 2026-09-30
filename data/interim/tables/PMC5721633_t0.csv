@@ -1,0 +1,11 @@
+,,Cyclodextrin-complexed Manuka honey,Uncomplexed Manuka honey,Cyclodextrin,p
+Relative AUC of S. aureus,0 mg/kg MGO,–,–,0.877±0.059,
+250 mg/kg MGO,0.502±0.036,0.741±0.026,–,0.001*,
+400 mg/kg MGO,0.387±0.012,0.381±0.011,–,0.98,
+550 mg/kg MGO,0.375±0.035,0.594±0.029,–,0.002*,
+MIC (mg/kg MGO),S. aureus,125,175,>200,
+S. epidermidis,125,175,>200,,
+P. aeruginosa,150,150,>200,,
+MBC (mg/kg MGO),S. aureus,150,>200,>200,
+S. epidermidis,150,>200,>200,,
+P. aeruginosa,>200,>200,>200,,

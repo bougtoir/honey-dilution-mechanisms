@@ -1,0 +1,298 @@
+{
+  "n_rows": 4650,
+  "n_studies": 103,
+  "A1": {
+    "n_series": 17,
+    "n_activity_series": 10,
+    "positive": 10,
+    "negative": 0,
+    "flat": 0,
+    "median_rho": 0.9999999999999999,
+    "pH_series_note": "pH series (PMC2478674) rise with dilution as expected",
+    "pH_median_rho": -1.0
+  },
+  "A2": {
+    "n_pairs": 21,
+    "zone_pairs": 10,
+    "mic_pairs": 11,
+    "zone_wilcoxon_p": 0.001953125,
+    "zone_median_diff_mm": 0.6333333333333333,
+    "mic_median_ratio": 0.805673236739413
+  },
+  "A3_joined_rows": 685,
+  "A3_joined_studies": 18,
+  "A3_correlations": [
+    {
+      "param": "H2O2",
+      "outcome": "MIC",
+      "n": 29,
+      "n_studies": 2,
+      "spearman_rho": 0.45951290840052794,
+      "p": 0.012150500366423785
+    },
+    {
+      "param": "MGO",
+      "outcome": "MIC",
+      "n": 116,
+      "n_studies": 1,
+      "spearman_rho": -0.5171981479129903,
+      "p": 2.7758837627877694e-09
+    },
+    {
+      "param": "aw",
+      "outcome": "MIC",
+      "n": 20,
+      "n_studies": 1,
+      "spearman_rho": -0.058202524647464844,
+      "p": 0.8074354255894054
+    },
+    {
+      "param": "pH",
+      "outcome": "MIC",
+      "n": 359,
+      "n_studies": 7,
+      "spearman_rho": 0.07106014161933023,
+      "p": 0.17914224852713842
+    },
+    {
+      "param": "pH",
+      "outcome": "zone",
+      "n": 53,
+      "n_studies": 2,
+      "spearman_rho": -0.5184591771107275,
+      "p": 6.985416988041754e-05
+    },
+    {
+      "param": "TPC",
+      "outcome": "MIC",
+      "n": 172,
+      "n_studies": 5,
+      "spearman_rho": -0.15243898306315426,
+      "p": 0.04589874942206831
+    },
+    {
+      "param": "TPC",
+      "outcome": "zone",
+      "n": 54,
+      "n_studies": 1,
+      "spearman_rho": 0.2590027036407869,
+      "p": 0.05860437235155887
+    },
+    {
+      "param": "moisture",
+      "outcome": "MIC",
+      "n": 112,
+      "n_studies": 3,
+      "spearman_rho": 0.16546559165200037,
+      "p": 0.0812431872969736
+    },
+    {
+      "param": "moisture",
+      "outcome": "zone",
+      "n": 45,
+      "n_studies": 1,
+      "spearman_rho": -0.06787205709942822,
+      "p": 0.657766564286062
+    }
+  ],
+  "A4": {
+    "n_pairs": 13,
+    "studies": [
+      "PMC6659206",
+      "PMC8021062"
+    ],
+    "median_residual_frac": 0.9249999999999999,
+    "frac_gt50": 1.0
+  },
+  "A5": {
+    "n_complete": 116,
+    "predictors": [
+      "MGO",
+      "pH",
+      "TPC"
+    ],
+    "n_studies": 1,
+    "r2_chem": 0.29619647869155363,
+    "r2_label": 0.0,
+    "r2_both": 0.2961964786915534,
+    "f_p_label_added": NaN
+  },
+  "A6": {
+    "kruskal_H": 170.05241627398178,
+    "kruskal_p": 8.847775427742406e-27,
+    "median_MIC_by_organism": {
+      "Burkholderia": 4.0,
+      "L. monocytogenes": 4.0,
+      "S. mutans": 10.0,
+      "Mycobacterium": 11.25,
+      "S. epidermidis": 11.25,
+      "MSSA": 12.25,
+      "S. aureus": 12.5,
+      "MRSA": 12.5,
+      "H. pylori": 15.0,
+      "B. cereus/Bacillus": 16.5,
+      "K. pneumoniae": 17.75,
+      "E. coli": 20.0,
+      "other": 20.0,
+      "Enterobacter": 21.0,
+      "P. aeruginosa": 21.0
+    }
+  },
+  "A6_manuka": {
+    "median_manuka": 15.0,
+    "median_other": 20.0,
+    "mwu_p": 0.011151046007729613
+  },
+  "S1_lowRoB": {
+    "n_rows": 185,
+    "n_studies": 6,
+    "median_MIC": 25.0
+  },
+  "selection": {
+    "eligible": 412,
+    "with_pmcid": 255,
+    "xml_available": 234,
+    "extracted": 103,
+    "year_median_extracted": 2022.0,
+    "year_median_nonextracted": 2020.0,
+    "year_mwu_p": 0.00021523266537512532,
+    "top_journals_nonextracted": {
+      "Antibiotics (Basel, Switzerland)": 14,
+      "Foods (Basel, Switzerland)": 12,
+      "Food chemistry": 10,
+      "Journal of applied microbiology": 9,
+      "Molecules (Basel, Switzerland)": 8
+    },
+    "oa_rate_extracted": 0.9861111111111112,
+    "oa_rate_nonextracted": 0.7033898305084746,
+    "f_dilution_rate_extracted": 0.33980582524271846,
+    "f_dilution_rate_nonextracted": 0.3300970873786408,
+    "f_peroxide_rate_extracted": 0.21359223300970873,
+    "f_peroxide_rate_nonextracted": 0.23300970873786409,
+    "f_mgo_rate_extracted": 0.17475728155339806,
+    "f_mgo_rate_nonextracted": 0.15857605177993528,
+    "f_chem_rate_extracted": 0.912621359223301,
+    "f_chem_rate_nonextracted": 0.7864077669902912,
+    "f_zone_rate_extracted": 0.2621359223300971,
+    "f_zone_rate_nonextracted": 0.23624595469255663
+  },
+  "conc_response": {
+    "n_series": 10,
+    "n_studies": 3,
+    "n_positive": 10,
+    "n_negative": 0,
+    "median_rho": 1.0,
+    "rho_iqr": [
+      1.0,
+      1.0
+    ],
+    "loglog_slope": 0.32533364373341495,
+    "loglog_slope_se": 0.5487350092307898
+  },
+  "chem_vs_label_cv": {
+    "predictors": [
+      "pH",
+      "TPC"
+    ],
+    "n": 155,
+    "n_studies": 3,
+    "r2_cv_chem": -32.31704249273028,
+    "rmse_cv_chem": 1.2610769265431347,
+    "r2_cv_label": -0.11900602513957126,
+    "rmse_cv_label": 0.2311131041475914,
+    "r2_cv_both": -32.317042492730266,
+    "rmse_cv_both": 1.2610769265431345,
+    "r2_cv_null": -0.11900602513957037,
+    "rmse_cv_null": 0.23111310414759131
+  },
+  "sensitivity": {
+    "low_rob": {
+      "n": 185,
+      "studies": 6,
+      "median": 25.0
+    },
+    "manuka_excluded": {
+      "n": 1932,
+      "median": 20.0
+    },
+    "manuka_only": {
+      "n": 123,
+      "median": 15.0
+    },
+    "w_v_basis_only": {
+      "n": 315,
+      "median": 15.0
+    },
+    "v_v_basis_only": {
+      "n": 157,
+      "median": 8.0
+    },
+    "aw_measured_studies": {
+      "n": 126,
+      "studies": 2,
+      "median": 25.0
+    },
+    "h2o2_measured_studies": {
+      "n": 226,
+      "studies": 7,
+      "median": 16.0
+    },
+    "peer_reviewed_only": {
+      "n": 2055,
+      "median": 19.7,
+      "note": "extracted corpus contains no preprint-DOI rows"
+    },
+    "loo_manuka_ns_frac": 0.38
+  },
+  "artificial_by_study": [
+    {
+      "study_id": "PMC11111008",
+      "outcome": "MIC",
+      "n": 3,
+      "med_ratio": 1.1851851851851851
+    },
+    {
+      "study_id": "PMC3406342",
+      "outcome": "MIC",
+      "n": 1,
+      "med_ratio": 1.302767840331388
+    },
+    {
+      "study_id": "PMC6659206",
+      "outcome": "MIC",
+      "n": 3,
+      "med_ratio": 2.6923076923076925
+    },
+    {
+      "study_id": "PMC7076972",
+      "outcome": "zone",
+      "n": 4,
+      "med_ratio": NaN
+    },
+    {
+      "study_id": "PMC8234392",
+      "outcome": "MBC",
+      "n": 2,
+      "med_ratio": 1.0588235294117647
+    },
+    {
+      "study_id": "PMC8234392",
+      "outcome": "MIC",
+      "n": 2,
+      "med_ratio": 1.0555555555555556
+    },
+    {
+      "study_id": "PMC8304482",
+      "outcome": "zone",
+      "n": 6,
+      "med_ratio": 1.4607487922705313
+    }
+  ],
+  "artificial_direction": {
+    "n_pairs": 21,
+    "n_natural_stronger": 16,
+    "n_artificial_ge": 5,
+    "median_ratio": 1.3793103448275863,
+    "wilcoxon_p_logratio": 0.0048353684785259745
+  }
+}
