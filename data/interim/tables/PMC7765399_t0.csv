@@ -1,0 +1,25 @@
+Ligand (Origin),Docking Score (kcal/mol),Ligand Efficiency,Interacting Residues,Distance (Å),Category,Type
+"Benzoic acid (M, H)",−5.4,0.60,Tyr148,2.408,H-Bond,Conventional
+Pro20,1.778,H-Bond,Conventional,,,
+Leu144,3.456,Hydrophobic,Pi-Sigma,,,
+Val30,5.365,Hydrophobic,Pi-Alkyl,,,
+Val61,4.581,Hydrophobic,Pi-Alkyl,,,
+Leu63,4.592,Hydrophobic,Pi-Alkyl,,,
+5-methyl-3-furan-carboxylic acid (M),−5.1,0.57,Tyr148,2.414,H-Bond,Conventional
+Pro20,1.953,H-Bond,Conventional,,,
+Val61,4.650,Hydrophobic,Alkyl,,,
+Leu63,4.838,Hydrophobic,Alkyl,,,
+Leu144,4.654,Hydrophobic,Alkyl,,,
+Val61,4.713,Hydrophobic,Alkyl,,,
+Leu63,4.688,Hydrophobic,Alkyl,,,
+Methyl-glyoxal (M),−2.8,0.56,Ser22,2.996,H-Bond,Conventional
+Ser22,3.512,H-Bond,Carbon H-Bond,,,
+Ser22,3.509,H-Bond,Carbon H-Bond,,,
+5-hydroxy-methyl-2-furaldehyde (M),−5.0,0.56,Tyr148,2.343,H-Bond,Conventional
+Pro20,1.922,H-Bond,Conventional,,,
+Ser22,3.508,H-Bond,Carbon H-Bond,,,
+Ser22,3.487,H-Bond,Carbon H-Bond,,,
+Val30,4.982,Hydrophobic,Alkyl,,,
+Val61,4.529,Hydrophobic,Alkyl,,,
+Leu63,4.728,Hydrophobic,Alkyl,,,
+Leu144,4.541,Hydrophobic,Alkyl,,,

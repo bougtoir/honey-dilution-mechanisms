@@ -1,0 +1,50 @@
+{
+ "attempted": 315,
+ "ok": 304,
+ "failures": [
+  {
+   "pmcid": "PMC11485888",
+   "err": "HTTP Error 500: "
+  },
+  {
+   "pmcid": "PMC11405583",
+   "err": "HTTP Error 500: "
+  },
+  {
+   "pmcid": "PMC7054553",
+   "err": "HTTP Error 500: "
+  },
+  {
+   "pmcid": "PMC12153394",
+   "err": "HTTP Error 500: "
+  },
+  {
+   "pmcid": "PMC9928779",
+   "err": "HTTP Error 500: "
+  },
+  {
+   "pmcid": "PMC9626727",
+   "err": "HTTP Error 500: "
+  },
+  {
+   "pmcid": "PMC7297938",
+   "err": "HTTP Error 500: "
+  },
+  {
+   "pmcid": "PMC11695059",
+   "err": "HTTP Error 500: "
+  },
+  {
+   "pmcid": "PMC8196175",
+   "err": "HTTP Error 500: "
+  },
+  {
+   "pmcid": "PMC13137985",
+   "err": "HTTP Error 500: "
+  },
+  {
+   "pmcid": "PMC11682496",
+   "err": "HTTP Error 500: "
+  }
+ ]
+}

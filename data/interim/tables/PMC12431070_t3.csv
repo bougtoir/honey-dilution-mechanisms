@@ -1,0 +1,6 @@
+Treatment,Thickness(mm),Tensile Strength (MPa),Elasticity Modulus (MPa),Elongation at Break (%)
+Ch 2%,1.07 ± 0.06 a,0.461 ± 0.044 c,11.30 ± 2.30 c,16.36 ± 0.37 d
+ChC,1.80 ± 0.05 b,0.435 ± 0.036 bc,7.95 ± 0.71 a,13.71 ± 0.86 c
+ChC-20H,1.91 ± 0.04 cd,0.377 ± 0.047 a,12.49 ± 2.12 c,7.56 ± 1.64 a
+ChC-40H,1.96 ± 0.06 d,0.403 ± 0.069 ab,10.95 ± 1.33 bc,9.64 ± 0.61 b
+ChC-60H,1.89 ± 0.03 c,0.394 ± 0.017 ab,9.29 ± 0.86 ab,8.39 ± 0.85 a

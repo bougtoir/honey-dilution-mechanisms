@@ -1,0 +1,15 @@
+Strain,Susceptibility to Prescribed Antibiotics,,,,,,,,,,,,
+β-Lactams,,,Cephalosporin,,Fluoroquinolone,,,Aminglycosides,,Others,,,
+OX,AM,AMC,CN,CF,OF,NA,CIP,GM,TM,NIT,FOS,SXT,
+E. coli,ND,R,R,R,R,S,S,S,S,R,R,S,R
+E. aerogenes,ND,R,R,R,R,S,S,S,R,R,R,R,R
+K. oxytoca,ND,R,R,R,R,S,S,S,S,R,R,R,R
+K. pneumoniae,ND,R,R,R,R,R,R,R,R,R,R,R,R
+P. mirabilis,ND,R,R,R,R,R,R,R,R,R,R,R,R
+P. vulgaris,ND,R,R,R,R,R,R,R,R,R,R,R,R
+C. koseri,ND,R,R,R,R,S,S,S,S,R,R,R,R
+P. aeruginosa,ND,R,R,R,R,R,R,R,R,R,R,R,R
+S. aureus,R,ND,ND,R,R,R,R,R,S,R,R,R,R
+S. saprophyticus,S,ND,ND,R,R,S,S,S,S,R,R,S,R
+E. faecalis,R,ND,ND,R,R,R,R,R,R,R,R,R,R
+Susceptibility Percentage (%),33.3,0,0,0,0,45.4,45.4,45.4,45.4,0,0,18.2,0

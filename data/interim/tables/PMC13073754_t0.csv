@@ -1,0 +1,9 @@
+Cancer Type,Findings,References
+Colorectal cancer cells (SW-480),"Modulated the expression of proliferative genes, including p53, ERK1/2, AKT, PI3K, and NF-κB, in SW-480 cells. Additionally, syringic acid activated autophagy in SW-480 cells.",[78]
+Gastric cancer cell lines (AGS),"Inducing apoptosis, inhibiting inflammation, and modulating the mTOR/AKT signalling pathway.",[80]
+Lung cancer cell (A549),"Induced moderate ROS generation in a concentration-dependent manner, disrupted mitochondrial membrane potential, and caused morphological modifications.",[81]
+Liver cancer (HepG2 Cells),"Syringic acid treatment significantly increased the expression of apoptotic markers, including caspases 3 and 9, cytochrome c, Apaf-1, Bax, and p53, in HepG2 cells. This upregulation suggests that syringic acid may induce apoptosis in these cells.",[82]
+Breast cancer cell (In silico studies),"Syringic acid achieved the highest docking scores with PR and HER-2 proteins, at −7.7 kcal/mol",[83]
+In silico studies,"Syringic acid and its derivative SA10 bind to the active site of NF-κB, thereby interfering with the association between DNA and NF-κB. SA10 exhibits a more robust binding affinity than SA and is firmly docked into the interior of NF-κB,",[84]
+Leukemia (K562 Cells),"SA10 exhibited a two-fold increase in inhibitory activity compared to SA. SA10 functions as both an NF-κB inhibitor and an apoptosis inducer, a significant finding given NF-κB’s role in promoting cancer cell survival and proliferation.",[84]
+Kidney and liver cancer cells (HEK 293 and HepG2 cells),"Addition of Cu (II) to Syringic Acid significantly reduced HepG2 cell viability after 72 h, increasing ROS formation, apoptosis, and autophagy without affecting mitochondrial integrity. This combination showed pro-oxidant activity, reduced cell survival, and induced autophagy in cancer cells with minimal effects on normal cells, making it a promising therapeutic candidate for cancer treatment.",[87]

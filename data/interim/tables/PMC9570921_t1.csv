@@ -1,0 +1,10 @@
+Antibiotics,Bacillus Cereus,,Listeria Monocytogenes,
+Zone of Inhibition (mm),Resistance Pattern,Zone of Inhibition (mm),Resistance Pattern,
+Penicillin G,7 ± 0.52,R,8 ± 0.34,R
+Ampicillin,7.5 ± 0.48,R,7 ± 0.65,R
+"Amoxicillin,",6 ± 0.67,R,17 ± 0.76,S
+Ciprofloxacin,16 ± 0.43,S,8 ± 0.71,R
+Chloramphenicol,16 ± 0.56,S,9 ± 0.81,R
+Erythromycin,18 ± 0.72,S,8 ± 0.29,R
+Gentamycin,18 ± 0.59,S,6 ± 0.34,R
+Tetracycline,19 ± 0.39,S,13 ± 0.32,I

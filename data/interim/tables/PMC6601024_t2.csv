@@ -1,0 +1,3 @@
+MODELS,AIC,AICNULL
+NC ∼ Treat + T + (1|Hive),44.69,39.98
+NC ∼ T + (1|Hive),43.9,

@@ -1,0 +1,20 @@
+,Escherichia coli,Enterobacter cloacae,Enterococcus faecium,Pasteurella multocida,Staphylococcus aureus,Pseudomonas aeruginosa
+Ampicilin,≥32 (R),-,-,-,-,-
+Amoxicilin/clavulanic acid,≥32 (R),≥32 (R),-,≥32 (R),-,-
+Cefpodoxime,≥8 (R),≥8 (R),-,-,-,-
+Cefovecin,≥8 (R),≥8 (R),-,-,-,≥8 (R)
+Ceftazidime,≥64 (R),32 (R),-,-,-,2 (R)
+Ceftiofur,≥8 (R),≥8 (R),-,≥8 (R),-,≥8 (S)
+Imipenem,≥16 (R),0.5 (S),-,≥16 (R),-,2 (S)
+Ciprofloxacin,≥4 (R),≥4 (R),-,≥4 (R),-,≥4 (R)
+Enrofloxacin,≥4 (R),≥4 (R),≥4 (S),≥4 (R),≥4 (R),≥4 (R)
+Marbofloxacin,≥4 (R),≥4 (R),≥4 (R),-,≥4 (R),2 (R)
+Pradofloxacin,-,-,-,-,≥4 (R),-
+Doxycycline,≥16 (R),8 (R),≥16 (R),≥16 (R),8 (S),-
+Chloramphenicol,16 (R),8 (S),≤4 (S),-,8 (S),-
+Trimethoprim/Sulfamethoxazole,≥320 (R),≥320 (R),-,≥320 (R),≥320 (R),-
+Erythromycin,-,-,≥8 (R),-,≥8 (R),-
+Gentamicin,-,≥16 (R),-,-,≥16 (R),≤1 (S)
+Kanamycin,-,-,-,-,≥64 (R),-
+Clindamycin,-,-,-,-,≥4 (R),-
+Tetracycline,-,-,≥16 (R),-,≥16 (R),-

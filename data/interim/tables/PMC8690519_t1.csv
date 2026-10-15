@@ -1,0 +1,9 @@
+m/z & RT,Exact mass,MS2,Formula as [M-H]−,Putative Identity
+290.12 m/z @ RT 12.70,290.1237,"272, 230, 200, 158",C12H20NO7,UK
+151.04 m/z @ RT 13.59,151.0398,107,C8H7O3,Hydroxyphenyl acetic acid
+163.04 m/z @ RT 15.06,163.0398,119,C9H7O3,p-coumaric acid
+144.05 m/z @ RT 17.73,144.0452,"116, 86, 75",C9H6NO,(1H)-quinolinone
+309.13 m/z @ RT 18.98,309.1336a,263,C16H21O6,Abscisic acid + FA adduct
+263.13 m/z @ RT 19.00,263.1282a,"219, 204, 201, 186",C15H19O4,Abscisic acid
+343.80 m/z @ RT 19.75,343.2119,"325, 307, 289, 229, 209, 201, 171",C18H31O6,UK
+325.18 m/z @ RT 21.05,325.0709,281,C18H29O5,UK

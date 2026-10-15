@@ -1,0 +1,1233 @@
+{
+ "n_rows": 5174,
+ "n_studies": 102,
+ "A1": {
+  "n_series": 17,
+  "n_activity_series": 10,
+  "positive": 10,
+  "negative": 0,
+  "flat": 0,
+  "median_rho": 0.9999999999999999,
+  "pH_series_note": "pH series (PMC2478674) rise with dilution as expected",
+  "pH_median_rho": -1.0
+ },
+ "A2": {
+  "n_pairs": 25,
+  "zone_pairs": 10,
+  "mic_pairs": 15,
+  "zone_wilcoxon_p": 0.001953125,
+  "zone_median_diff_mm": 0.6333333333333333,
+  "mic_median_ratio": 0.6541666666666667
+ },
+ "A3_joined_rows": 685,
+ "A3_joined_studies": 18,
+ "A3_correlations": [
+  {
+   "param": "H2O2",
+   "outcome": "MIC",
+   "n": 29,
+   "n_studies": 2,
+   "spearman_rho": 0.45951290840052794,
+   "p": 0.012150500366423785
+  },
+  {
+   "param": "MGO",
+   "outcome": "MIC",
+   "n": 116,
+   "n_studies": 1,
+   "spearman_rho": -0.5171981479129903,
+   "p": 2.7758837627877694e-09
+  },
+  {
+   "param": "aw",
+   "outcome": "MIC",
+   "n": 20,
+   "n_studies": 1,
+   "spearman_rho": -0.058202524647464844,
+   "p": 0.8074354255894054
+  },
+  {
+   "param": "pH",
+   "outcome": "MIC",
+   "n": 359,
+   "n_studies": 7,
+   "spearman_rho": 0.07106014161933023,
+   "p": 0.17914224852713842
+  },
+  {
+   "param": "pH",
+   "outcome": "zone",
+   "n": 53,
+   "n_studies": 2,
+   "spearman_rho": -0.5184591771107275,
+   "p": 6.985416988041754e-05
+  },
+  {
+   "param": "TPC",
+   "outcome": "MIC",
+   "n": 172,
+   "n_studies": 5,
+   "spearman_rho": -0.15243898306315426,
+   "p": 0.04589874942206831
+  },
+  {
+   "param": "TPC",
+   "outcome": "zone",
+   "n": 54,
+   "n_studies": 1,
+   "spearman_rho": 0.2590027036407869,
+   "p": 0.05860437235155887
+  },
+  {
+   "param": "moisture",
+   "outcome": "MIC",
+   "n": 112,
+   "n_studies": 3,
+   "spearman_rho": 0.16546559165200037,
+   "p": 0.0812431872969736
+  },
+  {
+   "param": "moisture",
+   "outcome": "zone",
+   "n": 45,
+   "n_studies": 1,
+   "spearman_rho": -0.06787205709942822,
+   "p": 0.657766564286062
+  }
+ ],
+ "A4": {
+  "n_pairs": 13,
+  "studies": [
+   "PMC6659206",
+   "PMC8021062"
+  ],
+  "median_residual_frac": 0.9249999999999999,
+  "frac_gt50": 1.0
+ },
+ "A5": {
+  "n_complete": 116,
+  "predictors": [
+   "MGO",
+   "pH",
+   "TPC"
+  ],
+  "n_studies": 1,
+  "r2_chem": 0.29619647869155363,
+  "r2_label": 0.0,
+  "r2_both": 0.2961964786915534,
+  "f_p_label_added": NaN
+ },
+ "A6": {
+  "kruskal_H": 200.1411801956026,
+  "kruskal_p": 3.1915921121099975e-32,
+  "median_MIC_by_organism": {
+   "Burkholderia": 4.0,
+   "L. monocytogenes": 4.0,
+   "MSSA": 10.0,
+   "S. mutans": 10.0,
+   "Mycobacterium": 11.25,
+   "MRSA": 12.5,
+   "S. aureus": 12.5,
+   "S. epidermidis": 12.5,
+   "Salmonella": 12.5,
+   "B. cereus/Bacillus": 16.5,
+   "H. pylori": 16.67,
+   "E. coli": 20.0,
+   "K. pneumoniae": 20.0,
+   "other": 20.0,
+   "P. aeruginosa": 21.0
+  }
+ },
+ "A6_manuka": {
+  "median_manuka": 15.0,
+  "median_other": 19.0,
+  "mwu_p": 0.0012363985106598238
+ },
+ "S1_lowRoB": {
+  "n_rows": 512,
+  "n_studies": 8,
+  "median_MIC": 16.835
+ },
+ "selection": {
+  "eligible": 404,
+  "with_pmcid": 247,
+  "xml_available": 226,
+  "extracted": 102,
+  "year_median_extracted": 2022.0,
+  "year_median_nonextracted": 2020.0,
+  "year_mwu_p": 0.00020360555694890587,
+  "top_journals_nonextracted": {
+   "Antibiotics (Basel, Switzerland)": 14,
+   "Foods (Basel, Switzerland)": 11,
+   "Food chemistry": 10,
+   "Journal of applied microbiology": 9,
+   "Journal of medicinal food": 8
+  },
+  "oa_rate_extracted": 0.9861111111111112,
+  "oa_rate_nonextracted": 0.6902654867256637,
+  "f_dilution_rate_extracted": 0.4019607843137255,
+  "f_dilution_rate_nonextracted": 0.31788079470198677,
+  "f_peroxide_rate_extracted": 0.2549019607843137,
+  "f_peroxide_rate_nonextracted": 0.2251655629139073,
+  "f_mgo_rate_extracted": 0.20588235294117646,
+  "f_mgo_rate_nonextracted": 0.152317880794702,
+  "f_chem_rate_extracted": 0.9019607843137255,
+  "f_chem_rate_nonextracted": 0.7847682119205298,
+  "f_zone_rate_extracted": 0.27450980392156865,
+  "f_zone_rate_nonextracted": 0.23509933774834438
+ },
+ "conc_response": {
+  "n_series": 10,
+  "n_studies": 3,
+  "n_positive": 10,
+  "n_negative": 0,
+  "median_rho": 1.0,
+  "rho_iqr": [
+   1.0,
+   1.0
+  ],
+  "loglog_slope": 0.32533364373341495,
+  "loglog_slope_se": 0.5487350092307898
+ },
+ "chem_vs_label_cv": {
+  "predictors": [
+   "pH",
+   "TPC"
+  ],
+  "n": 155,
+  "n_studies": 3,
+  "r2_cv_chem": -32.31704249273028,
+  "rmse_cv_chem": 1.2610769265431347,
+  "r2_cv_label": -0.11900602513957126,
+  "rmse_cv_label": 0.2311131041475914,
+  "r2_cv_both": -32.317042492730266,
+  "rmse_cv_both": 1.2610769265431345,
+  "r2_cv_null": -0.11900602513957037,
+  "rmse_cv_null": 0.23111310414759131
+ },
+ "sensitivity": {
+  "low_rob": {
+   "n": 512,
+   "studies": 8,
+   "median": 16.835
+  },
+  "manuka_excluded": {
+   "n": 2172,
+   "median": 18.0
+  },
+  "manuka_only": {
+   "n": 146,
+   "median": 15.0
+  },
+  "w_v_basis_only": {
+   "n": 369,
+   "median": 15.0
+  },
+  "v_v_basis_only": {
+   "n": 481,
+   "median": 12.5
+  },
+  "aw_measured_studies": {
+   "n": 126,
+   "studies": 2,
+   "median": 25.0
+  },
+  "h2o2_measured_studies": {
+   "n": 226,
+   "studies": 7,
+   "median": 16.0
+  },
+  "peer_reviewed_only": {
+   "n": 2318,
+   "median": 17.5,
+   "note": "extracted corpus contains no preprint-DOI rows"
+  },
+  "loo_manuka_ns_frac": 0.0
+ },
+ "artificial_by_study": [
+  {
+   "study_id": "PMC11111008",
+   "outcome": "MIC",
+   "n": 3,
+   "med_ratio": 1.1851851851851851
+  },
+  {
+   "study_id": "PMC13460517",
+   "outcome": "MIC",
+   "n": 4,
+   "med_ratio": 1.9523809523809523
+  },
+  {
+   "study_id": "PMC3406342",
+   "outcome": "MIC",
+   "n": 1,
+   "med_ratio": 1.302767840331388
+  },
+  {
+   "study_id": "PMC6659206",
+   "outcome": "MIC",
+   "n": 3,
+   "med_ratio": 2.6923076923076925
+  },
+  {
+   "study_id": "PMC7076972",
+   "outcome": "zone",
+   "n": 4,
+   "med_ratio": NaN
+  },
+  {
+   "study_id": "PMC8234392",
+   "outcome": "MBC",
+   "n": 2,
+   "med_ratio": 1.0588235294117647
+  },
+  {
+   "study_id": "PMC8234392",
+   "outcome": "MIC",
+   "n": 2,
+   "med_ratio": 1.0555555555555556
+  },
+  {
+   "study_id": "PMC8304482",
+   "outcome": "zone",
+   "n": 6,
+   "med_ratio": 1.4607487922705313
+  }
+ ],
+ "artificial_direction": {
+  "n_pairs": 25,
+  "n_natural_stronger": 20,
+  "n_artificial_ge": 5,
+  "median_ratio": 1.4492753623188404,
+  "wilcoxon_p_logratio": 0.0010176888101536745
+ },
+ "A1_v4": {
+  "n_series_total": 17,
+  "n_activity_series": 10,
+  "n_activity_series_ge4": 7,
+  "positive": 10,
+  "negative": 0,
+  "flat": 0,
+  "median_rho": 0.9999999999999999,
+  "median_rho_ge4": 0.9999999999999999,
+  "studies": [
+   "PMC11376693",
+   "PMC11792292",
+   "PMC12532491"
+  ],
+  "criteria": "honey+organism+assay identified; concentration basis present; >=3 distinct ordered concentrations (>=4 in sensitivity). No outcome-side condition."
+ },
+ "A6_basis": {
+  "pooled_median_all_pct": 18.0,
+  "basis_n": {
+   "% (basis unspecified)": 1052,
+   "%v/v": 481,
+   "%w/v": 369,
+   "%w/w": 86
+  },
+  "basis_medians": {
+   "% (basis unspecified)": {
+    "B. cereus/Bacillus": 21.5,
+    "E. coli": 23.25,
+    "E. faecalis": 12.5,
+    "H. influenzae": 33.75,
+    "K. pneumoniae": 20.0,
+    "L. monocytogenes": 37.5,
+    "MRSA": 12.5,
+    "MSSA": 9.375,
+    "P. aeruginosa": 24.0,
+    "Proteus": 25.0,
+    "S. aureus": 12.5,
+    "S. epidermidis": 12.5,
+    "S. mutans": 10.0,
+    "S. pyogenes": 25.0,
+    "Salmonella": 25.0,
+    "fungal": 27.5,
+    "other": 20.0
+   },
+   "%v/v": {
+    "B. cereus/Bacillus": 3.0,
+    "E. coli": 8.0,
+    "H. pylori": 16.67,
+    "K. pneumoniae": 17.0,
+    "L. monocytogenes": 2.0,
+    "MRSA": 20.0,
+    "P. aeruginosa": 10.25,
+    "Proteus": 4.0,
+    "S. aureus": 12.5,
+    "Salmonella": 12.5,
+    "fungal": 4.0
+   },
+   "%w/v": {
+    "Burkholderia": 4.0,
+    "E. coli": 14.0,
+    "E. faecalis": 24.0,
+    "K. pneumoniae": 20.0,
+    "MRSA": 10.0,
+    "MSSA": 10.0,
+    "P. aeruginosa": 22.0,
+    "Proteus": 10.0,
+    "S. aureus": 12.5,
+    "fungal": 50.0,
+    "other": 10.0
+   },
+   "%w/w": {
+    "E. faecalis": 30.0,
+    "P. aeruginosa": 15.0,
+    "S. aureus": 7.199999999999999
+   }
+  },
+  "note": "Organism medians below are computed within each %-basis class only; the pooled figure mixes predominantly unspecified-basis rows and is descriptive.",
+  "organism_medians_pct": {
+   "B. cereus/Bacillus": 16.5,
+   "Burkholderia": 4.0,
+   "E. coli": 20.0,
+   "E. faecalis": 21.5,
+   "H. influenzae": 33.75,
+   "H. pylori": 16.67,
+   "K. pneumoniae": 20.0,
+   "L. monocytogenes": 4.0,
+   "MRSA": 12.5,
+   "MSSA": 10.0,
+   "P. aeruginosa": 21.0,
+   "Proteus": 25.0,
+   "S. aureus": 12.5,
+   "S. epidermidis": 12.5,
+   "S. mutans": 10.0,
+   "S. pyogenes": 25.0,
+   "Salmonella": 12.5,
+   "fungal": 27.5,
+   "other": 20.0
+  }
+ },
+ "A2_cluster": {
+  "n_studies": 7,
+  "median_ratio": 1.4607487922705313,
+  "all_directional": true,
+  "wilcoxon_p": 0.015625,
+  "outcomes_separate": {
+   "zone": {
+    "zone": {
+     "n_studies": 2,
+     "median_ratio": Infinity
+    }
+   }
+  },
+  "by_outcome": {
+   "zone": {
+    "n_studies": 2,
+    "median_ratio": Infinity,
+    "ratios": {
+     "PMC7076972": Infinity,
+     "PMC8304482": 1.4607487922705313
+    }
+   },
+   "mic_mbc": {
+    "n_studies": 5,
+    "median_ratio": 1.302767840331388,
+    "wilcoxon_p": 0.0625,
+    "ratios": {
+     "PMC11111008": 1.1851851851851851,
+     "PMC13460517": 1.9523809523809523,
+     "PMC3406342": 1.302767840331388,
+     "PMC6659206": 2.6923076923076925,
+     "PMC8234392": 1.0571895424836601
+    }
+   }
+  }
+ },
+ "A6_cluster": {
+  "organism_n_studies": {
+   "B. cereus/Bacillus": 6,
+   "Burkholderia": 1,
+   "E. coli": 22,
+   "E. faecalis": 7,
+   "Enterobacter": 3,
+   "H. influenzae": 2,
+   "H. pylori": 2,
+   "K. pneumoniae": 10,
+   "L. monocytogenes": 4,
+   "MRSA": 11,
+   "MSSA": 4,
+   "Mycobacterium": 1,
+   "P. aeruginosa": 25,
+   "Proteus": 5,
+   "S. aureus": 25,
+   "S. epidermidis": 4,
+   "S. mutans": 3,
+   "S. pyogenes": 4,
+   "Salmonella": 11,
+   "fungal": 10,
+   "other": 9
+  },
+  "note": "Organism-level Kruskal-Wallis across rows pools within-study replicates; study-level medians per organism reported instead. Inferential organism contrast withheld: organism is confounded with study, so clusters are too few and non-exchangeable for a valid pooled test."
+ },
+ "A6_manuka_cluster": {
+  "n_studies_manuka": 12,
+  "n_studies_other": 43,
+  "n_studies_paired": 11,
+  "paired_median_diff": -5.0,
+  "study_level_medians_manuka": 14.5,
+  "study_level_medians_other": 17.5,
+  "note": "Row-level Mann-Whitney treats within-study MICs as independent; study-level medians reported as the defensible summary. Pooled MWU retained as descriptive nominal contrast only."
+ },
+ "basis_audit": {
+  "rows_upgraded": 134,
+  "by_target": {
+   "%w/v phenol": 69,
+   "%v/v": 40,
+   "%w/v": 25
+  },
+  "basis_counts": {
+   "% (basis unspecified)": 1396,
+   "mm": 1386,
+   "other": 781,
+   "%v/v": 683,
+   "%w/v": 514,
+   "mass": 246,
+   "%w/w": 99,
+   "%w/v phenol": 69
+  }
+ },
+ "A6_basis_v5": {
+  "table": [
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "B. cereus/Bacillus",
+    "n_studies": 3,
+    "n_honeys": 19,
+    "n_obs": 36,
+    "median": 24.75,
+    "q1": 8.0,
+    "q3": 33.125
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "E. coli",
+    "n_studies": 14,
+    "n_honeys": 162,
+    "n_obs": 291,
+    "median": 25.0,
+    "q1": 16.0,
+    "q3": 40.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "E. faecalis",
+    "n_studies": 3,
+    "n_honeys": 29,
+    "n_obs": 38,
+    "median": 12.5,
+    "q1": 12.0,
+    "q3": 25.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "H. influenzae",
+    "n_studies": 2,
+    "n_honeys": 16,
+    "n_obs": 40,
+    "median": 36.25,
+    "q1": 25.0,
+    "q3": 47.5
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "K. pneumoniae",
+    "n_studies": 4,
+    "n_honeys": 15,
+    "n_obs": 23,
+    "median": 20.5,
+    "q1": 13.75,
+    "q3": 47.5
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "L. monocytogenes",
+    "n_studies": 3,
+    "n_honeys": 14,
+    "n_obs": 18,
+    "median": 27.5,
+    "q1": 21.25,
+    "q3": 46.25
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "MRSA",
+    "n_studies": 5,
+    "n_honeys": 25,
+    "n_obs": 107,
+    "median": 12.5,
+    "q1": 6.25,
+    "q3": 25.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "MSSA",
+    "n_studies": 1,
+    "n_honeys": 6,
+    "n_obs": 12,
+    "median": 12.5,
+    "q1": 6.25,
+    "q3": 12.5
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "P. aeruginosa",
+    "n_studies": 12,
+    "n_honeys": 100,
+    "n_obs": 179,
+    "median": 25.0,
+    "q1": 18.25,
+    "q3": 40.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "Proteus",
+    "n_studies": 1,
+    "n_honeys": 19,
+    "n_obs": 19,
+    "median": 25.0,
+    "q1": 25.0,
+    "q3": 25.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "S. aureus",
+    "n_studies": 13,
+    "n_honeys": 80,
+    "n_obs": 107,
+    "median": 19.0,
+    "q1": 10.0,
+    "q3": 25.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "S. epidermidis",
+    "n_studies": 3,
+    "n_honeys": 23,
+    "n_obs": 30,
+    "median": 12.5,
+    "q1": 6.25,
+    "q3": 12.5
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "S. mutans",
+    "n_studies": 3,
+    "n_honeys": 8,
+    "n_obs": 11,
+    "median": 10.0,
+    "q1": 3.75,
+    "q3": 25.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "S. pyogenes",
+    "n_studies": 4,
+    "n_honeys": 20,
+    "n_obs": 24,
+    "median": 25.0,
+    "q1": 10.0,
+    "q3": 25.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "Salmonella",
+    "n_studies": 8,
+    "n_honeys": 47,
+    "n_obs": 66,
+    "median": 22.95,
+    "q1": 13.125,
+    "q3": 25.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "fungal",
+    "n_studies": 7,
+    "n_honeys": 100,
+    "n_obs": 116,
+    "median": 29.65,
+    "q1": 16.0,
+    "q3": 38.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "other",
+    "n_studies": 5,
+    "n_honeys": 63,
+    "n_obs": 170,
+    "median": 20.0,
+    "q1": 8.5,
+    "q3": 25.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "B. cereus/Bacillus",
+    "n_studies": 2,
+    "n_honeys": 10,
+    "n_obs": 14,
+    "median": 12.5,
+    "q1": 4.5625,
+    "q3": 12.5
+   },
+   {
+    "basis": "%v/v",
+    "organism": "E. coli",
+    "n_studies": 6,
+    "n_honeys": 20,
+    "n_obs": 31,
+    "median": 8.0,
+    "q1": 4.0,
+    "q3": 15.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "H. pylori",
+    "n_studies": 1,
+    "n_honeys": 76,
+    "n_obs": 227,
+    "median": 16.67,
+    "q1": 12.5,
+    "q3": 25.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "K. pneumoniae",
+    "n_studies": 3,
+    "n_honeys": 6,
+    "n_obs": 13,
+    "median": 17.0,
+    "q1": 6.25,
+    "q3": 25.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "L. monocytogenes",
+    "n_studies": 2,
+    "n_honeys": 4,
+    "n_obs": 11,
+    "median": 2.0,
+    "q1": 1.0,
+    "q3": 3.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "MRSA",
+    "n_studies": 3,
+    "n_honeys": 13,
+    "n_obs": 13,
+    "median": 6.25,
+    "q1": 6.25,
+    "q3": 20.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "P. aeruginosa",
+    "n_studies": 3,
+    "n_honeys": 4,
+    "n_obs": 10,
+    "median": 10.25,
+    "q1": 4.25,
+    "q3": 43.75
+   },
+   {
+    "basis": "%v/v",
+    "organism": "Proteus",
+    "n_studies": 3,
+    "n_honeys": 5,
+    "n_obs": 16,
+    "median": 4.0,
+    "q1": 2.0,
+    "q3": 8.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "S. aureus",
+    "n_studies": 5,
+    "n_honeys": 17,
+    "n_obs": 37,
+    "median": 25.0,
+    "q1": 4.0,
+    "q3": 25.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "Salmonella",
+    "n_studies": 5,
+    "n_honeys": 23,
+    "n_obs": 233,
+    "median": 12.5,
+    "q1": 6.25,
+    "q3": 25.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "fungal",
+    "n_studies": 3,
+    "n_honeys": 6,
+    "n_obs": 10,
+    "median": 4.0,
+    "q1": 2.0,
+    "q3": 8.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "other",
+    "n_studies": 2,
+    "n_honeys": 10,
+    "n_obs": 10,
+    "median": 22.5,
+    "q1": 12.5,
+    "q3": 25.0
+   },
+   {
+    "basis": "%w/v",
+    "organism": "B. cereus/Bacillus",
+    "n_studies": 2,
+    "n_honeys": 10,
+    "n_obs": 10,
+    "median": 16.25,
+    "q1": 8.6075,
+    "q3": 20.0
+   },
+   {
+    "basis": "%w/v",
+    "organism": "Burkholderia",
+    "n_studies": 1,
+    "n_honeys": 4,
+    "n_obs": 15,
+    "median": 4.0,
+    "q1": 1.35,
+    "q3": 5.6
+   },
+   {
+    "basis": "%w/v",
+    "organism": "E. coli",
+    "n_studies": 6,
+    "n_honeys": 75,
+    "n_obs": 83,
+    "median": 10.0,
+    "q1": 10.0,
+    "q3": 18.0
+   },
+   {
+    "basis": "%w/v",
+    "organism": "E. faecalis",
+    "n_studies": 4,
+    "n_honeys": 39,
+    "n_obs": 47,
+    "median": 20.0,
+    "q1": 5.0,
+    "q3": 30.0
+   },
+   {
+    "basis": "%w/v",
+    "organism": "K. pneumoniae",
+    "n_studies": 3,
+    "n_honeys": 24,
+    "n_obs": 30,
+    "median": 20.0,
+    "q1": 20.0,
+    "q3": 37.5
+   },
+   {
+    "basis": "%w/v",
+    "organism": "MRSA",
+    "n_studies": 3,
+    "n_honeys": 21,
+    "n_obs": 27,
+    "median": 10.0,
+    "q1": 10.0,
+    "q3": 13.5
+   },
+   {
+    "basis": "%w/v",
+    "organism": "MSSA",
+    "n_studies": 2,
+    "n_honeys": 18,
+    "n_obs": 18,
+    "median": 10.0,
+    "q1": 7.75,
+    "q3": 10.0
+   },
+   {
+    "basis": "%w/v",
+    "organism": "P. aeruginosa",
+    "n_studies": 11,
+    "n_honeys": 80,
+    "n_obs": 97,
+    "median": 25.0,
+    "q1": 18.0,
+    "q3": 38.0
+   },
+   {
+    "basis": "%w/v",
+    "organism": "Proteus",
+    "n_studies": 1,
+    "n_honeys": 6,
+    "n_obs": 12,
+    "median": 10.0,
+    "q1": 10.0,
+    "q3": 10.0
+   },
+   {
+    "basis": "%w/v",
+    "organism": "S. aureus",
+    "n_studies": 10,
+    "n_honeys": 71,
+    "n_obs": 108,
+    "median": 12.415,
+    "q1": 6.75,
+    "q3": 17.7525
+   },
+   {
+    "basis": "%w/v",
+    "organism": "fungal",
+    "n_studies": 1,
+    "n_honeys": 6,
+    "n_obs": 12,
+    "median": 50.0,
+    "q1": 50.0,
+    "q3": 50.0
+   },
+   {
+    "basis": "%w/v",
+    "organism": "other",
+    "n_studies": 2,
+    "n_honeys": 9,
+    "n_obs": 18,
+    "median": 10.0,
+    "q1": 10.0,
+    "q3": 17.5
+   },
+   {
+    "basis": "%w/w",
+    "organism": "E. faecalis",
+    "n_studies": 1,
+    "n_honeys": 33,
+    "n_obs": 33,
+    "median": 30.0,
+    "q1": 20.0,
+    "q3": 30.0
+   },
+   {
+    "basis": "%w/w",
+    "organism": "P. aeruginosa",
+    "n_studies": 1,
+    "n_honeys": 33,
+    "n_obs": 33,
+    "median": 15.0,
+    "q1": 15.0,
+    "q3": 20.0
+   },
+   {
+    "basis": "%w/w",
+    "organism": "S. aureus",
+    "n_studies": 1,
+    "n_honeys": 20,
+    "n_obs": 20,
+    "median": 7.199999999999999,
+    "q1": 6.45,
+    "q3": 9.299999999999999
+   }
+  ]
+ },
+ "manuka_v5": {
+  "paired_within_study_basis": [
+   {
+    "study_id": "PMC11111008",
+    "basis": "%w/w",
+    "manuka_med": 15.0,
+    "other_med": 20.0,
+    "diff": -5.0,
+    "n_manuka": 14,
+    "n_other": 72
+   },
+   {
+    "study_id": "PMC12249035",
+    "basis": "% (basis unspecified)",
+    "manuka_med": 17.5,
+    "other_med": 30.0,
+    "diff": -12.5,
+    "n_manuka": 4,
+    "n_other": 28
+   },
+   {
+    "study_id": "PMC13315830",
+    "basis": "%v/v",
+    "manuka_med": 6.25,
+    "other_med": 16.67,
+    "diff": -10.420000000000002,
+    "n_manuka": 3,
+    "n_other": 224
+   },
+   {
+    "study_id": "PMC13460517",
+    "basis": "%w/v",
+    "manuka_med": 12.5,
+    "other_med": 40.0,
+    "diff": -27.5,
+    "n_manuka": 20,
+    "n_other": 40
+   },
+   {
+    "study_id": "PMC2478674",
+    "basis": "% (basis unspecified)",
+    "manuka_med": 25.0,
+    "other_med": 25.0,
+    "diff": 0.0,
+    "n_manuka": 4,
+    "n_other": 12
+   },
+   {
+    "study_id": "PMC2942791",
+    "basis": "% (basis unspecified)",
+    "manuka_med": 12.5,
+    "other_med": 12.5,
+    "diff": 0.0,
+    "n_manuka": 14,
+    "n_other": 21
+   },
+   {
+    "study_id": "PMC3716576",
+    "basis": "%w/v",
+    "manuka_med": 20.0,
+    "other_med": 20.0,
+    "diff": 0.0,
+    "n_manuka": 3,
+    "n_other": 15
+   },
+   {
+    "study_id": "PMC6268398",
+    "basis": "% (basis unspecified)",
+    "manuka_med": 7.0,
+    "other_med": 13.0,
+    "diff": -6.0,
+    "n_manuka": 3,
+    "n_other": 9
+   },
+   {
+    "study_id": "PMC6397887",
+    "basis": "% (basis unspecified)",
+    "manuka_med": 12.5,
+    "other_med": 12.5,
+    "diff": 0.0,
+    "n_manuka": 32,
+    "n_other": 64
+   },
+   {
+    "study_id": "PMC6659206",
+    "basis": "%v/v",
+    "manuka_med": 14.0,
+    "other_med": 22.5,
+    "diff": -8.5,
+    "n_manuka": 3,
+    "n_other": 6
+   },
+   {
+    "study_id": "PMC7936102",
+    "basis": "%w/v",
+    "manuka_med": 25.0,
+    "other_med": 25.0,
+    "diff": 0.0,
+    "n_manuka": 5,
+    "n_other": 29
+   },
+   {
+    "study_id": "PMC8234392",
+    "basis": "%v/v",
+    "manuka_med": 25.0,
+    "other_med": 25.0,
+    "diff": 0.0,
+    "n_manuka": 4,
+    "n_other": 36
+   },
+   {
+    "study_id": "PMC9333225",
+    "basis": "% (basis unspecified)",
+    "manuka_med": 17.5,
+    "other_med": 29.5,
+    "diff": -12.0,
+    "n_manuka": 48,
+    "n_other": 8
+   }
+  ],
+  "n_studies": 13,
+  "median_diff": -5.0,
+  "by_basis_descriptive": {
+   "% (basis unspecified)": {
+    "manuka": {
+     "n": 105,
+     "median": 12.5
+    },
+    "other": {
+     "n": 1189,
+     "median": 20.5
+    }
+   },
+   "%v/v": {
+    "manuka": {
+     "n": 10,
+     "median": 14.5
+    },
+    "other": {
+     "n": 623,
+     "median": 12.5
+    }
+   },
+   "%w/v": {
+    "manuka": {
+     "n": 49,
+     "median": 15.0
+    },
+    "other": {
+     "n": 435,
+     "median": 13.33
+    }
+   },
+   "%w/w": {
+    "manuka": {
+     "n": 14,
+     "median": 15.0
+    },
+    "other": {
+     "n": 72,
+     "median": 20.0
+    }
+   }
+  },
+  "wilcoxon_p": 0.015625,
+  "n_lower": 7,
+  "n_equal": 6,
+  "n_higher": 0
+ },
+ "comparator_quality": {
+  "PMC11111008": {
+   "quality": "sugar_equivalent_unspecified",
+   "labels": [
+    "ART Artificial"
+   ]
+  },
+  "PMC13460517": {
+   "quality": "composition_matched_or_partial",
+   "labels": [
+    "artificial methylglyoxal+water (138 ppm matched)",
+    "artificial methylglyoxal+sugar (138 ppm matched)",
+    "artificial methylglyoxal+water (340 ppm matched)",
+    "artificial methylglyoxal+sugar (340 ppm matched)",
+    "artificial methylglyoxal+water (494 ppm matched)",
+    "artificial methylglyoxal+sugar (494 ppm matched)",
+    "artificial methylglyoxal+water (623 ppm matched)",
+    "artificial methylglyoxal+sugar (623 ppm matched)",
+    "artificial methylglyoxal+water (1114 ppm matched)",
+    "artificial methylglyoxal+sugar (1114 ppm matched)"
+   ]
+  },
+  "PMC3406342": {
+   "quality": "sugar_equivalent_unspecified",
+   "labels": [
+    "Artificial honey"
+   ]
+  },
+  "PMC6269728": {
+   "quality": "partial_or_unspecified",
+   "labels": [
+    "MIC versus sugars"
+   ]
+  },
+  "PMC6659206": {
+   "quality": "composition_matched_or_partial",
+   "labels": [
+    "Simulated honey (sugar)"
+   ]
+  },
+  "PMC7076972": {
+   "quality": "sugar_equivalent_unspecified",
+   "labels": [
+    "Artificial honey"
+   ]
+  },
+  "PMC7719625": {
+   "quality": "partial_or_unspecified",
+   "labels": [
+    "Mixed sugar"
+   ]
+  },
+  "PMC8234392": {
+   "quality": "composition_matched_or_partial",
+   "labels": [
+    "Glucose syrup (82% v/v)"
+   ]
+  },
+  "PMC8304482": {
+   "quality": "partial_or_unspecified",
+   "labels": [
+    "sugar solution"
+   ]
+  }
+ },
+ "A2_v5": {
+  "MIC": {
+   "n_pairs": 12,
+   "n_studies": 5,
+   "median_log_ratio": 0.5916767585616001,
+   "median_ratio": 1.8070158058105024,
+   "study_median_ratios": {
+    "PMC11111008": 1.2785688039610243,
+    "PMC13460517": 1.9518001458970664,
+    "PMC3406342": 1.302767840331388,
+    "PMC6659206": 2.6923076923076925,
+    "PMC8234392": 1.0555555555555556
+   },
+   "all_studies_gt1": true,
+   "wilcoxon_p_study": 0.0625,
+   "ci95_log_ratio": [
+    0.05406722127027579,
+    0.990398704027877
+   ]
+  },
+  "MBC": {
+   "n_pairs": 2,
+   "n_studies": 1,
+   "median_log_ratio": 0.05715841383994862,
+   "median_ratio": 1.0588235294117647,
+   "study_median_ratios": {
+    "PMC8234392": 1.0588235294117647
+   },
+   "all_studies_gt1": true,
+   "wilcoxon_p_study": null,
+   "ci95_log_ratio": null
+  },
+  "zone": {
+   "n_pairs": 10,
+   "n_studies": 2,
+   "median_diff_mm": 0.6333333333333333,
+   "study_medians_mm": {
+    "PMC7076972": 7.63,
+    "PMC8304482": 0.5750000000000001
+   },
+   "all_positive": true,
+   "wilcoxon_p_study": null,
+   "zero_denominator_pairs": 4
+  }
+ },
+ "basis_medians_v5": {
+  "% (basis unspecified)": {
+   "n": 1294,
+   "median": 20.0
+  },
+  "%v/v": {
+   "n": 633,
+   "median": 12.5
+  },
+  "%w/v": {
+   "n": 484,
+   "median": 14.0
+  },
+  "%w/w": {
+   "n": 86,
+   "median": 20.0
+  }
+ }
+}

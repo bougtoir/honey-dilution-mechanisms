@@ -1,0 +1,25 @@
+Honey,Organism,MIC,MIC + Catalase,Difference in MIC,P valuea
+Jarrah 1,S. aureus ATCC 700699,6.7,26.7,+20.0,0.007
+E. faecalis NCTC 775,13.3,31.3,+18.0,0.002,
+E. coli ATCC 10538,13.3,27.3,+14.0,0.003,
+P. aeruginosa ATCC BAA-47,10.0,28.0,+18.0,—,
+Jarrah 2,S. aureus ATCC 700699,8.7,27.3,+18.7,0.008
+E. faecalis NCTC 775,16.0,32.0,+16.0,0.010,
+E. coli ATCC 10538,16.7,28.7,+12.0,0.005,
+P. aeruginosa ATCC BAA-47,14.0,28.7,+14.7,0.001,
+Marri 1,S. aureus ATCC 700699,9.3,30.0,+20.7,0.001
+E. faecalis NCTC 775,21.3,32.0,+10.7,0.043,
+E. coli ATCC 10538,17.3,31.3,+14.0,0.022,
+P. aeruginosa ATCC BAA-47,12.0,26.7,+14.7,0.001,
+Marri 2,S. aureus ATCC 700699,16.0,30.7,+14.7,0.034
+E. faecalis NCTC 775,28.0,31.3,+3.3,NS,
+E. coli ATCC 10538,22.0,30.0,+8.0,0.010,
+P. aeruginosa ATCC BAA-47,18.0,28.7,+10.7,0.024,
+Manuka,S. aureus ATCC 700699,12.0,14.0,+2.0,NS
+E. faecalis NCTC 775,16.7,17.0,+0.3,—,
+E. coli ATCC 10538,16.7,19.0,+2.3,—,
+P. aeruginosa ATCC BAA-47,17.3,21.0,+3.7,NS,
+Multifloral,S. aureus ATCC 700699,32.0,Not done,,
+E. faecalis NCTC 775,32.0,Not done,,,
+E. coli ATCC 10538,32.7,Not done,,,
+P. aeruginosa ATCC BAA-47,30.0,Not done,,,

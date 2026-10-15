@@ -1,0 +1,86 @@
+Groups of Compounds,Dried Venom,,Fresh Venom,
+Dv-1,Dv-2,Fv-1,Fv-2,
+"Aliphatic carbonyls, including:",26.67,8.14,5.51,19.13
+- acetone,0.59,0.50,0.15,2.30
+- 2-butanone,trace *,0.18,1.18,1.56
+- 2-pentanone,1.37,trace,0.40,0.73
+- 2-heptanone,16.08,0.49,0.76,1.53
+- 2-nonanone,1.99,1.57,1.19,10.94
+- 2-undecanone,- **,-,0.57,0.76
+- isobutanal,1.88,0.02,-,-
+- isopentanal,0.89,0.71,-,-
+- hexanal,1.73,0.01,-,-
+- nonanal,0.71,trace,-,-
+- (2E)-decenal,-,-,0.30,0.23
+"Aliphatic alcohols, including:",1.85,50.37,15.66,20.11
+- ethanol,1.46,trace,0.33,0.26
+- isopentanol,0.40,28.90,3.56,5.10
+- (3Z)-hexen-1-ol,-,0.73,0.34,0.23
+- 2-heptanol,trace,0.21,0.15,0.40
+- 2-nonanol,trace,0.57,5.79,8.46
+- 2-ethyl-1-hexanol,-,-,1.84,1.38
+- 2-undecanol,-,-,0.42,0.40
+- (2E)-decen-1-ol,-,-,0.55,0.79
+"Aliphatic acids, including:",32.70,4.53,12.50,9.24
+- formic acid,2.37,trace,-,-
+- acetic acid,6.60,3.00,7.97,7.83
+- isobutyric acid,-,-,0.60,0.91
+- butyric acid,trace,trace,0.59,0.50
+- hexanoic acid,1.43,0.30,0.76,-
+- octanoic acid,20.72,0.05,0.93,0.50
+- 2-octenoic acid,0.50,trace,0.50,0.15
+"Aliphatic esters, including:",12.49,14.43,9.13,9.80
+- ethyl acetate,0.95,trace,0.54,trace
+- isoamyl acetate,trace,0.13,1.45,4.92
+- isoamyl isobutanoate,trace,0.76,0.25,0.38
+- ethyl 2-methylvalerate (manzanate),-,-,1.23,1.51
+- isoamyl pentanoate,-,-,0.45,0.83
+- isoamyl 3-methy-2-butenoate,-,2.67,1.15,0.14
+- isoamyl octanoate,trace,trace,0.08,0.08
+- isoamyl benzoate,-,0.23,0.16,0.29
+- isopropyl tetradecanoate,-,-,0.60,1.09
+- ethyl octanoate,10.59,-,-,-
+"Aromatics, including:",18.34,1.46,9.45,5.51
+- toluene,3.40,1.15,1.93,1.42
+- p-cymene,trace,trace,0.64,0.28
+- benzaldehyde,2.62,-,0.15,0.11
+- acetophenone,0.33,trace,0.43,0.58
+- 1-phenyl ethanol,-,-,0.12,0.21
+- 2-phenyl ethanol,trace,trace,1.39,0.82
+- cresol,-,-,1.22,1.29
+- p-ethylguaiacol,-,-,0.37,0.37
+- methyl benzoate,1.88,-,-,-
+-methyl salicylate,9.52,-,-,-
+"Terpenoids, including:",3.91,0.56,12.60,12.48
+- α-pinene,1.78,trace,2.06,2.39
+- β-pinene,0.54,-,0.47,trace
+- 3-carene,0.36,trace,0.28,0.32
+- limonene,0.56,0.35,2.90,3.12
+- dihydromyrcenol,-,-,2.37,3.08
+- camphor,--,-,0.28,0.33
+- borneol,-,-,0.32,0.37
+- bornyl acetate,-,-,0.64,0.38
+- β-caryophyllene,trace,0.21,0.06,0.17
+- γ-cadinene,-,-,0.07,0.11
+"Alkanes and alkenes, including:",2.95,19.66,14.66,8.45
+- n-hexane,2.62,-,-,-
+- n-decane,-,trace,-,0.48
+- n-dodecane,-,trace,2.00,0.26
+- n-tridecane,0.33,0.19,0.16,0.28
+- n-tetradecane,-,-,0.17,0.11
+- n-pentadecane,-,0.49,1.44,1.36
+- n-heptadecane,-,0.18,1.47,1.95
+- 1-pentadecene,-,16.99,0.17,0.10
+- nonadecene,-,0.45,5.51,2.87
+"Lactones, including:",0.30,trace,5.53,5.68
+- valerolactone,trace,-,0.16,-
+- γ-caprolactone,trace,-,1.71,2.56
+- γ-heptalactone,-,trace,2.05,2.05
+- γ-octalactone,0.30,trace,1.05,0.95
+"Other, including:",1.42,1.85,-,2.35
+- pyridine,0.46,0.52,-,0.71
+"- 2,3-butanediol",-,-,-,0.24
+- 2-pentylfuran,0.20,-,-,-
+- dimethyl sulfide,-,0.81,-,-
+- acetoin,-,0.52,-,trace
+NN,0.55,1.42,6.38,7.25

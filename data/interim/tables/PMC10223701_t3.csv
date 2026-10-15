@@ -1,0 +1,14 @@
+Sample,Gram-Positive Bacteria,,,,Gram-Negative Bacteria,,Fungus
+P. larvae ATCC 9545,S. aureus ATCC 6538,B. cereus ATCC 10987,B. subtilis ATCC 6633,P. aeruginosa ATCC 19582,E. coli ATCC 11229,C. albicans ATCC 90029,
+"MIC, ng mL−1",,,,,,,
+Bee venom Bv-1,1.91,7.63,7.63,0.12,>500,122.07,30.52
+- ether extract,122.07,500,-,125,>500,>500,488.28
+- methanol extract,31.25,122.07,122.07,7.63,500,500,125
+Bee venom Bv-2,0.48,1.91,0.48,0.12,>500,7.63,7.63
+- ether extract,31.25,125,125,125,500,500,7.63
+- methanol extract,7.81,31.25,125,0.49,>500,125,1.95
+"MBC/MFC, ng mL−1",,,,,,,
+Bee venom Bv-1,7.63,122.07,122.07,0.48,>500,488.28,122.07
+- methanol extract,488.28,>500,488.28,30.52,>500,>500,>500
+Bee venom Bv-2,1.91,1.91,1.91,0.48,>500,30.52,30.52
+- methanol extract,31.25,31.25,500,30.52,>500,-,500

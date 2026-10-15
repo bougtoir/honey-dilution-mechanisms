@@ -1,0 +1,739 @@
+{
+ "basis_audit": {
+  "rows_upgraded": 134,
+  "by_target": {
+   "%w/v phenol": 69,
+   "%v/v": 40,
+   "%w/v": 25
+  },
+  "basis_counts": {
+   "% (basis unspecified)": 1396,
+   "mm": 1324,
+   "other": 781,
+   "%v/v": 683,
+   "%w/v": 514,
+   "mass": 245,
+   "%w/w": 99,
+   "%w/v phenol": 69
+  }
+ },
+ "A6_basis_v5": {
+  "table": [
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "B. cereus/Bacillus",
+    "n_studies": 3,
+    "n_honeys": 19,
+    "n_obs": 36,
+    "median": 24.75,
+    "q1": 8.0,
+    "q3": 33.125
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "E. coli",
+    "n_studies": 14,
+    "n_honeys": 162,
+    "n_obs": 291,
+    "median": 25.0,
+    "q1": 16.0,
+    "q3": 40.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "E. faecalis",
+    "n_studies": 3,
+    "n_honeys": 29,
+    "n_obs": 38,
+    "median": 12.5,
+    "q1": 12.0,
+    "q3": 25.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "H. influenzae",
+    "n_studies": 2,
+    "n_honeys": 16,
+    "n_obs": 40,
+    "median": 36.25,
+    "q1": 25.0,
+    "q3": 47.5
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "K. pneumoniae",
+    "n_studies": 4,
+    "n_honeys": 15,
+    "n_obs": 23,
+    "median": 20.5,
+    "q1": 13.75,
+    "q3": 47.5
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "L. monocytogenes",
+    "n_studies": 3,
+    "n_honeys": 14,
+    "n_obs": 18,
+    "median": 27.5,
+    "q1": 21.25,
+    "q3": 46.25
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "MRSA",
+    "n_studies": 5,
+    "n_honeys": 25,
+    "n_obs": 107,
+    "median": 12.5,
+    "q1": 6.25,
+    "q3": 25.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "MSSA",
+    "n_studies": 1,
+    "n_honeys": 6,
+    "n_obs": 12,
+    "median": 12.5,
+    "q1": 6.25,
+    "q3": 12.5
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "P. aeruginosa",
+    "n_studies": 12,
+    "n_honeys": 100,
+    "n_obs": 179,
+    "median": 25.0,
+    "q1": 18.25,
+    "q3": 40.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "Proteus",
+    "n_studies": 1,
+    "n_honeys": 19,
+    "n_obs": 19,
+    "median": 25.0,
+    "q1": 25.0,
+    "q3": 25.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "S. aureus",
+    "n_studies": 13,
+    "n_honeys": 80,
+    "n_obs": 107,
+    "median": 19.0,
+    "q1": 10.0,
+    "q3": 25.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "S. epidermidis",
+    "n_studies": 3,
+    "n_honeys": 23,
+    "n_obs": 30,
+    "median": 12.5,
+    "q1": 6.25,
+    "q3": 12.5
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "S. mutans",
+    "n_studies": 3,
+    "n_honeys": 8,
+    "n_obs": 11,
+    "median": 10.0,
+    "q1": 3.75,
+    "q3": 25.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "S. pyogenes",
+    "n_studies": 4,
+    "n_honeys": 20,
+    "n_obs": 24,
+    "median": 25.0,
+    "q1": 10.0,
+    "q3": 25.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "Salmonella",
+    "n_studies": 8,
+    "n_honeys": 47,
+    "n_obs": 66,
+    "median": 22.95,
+    "q1": 13.125,
+    "q3": 25.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "fungal",
+    "n_studies": 7,
+    "n_honeys": 100,
+    "n_obs": 116,
+    "median": 29.65,
+    "q1": 16.0,
+    "q3": 38.0
+   },
+   {
+    "basis": "% (basis unspecified)",
+    "organism": "other",
+    "n_studies": 5,
+    "n_honeys": 63,
+    "n_obs": 170,
+    "median": 20.0,
+    "q1": 8.5,
+    "q3": 25.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "B. cereus/Bacillus",
+    "n_studies": 2,
+    "n_honeys": 10,
+    "n_obs": 14,
+    "median": 12.5,
+    "q1": 4.5625,
+    "q3": 12.5
+   },
+   {
+    "basis": "%v/v",
+    "organism": "E. coli",
+    "n_studies": 6,
+    "n_honeys": 20,
+    "n_obs": 31,
+    "median": 8.0,
+    "q1": 4.0,
+    "q3": 15.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "H. pylori",
+    "n_studies": 1,
+    "n_honeys": 76,
+    "n_obs": 227,
+    "median": 16.67,
+    "q1": 12.5,
+    "q3": 25.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "K. pneumoniae",
+    "n_studies": 3,
+    "n_honeys": 6,
+    "n_obs": 13,
+    "median": 17.0,
+    "q1": 6.25,
+    "q3": 25.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "L. monocytogenes",
+    "n_studies": 2,
+    "n_honeys": 4,
+    "n_obs": 11,
+    "median": 2.0,
+    "q1": 1.0,
+    "q3": 3.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "MRSA",
+    "n_studies": 3,
+    "n_honeys": 13,
+    "n_obs": 13,
+    "median": 6.25,
+    "q1": 6.25,
+    "q3": 20.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "P. aeruginosa",
+    "n_studies": 3,
+    "n_honeys": 4,
+    "n_obs": 10,
+    "median": 10.25,
+    "q1": 4.25,
+    "q3": 43.75
+   },
+   {
+    "basis": "%v/v",
+    "organism": "Proteus",
+    "n_studies": 3,
+    "n_honeys": 5,
+    "n_obs": 16,
+    "median": 4.0,
+    "q1": 2.0,
+    "q3": 8.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "S. aureus",
+    "n_studies": 5,
+    "n_honeys": 17,
+    "n_obs": 37,
+    "median": 25.0,
+    "q1": 4.0,
+    "q3": 25.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "Salmonella",
+    "n_studies": 5,
+    "n_honeys": 23,
+    "n_obs": 233,
+    "median": 12.5,
+    "q1": 6.25,
+    "q3": 25.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "fungal",
+    "n_studies": 3,
+    "n_honeys": 6,
+    "n_obs": 10,
+    "median": 4.0,
+    "q1": 2.0,
+    "q3": 8.0
+   },
+   {
+    "basis": "%v/v",
+    "organism": "other",
+    "n_studies": 2,
+    "n_honeys": 10,
+    "n_obs": 10,
+    "median": 22.5,
+    "q1": 12.5,
+    "q3": 25.0
+   },
+   {
+    "basis": "%w/v",
+    "organism": "B. cereus/Bacillus",
+    "n_studies": 2,
+    "n_honeys": 10,
+    "n_obs": 10,
+    "median": 16.25,
+    "q1": 8.6075,
+    "q3": 20.0
+   },
+   {
+    "basis": "%w/v",
+    "organism": "Burkholderia",
+    "n_studies": 1,
+    "n_honeys": 4,
+    "n_obs": 15,
+    "median": 4.0,
+    "q1": 1.35,
+    "q3": 5.6
+   },
+   {
+    "basis": "%w/v",
+    "organism": "E. coli",
+    "n_studies": 6,
+    "n_honeys": 75,
+    "n_obs": 83,
+    "median": 10.0,
+    "q1": 10.0,
+    "q3": 18.0
+   },
+   {
+    "basis": "%w/v",
+    "organism": "E. faecalis",
+    "n_studies": 4,
+    "n_honeys": 39,
+    "n_obs": 47,
+    "median": 20.0,
+    "q1": 5.0,
+    "q3": 30.0
+   },
+   {
+    "basis": "%w/v",
+    "organism": "K. pneumoniae",
+    "n_studies": 3,
+    "n_honeys": 24,
+    "n_obs": 30,
+    "median": 20.0,
+    "q1": 20.0,
+    "q3": 37.5
+   },
+   {
+    "basis": "%w/v",
+    "organism": "MRSA",
+    "n_studies": 3,
+    "n_honeys": 21,
+    "n_obs": 27,
+    "median": 10.0,
+    "q1": 10.0,
+    "q3": 13.5
+   },
+   {
+    "basis": "%w/v",
+    "organism": "MSSA",
+    "n_studies": 2,
+    "n_honeys": 18,
+    "n_obs": 18,
+    "median": 10.0,
+    "q1": 7.75,
+    "q3": 10.0
+   },
+   {
+    "basis": "%w/v",
+    "organism": "P. aeruginosa",
+    "n_studies": 11,
+    "n_honeys": 80,
+    "n_obs": 97,
+    "median": 25.0,
+    "q1": 18.0,
+    "q3": 38.0
+   },
+   {
+    "basis": "%w/v",
+    "organism": "Proteus",
+    "n_studies": 1,
+    "n_honeys": 6,
+    "n_obs": 12,
+    "median": 10.0,
+    "q1": 10.0,
+    "q3": 10.0
+   },
+   {
+    "basis": "%w/v",
+    "organism": "S. aureus",
+    "n_studies": 10,
+    "n_honeys": 71,
+    "n_obs": 108,
+    "median": 12.415,
+    "q1": 6.75,
+    "q3": 17.7525
+   },
+   {
+    "basis": "%w/v",
+    "organism": "fungal",
+    "n_studies": 1,
+    "n_honeys": 6,
+    "n_obs": 12,
+    "median": 50.0,
+    "q1": 50.0,
+    "q3": 50.0
+   },
+   {
+    "basis": "%w/v",
+    "organism": "other",
+    "n_studies": 2,
+    "n_honeys": 9,
+    "n_obs": 18,
+    "median": 10.0,
+    "q1": 10.0,
+    "q3": 17.5
+   },
+   {
+    "basis": "%w/w",
+    "organism": "E. faecalis",
+    "n_studies": 1,
+    "n_honeys": 33,
+    "n_obs": 33,
+    "median": 30.0,
+    "q1": 20.0,
+    "q3": 30.0
+   },
+   {
+    "basis": "%w/w",
+    "organism": "P. aeruginosa",
+    "n_studies": 1,
+    "n_honeys": 33,
+    "n_obs": 33,
+    "median": 15.0,
+    "q1": 15.0,
+    "q3": 20.0
+   },
+   {
+    "basis": "%w/w",
+    "organism": "S. aureus",
+    "n_studies": 1,
+    "n_honeys": 20,
+    "n_obs": 20,
+    "median": 7.199999999999999,
+    "q1": 6.45,
+    "q3": 9.299999999999999
+   }
+  ]
+ },
+ "manuka_v5": {
+  "paired_within_study_basis": [
+   {
+    "study_id": "PMC11111008",
+    "basis": "%w/w",
+    "manuka_med": 15.0,
+    "other_med": 20.0,
+    "diff": -5.0,
+    "n_manuka": 14,
+    "n_other": 72
+   },
+   {
+    "study_id": "PMC12249035",
+    "basis": "% (basis unspecified)",
+    "manuka_med": 17.5,
+    "other_med": 30.0,
+    "diff": -12.5,
+    "n_manuka": 4,
+    "n_other": 28
+   },
+   {
+    "study_id": "PMC13315830",
+    "basis": "%v/v",
+    "manuka_med": 6.25,
+    "other_med": 16.67,
+    "diff": -10.420000000000002,
+    "n_manuka": 3,
+    "n_other": 224
+   },
+   {
+    "study_id": "PMC13460517",
+    "basis": "%w/v",
+    "manuka_med": 12.5,
+    "other_med": 40.0,
+    "diff": -27.5,
+    "n_manuka": 20,
+    "n_other": 40
+   },
+   {
+    "study_id": "PMC2478674",
+    "basis": "% (basis unspecified)",
+    "manuka_med": 25.0,
+    "other_med": 25.0,
+    "diff": 0.0,
+    "n_manuka": 4,
+    "n_other": 12
+   },
+   {
+    "study_id": "PMC2942791",
+    "basis": "% (basis unspecified)",
+    "manuka_med": 12.5,
+    "other_med": 12.5,
+    "diff": 0.0,
+    "n_manuka": 14,
+    "n_other": 21
+   },
+   {
+    "study_id": "PMC3716576",
+    "basis": "%w/v",
+    "manuka_med": 20.0,
+    "other_med": 20.0,
+    "diff": 0.0,
+    "n_manuka": 3,
+    "n_other": 15
+   },
+   {
+    "study_id": "PMC6268398",
+    "basis": "% (basis unspecified)",
+    "manuka_med": 7.0,
+    "other_med": 13.0,
+    "diff": -6.0,
+    "n_manuka": 3,
+    "n_other": 9
+   },
+   {
+    "study_id": "PMC6397887",
+    "basis": "% (basis unspecified)",
+    "manuka_med": 12.5,
+    "other_med": 12.5,
+    "diff": 0.0,
+    "n_manuka": 32,
+    "n_other": 64
+   },
+   {
+    "study_id": "PMC6659206",
+    "basis": "%v/v",
+    "manuka_med": 14.0,
+    "other_med": 22.5,
+    "diff": -8.5,
+    "n_manuka": 3,
+    "n_other": 6
+   },
+   {
+    "study_id": "PMC7936102",
+    "basis": "%w/v",
+    "manuka_med": 25.0,
+    "other_med": 25.0,
+    "diff": 0.0,
+    "n_manuka": 5,
+    "n_other": 29
+   },
+   {
+    "study_id": "PMC8234392",
+    "basis": "%v/v",
+    "manuka_med": 25.0,
+    "other_med": 25.0,
+    "diff": 0.0,
+    "n_manuka": 4,
+    "n_other": 36
+   },
+   {
+    "study_id": "PMC9333225",
+    "basis": "% (basis unspecified)",
+    "manuka_med": 17.5,
+    "other_med": 29.5,
+    "diff": -12.0,
+    "n_manuka": 48,
+    "n_other": 8
+   }
+  ],
+  "n_studies": 13,
+  "median_diff": -5.0,
+  "by_basis_descriptive": {
+   "% (basis unspecified)": {
+    "manuka": {
+     "n": 105,
+     "median": 12.5
+    },
+    "other": {
+     "n": 1189,
+     "median": 20.5
+    }
+   },
+   "%v/v": {
+    "manuka": {
+     "n": 10,
+     "median": 14.5
+    },
+    "other": {
+     "n": 623,
+     "median": 12.5
+    }
+   },
+   "%w/v": {
+    "manuka": {
+     "n": 49,
+     "median": 15.0
+    },
+    "other": {
+     "n": 435,
+     "median": 13.33
+    }
+   },
+   "%w/w": {
+    "manuka": {
+     "n": 14,
+     "median": 15.0
+    },
+    "other": {
+     "n": 72,
+     "median": 20.0
+    }
+   }
+  }
+ },
+ "comparator_quality": {
+  "PMC11111008": {
+   "quality": "sugar_equivalent_unspecified",
+   "labels": [
+    "ART Artificial"
+   ]
+  },
+  "PMC13460517": {
+   "quality": "composition_matched_or_partial",
+   "labels": [
+    "artificial methylglyoxal+water (138 ppm matched)",
+    "artificial methylglyoxal+sugar (138 ppm matched)",
+    "artificial methylglyoxal+water (340 ppm matched)",
+    "artificial methylglyoxal+sugar (340 ppm matched)",
+    "artificial methylglyoxal+water (494 ppm matched)",
+    "artificial methylglyoxal+sugar (494 ppm matched)",
+    "artificial methylglyoxal+water (623 ppm matched)",
+    "artificial methylglyoxal+sugar (623 ppm matched)",
+    "artificial methylglyoxal+water (1114 ppm matched)",
+    "artificial methylglyoxal+sugar (1114 ppm matched)"
+   ]
+  },
+  "PMC3406342": {
+   "quality": "sugar_equivalent_unspecified",
+   "labels": [
+    "Artificial honey"
+   ]
+  },
+  "PMC6269728": {
+   "quality": "partial_or_unspecified",
+   "labels": [
+    "MIC versus sugars"
+   ]
+  },
+  "PMC6659206": {
+   "quality": "composition_matched_or_partial",
+   "labels": [
+    "Simulated honey (sugar)"
+   ]
+  },
+  "PMC7076972": {
+   "quality": "sugar_equivalent_unspecified",
+   "labels": [
+    "Artificial honey"
+   ]
+  },
+  "PMC7719625": {
+   "quality": "partial_or_unspecified",
+   "labels": [
+    "Mixed sugar"
+   ]
+  },
+  "PMC8234392": {
+   "quality": "composition_matched_or_partial",
+   "labels": [
+    "Glucose syrup (82% v/v)"
+   ]
+  },
+  "PMC8304482": {
+   "quality": "partial_or_unspecified",
+   "labels": [
+    "sugar solution"
+   ]
+  }
+ },
+ "A2_v5": {
+  "MIC": {
+   "n_pairs": 12,
+   "n_studies": 5,
+   "median_log_ratio": 0.5916767585616001,
+   "median_ratio": 1.8070158058105024,
+   "study_median_ratios": {
+    "PMC11111008": 1.2785688039610243,
+    "PMC13460517": 1.9518001458970664,
+    "PMC3406342": 1.302767840331388,
+    "PMC6659206": 2.6923076923076925,
+    "PMC8234392": 1.0555555555555556
+   },
+   "all_studies_gt1": true,
+   "wilcoxon_p_study": 0.0625,
+   "ci95_log_ratio": [
+    0.05406722127027579,
+    0.990398704027877
+   ]
+  },
+  "MBC": {
+   "n_pairs": 2,
+   "n_studies": 1,
+   "median_log_ratio": 0.05715841383994862,
+   "median_ratio": 1.0588235294117647,
+   "study_median_ratios": {
+    "PMC8234392": 1.0588235294117647
+   },
+   "all_studies_gt1": true,
+   "wilcoxon_p_study": null,
+   "ci95_log_ratio": null
+  },
+  "zone": {
+   "n_pairs": 10,
+   "n_studies": 2,
+   "median_diff_mm": 0.6333333333333333,
+   "study_medians_mm": {
+    "PMC7076972": 7.63,
+    "PMC8304482": 0.5750000000000001
+   },
+   "all_positive": true,
+   "wilcoxon_p_study": null,
+   "zero_denominator_pairs": 4
+  }
+ }
+}

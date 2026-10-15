@@ -1,0 +1,4 @@
+,Test organisms,,,,,
+,B.subtilis,E. coli,P. aeruginosa,S. typhi,B.cereus,M.luteus
+MIC (μg/mL),625 ± 17,625 ± 23,625 ± 37,625 ± 19,625 ± 8,625 ± 11
+MBC (μg/mL),625 ± 23,2500 ± 11,1250 ± 14,1250 ± 27,625 ± 23,1250 ± 32

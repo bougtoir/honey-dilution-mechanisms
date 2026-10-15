@@ -1,0 +1,10 @@
+Microorganisms,MIC (mg/mL),,,,
+Gram-Negative Bacteria,Hex *,Eac *,BuT *,Met *,CTL *
+Escherichia coli ATCC 25922,2.50,1.25,2.50,2.50,0.312
+Shigella flexneri ATCC 12022,2.50,2.50,1.25,1.25,1.25
+Proteus mirabilis ATCC 29906,1.25,0.625,1.25,2.50,0.625
+Gram-positive Bacteria,,,,,
+Staphylococcus aureus ATCC 29213,1.25,1.25,2.50,0.625,2.50
+S. epidermidis ATCC 12228,2.50,0.625,1.25,0.625,0.312
+Fungus,,,,,
+Candia albicans ATCC 7596,2.50,1.25,1.25,2.50,1.25

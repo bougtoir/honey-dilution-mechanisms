@@ -1,0 +1,10 @@
+Isolates,P0,,Sumra P10,,P0,,Sider P10,
+MIC of Sumra (mg/mL),MBC of Sumra (mg/mL),MIC of Sumra (mg/mL),MBC of Sumra (mg/mL),MIC of Sider (mg/mL),MBC of Sider (mg/mL),MIC of Sider (mg/mL),MBC of Sider (mg/mL),
+Gram positive,,,,,,,,
+Staphylococcus aureus [211],62.5,500,62.5,1000,125,1000,125,1000
+Staphylococcus aureus [217],62.5,500,62.5,1000,125,1000,125,1000
+Methicillin-resistant Staphylococcus aureus [150],62.5,500,62.5,1000,125,1000,125,1000
+Staphylococcus aureus [22],62.5,500,125,500,125,500,125,1000
+Gram negative,,,,,,,,
+Acinetobacter baumannii (20),62.5,500,125,1000,31.2,500,125,1000
+Escherichia coli (141),62.5,500,62.5,1000,125,500,250,1000

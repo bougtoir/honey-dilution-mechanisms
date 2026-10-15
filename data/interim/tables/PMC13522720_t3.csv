@@ -1,0 +1,15 @@
+Antibiotics,Dose (μg),Tested bacteria,,
+E. coli,K. pneumoniae,S. aureus,,
+Amikacin,30,S,S,S
+Aztreonam,30,S,R,S
+Ceftazidime,30,R,R,S
+Ciprofloxacin,5,R,S,S
+Cefalexin,10,S,S,S
+Ceftriaxone,30,R,R,R
+Cefotaxime,5,R,R,R
+Cefepime,30,S,R,R
+Levofloxacin,5,R,S,S
+Nalidixic acid,30,R,S,S
+Trimethoprim/sulfamethoxazole,25,S,R,S
+Ticarcillin + CA,75,R,S,S
+Tobramycin,10,R,S,S

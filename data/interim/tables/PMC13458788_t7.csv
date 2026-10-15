@@ -1,0 +1,8 @@
+Isolate,Treatment,pbp5 relative expression,srtA relative expression
+E. faecalis VRE1,"AgNPs, 0.5×MIC",0.42 ± 0.07,0.35 ± 0.05
+E. faecalis VRE2,"AgNPs, 0.5×MIC",0.46 ± 0.05,0.39 ± 0.06
+E. faecium VRE1,"AgNPs, 0.5×MIC",0.58 ± 0.08,0.50 ± 0.07
+E. faecium VRE2,"AgNPs, 0.5×MIC",0.61 ± 0.09,0.54 ± 0.08
+E. faecalis VRE1,Honey alone,0.93 ± 0.09,0.91 ± 0.08
+E. faecium VRE1,Honey alone,0.96 ± 0.10,0.94 ± 0.09
+Untreated control,None,1.00 ± 0.00,1.00 ± 0.00

@@ -1,0 +1,11 @@
+,Vinegar type,Code,Brand,Notes,"Manufacturer's stated acidity, %","Acetic acid %, by HPLC",pH
+Initial vinegar panel for MICs,Apple cider vinegar,ACV,Aspall's,"Organic, unpasteurised, unfiltered",5,5.05,3.34
+Date vinegar,DV,Elit,–,4–5,5.13,2.85,
+Grape vinegar,GV,Elit,–,4–5,3.22,2.94,
+Mead vinegar,MV,Artisan Vinegar Company,"From wildflower mead, unpasteurised, unfiltered",Not provided,5.23,2.8,
+Pomegranate vinegar,PV1,RAW,"Organic, unpasteurised, unfiltered",Not provided,7.71,2.95,
+Red wine vinegar,RWV1,Aspall's,Organic,6,5.92,3.19,
+White wine vinegar,WWV,Aspall's,"Organic, unpasteurised",6,5.04,3.1,
+Replicate vinegars,Pomegranate vinegar,PV2,Sun and Seed,"Organic, from wild pomegranates",6,2.4,2.87
+Red wine vinegar,RWV2,Marks and Spencer,–,5,8.3,2.68,
+6 % acetic acid (Fisher Scientific),,–,–,–,n/a,6,3.21

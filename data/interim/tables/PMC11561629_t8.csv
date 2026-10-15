@@ -1,0 +1,13 @@
+,Listeria monocytogenes,,,,Salmonella typhimirium,,,
+Sample of honey,MIC,MBC,MBC/MIC,effect,MIC,MBC,MBC/MIC,effect
+JUB1,0.30,2.77,9,bacteriostatic,0.03,0.10,3,bactericidal
+JUB2,0.03,0.10,3,bactericidal,0.01,0.03,3,bactericidal
+JUB3,0.03,0.10,3,bactericidal,0.01,0.03,3,bactericidal
+JUB4,0.03,-,-,bactericidal,0.01,0.03,3,bactericidal
+JUB5,0.10,-,-,bacteriostatic,0.003,0.01,3,bactericidal
+JUB7,0.10,0.92,9,bacteriostatic,0.01,0.03,3,bactericidal
+JUB8,0.30,2.77,9,bacteriostatic,0.01,0.03,3,bactericidal
+JUB9,0.10,0.92,9,bacteriostatic,0.03,0.10,3,bactericidal
+JUB10,0.10,0.92,9,bacteriostatic,0.03,0.10,3,bactericidal
+JUB11,0.10,0.92,9,bacteriostatic,0.01,0.03,3,bactericidal
+JUB12,0.03,-,-,bactericidal,0.01,0.03,3,bactericidal

@@ -1,0 +1,14 @@
+Honey samples,"MIC/MBC (%, w/v)",,,,,,,
+S. aureus,,E. coli,,P. aeruginosa,,B. cereus,,
+,MIC,MBC,MIC,MBC,MIC,MBC,MIC,MBC
+Acacia,15,25,25,50,20,50,20,25
+Gelam,5,6.25,12.5,15,10,12.5,15,15
+Kelulut,20,20,20,20,20,20,20,20
+Pineapple,15,25,25,50,25,50,20,25
+Tualang,10,15,20,25,12.5,20,15,20
+Manuka (Comvita 18+),10,15,20,25,12.5,20,10,12.5
+Artificial honey (std),50,>50a,50,>50a,50,>50a,50,>50a
+Phenol solution (std),0.5,2,1,2,0.5,1,1,1
+Ampicillin (std),0.25,0.25,4,4,>128a,NT,16,16
+Ciprofloxacin (std),0. 5,1,0.125,0.25,0.25,0.25,0.125,0.25
+Tetracycline (std),0.125,0.125,2,4,64,128,0.063,0.063

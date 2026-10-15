@@ -1,0 +1,15 @@
+Antimicrobial Class,Antimicrobial Subclass,Antimicrobial Agent,E. coli,S. aureus,P. aeruginosa,E. faecium,E. cloacae
+β-lactams,Penicillins,Ampicillin,R,–,R,R,R
+β-lactams,Penicillins,Amoxicillin/clavulanic acid,R,S,R,–,R
+β-lactams,Cephalosporins,Cefpodoxime,R,–,R,–,R
+β-lactams,Cephalosporins,Ceftazidime,R,–,R,–,R
+β-lactams,Carbapenems,Imipenem,S,S,S,–,S
+Fluoroquinolones,–,Ciprofloxacin,R,R,R,R,R
+Fluoroquinolones,–,Enrofloxacin,R,R,R,S,R
+Tetracyclines,–,Doxycycline,R,S,–,R,R
+Phenicols,–,Chloramphenicol,R,S,–,S,S
+Sulfonamides,–,Trimethoprim/sulfamethoxazole,R,R,–,–,R
+Macrolides,–,Erythromycin,–,R,–,R,–
+Aminoglycosides,–,Gentamicin,R,R,R,–,R
+Lincosamides,–,Clindamycin,–,R,–,–,–
+Tetracyclines,–,Tetracycline,–,R,–,R,–

@@ -1,0 +1,16 @@
+Honey Sample.,Plant Source,Color *(A560–720 nm),Total Phenolic *(ug GAE/g of Honey),ORAC * (uM TE/g of Honey),H2O2 Production **(Fluorescence)
+Dark,,,,,
+H77,Buckwheat,1.27,513.25,19.13,1319.3
+H76,Buckwheat,0.72,318.74,19.77,1208
+H226,Buckwheat,0.62,362.86,15.45,1152
+H23,Buckwheat,1.03,410,15.28,1210
+H149,Buckwheat,0.88,408.03,12.75,1470
+Medium,,,,,
+H221,Buckwheat (light),0.38,144,5.31,886
+H208,Buckwheat,0.37,143.55,4.86,680
+H11,Wildflower/clover,0.13,106.97,5.37,1280
+Light,,,,,
+H210,Wildflower,0.3,120.2,4.74,560
+H20,Sweet clover/buckwheat,0.24,83.75,4.49,1220
+114,Sunflower,0.12,80.82,2.75,424
+H62,Borage,0.05,66.45,2.84,529

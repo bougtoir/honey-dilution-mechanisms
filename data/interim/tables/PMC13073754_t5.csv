@@ -1,0 +1,55 @@
+Component of Honey,,References
+Water,,"[232,233]"
+Sugar,Glucose,[234]
+Fructose,[234],
+Sucrose,[234],
+Trehalose,[234],
+Isomaltose,[234],
+Maltose,[234],
+Maltulose,[234],
+Melibiose,[233],
+Rhamnose,[235],
+Maltotetraose,[234],
+Raffinose,[234],
+Protein,,[232]
+Enzyme,Invertase,[232]
+Glucose oxidase,[236],
+Catalase,[236],
+Phosphatases,[237],
+Amino acids,,"[233,236]"
+Organic acids,Gluconic acid,[235]
+Acetic acid,[233],
+Lipids,,[238]
+Vitamins,Ascorbic acid,[236]
+Niacin,[236],
+Pyridoxine,[236],
+Thiamine,[236],
+B2 complex,[236],
+B6 pantothenic acid,[236],
+Minerals,,"[235,236]"
+Carotenoids,,[236]
+Polyphenols,Vanillic acid,"[232,235,236]"
+Syringic acid,"[235,236]",
+Luteolin,"[235,236]",
+Apigenin,"[235,236]",
+Myricetin,"[235,236]",
+Ferulic acid,[239],
+Myricetin,"[236,239]",
+Ellagic acid,[240],
+Tricetin,[241],
+Quercetin,"[232,239]",
+Galangin,[236],
+Chrysin,"[239,240]",
+Tectochrysin,[241],
+Isorhamnetin,[240],
+Kaempferol,"[232,235,239,240]",
+Pinobanksin,[185],
+Pinocembrin,[236],
+Catechin,[236],
+Epicatechin,[242],
+Acacetin,[240],
+Daidzein,[243],
+Genistein,[243],
+Caffeic acid,"[232,235,236,239,240]",
+Chlorogenic acid,"[236,240]",
+Gallic acid,"[232,235,236,239,240]",

@@ -1,0 +1,16 @@
+SN,AnalytePeak name,RTmin,m/z,MS/MSfragment,Short peptidesequence,Enzyme,Protein and origin,Score,Honeysample,Proposed function
+1,635.3990 / 5.97 M + Na +,5.94,635.3990,634.4011…634.3690635.1986…635.3990635.8494…636.3528637.2603…637.3579638.4182…,YCHSLKLHLR,Trypsin,Protein hunchbackApis mellifera,18,AcaciaC3,AntioxidantAnti-hypertension Antimicrobial
+IIIPHMCWKK,TertiapinApis mellifera,23,,,,,,,,
+2,519.3547 / 5.36,5.38,519.3547,459.3049…460.2456460.3431…461.2859461.3215…461.3465461.8614…462.3226463. 2216,AAVPLAPTIAL,Chymotrypsin,Apidermin 2Apis mellifera,16,AcaciaC13,Antimicrobial
+3,573.4010 / 10.20,10.04,573.4010,572.4362…572.4610572.4916…573.1990573.4009…573.4430573.4967…574.3707574.4098…574.4263575.2169…575.3186575.3665…575.4169575.4660…575.6105576.3214…576.5328,IRKVCVALSR,ClostripainArg-C,Myosuppressin Apis mellifera,22,AcaciaC18Asir,AntimicrobialAnti-hypertension
+TAFDNFFKR,Orcokinin peptidesApis mellifera,20,,,,,,,,
+4,622.3807 / 5.93 M + CH3OH + H +,5.96,622.3807,621.3702…621.4003622.3121…622.3455622.3808…622.7991623.3155…623.3444623.3842…623.4144624.3882…625.3516625.3790,IGFAVFSSFNR,ClostripainArg-C,PBAN-type neuropeptidesApis mellifera,20,AcaciaC20Asir,"Antimicrobial, Anti-hypertension"
+5,650.3761 / 5.76,5.76,650.3761,649.3290…650.3760650.4546…651.2594651.3784…651.4101652.2674…652.3634652.3896…652.4202653.3905,ISWIKNKRKQ,Pepsin A,MelittinApis florea,21,PolyfloralC34Asir,"AntimicrobialAntioxidant, Hypocholest-erolemic"
+ENKFKTTRYL,Homeobox protein H40 Apis mellifera,17,,,,,,,,
+6,519.3506 / 10.36 M + Na +,10.44,519.3506,518.3983…518.3399519.2630…519.3259519.3518…520.3270520.3571…521.1716521.3607…522.4234,AAVPLAPTIAL,Pepsin A,Apidermin 2 Apis mellifera,23,PolyfloralC34Asir,"Antioxidant, AntimicrobialAnti-diabetic"
+7,521.3077 / 4.53 M + NH4 +,4.54,521.3077,520.2126…521.2284521.3082…522.2081522.3103…523.3135524.3476,SVILITSYF,Pepsin A,ApaminApis mellifera,18,AcaciaC35Asir,Antimicrobial Antioxidant
+SVILITSYF,Mast cell degranulating peptideApis mellifera,18,,,,,,,,
+8,620.3872 / 4.91,4.90,620.3872,619.3617…619.4182620.3172…620.3876621.3270…621.4284622.4266…623.4368,ATICAAFAYVPL,Pepsin A,AbaecinApis mellifera,19,AcaciaC35Asir,Antimicrobial Antioxidant
+QNRRAKAKRL,Pepsin A,Homeobox protein H17Apis mellifera,17,Cell penetration (drug delivery)AntimicrobialHypo-cholesterolemic,,,,,,
+9,393.2230 / 3.73,3.68,393.2230,392.1711…393.1321393.1661…393.2222393.2454…393.2715393.2969…394.2260394.2486…395.2293395.2493…396.1447,LLRNGPD,V8-DEbacterial enzyme,Brain peptide MVPVPVHHMADELLRNGPDTVIApis mellifera,21,Acacia C63Asir,Regulation of metabolism
+LSHCVPE,Homeobox protein H90Apis mellifera,17,Antioxidant,,,,,,,

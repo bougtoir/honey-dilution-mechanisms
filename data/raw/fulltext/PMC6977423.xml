@@ -1,0 +1,771 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><?da-xref-anchor-style superscripted?><front><journal-meta><journal-id journal-id-type="nlm-ta">Food Sci Nutr</journal-id><journal-id journal-id-type="iso-abbrev">Food Sci Nutr</journal-id><journal-id journal-id-type="pmc-domain-id">2357</journal-id><journal-id journal-id-type="pmc-domain">fsn</journal-id><journal-id journal-id-type="nlm-id">101605473</journal-id><journal-id journal-id-type="publisher-id">FSN3</journal-id><journal-title-group><journal-title>Food Science &amp; Nutrition</journal-title></journal-title-group><issn pub-type="epub">2048-7177</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6977423</article-id><article-id pub-id-type="pmcid-ver">PMC6977423.1</article-id><article-id pub-id-type="pmcaid">6977423</article-id><article-id pub-id-type="pmcaiid">6977423</article-id><article-id pub-id-type="pmid">31993165</article-id><article-id pub-id-type="doi">10.1002/fsn3.1320</article-id><article-id pub-id-type="publisher-id">FSN31320</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>In vitro antimicrobial activities of Saudi honeys originating from <italic toggle="yes">Ziziphus spina‐christi</italic> L. and <italic toggle="yes">Acacia gerrardii</italic> Benth. trees</article-title><alt-title alt-title-type="left-running-head">OWAYSS et al.</alt-title></title-group><contrib-group><contrib id="fsn31320-cr-0001" contrib-type="author"><name name-style="western"><surname>Owayss</surname><given-names initials="AA">Ayman A.</given-names></name><xref ref-type="aff" rid="fsn31320-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="fsn31320-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="fsn31320-cr-0002" contrib-type="author"><name name-style="western"><surname>Elbanna</surname><given-names initials="K">Khaled</given-names></name><xref ref-type="aff" rid="fsn31320-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="fsn31320-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="fsn31320-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="fsn31320-cr-0003" contrib-type="author" corresp="yes"><name name-style="western"><surname>Iqbal</surname><given-names initials="J">Javaid</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8298-129X</contrib-id><xref ref-type="aff" rid="fsn31320-aff-0001">
+<sup>1</sup>
+</xref><address><email>jiqbal@ksu.edu.sa</email></address></contrib><contrib id="fsn31320-cr-0004" contrib-type="author"><name name-style="western"><surname>Abulreesh</surname><given-names initials="HH">Hussein H.</given-names></name><xref ref-type="aff" rid="fsn31320-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="fsn31320-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="fsn31320-cr-0005" contrib-type="author"><name name-style="western"><surname>Organji</surname><given-names initials="SR">Sameer R.</given-names></name><xref ref-type="aff" rid="fsn31320-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="fsn31320-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="fsn31320-cr-0006" contrib-type="author"><name name-style="western"><surname>Raweh</surname><given-names initials="HSA">Hael S. A.</given-names></name><xref ref-type="aff" rid="fsn31320-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="fsn31320-cr-0007" contrib-type="author"><name name-style="western"><surname>Alqarni</surname><given-names initials="AS">Abdulaziz S.</given-names></name><xref ref-type="aff" rid="fsn31320-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="fsn31320-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Plant Protection</named-content>
+<named-content content-type="organisation-division">College of Food and Agriculture Sciences</named-content>
+<institution>King Saud University</institution>
+<city>Riyadh</city>
+<country country="SA">Saudi Arabia</country>
+</aff><aff id="fsn31320-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Plant Protection</named-content>
+<named-content content-type="organisation-division">Faculty of Agriculture</named-content>
+<institution>Fayoum University</institution>
+<city>Fayoum</city>
+<country country="EG">Egypt</country>
+</aff><aff id="fsn31320-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Agricultural Microbiology</named-content>
+<named-content content-type="organisation-division">Faculty of Agriculture</named-content>
+<institution>Fayoum University</institution>
+<city>Fayoum</city>
+<country country="EG">Egypt</country>
+</aff><aff id="fsn31320-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Biology</named-content>
+<named-content content-type="organisation-division">Faculty of Applied Science</named-content>
+<institution>Umm Al‐Qura University</institution>
+<city>Makkah</city>
+<country country="SA">Saudi Arabia</country>
+</aff><aff id="fsn31320-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Research Laboratories Centre</named-content>
+<named-content content-type="organisation-division">Faculty of Applied Science</named-content>
+<institution>Umm Al‐Qura University</institution>
+<city>Makkah</city>
+<country country="SA">Saudi Arabia</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Javaid Iqbal, Department of Plant Protection, College of Food and Agriculture Sciences, King Saud University, Riyadh, Saudi Arabia.<break/>
+Email: <email>jiqbal@ksu.edu.sa</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>16</day><month>12</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>8</volume><issue>1</issue><issue-id pub-id-type="pmc-issue-id">350689</issue-id><issue-id pub-id-type="doi">10.1002/fsn3.v8.1</issue-id><fpage>390</fpage><lpage>401</lpage><history><date date-type="received"><day>11</day><month>9</month><year>2019</year></date><date date-type="rev-recd"><day>03</day><month>11</month><year>2019</year></date><date date-type="accepted"><day>05</day><month>11</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>16</day><month>12</month><year>2019</year></date></event><event event-type="pmc-live"><date><day>28</day><month>01</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-16 21:25:13.390"><day>16</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2019 The Authors. <italic toggle="yes">Food Science &amp; Nutrition</italic> published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="FSN3-8-390.pdf"><?pdf-name FSN3-8-390.pdf?><?pdf-size 1352264?><?pdf-md5 d66a485e2baaa25ead9e10e10fc15b6e?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:30bd/6977423/d66a485e2baa/FSN3-8-390.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:FSN3-8-390.pdf"/><abstract id="fsn31320-abs-0001"><title>Abstract</title><p>Honeys originating from Sidr (<italic toggle="yes">Ziziphus spina‐christi</italic> L.) and Talh (<italic toggle="yes">Acacia gerrardii</italic> Benth.) trees in Saudi Arabia exhibited substantial antimicrobial activity against pathogenic gram‐positive bacteria (<italic toggle="yes">Bacillus cereus</italic>, <italic toggle="yes">Staphylococcus aureus</italic>), gram‐negative bacteria (<italic toggle="yes">Escherichia coli</italic>, <italic toggle="yes">Salmonella enteritidis</italic>), and a dermatophytic fungus (<italic toggle="yes">Trichophyton mentagrophytes</italic>). The diameter of zones of inhibition represents the level of antimicrobial potency of the honey samples. Precisely, Talh honey showed significantly higher antibacterial activity against all tested bacteria than Sidr honey. The antifungal activity of Talh and Sidr honey types was significantly at par against a dermatophytic fungus. The water‐diluted honey types (33% w/v) significantly induced a rise in the antimicrobial activity from that of the natural nondiluted honeys. Microbial strains displayed differential sensitivity; gram‐positive bacteria were more sensitive and presented larger inhibition zones than gram‐negative bacteria and the fungus. The sensitivity was highest in <italic toggle="yes">B. cereus</italic> and <italic toggle="yes">S. aureus</italic>, followed by <italic toggle="yes">T. mentagrophytes</italic>, <italic toggle="yes">E. coli,</italic> and <italic toggle="yes">S. enteritidis</italic>. The antimicrobial activity of water‐diluted honeys (Sidr and Talh) was high than that of broad‐spectrum antibacterial antibiotics (tetracycline and chloramphenicol) against bacterial strains, but these honeys were relativity less potent than antifungal antibiotics (flucoral and mycosat) against a fungal strain. Our findings indicate the antimicrobial potential of Saudi honeys to be considered in honey standards, and their therapeutic use as medical‐grade honeys needs further investigations.</p></abstract><abstract abstract-type="graphical" id="fsn31320-abs-0002"><p>Two honey types (Sidr and Talh honey) of different floral origin in Saudi Arabia exhibited the potential antimicrobial activities against pathogenic gram‐positive bacteria (<italic toggle="yes">Bacillus cereus</italic>, <italic toggle="yes">Staphylococcus aureus</italic>), gram‐negative bacteria (<italic toggle="yes">Escherichia coli</italic>, <italic toggle="yes">Salmonella enteritidis</italic>), and a dermatophytic fungus (<italic toggle="yes">Trichophyton mentagrophytes</italic>) under laboratory conditions. Both honey types were also equally effective as tested antibiotics to control the tested microbes. The water dilution of honeys (33% w/v) significantly elevated their antimicrobial activity than natural untreated honeys. Our results support the potential use of tested honeys as therapeutic against common pathogenic microbes.
+<boxed-text position="anchor" content-type="graphic" id="fsn31320-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="nlm-graphic-1" orientation="portrait" xlink:href="FSN3-8-390-g008.jpg"><?image-name FSN3-8-390-g008.jpg?><?image-size 14515?><?image-md5 aa05b1f9e1d73d2949bdaefe737acb7d?><?image-image-server-status NEVER_LOAD?><?image-original-height 175?><?image-original-width 120?><?image-scaled-height 175?><?image-scaled-width 120?><?image-cloudpmc-urn urn:cdn:blobs/30bd/6977423/aa05b1f9e1d7/FSN3-8-390-g008.jpg?></graphic></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="fsn31320-kwd-0001">antibacterial activity</kwd><kwd id="fsn31320-kwd-0002">antibiotics</kwd><kwd id="fsn31320-kwd-0003">antifungal activity</kwd><kwd id="fsn31320-kwd-0004">bacteria</kwd><kwd id="fsn31320-kwd-0005">fungi</kwd><kwd id="fsn31320-kwd-0006">Sidr honey</kwd><kwd id="fsn31320-kwd-0007">Talh honey</kwd><kwd id="fsn31320-kwd-0008">zone of inhibition</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Deanship of Scientific Research, King Saud University</funding-source><award-id>RGP‐1440‐189</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="4"/><page-count count="12"/><word-count count="7900"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.5 mode:remove_FC converted:23.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="fsn31320-cit-1001">
+<string-name name-style="western">
+<surname>Owayss</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elbanna</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iqbal</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>In vitro antimicrobial activities of Saudi honeys originating from <italic toggle="yes">Ziziphus spina‐christi</italic> L. and <italic toggle="yes">Acacia gerrardii</italic> Benth. trees</article-title>. <source xml:lang="en">Food Sci Nutr</source>. <year>2020</year>;<volume>8</volume>:<fpage>390</fpage>–<lpage>401</lpage>. <pub-id pub-id-type="doi">10.1002/fsn3.1320</pub-id>
+<pub-id pub-id-type="pmcid">PMC6977423</pub-id><pub-id pub-id-type="pmid">31993165</pub-id></mixed-citation>
+</p></notes></front><body id="fsn31320-body-0001"><sec id="fsn31320-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Honey bees collect floral nectar from plants to produce natural sweet honey with a complex chemical composition. The major components of honey are simple sugars (~75% fructose and glucose), water (~20%), and sucrose (~3%–10%). Other constituents are complex sugars, minerals, vitamins, antioxidants, proteins, enzymes, phenolic compounds, and some unidentified substances (Alqarni, Owayss, &amp; Mahmoud, <xref rid="fsn31320-bib-0016" ref-type="ref">2016</xref>; Wright, Nicolson, &amp; Shafir, <xref rid="fsn31320-bib-0075" ref-type="ref">2018</xref>). In addition to its nutritional value, honey has also been used as a traditional remedy in ancient and modern cultures for curing topical burns, wounds, and numerous diseases (Abuharfeil, Al‐Oran, &amp; Abo‐Shehada, <xref rid="fsn31320-bib-0001" ref-type="ref">1999</xref>; Al‐Waili &amp; Saloom, <xref rid="fsn31320-bib-0021" ref-type="ref">1999</xref>; Eteraf‐Oskouei &amp; Najafi, <xref rid="fsn31320-bib-0037" ref-type="ref">2013</xref>; Molan, <xref rid="fsn31320-bib-0059" ref-type="ref">2001</xref>; Samarghandian, Farkhondeh, &amp; Samini, <xref rid="fsn31320-bib-0069" ref-type="ref">2017</xref>). Supplementary hive products such as bee venom, royal jelly, and propolis also have potential therapeutic properties and are used in alternative medicine known as apitherapy (Basa, Belay, Tilahun, &amp; Teshale, <xref rid="fsn31320-bib-0026" ref-type="ref">2016</xref>; Pasupuleti, Sammugam, Ramesh, &amp; Gan, <xref rid="fsn31320-bib-0064" ref-type="ref">2017</xref>). The chemical composition of honey varies with the source plant of bee forage and geographical origin (Machado De‐Melo et al., <xref rid="fsn31320-bib-0052" ref-type="ref">2018</xref>).</p><p>The antibacterial activity of honey was first recognized by Van Ketel in 1892 (Dustmann, <xref rid="fsn31320-bib-0034" ref-type="ref">1979</xref>), which was followed by numerous studies concerning the antimicrobial properties of honey against a broad‐spectrum bacterial species (~60 species), including aerobes, anaerobes, and gram‐positive (G<sup>+</sup>) and gram‐negative (G<sup>−</sup>) bacteria (Bogdanov, <xref rid="fsn31320-bib-0027" ref-type="ref">1997</xref>; Elbanna et al., <xref rid="fsn31320-bib-0036" ref-type="ref">2014</xref>; Hannan et al., <xref rid="fsn31320-bib-0041" ref-type="ref">2004</xref>; Kwakman &amp; Zaat, <xref rid="fsn31320-bib-0047" ref-type="ref">2012</xref>; Lusby, Coombes, &amp; Wilkinson, <xref rid="fsn31320-bib-0051" ref-type="ref">2005</xref>; Mandal &amp; Mandal, <xref rid="fsn31320-bib-0054" ref-type="ref">2011</xref>; Molan, <xref rid="fsn31320-bib-0058" ref-type="ref">1992</xref>). The bactericidal and bacteriostatic potential of honey may be particularly profitable against antibiotic‐resistant bacteria (Patton, Barrett, Brennan, &amp; Moran, <xref rid="fsn31320-bib-0065" ref-type="ref">2006</xref>) and in synergizing with the antibiotic potential (Zakaria, <xref rid="fsn31320-bib-0076" ref-type="ref">2015</xref>). Furthermore, honey also shows antimicrobial activity against several other microorganisms, including viruses, fungi, and yeasts (Maddocks &amp; Jenkins, <xref rid="fsn31320-bib-0053" ref-type="ref">2013</xref>; Saranraj &amp; Sivasakthi, <xref rid="fsn31320-bib-0070" ref-type="ref">2018</xref>). The development of antibiotic resistance in microorganisms attracts the use of alternative strategies such as using honey as antimicrobial agents to reduce the global load of diseases and resistance (Ayukekbong, Ntemgwa, &amp; Atabe, <xref rid="fsn31320-bib-0024" ref-type="ref">2017</xref>; S. Mandal, Pal, Chowdhury, &amp; Debmandal, <xref rid="fsn31320-bib-0055" ref-type="ref">2009</xref>; Patton et al., <xref rid="fsn31320-bib-0065" ref-type="ref">2006</xref>).</p><p>In Saudi Arabia, honey consumption is gradually increasing, as honey is a principle ingredient in foods and in folk medicines (Al‐Ghamdi &amp; Adgaba, <xref rid="fsn31320-bib-0006" ref-type="ref">2015</xref>; Alqarni, <xref rid="fsn31320-bib-0013" ref-type="ref">2011</xref>; Alqarni et al., <xref rid="fsn31320-bib-0016" ref-type="ref">2016</xref>). Many locally produced and imported honeys are available in the Saudi market. Sidr honey and Talh honey are two major honey types in Saudi Arabia and the Arabian Peninsula. These honeys are locally named with reference to their floral nectar source. Talh honey is produced from <italic toggle="yes">Acacia gerrardii</italic> Benth. trees and Sidr honey from <italic toggle="yes">Ziziphus spina‐christi L.</italic>(Adgaba et al., <xref rid="fsn31320-bib-0003" ref-type="ref">2017</xref>; Al‐Ghamdi, <xref rid="fsn31320-bib-0005" ref-type="ref">2007</xref>; Al‐Khalifa &amp; Al‐Arify, <xref rid="fsn31320-bib-0008" ref-type="ref">1999</xref>; Alqarni et al., <xref rid="fsn31320-bib-0016" ref-type="ref">2016</xref>). <italic toggle="yes">Ziziphus</italic> and <italic toggle="yes">Acacia</italic> are the most common plants of economic importance in Saudi Arabia and are the major floral sources of high‐valued expensive honeys (Alqarni, Hassan, &amp; Owayss, <xref rid="fsn31320-bib-0015" ref-type="ref">2015</xref>; Alqarni, <xref rid="fsn31320-bib-0014" ref-type="ref">2015</xref>).</p><p>Our study aimed to evaluate the antimicrobial potential of the most preferred honeys in Saudi Arabia, Sidr and Talh honeys, against pathogenic bacterial and fungal strains. Their potential antimicrobial activity was also equated with that of antibiotics commonly used against the targeted microbial strains. This research pursuing the antimicrobial potential of honey types will be helpful in treating the pathogenic microorganisms threatening the public health and changing antibiotics into last‐resort drugs.</p></sec><sec sec-type="materials-and-methods" id="fsn31320-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="fsn31320-sec-0003"><label>2.1</label><title>Honey Samples</title><p>Fresh samples (1 kg each) of the most preferred honeys for Saudi consumers, named Sidr (produced from <italic toggle="yes">Z. spina‐christi</italic> L. trees: 11 samples) and Talh (produced from <italic toggle="yes">A. gerrardii</italic> Benth. trees; 20 samples), were collected from apiaries of selected regions in the Kingdom of Saudi Arabia (KSA) (Figure <xref rid="fsn31320-fig-0001" ref-type="fig">1</xref>) for in vitro analysis of their antimicrobial activities against pathogenic bacterial and fungal strains. Each honey sample from the targeted region was divided for three repeats. After running a triplicate measurement of antimicrobial activity, the mean value of these three repeats was calculated. The codes and regional data of these unifloral honeys are presented in Table <xref rid="fsn31320-tbl-0001" ref-type="table">1</xref>. Two forms of honey samples, natural (nondiluted crude honey) and water‐diluted honey (33% w/v) (Elbanna et al., <xref rid="fsn31320-bib-0036" ref-type="ref">2014</xref>), were used for the examination of their potential antimicrobial action.</p><fig fig-type="Figure" xml:lang="en" id="fsn31320-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Location sites for honey collection in Saudi Arabia. Asterisks indicate the regions from where the honey samples were collected</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="FSN3-8-390-g001.jpg"><?image-name FSN3-8-390-g001.jpg?><?image-size 65653?><?image-md5 127219810cbbf9b7d3729725cf58890f?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 878?><?image-original-width 1064?><?image-scaled-height 585?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/30bd/6977423/127219810cbb/FSN3-8-390-g001.jpg?><?thumb-name FSN3-8-390-g001.gif?><?thumb-size 12916?><?thumb-md5 36dcd082fb5206e2c2480a8721f44461?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 83?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/30bd/6977423/36dcd082fb52/FSN3-8-390-g001.gif?></graphic></fig><table-wrap id="fsn31320-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Data of Sidr (<italic toggle="yes">Ziziphus spina-christi L</italic>.) and Talh (<italic toggle="yes">Acacia gerrardii Benth</italic>.) honey samples collected from different regions of Saudi Arabia</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Honey type</th><th align="left" valign="top" rowspan="1" colspan="1">Botanical origin</th><th align="left" valign="top" rowspan="1" colspan="1">Sample code no.</th><th align="left" valign="top" rowspan="1" colspan="1">Honey source</th><th align="left" valign="top" rowspan="1" colspan="1">Apiary location</th></tr></thead><tbody><tr><td align="left" rowspan="11" colspan="1">Sidr honey (SH)</td><td align="left" rowspan="11" colspan="1">
+<italic toggle="yes">Ziziphus</italic> <italic toggle="yes">spina-christi</italic> L.</td><td align="left" rowspan="1" colspan="1">SH1</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Riyadh</td></tr><tr><td align="left" rowspan="1" colspan="1">SH2</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Northern Borders</td></tr><tr><td align="left" rowspan="1" colspan="1">SH3</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Northern Borders</td></tr><tr><td align="left" rowspan="1" colspan="1">SH4</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Riyadh</td></tr><tr><td align="left" rowspan="1" colspan="1">SH5</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Northern Borders</td></tr><tr><td align="left" rowspan="1" colspan="1">SH6</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Riyadh</td></tr><tr><td align="left" rowspan="1" colspan="1">SH7</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Riyadh</td></tr><tr><td align="left" rowspan="1" colspan="1">SH8</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Riyadh</td></tr><tr><td align="left" rowspan="1" colspan="1">SH9</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Riyadh</td></tr><tr><td align="left" rowspan="1" colspan="1">SH10</td><td align="left" rowspan="1" colspan="1">SMA</td><td align="left" rowspan="1" colspan="1">Riyadh</td></tr><tr><td align="left" rowspan="1" colspan="1">SH11</td><td align="left" rowspan="1" colspan="1">SMA</td><td align="left" rowspan="1" colspan="1">Riyadh</td></tr><tr><td align="left" rowspan="20" colspan="1">Talh honey (TH)</td><td align="left" rowspan="20" colspan="1">
+<italic toggle="yes">Acacia</italic> <italic toggle="yes">gerrardii</italic> Benth.</td><td align="left" rowspan="1" colspan="1">TH1</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Hail</td></tr><tr><td align="left" rowspan="1" colspan="1">TH2</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Riyadh</td></tr><tr><td align="left" rowspan="1" colspan="1">TH3</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Al‐Qassim</td></tr><tr><td align="left" rowspan="1" colspan="1">TH4</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Hail</td></tr><tr><td align="left" rowspan="1" colspan="1">TH5</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Hail</td></tr><tr><td align="left" rowspan="1" colspan="1">TH6</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Al‐Qassim</td></tr><tr><td align="left" rowspan="1" colspan="1">TH7</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Al‐Qassim</td></tr><tr><td align="left" rowspan="1" colspan="1">TH8</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Hail</td></tr><tr><td align="left" rowspan="1" colspan="1">TH9</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Hail</td></tr><tr><td align="left" rowspan="1" colspan="1">TH10</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Riyadh</td></tr><tr><td align="left" rowspan="1" colspan="1">TH11</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Al‐Qassim</td></tr><tr><td align="left" rowspan="1" colspan="1">TH12</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Riyadh</td></tr><tr><td align="left" rowspan="1" colspan="1">TH13</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Riyadh</td></tr><tr><td align="left" rowspan="1" colspan="1">TH14</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Al‐Qassim</td></tr><tr><td align="left" rowspan="1" colspan="1">TH15</td><td align="left" rowspan="1" colspan="1">RT</td><td align="left" rowspan="1" colspan="1">Al‐Baha</td></tr><tr><td align="left" rowspan="1" colspan="1">TH16</td><td align="left" rowspan="1" colspan="1">RT</td><td align="left" rowspan="1" colspan="1">Assir</td></tr><tr><td align="left" rowspan="1" colspan="1">TH17</td><td align="left" rowspan="1" colspan="1">RT</td><td align="left" rowspan="1" colspan="1">Makkah</td></tr><tr><td align="left" rowspan="1" colspan="1">TH18</td><td align="left" rowspan="1" colspan="1">RT</td><td align="left" rowspan="1" colspan="1">Makkah</td></tr><tr><td align="left" rowspan="1" colspan="1">TH19</td><td align="left" rowspan="1" colspan="1">AB</td><td align="left" rowspan="1" colspan="1">Al‐Baha</td></tr><tr><td align="left" rowspan="1" colspan="1">TH20</td><td align="left" rowspan="1" colspan="1">RT</td><td align="left" rowspan="1" colspan="1">Hail</td></tr></tbody></table><table-wrap-foot id="fsn31320-ntgp-0001"><title>Note</title><fn id="fsn31320-note-0001"><p>AB, apiaries of beekeepers: RT, retailer; SMA, self‐monitored apiaries.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="fsn31320-sec-0004"><label>2.2</label><title>Microbial Strains</title><p>The microbial pathogenic strains of two gram‐positive bacteria (<italic toggle="yes">Bacillus cereus</italic> ATCC 10876 and <italic toggle="yes">Staphylococcus aureus</italic> ATCC 8095), two gram‐negative bacteria (<italic toggle="yes">Escherichia coli</italic> ATCC 25922 and <italic toggle="yes">Salmonella enteritidis</italic> ATCC 13076) and one dermatophyte fungus (<italic toggle="yes">Trichophyton mentagrophytes</italic>), were obtained from the culture collection of the Department of Biology, Faculty of Applied Sciences, Umm Al‐Qura University, Makkah, KSA. Stock cultures of bacterial and fungal strains were maintained at 4°C on nutrient and potato dextrose agar slants, respectively.</p></sec><sec id="fsn31320-sec-0005"><label>2.3</label><title>Assessment of Antibacterial Activity</title><p>Antimicrobial activities of each honey type (Sidr and Talh) were assessed using the well‐diffusion bioassay technique (Elbanna et al., <xref rid="fsn31320-bib-0036" ref-type="ref">2014</xref>). Sterilized Muller‐Hinton or potato dextrose agar media (Oxoid) were poured into sterilized petri dishes, left to solidify at room temperature (25 ± 1°C), and swabbed with fresh bacterial or fungal strain cultures. Wells at the center of agar plates were made using a sterile cork borer (9 mm diameter) and filled with 300 µl of natural honey or water‐diluted honey (33% w/v). To give honey enough time for diffusion, all plates were placed in a refrigerator (~5°C) for 2 hr and then incubated at 37°C for 24 hr (for bacteria) and at 28°C for 48–72 hr (for the fungus). The potential antimicrobial activities of honey treatments were expressed by measuring the diameter (mm) of a clear (inhibition) zone of each well, with distilled water taken as a control. In separate experiments, the antimicrobial activity of two broad‐spectrum antibacterial (tetracycline and chloramphenicol) and two antifungal (flucoral and mycosat) antibiotics (Mast Diagnostic GmbH, Germany) were assessed against their respective microbial strains using the agar disk diffusion method and measuring the clear zone diameter (mm) of each disk (EFSA, <xref rid="fsn31320-bib-0035" ref-type="ref">2012</xref>).</p></sec><sec id="fsn31320-sec-0006"><label>2.4</label><title>Statistical Analysis</title><p>The mean antimicrobial activity of Sidr and Talh honey samples against each tested microbial strain was measured. The data were analyzed using analysis of variance (ANOVA) under a complete randomized design after testing for homogeneity of error variances according to the procedure defined by Gomez and Gomez (<xref rid="fsn31320-bib-0039" ref-type="ref">1984</xref>). InfoStat software (Rienzo et al., <xref rid="fsn31320-bib-0068" ref-type="ref">2016</xref>) was used for the statistical analysis. Statistical means were compared for significant differences at <italic toggle="yes">p</italic> ≤ .05 using the least significant difference (LSD) test.</p></sec></sec><sec sec-type="results" id="fsn31320-sec-0007"><label>3</label><title>RESULTS</title><sec id="fsn31320-sec-0008"><label>3.1</label><title>Antimicrobial Activity of Honeys</title><p>In vitro antimicrobial activities of the most common unifloral honey types in Saudi Arabia (Sidr honey (SH) and Talh honey (TH) were evaluated against pathogenic strains of gram‐positive bacteria (<italic toggle="yes">B. cereus, S. aureus</italic>), gram‐negative bacteria (<italic toggle="yes">E. coli, S. enteritidis</italic>), and dermatophyte fungi (<italic toggle="yes">T. mentagrophytes</italic>). Natural and water‐diluted (33% w/v) forms of SH and TH were used for testing their potential antimicrobial activity. The data revealed that SH and TH honey types have significant differential antimicrobial potentialities against the tested microbial strains. The microbial strains were significantly inhibited as measured in terms of their zone of inhibition (ZOI), and a large ZOI reflects a high sensitivity of tested microbial strains. No microbial strains were resistant to any of the honey types.</p><p>The microbial strains presented differential sensitivity to the honey types. Gram‐positive (G<sup>+</sup>) bacteria were more sensitive to both honey types (SH and TH), with significantly higher ZOI values than those of gram‐positive (G<sup>‐</sup>) bacteria and fungi (Table <xref rid="fsn31320-tbl-0002" ref-type="table">2</xref>). <italic toggle="yes">B. cereus</italic> (G<sup>+</sup>) showed the greatest inhibition (largest ZOI) by SH (31.09 ± 0.84 mm and 36.45 ± 1.01 mm: natural and water‐diluted, respectively) and TH (35.65 ± 0.53 mm and 41.65 ± 0.68 mm: natural and water‐diluted, respectively). <italic toggle="yes">S. aureus</italic> (G<sup>+</sup>) presented the second most inhibition (ZOI) by SH (29.45 ± 0.73 and 34.55 ± 1.08 mm: natural and water‐diluted, respectively) and TH (32.00 ± 0.61 and 37.70 ± 0.70 mm: natural and water‐diluted, respectively). The least inhibition (smallest ZOI) was recorded for <italic toggle="yes">S. enteritidis</italic> (G<sup>‐</sup> bacteria) with SH (19.36 ± 0.64 and 23.36 ± 0.79 mm: natural and water‐diluted, respectively) and TH (23.35 ± 0.53 and 28.10 ± 0.67 mm: natural and water‐diluted, respectively). The descending sensitivity order was <italic toggle="yes">B. cereus &gt; S. aureus </italic>&gt; <italic toggle="yes">T. mentagrophytes </italic>&gt; <italic toggle="yes">E. coli &gt; S. enteritidis</italic> (Table <xref rid="fsn31320-tbl-0002" ref-type="table">2</xref>)<italic toggle="yes">.</italic> Extraordinarily, these measured ZOIs of microbial strains remained unchanged when plates were left for more than ten days, and no microbial growth occurred when new agar plates or broth media were inoculated with a loop sampling the clear zone, suggesting that both tested honey types (SH and TH) have a lethal bactericidal effect. The dermatophyte fungus (<italic toggle="yes">T. mentagrophytes</italic>) was equally sensitive to both honey types, natural honey (25.91 ± 063 and 25.75 ± 0.62 mm: SH and TH, respectively) and water‐diluted honey (30.73 ± 0.98 and 30.85 ± 0.78 mm: SH and TH, respectively).</p><table-wrap id="fsn31320-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Diameter of inhibition zone indicating the antimicrobial activity of Sidr and Talh honey samples against pathogenic gram‐positive (G<sup>+</sup>) bacteria, gram‐negative (G<sup>‐</sup>) bacteria, and a dermatophyte fungus</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" valign="bottom" colspan="1">Microbial strain</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Zone of inhibition (ZOI) in mm ± <italic toggle="yes">SEM</italic>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Sidr Honey (SH)</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Talh Honey (TH)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Natural</th><th align="left" valign="bottom" rowspan="1" colspan="1">Water‐diluted (33% w/v)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Natural</th><th align="left" valign="bottom" rowspan="1" colspan="1">Water‐diluted (33% w/v)</th></tr></thead><tbody><tr><td align="left" colspan="5" rowspan="1">G<sup>+</sup> Bacteria</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">Bacillus cereus</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">31.09 ± 0.84<sup>a</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">36.45 ± 1.01<sup>a</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">35.65 ± 0.53<sup>a</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">41.65 ± 0.68<sup>a</sup>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">Staphylococcus aureus</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">29.45 ± 0.73<sup>a</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">34.55 ± 1.08<sup>a</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">32.00 ± 0.61<sup>b</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">37.70 ± 0.70<sup>b</sup>
+</td></tr><tr><td align="left" colspan="5" rowspan="1">G<sup>−</sup> Bacteria</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">Escherichia coli</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">23.18 ± 0.83<sup>c</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">27.09 ± 1.05<sup>c</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">27.15 ± 0.67<sup>c</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">31.20 ± 0.78<sup>c</sup>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">Salmonella enteritidis</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">19.36 ± 0.64<sup>d</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">23.36 ± 0.79<sup>d</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">23.35 ± 0.53<sup>e</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">28.10 ± 0.67<sup>c</sup>
+</td></tr><tr><td align="left" colspan="5" rowspan="1">Fungus</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">Trichophyton mentagrophytes</italic>
+</td><td align="char" char="." rowspan="1" colspan="1">25.91 ± 0.63<sup>b</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">30.73 ± 0.98<sup>b</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">25.75 ± 0.62<sup>d</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">30.85 ± 0.78<sup>d</sup>
+</td></tr></tbody></table><table-wrap-foot id="fsn31320-ntgp-0002"><title>Note</title><fn id="fsn31320-note-0002"><p>With the largest ZOIs, gram‐positive bacteria are more sensitive to Sidr and Talh honey than the other microbes. Means with common letters are not significantly different (<italic toggle="yes">p</italic> ≤ .05) as analyzed by the ANOVA followed by the least significant difference (LSD) test. SEM: Standard error of mean.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Antimicrobial activities of honeys were significantly amplified when natural honeys were diluted with water (33% w/v). A comparison of the antimicrobial activities of individual honey types, that is, natural SH versus water‐diluted SH (Figure <xref rid="fsn31320-fig-0002" ref-type="fig">2</xref>a) and natural TH versus water‐diluted TH (Figure <xref rid="fsn31320-fig-0002" ref-type="fig">2</xref>b) showed significantly higher inhibition in water‐diluted honeys against all tested G<sup>+</sup> and G<sup>‐</sup> bacterial strains, and fungal strains.</p><fig fig-type="Figure" xml:lang="en" id="fsn31320-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Comparison of the antimicrobial activity of natural versus diluted honeys: (a) Sidr (b) Talh. Water‐diluted honey has significantly higher antimicrobial activity than natural honey. The asterisks indicate the significant difference between the graph bars</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="FSN3-8-390-g002.jpg"><?image-name FSN3-8-390-g002.jpg?><?image-size 38848?><?image-md5 b0eaa82d621878ad687924cc1d8a251d?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 361?><?image-original-width 1064?><?image-scaled-height 241?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/30bd/6977423/b0eaa82d6218/FSN3-8-390-g002.jpg?><?thumb-name FSN3-8-390-g002.gif?><?thumb-size 11019?><?thumb-md5 b72c0dee63af64935b5273fde8108748?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 68?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/30bd/6977423/b72c0dee63af/FSN3-8-390-g002.gif?></graphic></fig><p>TH displayed higher antimicrobial activity than SH against G<sup>+</sup> and G<sup>‐</sup> bacteria but not against the fungal strain, where both honey types were significantly similar (Figure <xref rid="fsn31320-fig-0003" ref-type="fig">3</xref>). The comparison of the antimicrobial activities between natural SH and natural TH (Figure <xref rid="fsn31320-fig-0003" ref-type="fig">3</xref>a), and between water‐diluted SH and water‐diluted TH (Figure <xref rid="fsn31320-fig-0003" ref-type="fig">3</xref>b) revealed that each form of TH was more effective than the respective form of SH against a single microbial strain. Figure <xref rid="fsn31320-fig-0004" ref-type="fig">4</xref> displayed the antimicrobial activity of the tested honeys with zone of microbial growth inhibition on the cultures of tested microbial strains.</p><fig fig-type="Figure" xml:lang="en" id="fsn31320-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Comparison of the antimicrobial activity of Sidr and Talh honeys: (a) natural honey (b) water‐diluted honey. Talh honeys have higher antimicrobial activity than Sidr honey. The asterisks indicate the significant difference between the graph bars</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="FSN3-8-390-g003.jpg"><?image-name FSN3-8-390-g003.jpg?><?image-size 38105?><?image-md5 f75833ed88454f11173612e1bfbd0378?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 361?><?image-original-width 1064?><?image-scaled-height 241?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/30bd/6977423/f75833ed8845/FSN3-8-390-g003.jpg?><?thumb-name FSN3-8-390-g003.gif?><?thumb-size 10825?><?thumb-md5 cc700bb5ca3091cedf48f41d4f3613c0?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 68?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/30bd/6977423/cc700bb5ca30/FSN3-8-390-g003.gif?></graphic></fig><fig fig-type="Figure" xml:lang="en" id="fsn31320-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>The zone of microbial growth inhibition on the cultures of bacteria and dermatophyte fungus obtained after adding natural and water‐diluted honeys: (a) Talh honey and (b) Sidr Honey</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="FSN3-8-390-g004.jpg"><?image-name FSN3-8-390-g004.jpg?><?image-size 169993?><?image-md5 2433549ec09bd7c94ad7c2a440e315e8?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1548?><?image-original-width 1064?><?image-scaled-height 1032?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/30bd/6977423/2433549ec09b/FSN3-8-390-g004.jpg?><?thumb-name FSN3-8-390-g004.gif?><?thumb-size 15725?><?thumb-md5 57ef93226f00d11bdd916eaf9aed1105?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 145?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/30bd/6977423/57ef93226f00/FSN3-8-390-g004.gif?></graphic></fig></sec><sec id="fsn31320-sec-0009"><label>3.2</label><title>Antimicrobial Activity of Antibiotics</title><p>The disk diffusion test for antibiotics evaluated the antimicrobial activity of two antibacterial (tetracycline and chloramphenicol) and two antifungal (flucoral and mycosat) antibiotics against their respective microbial strains. Our results indicated a significant difference among the antimicrobial activities of the tested antibiotics.</p><p>For antibacterial antibiotics, the largest ZOI was recorded for <italic toggle="yes">S. aureus</italic> (G<sup>+</sup>) against tetracycline (28.00 ± 0.67 mm) and for <italic toggle="yes">B. cereus</italic> (G<sup>+</sup>) against chloramphenicol (30.00 ± 0.71 mm). <italic toggle="yes">S. enteritidis</italic> exhibited the smallest ZOI (22 ± 0.79 mm) with tetracycline, whereas <italic toggle="yes">S. aureus</italic> showed the smallest ZOI (24 ± 0.70 mm) for chloramphenicol (Table <xref rid="fsn31320-tbl-0003" ref-type="table">3</xref>). For antifungal antibiotics, mycosat was relatively more effective, having the largest ZOI (40.00 ± 0.75 mm), than flucoral (35.00 ± 0.79 mm) against the fungus <italic toggle="yes">T. mentagrophytes</italic> (Table <xref rid="fsn31320-tbl-0004" ref-type="table">4</xref>). Of the antibacterial antibiotics, chloramphenicol was significantly more potent against <italic toggle="yes">B. cereus</italic> and <italic toggle="yes">S. enteritidis</italic>, and tetracycline was significantly more potent against <italic toggle="yes">S. aureus</italic>. However, the antimicrobial effects of these two antibiotics were significantly similar against <italic toggle="yes">E. coli.</italic> Of the antifungal antibiotics, mycosat showed significantly higher antimicrobial action against <italic toggle="yes">T. mentagrophytes</italic> than flucoral (Figure <xref rid="fsn31320-fig-0005" ref-type="fig">5</xref>).</p><table-wrap id="fsn31320-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Antimicrobial activities of antibacterial antibiotics against mycobacterial strains</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" valign="bottom" colspan="1">Microbial strain</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Diameter (mm) of inhibition zone ± <italic toggle="yes">SEM</italic>
+<xref ref-type="fn" rid="fsn31320-note-0003">*</xref>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Antibacterial antibiotics</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Tetracycline (30 µg/ml)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Chloramphenicol (30 µg/ml)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">G<sup>+</sup> Bacteria</td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">Bacillus cereus</italic>
+</td><td align="left" rowspan="1" colspan="1">25 ± 0.68<sup>b</sup>
+</td><td align="left" rowspan="1" colspan="1">30 ± 0.71<sup>a</sup>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">Staphylococcus aureus</italic>
+</td><td align="left" rowspan="1" colspan="1">28 ± 0.67<sup>a</sup>
+</td><td align="left" rowspan="1" colspan="1">24 ± 0.70<sup>c</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">G<sup>−</sup> Bacteria</td><td align="left" rowspan="1" colspan="1"> </td><td align="left" rowspan="1" colspan="1"> </td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">Escherichia coli</italic>
+</td><td align="left" rowspan="1" colspan="1">24 ± 0.62<sup>b</sup>
+</td><td align="left" rowspan="1" colspan="1">25 ± 0.78<sup>b,c</sup>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">Salmonella enteritidis</italic>
+</td><td align="left" rowspan="1" colspan="1">22 ± 0.79<sup>c</sup>
+</td><td align="left" rowspan="1" colspan="1">27 ± 0.67<sup>b</sup>
+</td></tr></tbody></table><table-wrap-foot id="fsn31320-ntgp-0003"><fn id="fsn31320-note-0003"><label>*</label><p>Well‐diffusion assay. Means with the common letters within the same column are not significantly different from each other (<italic toggle="yes">p</italic> ≤ .05) as analyzed by the ANOVA followed by the least significant difference (LSD) test. SEM: Standard error of mean.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap id="fsn31320-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Antimicrobial activities of antifungal antibiotics against the fungal strain</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" valign="bottom" colspan="1">Antibiotics (Antifungal)</th><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Diameter (mm) of inhibition zone ± <italic toggle="yes">SEM</italic>
+<xref ref-type="fn" rid="fsn31320-note-0004">*</xref>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Fungal strain</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Trichophyton mentagrophytes</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Flucoral (100 μg/ml)</td><td align="char" char="." rowspan="1" colspan="1">35.00 ± 0.79<sup>b</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Mycosat (100 μg/ml)</td><td align="char" char="." rowspan="1" colspan="1">40.00 ± 0.75<sup>a</sup>
+</td></tr></tbody></table><table-wrap-foot id="fsn31320-ntgp-0004"><fn id="fsn31320-note-0004"><label>*</label><p>Disk diffusion assay. Means with the common letters within the same column are not significantly different from each other (<italic toggle="yes">p</italic> ≤ .05) as analyzed by the ANOVA followed by the least significant difference (LSD) test. SEM: Standard error of mean</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="fsn31320-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Comparison between antibiotics for their antimicrobial activity against single microbial strains. The asterisks indicate the significant differences between the antibiotics</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="FSN3-8-390-g005.jpg"><?image-name FSN3-8-390-g005.jpg?><?image-size 56839?><?image-md5 d85fbca3cc3ccb73bc8f228aa8af610c?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 797?><?image-original-width 1064?><?image-scaled-height 531?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/30bd/6977423/d85fbca3cc3c/FSN3-8-390-g005.jpg?><?thumb-name FSN3-8-390-g005.gif?><?thumb-size 11304?><?thumb-md5 e93f70e4d227e17d3cf8c781e04bd208?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 106?><?thumb-cloudpmc-urn urn:cdn:blobs/30bd/6977423/e93f70e4d227/FSN3-8-390-g005.gif?></graphic></fig></sec><sec id="fsn31320-sec-0010"><label>3.3</label><title>Comparison Among Antimicrobial Action of Honey and Antibiotics</title><p>It is apparent from the data analysis that the high antimicrobial activity (larger ZOIs) shown by bacterial strains particularly with water‐diluted SH (Figure <xref rid="fsn31320-fig-0006" ref-type="fig">6</xref>a) and water‐diluted TH (Figure <xref rid="fsn31320-fig-0006" ref-type="fig">6</xref>b) is significantly greater than that of the tested broad‐spectrum antibacterial antibiotics (tetracycline and chloramphenicol). <italic toggle="yes">S. enteritidis </italic>(gram‐negative bacteria) treated with water‐diluted SH showed exception where ZOIs values were significantly lower than chloramphenicol but significantly at par with tetracycline (Figure <xref rid="fsn31320-fig-0006" ref-type="fig">6</xref>a). Nevertheless, antifungal antibiotics exhibited significantly higher antimicrobial activity against the fungal strain than the tested water‐diluted SH and TH honeys (Figure <xref rid="fsn31320-fig-0007" ref-type="fig">7</xref>).</p><fig fig-type="Figure" xml:lang="en" id="fsn31320-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Comparison of antimicrobial activities of antibacterial antibiotics with water‐diluted SH (a) and water‐diluted TH (b). The common letters on bars indicate no significant difference</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="FSN3-8-390-g006.jpg"><?image-name FSN3-8-390-g006.jpg?><?image-size 37698?><?image-md5 70ffc884a0289276346bd56adeacfe57?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 366?><?image-original-width 1064?><?image-scaled-height 244?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/30bd/6977423/70ffc884a028/FSN3-8-390-g006.jpg?><?thumb-name FSN3-8-390-g006.gif?><?thumb-size 10894?><?thumb-md5 7130b212e2e8edeb852c8ed7282da7a3?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 69?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/30bd/6977423/7130b212e2e8/FSN3-8-390-g006.gif?></graphic></fig><fig fig-type="Figure" xml:lang="en" id="fsn31320-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Comparison between antifungal antibiotics and water‐diluted honeys (SH and TH) for their antimicrobial activity against <italic toggle="yes">Trichophyton mentagrophytes</italic>. The common letters on the bars indicate no significant difference</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-15" position="float" orientation="portrait" xlink:href="FSN3-8-390-g007.jpg"><?image-name FSN3-8-390-g007.jpg?><?image-size 40913?><?image-md5 ee835ec9acd2c569916681566ada2038?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 734?><?image-original-width 1064?><?image-scaled-height 489?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/30bd/6977423/ee835ec9acd2/FSN3-8-390-g007.jpg?><?thumb-name FSN3-8-390-g007.gif?><?thumb-size 9665?><?thumb-md5 e815a36b2be467ab2818d8f6861a99af?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 115?><?thumb-cloudpmc-urn urn:cdn:blobs/30bd/6977423/e815a36b2be4/FSN3-8-390-g007.gif?></graphic></fig></sec></sec><sec sec-type="discussion" id="fsn31320-sec-0011"><label>4</label><title>DISCUSSION</title><sec id="fsn31320-sec-0012"><label>4.1</label><title>Antimicrobial activity of honeys</title><p>Saudi Sidr honey (SH) and Talh honey (TH) displayed substantial antimicrobial activities against tested pathogenic microbial strains. These primary findings strengthened the idea for using Saudi honeys as potential alternative broad‐spectrum strategy to treat bacterial and fungal infections. Use of various types of honeys due to its antimicrobial effects has been published in numerous studies (Bradshaw, <xref rid="fsn31320-bib-0028" ref-type="ref">2011</xref>; Israili, <xref rid="fsn31320-bib-0044" ref-type="ref">2014</xref>; McLoone, Warnock, &amp; Fyfe, <xref rid="fsn31320-bib-0057" ref-type="ref">2016</xref>). However, more extensive research is necessary for conclusive declaration as substituting broad‐spectrum antimicrobial drugs with these Saudi honeys. Some previous studies described the physiochemical properties of honeys and compared the antimicrobial action of various Saudi honey types with those of imported honeys in different experimental setups (Al‐Nahari et al., <xref rid="fsn31320-bib-0012" ref-type="ref">2015</xref>; Alqurashi, Masoud, &amp; Alamin, <xref rid="fsn31320-bib-0017" ref-type="ref">2013</xref>; Hegazi &amp; Abd Allah, <xref rid="fsn31320-bib-0042" ref-type="ref">2012</xref>). However, the present study compared the two most preferred local Saudi honeys for their antimicrobial potential against bacterial and fungal strains. It is concluded that TH possesses higher antimicrobial activity against bacterial strains than SH. These findings are confirmed by the noticeable higher acidity and total phenolic contents in TH than in SH (Alqarni et al., <xref rid="fsn31320-bib-0016" ref-type="ref">2016</xref>). The phenolic contents in honey are directly connected with increased antibacterial activities (Alvarez‐Suarez et al., <xref rid="fsn31320-bib-0018" ref-type="ref">2010</xref>; Stagos et al., <xref rid="fsn31320-bib-0072" ref-type="ref">2018</xref>). Another possible factor for the substantial antimicrobial activity of honey is probably the synergism between H<sub>2</sub>O<sub>2</sub> and phenolic compounds that exert a pro‐oxidant activity that may lead to the degradation plasmidic DNA (Poli et al., <xref rid="fsn31320-bib-0066" ref-type="ref">2018</xref>). The difference in floral origin of tested honey types could be another potential dominant reason for their differential antimicrobial activities (Allen, Molan, &amp; Reid, <xref rid="fsn31320-bib-0009" ref-type="ref">1991</xref>; Elbanna et al., <xref rid="fsn31320-bib-0036" ref-type="ref">2014</xref>; Willix, Molan, &amp; Harfoot, <xref rid="fsn31320-bib-0074" ref-type="ref">1992</xref>). In addition, the geographical location and seasonality could also influence the antimicrobial activity of different honey types (Al‐Waili, Salom, Butler, &amp; Al Ghamdi, <xref rid="fsn31320-bib-0020" ref-type="ref">2011</xref>; Molan &amp; Cooper, <xref rid="fsn31320-bib-0060" ref-type="ref">2000</xref>). A previous study reported that SH had higher antibacterial activity than Somur and Meria honeys (Al‐Haik, Al‐Haddad, Al‐kaf, Hassan, &amp; Edrees, <xref rid="fsn31320-bib-0007" ref-type="ref">2018</xref>). In contrast, our study illustrated another honey (TH) exhibiting superior antibacterial activity against selected bacterial strains compared to SH.</p><p>The diameter for the zone of inhibition (ZOI) indicates the sensitivity of microbial strains. All recorded diameters of the ZOIs in the present study were greater than 11 mm. This result aligns well with the declaration of Agbagwa and Frank‐Peterside (<xref rid="fsn31320-bib-0004" ref-type="ref">2010</xref>) that “the diameter of inhibition zones less than 7 mm corresponds to resistant microorganisms and greater than 11 mm suggests that the microorganisms are sensitive to antimicrobial agent.” Thus, our findings are consistent in that all tested microbial strains were sensitive to tested honeys, and these honeys are proposed as prospective antimicrobial agents to benefit human health.</p><p>Both SH and TH showed broad‐spectrum antimicrobial potential against G<sup>+</sup> and G<sup>‐</sup> bacteria and fungi, which is consistent with previous findings in which different honey types of diverse floral origins were reported with broad‐spectrum activity against G<sup>+</sup> and G<sup>‐</sup> bacteria (Almasaudi et al., <xref rid="fsn31320-bib-0010" ref-type="ref">2017</xref>; Al‐Naama, <xref rid="fsn31320-bib-0011" ref-type="ref">2009</xref>; Elbanna et al., <xref rid="fsn31320-bib-0036" ref-type="ref">2014</xref>; Irish, Blair, &amp; Carter, <xref rid="fsn31320-bib-0043" ref-type="ref">2011</xref>; Lusby, Coombes, &amp; Wilkinson, <xref rid="fsn31320-bib-0050" ref-type="ref">2002</xref>; Radwan, El‐Essawy, &amp; Sarhan, <xref rid="fsn31320-bib-0067" ref-type="ref">1984</xref>). The microbial strains presented differential sensitivity to the honey types: G<sup>+</sup> bacteria were more sensitive than G<sup>‐</sup> bacteria and fungi. Hegazi and Abd Allah (<xref rid="fsn31320-bib-0042" ref-type="ref">2012</xref>) reported Saudi honeys (20.30%) from twelve different floral sources (including Sidr) as effective antibacterial agents against G<sup>+</sup> (<italic toggle="yes">S. aureus</italic>, <italic toggle="yes">Streptococcus pyogenes</italic>, <italic toggle="yes">Corynebacterium pseudotuberculosis</italic>) and G<sup>−</sup> (<italic toggle="yes">Klebsiella pneumoniae, Pseudomonas aeruginosa,</italic> and <italic toggle="yes">E. coli</italic>) bacterial pathogens. These honeys were less effective against <italic toggle="yes">E. coli</italic> than the other bacteria and contradict our findings in which SH and TH were significantly effective against <italic toggle="yes">E. coli</italic>, similar to other tested microbial strains. In partial confirmation, Saudi Sidr honey was found to be more efficient than mountain honey against G<sup>‐</sup> bacteria (<italic toggle="yes">E. coli, K. pneumoniae, P. aeruginosa</italic> and <italic toggle="yes">A. baumannii</italic>), with a high sensitivity of <italic toggle="yes">E. coli</italic> toward Sidr honey (Alqurashi et al., <xref rid="fsn31320-bib-0017" ref-type="ref">2013</xref>). Saudi honeys named Shaoka (<italic toggle="yes">Fagonia cretica</italic>) and Taify Sidr (<italic toggle="yes">Z. spina‐christi</italic>) were more potent than Manuka honey (<italic toggle="yes">Leptospermum scoparium</italic>) against single G<sup>‐</sup> bacteria (<italic toggle="yes">S.</italic> <italic toggle="yes">enteritidis</italic>) in terms of ZOI equivalents in phenol percentages (7.3%, 8.4%, and 6.9%), respectively, and antimicrobial activity was independent of the honey color (Halawani &amp; Shohayeb, <xref rid="fsn31320-bib-0040" ref-type="ref">2011</xref>).</p><p>SH and TH presented lethal bactericidal and fungicidal effects because no further change in the inhibition zone was detected even after ten days. Al‐Nahari et al. (<xref rid="fsn31320-bib-0012" ref-type="ref">2015</xref>) evaluated that the antimicrobial effect of Manuka honey (<italic toggle="yes">L. scoparium</italic>) was more evident than that of Seder and <italic toggle="yes">Nigella sativa</italic> honey against both antibiotic (imipenem)‐resistant and antibiotic‐sensitive bacteria (<italic toggle="yes">P. aeruginosa</italic>). Manuka honey was bactericidal, but Seder and <italic toggle="yes">N. sativa</italic> honeys were only bacteriostatic. In contrast, SH was completely bactericidal against our tested bacterial strains.</p><p>Saudi honeys showed dose‐dependent antibacterial activity: Sidr (<italic toggle="yes">Z. spina‐christi</italic>) and Dharm (<italic toggle="yes">Lavandula dentata</italic>) were more potent at high concentrations (50%–80% w/v) against <italic toggle="yes">E. coli</italic>, <italic toggle="yes">Proteus mirabilis</italic>, <italic toggle="yes">S. aureus</italic>, <italic toggle="yes">Shigella flexneri</italic>, and <italic toggle="yes">S. epidermidis</italic> than Majra honey (<italic toggle="yes">Hypoestes forskaolii</italic>) (Ghramh, Khan, &amp; Alshehri, <xref rid="fsn31320-bib-0038" ref-type="ref">2018</xref>). In contrast, only one concentration of water‐diluted honey (33% w/v) was adopted from Elbanna et al. (<xref rid="fsn31320-bib-0036" ref-type="ref">2014</xref>) and substantially inhibited the tested microbial strains. Exploring the antimicrobial activity with a series of honey dilutions could be a potential future investigation to determine the dose dependency (if any).</p><p>SH and TH honeys also demonstrated equal fungicidal potential against a dermatophytic fungus (<italic toggle="yes">T. mentagrophytes</italic>) with high inhibition. This is in line with previous studies regarding the antifungal action of other honey types (Manuka, Medihoney, Nigerian, etc.) for some yeasts and fungi, such as <italic toggle="yes">Aspergillus</italic>, <italic toggle="yes">Penicillium</italic>, <italic toggle="yes">Candida,</italic> and common dermatophytes (Anyanwu, <xref rid="fsn31320-bib-0022" ref-type="ref">2012</xref>; Brady, Molan, &amp; Harfoot, <xref rid="fsn31320-bib-0029" ref-type="ref">1996</xref>; Carter, Blair, Irish, &amp; Shokohi, <xref rid="fsn31320-bib-0033" ref-type="ref">2006</xref>). Conversely, fungi (<italic toggle="yes">Aspergillus nidulans</italic>) were less sensitive to honey samples, including Talh and Sidr, than bacteria (Al‐Waili et al., <xref rid="fsn31320-bib-0019" ref-type="ref">2013</xref>).</p><p>Water‐diluted (33% w/v) honeys revealed an elevated antimicrobial activity as compared to nondiluted honeys. An enzymatic reaction of glucose oxidase is being active in water–honey medium. Hydrogen peroxide is produced when glucose oxidase oxidizes glucose to gluconic acid (Mandal &amp; Mandal, <xref rid="fsn31320-bib-0054" ref-type="ref">2011</xref>). Synthesis of hydrogen peroxide in water‐diluted honeys could be the potential reason for elevated antimicrobial activity. This also explains why nectar (in plant or in bee stomach or in unripe honey) is not infected with microbes. The dilutions of honey between 30% and 50% (v/v) led to maximum levels of accumulated hydrogen peroxide (Bang, Buntting, &amp; Molan, <xref rid="fsn31320-bib-0025" ref-type="ref">2003</xref>), and the dilution range was similar to our tested honey dilution concentrations (33% w/v). However, the antimicrobial activity of honey is extremely complex and might be due to the involvement of multiple compounds and several nonperoxide components that are also reported to contribute to the unique antibacterial activity of honey, such as physico‐chemical properties, osmotic pressure, acidic pH, and nonperoxide phytochemical components, including antioxidants and antimicrobial peptides (Ayaad, Shaker, &amp; Almuhnaa, <xref rid="fsn31320-bib-0023" ref-type="ref">2009</xref>; Brudzynski, <xref rid="fsn31320-bib-0031" ref-type="ref">2006</xref>; Halawani &amp; Shohayeb, <xref rid="fsn31320-bib-0040" ref-type="ref">2011</xref>; Kwakman &amp; Zaat, <xref rid="fsn31320-bib-0047" ref-type="ref">2012</xref>; Mavric, Wittmann, Barth, &amp; Henle, <xref rid="fsn31320-bib-0056" ref-type="ref">2008</xref>; Molan, <xref rid="fsn31320-bib-0058" ref-type="ref">1992</xref>; Molan &amp; Russell, <xref rid="fsn31320-bib-0061" ref-type="ref">1988</xref>; Simon et al., <xref rid="fsn31320-bib-0071" ref-type="ref">2009</xref>). Elbanna et al. (<xref rid="fsn31320-bib-0036" ref-type="ref">2014</xref>) attributed the antimicrobial activity of three unifloral Egyptian honeys (~88%) to nonperoxide agents, whereas hydrogen peroxide contributed less (~12%) to the tested honeys. In contrast, some scientists reported a fourfold decline in the antimicrobial activity of honey upon dilution (Adeleke, Onakoya, &amp; Alli, <xref rid="fsn31320-bib-0002" ref-type="ref">2002</xref>; Olaitan, Adeleke, &amp; Ola, <xref rid="fsn31320-bib-0063" ref-type="ref">2007</xref>), possibly due the presence of catalase in water that neutralized the hydrogen peroxide (Szweda, <xref rid="fsn31320-bib-0073" ref-type="ref">2017</xref>). Due to the presence of numerous compounds in honey, bacterial resistance is less likely to be developed in honey‐treated bacteria (Carnwath, Graham, Reynolds, &amp; Pollock, <xref rid="fsn31320-bib-0032" ref-type="ref">2014</xref>; Machado De‐Melo et al., <xref rid="fsn31320-bib-0052" ref-type="ref">2018</xref>), favoring the use of honeys against microbial infections.</p></sec><sec id="fsn31320-sec-0013"><label>4.2</label><title>Antimicrobial activity of antibiotics</title><p>In the present study, broad‐spectrum antibacterial (tetracycline and chloramphenicol) and antifungal (flucoral and mycosat) antibiotics were also effective against their respective microbes. Interestingly, the antibacterial activity of water‐diluted SH and TH was greater than that of the tested antibacterial antibiotics. These findings should be considered as indicative rather than conclusive, as varied doses and two different testing methods were used for evaluation of antimicrobial activity. Karayil, Deshpande, and Koppikar (<xref rid="fsn31320-bib-0046" ref-type="ref">1998</xref>) and Elbanna et al. (<xref rid="fsn31320-bib-0036" ref-type="ref">2014</xref>) found that water‐diluted honey inhibited the growth of certain pathogenic bacteria relatively more than some antibiotics. Although the tested antibiotics and bacterial strains were different from those in our study, the elevated effectiveness of water‐diluted honey over tested antibiotics is in consistent with our findings. Agbagwa and Frank‐Peterside (<xref rid="fsn31320-bib-0004" ref-type="ref">2010</xref>) found better antibacterial activity for SH than for imipenem (antibiotic) against a pathogenic G<sup>‐</sup> bacterium (<italic toggle="yes">P. aeruginosa</italic>) and partially supported our results regarding superior antibacterial activity of SH compared with tested antibiotics. Nigerian honey samples (40% v/v) gave better antimicrobial activity against <italic toggle="yes">P. aeruginosa, S. aureus, E. coli,</italic> and <italic toggle="yes">K. pneumoniae</italic> than four antibiotics, namely amoxicillin, streptomycin, ceftriaxone, and erythromycin (Braide et al., <xref rid="fsn31320-bib-0030" ref-type="ref">2012</xref>). Based on the published reports in literature (Israili, <xref rid="fsn31320-bib-0044" ref-type="ref">2014</xref>; Liu et al., <xref rid="fsn31320-bib-0048" ref-type="ref">2018</xref>), it is likely predictable that the use of honey in combination with antibiotics could synergize the antimicrobial activity. Müller et al. (<xref rid="fsn31320-bib-0062" ref-type="ref">2013</xref>) found a synergistic effect between Medihoney and rifampicin antibiotic on <italic toggle="yes">S. aureus</italic> but not between Manuka honey and rifampicin. Thus, further investigations with different honeys and common broad‐spectrum antibiotics may unveil their synergism against microbes to establish their parallel use as an effective antimicrobial therapy.</p></sec><sec id="fsn31320-sec-0014"><label>4.3</label><title>Honey as a promising therapeutic alternative to antimicrobial agents</title><p>Honey is traditionally used as therapeutic agent against skin infections and wounds caused by microbial pathogens (Israili, <xref rid="fsn31320-bib-0044" ref-type="ref">2014</xref>; Liu et al., <xref rid="fsn31320-bib-0049" ref-type="ref">2014</xref>; McLoone et al., <xref rid="fsn31320-bib-0057" ref-type="ref">2016</xref>). Our results presented the potent antimicrobial prosperities of SH and TH against skin infection causing bacterial agents and dermatologically important filamentous fungi. These findings suggest the prospective use of Saudi honeys in the clinical treatments of different microbial infections. The antimicrobial activity of honey could be due to its various contents such as high sugar, total phenolic compounds and hydrogen peroxide levels. Furthermore, the bactericidal mechanisms of these content may include DNA degrading activity, interruption of cell division, alteration in the cell morphology and general loss of structural integrity of the microbial cell (Israili, <xref rid="fsn31320-bib-0044" ref-type="ref">2014</xref>; Johnston, McBride, Dahiya, Owusu, &amp; Nigam, <xref rid="fsn31320-bib-0045" ref-type="ref">2018</xref>). The microbes may not develop resistance against honey in the same way as they develop for other commonly used antimicrobial agents. These features may make the honey a promising alternative to the commonly used antibiotics. </p></sec></sec><sec sec-type="conclusions" id="fsn31320-sec-0015"><label>5</label><title>CONCLUSION</title><p>Conclusively, Sidr and Talh honey samples have significant antimicrobial potential against gram‐positive and gram‐negative bacteria and dermatophytic fungi regardless of the sample origin. Talh honey was more potent against tested microbial strains than Sidr honey. Water dilution of honeys elevated the antimicrobial activity above that of natural nondiluted honeys. Microbial strains showed differential sensitivity, and G<sup>+</sup> bacteria were more sensitive than G<sup>‐</sup> bacteria and fungi. The in vitro antimicrobial activity of honeys was comparable with that of common broad‐spectrum antibacterial antibiotics. Our findings are indicative of the potential antimicrobial quality of Saudi honeys considered in honey standards, and further investigations are necessary to standardize the Sidr and Talh honeys for their therapeutic applications as medical‐grade honeys.</p></sec><sec sec-type="COI-statement" id="fsn31320-sec-0017"><title>CONFLICT OF INTEREST</title><p>The authors declare that they do not have any conflict of interest.</p></sec><sec id="fsn31320-sec-0018"><title>AUTHOR CONTRIBUTIONS</title><p>Ayman A. Owayss and Abdulaziz S. Alqarni designed the field experiments and executed them with the contributions of Javaid Iqbal and Hael S.A. Raweh. Khaled Elbanna, Hussein H. Abulreesh and Sameer R. Organji planned and conceived the laboratory tests. Ayman A. Owayss. and Khaled Elbanna arranged the data and wrote the preliminary manuscript. Javaid Iqbal analyzed the results, constructed the graphs and revised the manuscript. All authors reviewed and approved the final version of the manuscript.</p></sec><sec id="fsn31320-sec-0019"><title>ETHICAL STATEMENT</title><p>This study does not involve any human or animal testing. Informed Consent: Consent was obtained from all study participants for its submission in this journal.</p></sec></body><back><ack id="fsn31320-sec-0016"><title>ACKNOWLEDGMENTS</title><p>This research work was supported by the Deanship of Scientific Research, King Saud University, Riyadh, Saudi Arabia through research group project RG‐1440‐189.</p></ack><ref-list content-type="cited-references" id="fsn31320-bibl-0001"><title>REFERENCES</title><ref id="fsn31320-bib-0001"><mixed-citation publication-type="journal" id="fsn31320-cit-0001">
+<string-name name-style="western">
+<surname>Abuharfeil</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Oran</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Abo‐Shehada</surname>, <given-names>M.</given-names>
+</string-name> (<year>1999</year>). <article-title>The effect of bee honey on the proliferative activity of human B‐ and T‐lymphocytes and the activity of phagocytes</article-title>. <source xml:lang="en">Food and Agricultural Immunology</source>, <volume>11</volume>(<issue>2</issue>), <fpage>169</fpage>–<lpage>177</lpage>. <pub-id pub-id-type="doi">10.1080/09540109999843</pub-id>
+</mixed-citation></ref><ref id="fsn31320-bib-0002"><mixed-citation publication-type="journal" id="fsn31320-cit-0002">
+<string-name name-style="western">
+<surname>Adeleke</surname>, <given-names>O. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Onakoya</surname>, <given-names>T. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Alli</surname>, <given-names>S. S.</given-names>
+</string-name> (<year>2002</year>). <article-title>Exposure of bacterial isolates from different pathological sources to honey</article-title>. <source xml:lang="en">African Journal of Medical and Pharmaceutical Sciences</source>, <volume>7</volume>, <fpage>79</fpage>–<lpage>83</lpage>.</mixed-citation></ref><ref id="fsn31320-bib-0003"><mixed-citation publication-type="journal" id="fsn31320-cit-0003">
+<string-name name-style="western">
+<surname>Adgaba</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Ghamdi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tadesse</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Getachew</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Awad</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ansari</surname>, <given-names>M. J.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Alqarni</surname>, <given-names>A. S.</given-names>
+</string-name> (<year>2017</year>). <article-title>Nectar secretion dynamics and honey production potentials of some major honey plants in Saudi Arabia</article-title>. <source xml:lang="en">Saudi Journal of Biological Sciences</source>, <volume>24</volume>(<issue>1</issue>), <fpage>180</fpage>–<lpage>191</lpage>. <pub-id pub-id-type="doi">10.1016/j.sjbs.2016.05.002</pub-id>
+<pub-id pub-id-type="pmid">28053589</pub-id><pub-id pub-id-type="pmcid">PMC5198994</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0004"><mixed-citation publication-type="journal" id="fsn31320-cit-0004">
+<string-name name-style="western">
+<surname>Agbagwa</surname>, <given-names>O. E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Frank‐Peterside</surname>, <given-names>N.</given-names>
+</string-name> (<year>2010</year>). <article-title>Effect of raw commercial honeys from Nigeria on selected pathogenic bacteria</article-title>. <source xml:lang="en">African Journal of Microbiology Research</source>, <volume>4</volume>(<issue>16</issue>), <fpage>1801</fpage>–<lpage>1803</lpage>.</mixed-citation></ref><ref id="fsn31320-bib-0005"><mixed-citation publication-type="journal" id="fsn31320-cit-0005">
+<string-name name-style="western">
+<surname>Al‐Ghamdi</surname>, <given-names>A. A.</given-names>
+</string-name> (<year>2007</year>). <article-title>Evaluation of various honeybee foraging activities for identification of potential bee plants in Riyadh, Saudi Arabia</article-title>. <source xml:lang="en">Annals of Agricultural Science Faculty of Agriculture, Ain‐Shams University</source>, <volume>52</volume>(<issue>2</issue>), <fpage>487</fpage>.</mixed-citation></ref><ref id="fsn31320-bib-0006"><mixed-citation publication-type="journal" id="fsn31320-cit-0006">
+<string-name name-style="western">
+<surname>Al‐Ghamdi</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Adgaba</surname>, <given-names>N.</given-names>
+</string-name> (<year>2015</year>). <article-title>Beekeeping in the Kingdom of Saudi Arabia past and present practices</article-title>. <source xml:lang="en">Bee World</source>, <volume>90</volume>(<issue>2</issue>), <fpage>26</fpage>–<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1080/0005772X.2013.11417527</pub-id>
+</mixed-citation></ref><ref id="fsn31320-bib-0007"><mixed-citation publication-type="journal" id="fsn31320-cit-0007">
+<string-name name-style="western">
+<surname>Al‐Haik</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Haddad</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐kaf</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hassan</surname>, <given-names>W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Edrees</surname>, <given-names>W. H.</given-names>
+</string-name> (<year>2018</year>). <article-title>Antimicrobial activities for Hadhrami honey on growth of some pathogenic bacteria</article-title>. <source xml:lang="en">Universal Journal of Pharmaceutical Research</source>, <volume>2</volume>(<issue>6</issue>), <fpage>7</fpage>–<lpage>12</lpage>. <pub-id pub-id-type="doi">10.22270/ujpr.v2i6.R2</pub-id>
+</mixed-citation></ref><ref id="fsn31320-bib-0008"><mixed-citation publication-type="journal" id="fsn31320-cit-0008">
+<string-name name-style="western">
+<surname>Al‐Khalifa</surname>, <given-names>A. S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Al‐Arify</surname>, <given-names>I. A.</given-names>
+</string-name> (<year>1999</year>). <article-title>Physicochemical characteristics and pollen spectrum of some Saudi honeys</article-title>. <source xml:lang="en">Food Chemistry</source>, <volume>67</volume>(<issue>1</issue>), <fpage>21</fpage>–<lpage>25</lpage>. <pub-id pub-id-type="doi">10.1016/S0308-8146(99)00096-5</pub-id>
+</mixed-citation></ref><ref id="fsn31320-bib-0009"><mixed-citation publication-type="journal" id="fsn31320-cit-0009">
+<string-name name-style="western">
+<surname>Allen</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Molan</surname>, <given-names>P. C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Reid</surname>, <given-names>G. M.</given-names>
+</string-name> (<year>1991</year>). <article-title>A survey of the antibacterial activity of some New‐Zealand honeys</article-title>. <source xml:lang="en">Journal of Pharmacy and Pharmacology</source>, <volume>43</volume>(<issue>12</issue>), <fpage>817</fpage>–<lpage>822</lpage>. <pub-id pub-id-type="doi">10.1111/j.2042-7158.1991.tb03186.x</pub-id>
+<pub-id pub-id-type="pmid">1687577</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0010"><mixed-citation publication-type="journal" id="fsn31320-cit-0010">
+<string-name name-style="western">
+<surname>Almasaudi</surname>, <given-names>S. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Nahari</surname>, <given-names>A. A. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abd El‐Ghany</surname>, <given-names>E. S. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barbour</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al Muhayawi</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Jaouni</surname>, <given-names>S.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Harakeh</surname>, <given-names>S.</given-names>
+</string-name> (<year>2017</year>). <article-title>Antimicrobial effect of different types of honey on <italic toggle="yes">Staphylococcus aureus</italic>
+</article-title>. <source xml:lang="en">Saudi Journal of Biological Sciences</source>, <volume>24</volume>(<issue>6</issue>), <fpage>1255</fpage>–<lpage>1261</lpage>. <pub-id pub-id-type="doi">10.1016/j.sjbs.2016.08.007</pub-id>
+<pub-id pub-id-type="pmid">28855819</pub-id><pub-id pub-id-type="pmcid">PMC5562472</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0011"><mixed-citation publication-type="journal" id="fsn31320-cit-0011">
+<string-name name-style="western">
+<surname>Al‐Naama</surname>, <given-names>R. T.</given-names>
+</string-name> (<year>2009</year>). <article-title>Evaluation of in‐vitro inhibitory effect of honey on some microbial isolate</article-title>. <source xml:lang="en">Journal of Bacteriology Research</source>, <volume>1</volume>(<issue>6</issue>), <fpage>064</fpage>–<lpage>067</lpage>.</mixed-citation></ref><ref id="fsn31320-bib-0012"><mixed-citation publication-type="journal" id="fsn31320-cit-0012">
+<string-name name-style="western">
+<surname>Al‐Nahari</surname>, <given-names>A. A. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almasaudi</surname>, <given-names>S. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>El‐Ghany</surname>, <given-names>E. S. M. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barbour</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al Jaouni</surname>, <given-names>S. K.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Harakeh</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>). <article-title>Antimicrobial activities of Saudi honey against <italic toggle="yes">Pseudomonas aeruginosa</italic>
+</article-title>. <source xml:lang="en">Saudi Journal of Biological Sciences</source>, <volume>22</volume>(<issue>5</issue>), <fpage>521</fpage>–<lpage>525</lpage>. <pub-id pub-id-type="doi">10.1016/j.sjbs.2015.04.006</pub-id>
+<pub-id pub-id-type="pmid">26288553</pub-id><pub-id pub-id-type="pmcid">PMC4537880</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0013"><mixed-citation publication-type="book" id="fsn31320-cit-0013">
+<string-name name-style="western">
+<surname>Alqarni</surname>, <given-names>A.</given-names>
+</string-name> (<year>2011</year>). <source xml:lang="en">Beekeeping in Saudi Arabia: Current and future (in Arabic)</source>, <edition designator="1">1st </edition>
+<edition>ed</edition> (Vol. <volume>21</volume>). <publisher-loc>Riyadh</publisher-loc>; <publisher-name>Saudi Society for Agricultural Sciences, King Saud University</publisher-name>.</mixed-citation></ref><ref id="fsn31320-bib-0014"><mixed-citation publication-type="journal" id="fsn31320-cit-0014">
+<string-name name-style="western">
+<surname>Alqarni</surname>, <given-names>A. S.</given-names>
+</string-name> (<year>2015</year>). <article-title>Honeybee foraging, nectar secretion, and honey potential of wild jujube trees, Ziziphus Nummularia</article-title>. <source xml:lang="en">Neotropical Entomology</source>, <volume>44</volume>(<issue>3</issue>), <fpage>232</fpage>–<lpage>241</lpage>. <pub-id pub-id-type="doi">10.1007/s13744-015-0279-4</pub-id>
+<pub-id pub-id-type="pmid">26013267</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0015"><mixed-citation publication-type="journal" id="fsn31320-cit-0015">
+<string-name name-style="western">
+<surname>Alqarni</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hassan</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Owayss</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Evaluation of <italic toggle="yes">Acacia gerrardii</italic> benth. (Fabaceae: Mimosoideae) as a honey plant under extremely hot‐dry conditions: Flowering phenology, nectar yield and honey potentiality</article-title>. <source xml:lang="en">Journal of Animal and Plant Sciences</source>, <volume>25</volume>(<issue>6</issue>), <fpage>1667</fpage>–<lpage>1674</lpage>.</mixed-citation></ref><ref id="fsn31320-bib-0016"><mixed-citation publication-type="journal" id="fsn31320-cit-0016">
+<string-name name-style="western">
+<surname>Alqarni</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Owayss</surname>, <given-names>A. A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Mahmoud</surname>, <given-names>A. A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Physicochemical characteristics, total phenols and pigments of national and international honeys in Saudi Arabia</article-title>. <source xml:lang="en">Arabian Journal of Chemistry</source>, <volume>9</volume>(<issue>1</issue>), <fpage>114</fpage>–<lpage>120</lpage>. <pub-id pub-id-type="doi">10.1016/j.arabjc.2012.11.013</pub-id>
+</mixed-citation></ref><ref id="fsn31320-bib-0017"><mixed-citation publication-type="journal" id="fsn31320-cit-0017">
+<string-name name-style="western">
+<surname>Alqurashi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masoud</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Alamin</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>). <article-title>Antibacterial activity of Saudi honey against Gram negative bacteria</article-title>. <source xml:lang="en">Journal of Microbiology and Antimicrobials</source>, <volume>5</volume>(<issue>1</issue>), <fpage>1</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.5897/JMA2012.0235</pub-id>
+</mixed-citation></ref><ref id="fsn31320-bib-0018"><mixed-citation publication-type="journal" id="fsn31320-cit-0018">
+<string-name name-style="western">
+<surname>Alvarez‐Suarez</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tulipani</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Díaz</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Estevez</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romandini</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giampieri</surname>, <given-names>F.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Battino</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>). <article-title>Antioxidant and antimicrobial capacity of several monofloral Cuban honeys and their correlation with color, polyphenol content and other chemical compounds</article-title>. <source xml:lang="en">Food and Chemical Toxicology</source>, <volume>48</volume>(<issue>8–9</issue>), <fpage>2490</fpage>–<lpage>2499</lpage>. <pub-id pub-id-type="doi">10.1016/j.fct.2010.06.021</pub-id>
+<pub-id pub-id-type="pmid">20558231</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0019"><mixed-citation publication-type="journal" id="fsn31320-cit-0019">
+<string-name name-style="western">
+<surname>Al‐Waili</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Ghamdi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ansari</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Attal</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Mubarak</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Salom</surname>, <given-names>K.</given-names>
+</string-name> (<year>2013</year>). <article-title>Differences in composition of honey samples and their impact on the antimicrobial activities against drug multiresistant bacteria and pathogenic fungi</article-title>. <source xml:lang="en">Archives of Medical Research</source>, <volume>44</volume>(<issue>2013</issue>), <fpage>307</fpage>–<lpage>316</lpage>.<pub-id pub-id-type="pmid">23684665</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.arcmed.2013.04.009</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0020"><mixed-citation publication-type="journal" id="fsn31320-cit-0020">
+<string-name name-style="western">
+<surname>Al‐Waili</surname>, <given-names>N. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salom</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Butler</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Al Ghamdi</surname>, <given-names>A. A.</given-names>
+</string-name> (<year>2011</year>). <article-title>Honey and microbial infections: A review supporting the use of honey for microbial control</article-title>. <source xml:lang="en">Journal of Medicinal Food</source>, <volume>14</volume>(<issue>10</issue>), <fpage>1079</fpage>–<lpage>1096</lpage>. <pub-id pub-id-type="doi">10.1089/jmf.2010.0161</pub-id>
+<pub-id pub-id-type="pmid">21859350</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0021"><mixed-citation publication-type="journal" id="fsn31320-cit-0021">
+<string-name name-style="western">
+<surname>Al‐Waili</surname>, <given-names>N. S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Saloom</surname>, <given-names>K. Y.</given-names>
+</string-name> (<year>1999</year>). <article-title>Effects of topical honey on post‐operative wound infections due to gram positive and gram negative bacteria following caesarean sections and hysterectomies</article-title>. <source xml:lang="en">European Journal of Medical Research</source>, <volume>4</volume>(<issue>3</issue>), <fpage>126</fpage>–<lpage>130</lpage>.<pub-id pub-id-type="pmid">10085281</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0022"><mixed-citation publication-type="journal" id="fsn31320-cit-0022">
+<string-name name-style="western">
+<surname>Anyanwu</surname>, <given-names>C. U.</given-names>
+</string-name> (<year>2012</year>). <article-title>Investigation of in vitro antifungal activity of honey</article-title>. <source xml:lang="en">Journal of Medicinal Plants Research</source>, <volume>6</volume>(<issue>18</issue>), <fpage>3512</fpage>–<lpage>3516</lpage>. <pub-id pub-id-type="doi">10.5897/JMPR12.577</pub-id>
+</mixed-citation></ref><ref id="fsn31320-bib-0023"><mixed-citation publication-type="journal" id="fsn31320-cit-0023">
+<string-name name-style="western">
+<surname>Ayaad</surname>, <given-names>T. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shaker</surname>, <given-names>G. H.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Almuhnaa</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2009</year>). <article-title>Isolation of antibacterial peptides from Saudi Arabian honeybees and investigating the antimicrobial properties of natural honey samples</article-title>. <source xml:lang="en">Egyptian Academic Journal of Biological Sciences. A, Entomology</source>, <volume>2</volume>(<issue>2</issue>), <fpage>23</fpage>–<lpage>34</lpage>. <pub-id pub-id-type="doi">10.21608/eajbsa.2009.15426</pub-id>
+</mixed-citation></ref><ref id="fsn31320-bib-0024"><mixed-citation publication-type="journal" id="fsn31320-cit-0024">
+<string-name name-style="western">
+<surname>Ayukekbong</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ntemgwa</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Atabe</surname>, <given-names>A. N.</given-names>
+</string-name> (<year>2017</year>). <article-title>The threat of antimicrobial resistance in developing countries: Causes and control strategies</article-title>. <source xml:lang="en">Antimicrobial Resistance and Infection Control</source>, <volume>6</volume>, <fpage>47</fpage>
+<pub-id pub-id-type="doi">10.1186/s13756-017-0208-x</pub-id>
+<pub-id pub-id-type="pmid">28515903</pub-id><pub-id pub-id-type="pmcid">PMC5433038</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0025"><mixed-citation publication-type="journal" id="fsn31320-cit-0025">
+<string-name name-style="western">
+<surname>Bang</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buntting</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Molan</surname>, <given-names>P.</given-names>
+</string-name> (<year>2003</year>). <article-title>The effect of dilution on the rate of hydrogen peroxide production in honey and its implications for wound healing</article-title>. <source xml:lang="en">Journal of Alternative and Complementary Medicine</source>, <volume>9</volume>(<issue>2</issue>), <fpage>267</fpage>–<lpage>273</lpage>. <pub-id pub-id-type="doi">10.1089/10755530360623383</pub-id>
+<pub-id pub-id-type="pmid">12804080</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0026"><mixed-citation publication-type="journal" id="fsn31320-cit-0026">
+<string-name name-style="western">
+<surname>Basa</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Belay</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tilahun</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Teshale</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Review on medicinal value of honeybee products: Apitherapy</article-title>. <source xml:lang="en">Advances in Biological Research</source>, <volume>10</volume>(<issue>4</issue>), <fpage>236</fpage>–<lpage>247</lpage>. <pub-id pub-id-type="doi">10.5829/idosi.abr.2016.10.4.10529</pub-id>
+</mixed-citation></ref><ref id="fsn31320-bib-0027"><mixed-citation publication-type="journal" id="fsn31320-cit-0027">
+<string-name name-style="western">
+<surname>Bogdanov</surname>, <given-names>S.</given-names>
+</string-name> (<year>1997</year>). <article-title>Nature and Origin of the antibacterial Substances in honey</article-title>. <source xml:lang="en">LWT ‐ Food Science and Technology</source>, <volume>30</volume>(<issue>7</issue>), <fpage>748</fpage>–<lpage>753</lpage>. <pub-id pub-id-type="doi">10.1006/fstl.1997.0259</pub-id>
+</mixed-citation></ref><ref id="fsn31320-bib-0028"><mixed-citation publication-type="journal" id="fsn31320-cit-0028">
+<string-name name-style="western">
+<surname>Bradshaw</surname>, <given-names>C. E.</given-names>
+</string-name> (<year>2011</year>). <article-title>An in vitro comparison of the antimicrobial activity of honey, iodine and silver wound dressings</article-title>. <source xml:lang="en">Bioscience Horizons</source>, <volume>4</volume>(<issue>1</issue>), <fpage>61</fpage>–<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1093/biohorizons/hzr008</pub-id>
+</mixed-citation></ref><ref id="fsn31320-bib-0029"><mixed-citation publication-type="journal" id="fsn31320-cit-0029">
+<string-name name-style="western">
+<surname>Brady</surname>, <given-names>N. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Molan</surname>, <given-names>P. C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Harfoot</surname>, <given-names>C. G.</given-names>
+</string-name> (<year>1996</year>). <article-title>The sensitivity of Dermatophytes to the antimicrobial activity of Manuka honey and other honey</article-title>. <source xml:lang="en">Pharmacy and Pharmacology Communications</source>, <volume>2</volume>(<issue>10</issue>), <fpage>471</fpage>–<lpage>473</lpage>. <pub-id pub-id-type="doi">10.1111/j.2042-7158.1996.tb00540.x</pub-id>
+</mixed-citation></ref><ref id="fsn31320-bib-0030"><mixed-citation publication-type="journal" id="fsn31320-cit-0030">
+<string-name name-style="western">
+<surname>Braide</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oranusi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akaluka</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nwaoguikpe</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akobundu</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Peter‐Ikechukwu</surname>, <given-names>N. I.</given-names>
+</string-name> (<year>2012</year>). <article-title>Antibacterial efficacy of crude and diluted honey on four wound isolates</article-title>. <source xml:lang="en">Global Advanced Research Journal of Microbiology</source>, <volume>1</volume>(<issue>1</issue>), <fpage>1</fpage>–<lpage>4</lpage>.</mixed-citation></ref><ref id="fsn31320-bib-0031"><mixed-citation publication-type="journal" id="fsn31320-cit-0031">
+<string-name name-style="western">
+<surname>Brudzynski</surname>, <given-names>K.</given-names>
+</string-name> (<year>2006</year>). <article-title>Effect of hydrogen peroxide on antibacterial activities of Canadian honeys</article-title>. <source xml:lang="en">Canadian Journal of Microbiology</source>, <volume>52</volume>(<issue>12</issue>), <fpage>1228</fpage>–<lpage>1237</lpage>. <pub-id pub-id-type="doi">10.1139/W06-086</pub-id>
+<pub-id pub-id-type="pmid">17473892</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0032"><mixed-citation publication-type="journal" id="fsn31320-cit-0032">
+<string-name name-style="western">
+<surname>Carnwath</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Graham</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reynolds</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Pollock</surname>, <given-names>P. J.</given-names>
+</string-name> (<year>2014</year>). <article-title>The antimicrobial activity of honey against common equine wound bacterial isolates</article-title>. <source xml:lang="en">Veterinary Journal</source>, <volume>199</volume>(<issue>1</issue>), <fpage>110</fpage>–<lpage>114</lpage>. <pub-id pub-id-type="doi">10.1016/j.tvjl.2013.07.003</pub-id>
+<pub-id pub-id-type="pmid">23962613</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0033"><mixed-citation publication-type="journal" id="fsn31320-cit-0033">
+<string-name name-style="western">
+<surname>Carter</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blair</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Irish</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Shokohi</surname>, <given-names>T.</given-names>
+</string-name> (<year>2006</year>). <article-title>Honey has an antifungal effect against <italic toggle="yes">Candida</italic> species</article-title>. <source xml:lang="en">Medical Mycology</source>, <volume>44</volume>(<issue>3</issue>), <fpage>289</fpage>–<lpage>291</lpage>. <pub-id pub-id-type="doi">10.1080/13693780500417037</pub-id>
+<pub-id pub-id-type="pmid">16702110</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0034"><mixed-citation publication-type="journal" id="fsn31320-cit-0034">
+<string-name name-style="western">
+<surname>Dustmann</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>1979</year>). <article-title>Antimicrobial Effect of Honey</article-title>. <source xml:lang="en">Apiacta</source>, <volume>14</volume>(<issue>1</issue>), <fpage>7</fpage>–<lpage>11</lpage>.</mixed-citation></ref><ref id="fsn31320-bib-0035"><mixed-citation publication-type="journal" id="fsn31320-cit-0035">
+<collab collab-type="authors">EFSA</collab>
+(<year>2012</year>). <article-title>Scientific Opinion on the maintenance of the list of QPS biological agents intentionally added to food and feed (2012 update)</article-title>. <source xml:lang="en">European Food Safety Authority Journal</source>, <volume>10</volume>(<issue>12</issue>), <fpage>3020</fpage>.</mixed-citation></ref><ref id="fsn31320-bib-0036"><mixed-citation publication-type="journal" id="fsn31320-cit-0036">
+<string-name name-style="western">
+<surname>Elbanna</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Attalla</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elbadry</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abdeltawab</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gamal‐Eldin</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Ramadan</surname>, <given-names>M. F.</given-names>
+</string-name> (<year>2014</year>). <article-title>Impact of floral sources and processing on the antimicrobial activities of different unifloral honeys</article-title>. <source xml:lang="en">Asian Pacific Journal of Tropical Disease</source>, <volume>4</volume>(<issue>3</issue>), <fpage>194</fpage>–<lpage>200</lpage>. <pub-id pub-id-type="doi">10.1016/S2222-1808(14)60504-1</pub-id>
+</mixed-citation></ref><ref id="fsn31320-bib-0037"><mixed-citation publication-type="journal" id="fsn31320-cit-0037">
+<string-name name-style="western">
+<surname>Eteraf‐Oskouei</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Najafi</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>). <article-title>Traditional and modern uses of natural honey in human diseases: A review</article-title>. <source xml:lang="en">Iranian Journal of Basic Medical Sciences</source>, <volume>16</volume>(<issue>6</issue>), <fpage>731</fpage>–<lpage>742</lpage>.<pub-id pub-id-type="pmid">23997898</pub-id><pub-id pub-id-type="pmcid">PMC3758027</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0038"><mixed-citation publication-type="journal" id="fsn31320-cit-0038">
+<string-name name-style="western">
+<surname>Ghramh</surname>, <given-names>H. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khan</surname>, <given-names>K. A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Alshehri</surname>, <given-names>A. M. A.</given-names>
+</string-name> (<year>2018</year>). <article-title>Antibacterial potential of some Saudi honeys from Asir region against selected pathogenic bacteria</article-title>. <source xml:lang="en">Saudi Journal of Biological Sciences</source>, <volume>26</volume>(<issue>6</issue>), <fpage>1278</fpage>–<lpage>1284</lpage>. <pub-id pub-id-type="doi">10.1016/j.sjbs.2018.05.011</pub-id>
+<pub-id pub-id-type="pmid">31516358</pub-id><pub-id pub-id-type="pmcid">PMC6733388</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0039"><mixed-citation publication-type="book" id="fsn31320-cit-0039">
+<string-name name-style="western">
+<surname>Gomez</surname>, <given-names>K. A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Gomez</surname>, <given-names>A. A.</given-names>
+</string-name> (<year>1984</year>). <source xml:lang="en">Statistical procedures for agricultural research</source>. <publisher-loc>New York</publisher-loc>: <publisher-name>John Wiley and Sons</publisher-name>.</mixed-citation></ref><ref id="fsn31320-bib-0040"><mixed-citation publication-type="journal" id="fsn31320-cit-0040">
+<string-name name-style="western">
+<surname>Halawani</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Shohayeb</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>). <article-title>Survey of the antibacterial activity of Saudi and some international honeys</article-title>. <source xml:lang="en">Journal of Microbiology and Antimicrobials</source>, <volume>3</volume>(<issue>4</issue>), <fpage>94</fpage>–<lpage>101</lpage>.</mixed-citation></ref><ref id="fsn31320-bib-0041"><mixed-citation publication-type="book" id="fsn31320-cit-0041">
+<string-name name-style="western">
+<surname>Hannan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barkaat</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saleem</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Usman</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Gilani</surname>, <given-names>W.</given-names>
+</string-name> (<year>2004</year>).<article-title>Manuka honey and its antimicrobial potential against multi drug resistant strains of Typhoidal salmonellae</article-title>. Ph. D. thesis, <publisher-name>Department of Microbiology, University of Health Science</publisher-name>, <publisher-loc>Lahore, Pakistan</publisher-loc>.</mixed-citation></ref><ref id="fsn31320-bib-0042"><mixed-citation publication-type="journal" id="fsn31320-cit-0042">
+<string-name name-style="western">
+<surname>Hegazi</surname>, <given-names>A. G.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Abd Allah</surname>, <given-names>F. M.</given-names>
+</string-name> (<year>2012</year>). <article-title>Antimicrobial activity of different saudi arabia honeys</article-title>. <source xml:lang="en">Global Veterinaria</source>, <volume>9</volume>(<issue>1</issue>), <fpage>53</fpage>–<lpage>59</lpage>.</mixed-citation></ref><ref id="fsn31320-bib-0043"><mixed-citation publication-type="journal" id="fsn31320-cit-0043">
+<string-name name-style="western">
+<surname>Irish</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blair</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Carter</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>2011</year>). <article-title>The antibacterial activity of honey derived from Australian flora</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>6</volume>(<issue>3</issue>), <elocation-id>e18229</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0018229</pub-id>
+<pub-id pub-id-type="pmid">21464891</pub-id><pub-id pub-id-type="pmcid">PMC3065476</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0044"><mixed-citation publication-type="journal" id="fsn31320-cit-0044">
+<string-name name-style="western">
+<surname>Israili</surname>, <given-names>Z. H.</given-names>
+</string-name> (<year>2014</year>). <article-title>Antimicrobial properties of honey</article-title>. <source xml:lang="en">American Journal of Theraputics</source>, <volume>21</volume>(<issue>4</issue>), <fpage>304</fpage>–<lpage>323</lpage>. <pub-id pub-id-type="doi">10.1097/MJT.0b013e318293b09b</pub-id>
+<pub-id pub-id-type="pmid">23782759</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0045"><mixed-citation publication-type="journal" id="fsn31320-cit-0045">
+<string-name name-style="western">
+<surname>Johnston</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McBride</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dahiya</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Owusu</surname>, <given-names>R. K.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Nigam</surname>, <given-names>P. S. N.</given-names>
+</string-name> (<year>2018</year>). <article-title>Antibacterial activity of Manuka honey and its components: An overview</article-title>. <source xml:lang="en">AIMS Microbiology</source>, <volume>4</volume>(<issue>4</issue>), <fpage>655</fpage>–<lpage>664</lpage>.<pub-id pub-id-type="pmid">31294240</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3934/microbiol.2018.4.655</pub-id><pub-id pub-id-type="pmcid">PMC6613335</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0046"><mixed-citation publication-type="journal" id="fsn31320-cit-0046">
+<string-name name-style="western">
+<surname>Karayil</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deshpande</surname>, <given-names>S. D.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Koppikar</surname>, <given-names>G. V.</given-names>
+</string-name> (<year>1998</year>). <article-title>Effect of honey on multidrug resistant organisms and its synergistic action with three common antibiotics</article-title>. <source xml:lang="en">Journal of Postgraduate Medicine</source>, <volume>44</volume>(<issue>4</issue>), <fpage>93</fpage>–<lpage>96</lpage>.<pub-id pub-id-type="pmid">10703581</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0047"><mixed-citation publication-type="journal" id="fsn31320-cit-0047">
+<string-name name-style="western">
+<surname>Kwakman</surname>, <given-names>P. H.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Zaat</surname>, <given-names>S. A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Antibacterial components of honey</article-title>. <source xml:lang="en">IUBMB Life</source>, <volume>64</volume>(<issue>1</issue>), <fpage>48</fpage>–<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1002/iub.578</pub-id>
+<pub-id pub-id-type="pmid">22095907</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0048"><mixed-citation publication-type="journal" id="fsn31320-cit-0048">
+<string-name name-style="western">
+<surname>Liu</surname>, <given-names>M. Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cokcetin</surname>, <given-names>N. N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Turnbull</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carter</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whitchurch</surname>, <given-names>C. B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Harry</surname>, <given-names>E. J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Rifampicin‐manuka honey combinations are superior to other antibiotic‐manuka honey combinations in eradicating staphylococcus aureus biofilms</article-title>. <source xml:lang="en">Frontiers in Microbiology</source>, <volume>8</volume>, <fpage>2653</fpage>–<lpage>2653</lpage>. <pub-id pub-id-type="doi">10.3389/fmicb.2017.02653</pub-id>
+<pub-id pub-id-type="pmid">29375518</pub-id><pub-id pub-id-type="pmcid">PMC5768656</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0049"><mixed-citation publication-type="journal" id="fsn31320-cit-0049">
+<string-name name-style="western">
+<surname>Liu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>MÃ¼ller</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Turnbull</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burke</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schlothauer</surname>, <given-names>R. C.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Harry</surname>, <given-names>E. J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Antibiotic‐specific differences in the response of <italic toggle="yes">Staphylococcus aureus</italic> to treatment with antimicrobials combined with manuka honey</article-title>. <source xml:lang="en">Frontiers in Microbiology</source>, <volume>5</volume>, <fpage>779</fpage>
+<pub-id pub-id-type="doi">10.3389/fmicb.2014.00779</pub-id>
+<pub-id pub-id-type="pmid">25674077</pub-id><pub-id pub-id-type="pmcid">PMC4307217</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0050"><mixed-citation publication-type="journal" id="fsn31320-cit-0050">
+<string-name name-style="western">
+<surname>Lusby</surname>, <given-names>P. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coombes</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Wilkinson</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2002</year>). <article-title>Honey: A potent agent for wound healing?</article-title>
+<source xml:lang="en">Journal of Wound, Ostomy and Continence Nursing</source>, <volume>29</volume>(<issue>6</issue>), <fpage>295</fpage>–<lpage>300</lpage>. <pub-id pub-id-type="doi">10.1097/00152192-200211000-00008</pub-id>
+<pub-id pub-id-type="pmid">12439453</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0051"><mixed-citation publication-type="journal" id="fsn31320-cit-0051">
+<string-name name-style="western">
+<surname>Lusby</surname>, <given-names>P. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coombes</surname>, <given-names>A. L.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Wilkinson</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2005</year>). <article-title>Bactericidal activity of different honeys against pathogenic bacteria</article-title>. <source xml:lang="en">Archives of Medical Research</source>, <volume>36</volume>(<issue>5</issue>), <fpage>464</fpage>–<lpage>467</lpage>. <pub-id pub-id-type="doi">10.1016/j.arcmed.2005.03.038</pub-id>
+<pub-id pub-id-type="pmid">16099322</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0052"><mixed-citation publication-type="journal" id="fsn31320-cit-0052">
+<string-name name-style="western">
+<surname>Machado De‐Melo</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almeida‐Muradian</surname>, <given-names>L. B. d.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sancho</surname>, <given-names>M. T.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Pascual‐Maté</surname>, <given-names>A.</given-names>,</string-name> (<year>2018</year>). <article-title>Composition and properties of <italic toggle="yes">Apis mellifera</italic> honey: A review</article-title>. <source xml:lang="en">Journal of Apicultural Research</source>, <volume>57</volume>(<issue>1</issue>), <fpage>5</fpage>–<lpage>37</lpage>. <pub-id pub-id-type="doi">10.1080/00218839.2017.1338444</pub-id>
+</mixed-citation></ref><ref id="fsn31320-bib-0053"><mixed-citation publication-type="journal" id="fsn31320-cit-0053">
+<string-name name-style="western">
+<surname>Maddocks</surname>, <given-names>S. E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Jenkins</surname>, <given-names>R. E.</given-names>
+</string-name> (<year>2013</year>). <article-title>Honey: A sweet solution to the growing problem of antimicrobial resistance?</article-title>
+<source xml:lang="en">Future Microbiology</source>, <volume>8</volume>(<issue>11</issue>), <fpage>1419</fpage>–<lpage>1429</lpage>. <pub-id pub-id-type="doi">10.2217/fmb.13.105</pub-id>
+<pub-id pub-id-type="pmid">24199801</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0054"><mixed-citation publication-type="journal" id="fsn31320-cit-0054">
+<string-name name-style="western">
+<surname>Mandal</surname>, <given-names>M. D.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Mandal</surname>, <given-names>S.</given-names>
+</string-name> (<year>2011</year>). <article-title>Honey: Its medicinal property and antibacterial activity</article-title>. <source xml:lang="en">Asian Pacific Journal of Tropical Biomedicine</source>, <volume>1</volume>(<issue>2</issue>), <fpage>154</fpage>–<lpage>160</lpage>. <pub-id pub-id-type="doi">10.1016/S2221-1691(11)60016-6</pub-id>
+<pub-id pub-id-type="pmid">23569748</pub-id><pub-id pub-id-type="pmcid">PMC3609166</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0055"><mixed-citation publication-type="journal" id="fsn31320-cit-0055">
+<string-name name-style="western">
+<surname>Mandal</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pal</surname>, <given-names>N. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chowdhury</surname>, <given-names>I. H.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Debmandal</surname>, <given-names>M.</given-names>
+</string-name> (<year>2009</year>). <article-title>Antibacterial activity of ciprofloxacin and trimethoprim, alone and in combinittion, against Vibrio cholerae O1 biotype El Tor serotype Ogawa isolates</article-title>. <source xml:lang="en">Polish Journal of Microbiology</source>, <volume>58</volume>(<issue>1</issue>), <fpage>57</fpage>–<lpage>60</lpage>.<pub-id pub-id-type="pmid">19469287</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0056"><mixed-citation publication-type="journal" id="fsn31320-cit-0056">
+<string-name name-style="western">
+<surname>Mavric</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wittmann</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barth</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Henle</surname>, <given-names>T.</given-names>
+</string-name> (<year>2008</year>). <article-title>Identification and quantification of methylglyoxal as the dominant antibacterial constituent of Manuka (<italic toggle="yes">Leptospermum scoparium</italic>) honeys from New Zealand</article-title>. <source xml:lang="en">Molecular Nutrition and Food Research</source>, <volume>52</volume>(<issue>4</issue>), <fpage>483</fpage>–<lpage>489</lpage>. <pub-id pub-id-type="doi">10.1002/mnfr.200700282</pub-id>
+<pub-id pub-id-type="pmid">18210383</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0057"><mixed-citation publication-type="journal" id="fsn31320-cit-0057">
+<string-name name-style="western">
+<surname>McLoone</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Warnock</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Fyfe</surname>, <given-names>L.</given-names>
+</string-name> (<year>2016</year>). <article-title>Honey: A realistic antimicrobial for disorders of the skin</article-title>. <source xml:lang="en">Journal of Microbiology, Immunology and Infection</source>, <volume>49</volume>(<issue>2</issue>), <fpage>161</fpage>–<lpage>167</lpage>. <pub-id pub-id-type="doi">10.1016/j.jmii.2015.01.009</pub-id>
+<pub-id pub-id-type="pmid">25732699</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0058"><mixed-citation publication-type="journal" id="fsn31320-cit-0058">
+<string-name name-style="western">
+<surname>Molan</surname>, <given-names>P. C.</given-names>
+</string-name> (<year>1992</year>). <article-title>The antibacterial activity of honey: 1. The nature of the antibacterial activity</article-title>. <source xml:lang="en">Bee World</source>, <volume>73</volume>(<issue>1</issue>), <fpage>5</fpage>–<lpage>28</lpage>. <pub-id pub-id-type="doi">10.1080/0005772X.1992.11099109</pub-id>
+</mixed-citation></ref><ref id="fsn31320-bib-0059"><mixed-citation publication-type="journal" id="fsn31320-cit-0059">
+<string-name name-style="western">
+<surname>Molan</surname>, <given-names>P. C.</given-names>
+</string-name> (<year>2001</year>). <article-title>Potential of honey in the treatment of wounds and burns</article-title>. <source xml:lang="en">American Journal of Clinical Dermatology</source>, <volume>2</volume>(<issue>1</issue>), <fpage>13</fpage>–<lpage>19</lpage>. <pub-id pub-id-type="doi">10.2165/00128071-200102010-00003</pub-id>
+<pub-id pub-id-type="pmid">11702616</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0060"><mixed-citation publication-type="journal" id="fsn31320-cit-0060">
+<string-name name-style="western">
+<surname>Molan</surname>, <given-names>P. C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Cooper</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2000</year>). <article-title>Honey and sugar as a dressing for wounds and ulcers</article-title>. <source xml:lang="en">Tropical Doctor</source>, <volume>30</volume>(<issue>4</issue>), <fpage>249</fpage>–<lpage>250</lpage>. <pub-id pub-id-type="doi">10.1177/004947550003000429</pub-id>
+<pub-id pub-id-type="pmid">11075670</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0061"><mixed-citation publication-type="journal" id="fsn31320-cit-0061">
+<string-name name-style="western">
+<surname>Molan</surname>, <given-names>P. C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Russell</surname>, <given-names>K. M.</given-names>
+</string-name> (<year>1988</year>). <article-title>Non‐peroxide antibacterial activity in some New Zealand honeys</article-title>. <source xml:lang="en">Journal of Apicultural Research</source>, <volume>27</volume>(<issue>1</issue>), <fpage>62</fpage>–<lpage>67</lpage>. <pub-id pub-id-type="doi">10.1080/00218839.1988.11100783</pub-id>
+</mixed-citation></ref><ref id="fsn31320-bib-0062"><mixed-citation publication-type="journal" id="fsn31320-cit-0062">
+<string-name name-style="western">
+<surname>Müller</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alber</surname>, <given-names>D. G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Turnbull</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schlothauer</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carter</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whitchurch</surname>, <given-names>C. B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Harry</surname>, <given-names>E. J.</given-names>
+</string-name> (<year>2013</year>). <article-title>Synergism between medihoney and rifampicin against methicillin‐resistant <italic toggle="yes">Staphylococcus aureus</italic> (MRSA)</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>8</volume>(<issue>2</issue>), <elocation-id>e57679</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0057679</pub-id>
+<pub-id pub-id-type="pmid">23469049</pub-id><pub-id pub-id-type="pmcid">PMC3585195</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0063"><mixed-citation publication-type="journal" id="fsn31320-cit-0063">
+<string-name name-style="western">
+<surname>Olaitan</surname>, <given-names>P. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adeleke</surname>, <given-names>O. E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Ola</surname>, <given-names>I. O.</given-names>
+</string-name> (<year>2007</year>). <article-title>Honey: A reservoir for microorganisms and an inhibitory agent for microbes</article-title>. <source xml:lang="en">African Health Sciences</source>, <volume>7</volume>(<issue>3</issue>), <fpage>159</fpage>–<lpage>165</lpage>. <pub-id pub-id-type="doi">10.5555/afhs.2007.7.3.159</pub-id>
+<pub-id pub-id-type="pmid">18052870</pub-id><pub-id pub-id-type="pmcid">PMC2269714</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0064"><mixed-citation publication-type="journal" id="fsn31320-cit-0064">
+<string-name name-style="western">
+<surname>Pasupuleti</surname>, <given-names>V. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sammugam</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramesh</surname>, <given-names>N.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Gan</surname>, <given-names>S. H.</given-names>
+</string-name> (<year>2017</year>). <article-title>Honey, propolis, and royal jelly: A comprehensive review of their biological actions and health benefits</article-title>. <source xml:lang="en">Oxidative Medicine and Cellular Longevity</source>, <volume>2017</volume>, <fpage>1</fpage>–<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1155/2017/1259510</pub-id>
+<pub-id pub-id-type="pmcid">PMC5549483</pub-id><pub-id pub-id-type="pmid">28814983</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0065"><mixed-citation publication-type="journal" id="fsn31320-cit-0065">
+<string-name name-style="western">
+<surname>Patton</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barrett</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brennan</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Moran</surname>, <given-names>N.</given-names>
+</string-name> (<year>2006</year>). <article-title>Use of a spectrophotometric bioassay for determination of microbial sensitivity to manuka honey</article-title>. <source xml:lang="en">Journal of Microbiological Methods</source>, <volume>64</volume>(<issue>1</issue>), <fpage>84</fpage>–<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1016/j.mimet.2005.04.007</pub-id>
+<pub-id pub-id-type="pmid">15979745</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0066"><mixed-citation publication-type="journal" id="fsn31320-cit-0066">
+<string-name name-style="western">
+<surname>Poli</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guinoiseau</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luciani</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Battesti</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paolini</surname>, <given-names>J.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Lorenzi</surname>, <given-names>V.</given-names>
+</string-name> (<year>2018</year>). <article-title>Key role of hydrogen peroxide in antimicrobial activity of spring, Honeydew maquis and chestnut grove Corsican honeys on <italic toggle="yes">Pseudomonas aeruginosa</italic> DNA</article-title>. <source xml:lang="en">Letters in Applied Microbiology</source>, <volume>66</volume>(<issue>5</issue>), <fpage>427</fpage>–<lpage>433</lpage>. <pub-id pub-id-type="doi">10.1111/lam.12868</pub-id>
+<pub-id pub-id-type="pmid">29478286</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0067"><mixed-citation publication-type="journal" id="fsn31320-cit-0067">
+<string-name name-style="western">
+<surname>Radwan</surname>, <given-names>S. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>El‐Essawy</surname>, <given-names>A. A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Sarhan</surname>, <given-names>M. M.</given-names>
+</string-name> (<year>1984</year>). <article-title>Experimental evidence for the occurrence in honey of specific substances active against microorganisms</article-title>. <source xml:lang="en">Zentralblatt Für Mikrobiologie</source>, <volume>139</volume>(<issue>4</issue>), <fpage>249</fpage>–<lpage>255</lpage>. <pub-id pub-id-type="doi">10.1016/S0232-4393(84)80047-5</pub-id>
+<pub-id pub-id-type="pmid">6475343</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0068"><mixed-citation publication-type="miscellaneous" id="fsn31320-cit-0068">Rienzo et al., 2016<string-name name-style="western">
+<surname>Rienzo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casanoves</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balzarini</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gonzalez</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tablada</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Robledo</surname>, <given-names>C.</given-names>
+</string-name> (<year>2016</year>).<article-title>InfoStat versión 2016 InfoStat Group, Facultad de Ciencias Agropecuarias, Universidad Nacional de Córdoba, Argentina</article-title>. Retrieved from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.infostat.com.ar/">http://www.infostat.com.ar/</ext-link>
+</mixed-citation></ref><ref id="fsn31320-bib-0069"><mixed-citation publication-type="journal" id="fsn31320-cit-0069">
+<string-name name-style="western">
+<surname>Samarghandian</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farkhondeh</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Samini</surname>, <given-names>F.</given-names>
+</string-name> (<year>2017</year>). <article-title>Honey and health: A review of recent clinical research</article-title>. <source xml:lang="en">Pharmacognosy Research</source>, <volume>9</volume>(<issue>2</issue>), <fpage>121</fpage>–<lpage>127</lpage>. <pub-id pub-id-type="doi">10.4103/0974-8490.204647</pub-id>
+<pub-id pub-id-type="pmid">28539734</pub-id><pub-id pub-id-type="pmcid">PMC5424551</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0070"><mixed-citation publication-type="journal" id="fsn31320-cit-0070">
+<string-name name-style="western">
+<surname>Saranraj</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Sivasakthi</surname>, <given-names>S.</given-names>
+</string-name> (<year>2018</year>). <article-title>Comprehensive review on honey: Biochemical and medicinal properties</article-title>. <source xml:lang="en">Journal of Academia and Industrial Research</source>, <volume>6</volume>(<issue>10</issue>), <fpage>165</fpage>–<lpage>181</lpage>.</mixed-citation></ref><ref id="fsn31320-bib-0071"><mixed-citation publication-type="journal" id="fsn31320-cit-0071">
+<string-name name-style="western">
+<surname>Simon</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Traynor</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santos</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blaser</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bode</surname>, <given-names>U.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Molan</surname>, <given-names>P.</given-names>
+</string-name> (<year>2009</year>). <article-title>Medical honey for wound care–still the 'latest resort'?</article-title>
+<source xml:lang="en">Evidence‐Based Complementary and Alternative Medicine</source>, <volume>6</volume>(<issue>2</issue>), <fpage>165</fpage>–<lpage>173</lpage>. <pub-id pub-id-type="doi">10.1093/ecam/nem175</pub-id>
+<pub-id pub-id-type="pmid">18955301</pub-id><pub-id pub-id-type="pmcid">PMC2686636</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0072"><mixed-citation publication-type="journal" id="fsn31320-cit-0072">
+<string-name name-style="western">
+<surname>Stagos</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soulitsiotis</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsadila</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Papaeconomou</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arvanitis</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ntontos</surname>, <given-names>A.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Mossialos</surname>, <given-names>D.</given-names>
+</string-name> (<year>2018</year>). <article-title>Antibacterial and antioxidant activity of different types of honey derived from Mount Olympus in Greece</article-title>. <source xml:lang="en">International Journal of Molecular Medicine</source>, <volume>42</volume>(<issue>2</issue>), <fpage>726</fpage>–<lpage>734</lpage>. <pub-id pub-id-type="doi">10.3892/ijmm.2018.3656</pub-id>
+<pub-id pub-id-type="pmid">29749429</pub-id><pub-id pub-id-type="pmcid">PMC6034916</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0073"><mixed-citation publication-type="book" id="fsn31320-cit-0073">
+<string-name name-style="western">
+<surname>Szweda</surname>, <given-names>P.</given-names>
+</string-name> (<year>2017</year>). <chapter-title>Antimicrobial activity of honey</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Arnaut de Toledo</surname><given-names>V. A.</given-names></name></person-group> (Ed.), <source xml:lang="en">Honey analysis</source>, Vol. <volume>1</volume> (pp. <fpage>215</fpage>–<lpage>232</lpage>). <publisher-name>InTech</publisher-name>: <publisher-loc>Rijeka, Croatia</publisher-loc>.</mixed-citation></ref><ref id="fsn31320-bib-0074"><mixed-citation publication-type="journal" id="fsn31320-cit-0074">
+<string-name name-style="western">
+<surname>Willix</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Molan</surname>, <given-names>P. C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Harfoot</surname>, <given-names>C. G.</given-names>
+</string-name> (<year>1992</year>). <article-title>A comparison of the sensitivity of wound‐infecting species of bacteria to the antibacterial activity of manuka honey and other honey</article-title>. <source xml:lang="en">The Journal of Applied Bacteriology</source>, <volume>73</volume>(<issue>5</issue>), <fpage>388</fpage>–<lpage>394</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2672.1992.tb04993.x</pub-id>
+<pub-id pub-id-type="pmid">1447054</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0075"><mixed-citation publication-type="journal" id="fsn31320-cit-0075">
+<string-name name-style="western">
+<surname>Wright</surname>, <given-names>G. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nicolson</surname>, <given-names>S. W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Shafir</surname>, <given-names>S.</given-names>
+</string-name> (<year>2018</year>). <article-title>Nutritional physiology and ecology of honey bees</article-title>. <source xml:lang="en">Annual Review of Entomology</source>, <volume>63</volume>(<issue>1</issue>), <fpage>327</fpage>–<lpage>344</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-ento-020117-043423</pub-id>
+<pub-id pub-id-type="pmid">29029590</pub-id></mixed-citation></ref><ref id="fsn31320-bib-0076"><mixed-citation publication-type="journal" id="fsn31320-cit-0076">
+<string-name name-style="western">
+<surname>Zakaria</surname>, <given-names>A. S.</given-names>
+</string-name> (<year>2015</year>). <article-title>Mechanism of antibacterial action of honey on pathogenic wound bacterial strains: A proteomic analysis</article-title>. <source xml:lang="en">International Research Journal of Pharmacy</source>, <volume>6</volume>(<issue>11</issue>), <fpage>778</fpage>–<lpage>788</lpage>. <pub-id pub-id-type="doi">10.7897/2230-8407.0611151</pub-id>
+</mixed-citation></ref></ref-list></back></article>

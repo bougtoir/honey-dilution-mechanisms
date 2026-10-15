@@ -1,0 +1,6 @@
+Bacteria,TOB (µg/mL),,Lip-MGO-TOB (µg/mL),
+MIC,MBC,MIC,MBC,
+KP45,1024,2048,512,1024
+KP57,1024,2048,512,1024
+PA85,64,128,32,64
+Escherichia coli ATCC 25922,2,2,-,-

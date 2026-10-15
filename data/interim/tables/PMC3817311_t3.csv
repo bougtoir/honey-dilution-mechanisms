@@ -1,0 +1,9 @@
+Antimicrobial drugs,S. aureus (ATCC 25923),S. aureus (MRSA),K. pneumoniae (R),E. coli (ATCC 25922),E. coli (R)
+Amoxicillin (25 μg),S,R,_,_,R
+Ampicillin (10 μg),_,_,R,_,_
+Methicillin (5 μg),I,R,R,_,R
+Kanamycin (30 μg),S,_,_,S,_
+Penicillin (10 μg),R,R,_,R,_
+Tetracycline (30 μg),S,_,_,S,_
+Erythromycine,_,_,R,R,R
+vancomycin (30 μg),S,_,_,S,S

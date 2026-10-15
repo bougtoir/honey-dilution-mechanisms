@@ -1,0 +1,14 @@
+Sample,County of Origin,Areal,Sub-Sample,Area
+S1,Alba,Mountainous,Alba County,
+S2,Arad,Plain,SS1,Blaj
+S3,Bihor,Hilly,SS2,Zlatna
+S4,Bistrița-Năsăud,Mountainous,SS3,Alba Iulia
+S5,Caraș-Severin,Hilly,SS4,Teius
+S6,Cluj,Hilly,SS5,Șona
+S7,Hunedoara,Sub-mountainous,SS6,Berghin
+S8,Maramureș,Mountainous,SS7,Crăciunelu de Jos
+S9,Mureș,Hilly,SS8,Sântimbru
+S10,Satu Mare,Hilly,SS9,Feneș
+S11,Sălaj,Sub-mountainous,SS10,Cugir
+S12,Sibiu,Sub-mountainous,SS11,Abrud
+S13,Timiș,Plain,SS12,Baia de Aries

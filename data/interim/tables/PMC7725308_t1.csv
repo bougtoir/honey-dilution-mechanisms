@@ -1,0 +1,21 @@
+Validation Parameter,Result
+ACCURACY,
+Limit of Detection,53 activity units
+Limit of Quantitation (instrumental),The instrument can quantify a difference of at least 10% in bacterial cell density. Optical densities of dilutions of bacterial cultures showed a linear trend
+Sensitivity,Two groups of honeys with very similar activity shown to be significantly different (P = 0.0499)
+Selectivity,The use of blanks corrects for any interference within the assay and ensures that only bacterial optical density is measured
+PRECISION,
+Repeatability (% RSD),% RSD calculated for the final antibacterial activity values were 1.8% (Jarrah 1) 3.1% (Marri 2) and 6.7% (Artificial)
+Reproducibility (inter-laboratory),"Minor inter-operator variability was evident but results did not differ significantly. P values were 0.479 (Jarrah 1), 0.138 (Marri 2) and 0.183 (Artificial)"
+RUGGEDNESS/ROBUSTNESS,
+Instrument variability,Minimal variation whereby two different instruments produced similar results
+Inoculum growth phase,Results produced using stationary and exponential phase inocula differed significantly for P. aeruginosa (P = 0.0058) but not for the other organisms
+Assay incubation time,"Optical density values were stable at 18, 20 and 22 h, but unstable thereafter"
+Honey solution time elapsed,Activity of honey solutions increased over time; time between preparing honey and inoculation recommended as ≤ 1 h
+Microtitre plate type,"Results obtained in different microtitre plates differed significantly for Artificial honey only. P values were 0.1415 (Jarrah 1), 0.389 (Marri 2) and 0.0356 (Artificial)"
+OTHER,
+Measuring Interval,53–768 activity units
+Matrix Effects,"Not applicable: relevant to the quantification of a specific analyte within a matrix, rather than activity"
+Trueness/Bias,Not applicable: not investigated due to the lack of standard reference material
+Linearity,Not applicable: not investigated due to the lack of standard reference material
+Measurement Uncertainty,Not within the scope of this study

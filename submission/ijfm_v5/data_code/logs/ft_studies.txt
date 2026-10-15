@@ -1,0 +1,154 @@
+6|PMC13460517|2026.0|Unique Mānuka Factor (UMF)-dependent antimicrobial activity of Mānuka honey against respiratory|sugar solution|osmotic|methylglyoxal|mgo|dilution|mic
+5|PMC10617706|2023.0|Characterisation of physicochemical parameters and antibacterial properties of New Caledonian h|catalase|artificial honey|h2o2|hydrogen peroxide|mic
+5|PMC8944737|2022.0|Antimicrobial Evaluation of Various Honey Types against Carbapenemase-Producing Gram-Negative C|catalase|hydrogen peroxide|phenol|dilution|mic
+5|PMC9333225|2022.0|Correlation of the antibacterial activity of commercial manuka and |methylglyoxal|mgo|phenol|dilution|mic
+4|PMC8209695|2021.0|Factors affecting the production and measurement of hydrogen peroxide in honey samples|catalase|hydrogen peroxide|phenol|mic
+4|PMC10000891|2023.0|3-Phenyllactic Acid and Polyphenols Are Substances Enhancing the Antibacterial Effect of Methyl|artificial honey|methylglyoxal|mgo|phenol
+4|PMC11083411|2024.0|Relationships among Hydrogen Peroxide Concentration, Catalase, Glucose Oxidase, and Antimicrobi|catalase|water activity|phenol|mic
+4|PMC10215129|2023.0|Antimicrobial and Antibiofilm Properties of Latvian Honey against Causative Agents of Wound Inf|sugar solution|phenol|dilution|mic
+4|PMC7600471|2020.0|The Bactericidal Activity and Spore Inhibition Effect of Manuka Honey against |methylglyoxal|mgo|dilution|mic
+4|PMC7936102|2021.0|Portuguese honeys as antimicrobial agents against |hydrogen peroxide|methylglyoxal|phenol|mic
+4|PMC13035723|2026.0|nan|methylglyoxal|mgo|dilution|mic
+4|PMC6053432|2018.0|Impact of honey on dental erosion and adhesion of early bacterial colonizers|hydrogen peroxide|methylglyoxal|mgo|mic
+4|PMC6659206|2019.0|In vitro evaluation of methicillin-resistant and methicillin-sensitive |catalase|hydrogen peroxide|dilution|mic
+4|PMC6814216|2019.0|Antibacterial activity of varying UMF-graded Manuka honeys|methylglyoxal|mgo|dilution|mic
+4|PMC6397887|2019.0|Antimicrobial Activity of |catalase|hydrogen peroxide|phenol|mic
+4|PMC7076972|2020.0|Physical characteristics and antimicrobial properties of |artificial honey|phenol|dilution|mic
+4|PMC12434934|2025.0|The Elimination Effect of Medical-Grade Honey on |sugar solution|methylglyoxal|mgo|mic
+4|PMC12175512|2025.0|Strong antimicrobial activity and unique physicochemical characteristics in honey from Australi|hydrogen peroxide|phenol|dilution|mic
+4|PMC11682447|2024.0|The comparison of the antioxidant, antibacterial and antiviral potential of Polish fir honeydew|hydrogen peroxide|methylglyoxal|phenol|mic
+4|PMC12466729|2025.0|Honey Compounds Exhibit Antibacterial Effects Against |hydrogen peroxide|phenol|dilution|mic
+4|PMC11111008|2024.0|Long-term stability and the physical and chemical factors predictive for antimicrobial activity|water activity|hydrogen peroxide|phenol|mic
+4|PMC8997407|2022.0|Physicochemical Characterization and Biological Properties of Pine Honey Produced across Greece|catalase|hydrogen peroxide|phenol|mic
+4|PMC7573686|2020.0|Use of a model to understand the synergies underlying the antibacterial mechanism of H|catalase|hydrogen peroxide|dilution|mic
+4|PMC8626341|2021.0|Potential effects of Saudi Shaoka (|catalase|phenol|dilution|mic
+4|PMC6252015|2018.0|Floral markers and biological activity of Saudi honey|methylglyoxal|mgo|phenol|mic
+3|PMC8125924|2021.0|Chemical Analyses and Antimicrobial Activity of Nine Kinds of Unifloral Chinese Honeys Compared|hydrogen peroxide|phenol|mic
+3|PMC7725308|2020.0|Development and validation of a new microplate assay that utilises optical density to quantify |phenol|dilution|mic
+3|PMC7719625|2020.0|nan|methylglyoxal|mgo|mic
+3|PMC6034916|2018.0|Antibacterial and antioxidant activity of different types of honey derived from Mount Olympus i|hydrogen peroxide|phenol|mic
+3|PMC8374640|2021.0|The bioactive, antioxidant, antibacterial, and physicochemical properties of a range of commerc|sugar solution|phenol|mic
+3|PMC8234392|2021.0|Comparing the Antimicrobial Actions of Greek Honeys from the Island of Lemnos and Manuka Honey |water activity|dilution|mic
+3|PMC9137981|2022.0|Diversity of Monofloral Honey Based on the Antimicrobial and Antioxidant Potential|phenol|dilution|mic
+3|PMC13565909|2026.0|Comparative Analysis of Phenolic Acid Profiles, Antioxidant Capacity, and Antimicrobial Activit|phenol|dilution|mic
+3|PMC7554693|2020.0|Demanding New Honey Qualitative Standard Based on Antibacterial Activity|artificial honey|hydrogen peroxide|mic
+3|PMC13028829|2026.0|Probiotic Assessment of Lactic Acid Bacteria Strains and Consortia for Enhancing Honey Bee Heal|osmotic|dilution|mic
+3|PMC13279511|2026.0|Immune response in honey bees (|catalase|phenol|mic
+3|PMC12311394|2025.0|The Antimicrobial and Antioxidant Properties of Raw, Aged, and Fermented Garlic: Influence of P|phenol|dilution|mic
+3|PMC11561629|2024.0|Authentication
+of |phenol|dilution|mic
+3|PMC13379289|2026.0|Egyptian fennel honey as a potential sustainable and economical alternative to manuka honey: a |methylglyoxal|phenol|mic
+3|PMC13347724|2026.0|In Vitro Antimicrobial Activity of Five Turkish Honey Types Against Otitis Externa Pathogens: A|phenol|dilution|mic
+3|PMC10051060|2023.0|Monitoring the Release of Methylglyoxal (MGO) from Honey and Honey-Based Formulations|artificial honey|methylglyoxal|mgo
+3|PMC10141347|2023.0|Unexpected Value of Honey Color for Prediction of a Non-Enzymatic H|hydrogen peroxide|phenol|mic
+3|PMC11109849|2024.0|Bio-functional properties and phytochemical composition of selected |phenol|dilution|mic
+3|PMC10622673|2023.0|Combinatorial efficacy of Manuka honey and antibiotics in the |methylglyoxal|mgo|mic
+3|PMC8021062|2020.0|Effect of Non-hydrogen Peroxide on Antibacterial Activity of Malaysian |catalase|hydrogen peroxide|mic
+3|PMC13315830|2026.0|South African Honey: Anti‐|hydrogen peroxide|dilution|mic
+3|PMC11799142|2025.0|Physicochemical parameters, microbiological quality, and antibacterial activity of honey from t|mgo|phenol|mic
+3|PMC11547790|2024.0|Eudermic Properties and Chemical–Physical Characterization of Honeys of Different Botanical Ori|osmotic|phenol|mic
+3|PMC12298140|2025.0|Natural Honey-Propolis Combinations with Health-Promoting Potential: Antibacterial Activity Aga|phenol|dilution|mic
+3|PMC12994052|2026.0|Characterization of microbial community and yeast functional traits in |water activity|dilution|mic
+2|PMC10856440|2024.0|Biochemical Profiling and Physicochemical and Biological Valorization of Iraqi Honey: A Compreh|phenol|mic
+2|PMC11013281|2024.0|Investigations of Major α-Dicarbonyl Content in U.S. Honey of Different Geographical Origins|methylglyoxal|mgo
+2|PMC10137453|2023.0|Differentiation of High-Fructose Corn Syrup Adulterated Kelulut Honey Using Physicochemical, Rh|water activity|mic
+2|PMC10344713|2023.0|Evaluation of the polyphenolic profile of native Ecuadorian stingless bee honeys (|phenol|mic
+2|PMC11047503|2024.0|Medical-Grade Honey as a Potential New Therapy for Bacterial Vaginosis|hydrogen peroxide|mic
+2|PMC11052219|2024.0|The Antimicrobial and Antibiofilm Abilities of Fish Oil Derived Polyunsaturated Fatty Acids and|methylglyoxal|mic
+2|PMC9952334|2023.0|Honey’s Antioxidant and Antimicrobial Properties: A Bibliometric Study|phenol|mic
+2|PMC9616666|2022.0|Antibacterial Efficacy and Healing Potential of Honey from Different Zones in Nigeria on Diabet|catalase|mic
+2|PMC9654997|2022.0|The Effect of Selected Bee Products on Adhesion and Biofilm of |dilution|mic
+2|PMC9906859|2023.0|Antibacterial efficacy of indigenous Pakistani honey against extensively drug-resistant clinica|dilution|mic
+2|PMC9495021|2022.0|Antimicrobial and Antioxidant Activity of Different Honey Samples from Beekeepers and Commercia|phenol|mic
+2|PMC9570014|2022.0|Enhanced Bioactivity of Tailor-Made Glycolipid Enriched Manuka Honey|sugar solution|mic
+2|PMC9598309|2022.0|Physicochemical Profile, Antioxidant and Antimicrobial Activities of Honeys Produced in Minas G|phenol|mic
+2|PMC9607359|2022.0|The Antimicrobial Effects of Saudi Sumra Honey against Drug Resistant Pathogens: Phytochemical |dilution|mic
+2|PMC9219755|2022.0|Antioxidative, Antibacterial and Antiproliferative Properties of Honey Types from the Western B|phenol|mic
+2|PMC10528311|2023.0|Microbiological Quality of Polish Artisanal Varietal Honeys|water activity|mic
+2|PMC13068764|2026.0|Evaluation of the Antimicrobial Potential of Malaysian Kelulut Honeydew Honey Against Acne Path|dilution|mic
+2|PMC13073754|2026.0|Recent Progress on Polyphenols of Malaysian Honey and Their Molecular Mechanism Pathways in Can|phenol|mic
+2|PMC12607591|2025.0|Antimicrobial and Biofilm Inhibiting Potential of Two Romanian Linden Honeys|phenol|mic
+2|PMC12861962|2025.0|Potential antibacterial, antioxidant and anticancer activities of Nigerian mountain honey in re|catalase|mic
+2|PMC12751895|2025.0|Combined effects of honey and silver nanoparticles on wound healing in human dermal fibroblast |phenol|mic
+2|PMC12963514|2026.0|In Vitro Activity of Manuka Honey, Either Alone or in Combination With Topical Antibiotics, Aga|dilution|mic
+2|PMC13257883|2026.0|Botanical Origin-Dependent Phytochemical Profiles and Pharmaceutical Properties of Medical-Grad|phenol|mic
+2|PMC12110744|2025.0|Integrated Chemical and Biological Evaluation of Linden Honeydew Honey from Bosnia and Herzegov|phenol|mic
+2|PMC12092607|2025.0|Chemical composition of Egyptian propolis and studying its antimicrobial activity and synergist|phenol|mic
+2|PMC11858134|2025.0|Influence of Season, Hive Position, Extraction Method and Storage Temperature on Polyphenols an|phenol|mic
+2|PMC12608498|2025.0|Compound Annotation by UHPLC-MS/MS, Quantification of Phenolic Compounds and Antimicrobial Acti|phenol|mic
+2|PMC12189776|2025.0|Integrated Assessment of Antibacterial Activity, Polyphenol Composition, Molecular Docking, and|phenol|mic
+2|PMC11353252|2024.0|Functional |phenol|mic
+2|PMC11123796|2024.0|Antimicrobial Effect of Honey Phenolic Compounds against |phenol|mic
+2|PMC11675739|2024.0|Bioactive Compounds, Antioxidant Properties, and Antimicrobial Profiling of a Range of West Alg|phenol|mic
+2|PMC11675915|2024.0|The Effect of Honey Powder Addition on Chosen Quality Properties of Model Chicken Products|water activity|mic
+2|PMC11596660|2024.0|Biofilm Inhibition Activity of Fennel Honey, Fennel Essential Oil and Their Combination|dilution|mic
+2|PMC11941359|2025.0|Physicochemical Characteristics, Antioxidant Capacity, and Antimicrobial Activity of Stingless |phenol|mic
+2|PMC11792292|2025.0|Exploring the antibacterial and anti-biofilm activity of two Iranian medical-grade kinds of hon|dilution|mic
+2|PMC11851655|2025.0|Synergistic Antibiofilm Effects of Chestnut and Linden Honey with Lavender Essential Oil Agains|dilution|mic
+2|PMC11279380|2024.0|Physicochemical Characterization of Moroccan Honey Varieties from the Fez-Meknes Region and The|phenol|mic
+2|PMC11210501|2024.0|Pollen products collected from honey bee hives experiencing minor stress have altered fungal co|phenol|mic
+2|PMC9958606|2023.0|Antibacterial and Antibiofilm Effect of Unifloral Honeys against Bacteria Isolated from Chronic|dilution|mic
+2|PMC9951885|2023.0|The Antioxidant, Antibacterial and Anti-Biofilm Properties of Rapeseed Creamed Honey Enriched w|phenol|mic
+2|PMC12532491|2025.0|In Vitro Antibacterial Activity of Raw Honey From |dilution|mic
+2|PMC12432216|2025.0|Exploring the potential of hydro alcoholic crude extract of beeswax as antibacterial antifungal|phenol|mic
+2|PMC12249035|2025.0|Physicochemical Properties, Antioxidant and Antibacterial Activities and Anti-Hepatocarcinogeni|phenol|mic
+2|PMC12507334|2025.0|Enhancing antioxidant activity and quality of |phenol|mic
+2|PMC13361349|2026.0|Nutritional Composition, Glycemic Index, Antioxidant and Anti-Inflammatory Activities of Five M|phenol|mic
+2|PMC13072155|2026.0|Chilean Honey as Alternative Antibacterial: In Vitro Activity Against Multidrug-Resistant Canin|phenol|mic
+2|PMC12929673|2026.0|Diverse Forage Enhances the Antimicrobial Potency of Australian Honey|dilution|mic
+2|PMC9168249|2022.0|A comparative study of antibacterial and antivirulence activities of four selected honeys to Ma|dilution|mic
+2|PMC8244602|2021.0|Antibacterial activity of honeys and potential synergism of honeys with antibiotics and alkaloi|dilution|mic
+2|PMC8868498|2022.0|Combined Inhibitory Effect of Fir (|phenol|mic
+2|PMC9419396|2022.0|Effects of artificial honey and epigallocatechin-3-gallate on |artificial honey|mic
+2|PMC9415335|2022.0|Singular and Combined Effects of Essential Oil and Honey of |dilution|mic
+2|PMC9371847|2022.0|Chemical Composition and the Anticancer, Antimicrobial, and Antioxidant Properties of |dilution|mic
+2|PMC8304482|2021.0|In Vitro Antibacterial and Antibiofilm Activity of Hungarian Honeys against Respiratory Tract B|phenol|mic
+2|PMC13445924|2026.0|Manuka honey as a multifunctional therapeutic against |phenol|mic
+2|PMC8096559|2021.0|Quantification of Hydrogen Peroxide in Cretan Honey and Correlation with Physicochemical Parame|hydrogen peroxide|mic
+2|PMC7712053|2020.0|Antibacterial Activity of Honey Samples from Ukraine|dilution|mic
+2|PMC7699395|2020.0|Biofilm Formation Reducing Properties of Manuka Honey and Propolis in |dilution|mic
+2|PMC6416547|2019.0|Physically Cross-Linked Gels of PVA with Natural Polymers as Matrices for Manuka Honey Release |dilution|mic
+2|PMC13522720|2026.0|Phytochemical Profiling and Antibacterial Activity of Moroccan Monofloral Honeys Against Multid|phenol|mic
+2|PMC6537647|2019.0|Comparative Evaluation of Wound Healing Potential of Manuka and Acacia Honey in Diabetic and No|methylglyoxal|mic
+1|PMC11120828|2024.0|Unconventional Yeasts Isolated from Chilean Honey: A Probiotic and Phenotypic Characterization|mic
+1|PMC10105280|2023.0|Comparison of the antimicrobial and antivirulence activities of Sidr and Tualang honeys with Ma|mic
+1|PMC10920374|2024.0|Identification of essential oils with strong activity against stationary phase |mic
+1|PMC10534861|2023.0|Antibiofilm, Antimicrobial, Anti-Quorum Sensing, and Antioxidant Activities of Saudi Sidr Honey|mic
+1|PMC10967288|2024.0|Chestnut Honey Is Effective against Mixed Biofilms at Different Stages of Maturity|mic
+1|PMC10386826|2023.0|Unique antimicrobial activity in honey from the Australian honeypot ant (|mic
+1|PMC10294803|2023.0|Impact of Mt. Olympus Honeys on Virulence Factors Implicated in Pathogenesis Exerted by |mic
+1|PMC10213365|2023.0|Antibacterial and wound-healing action of Ulmo honey (|mic
+1|PMC10223922|2023.0|Design, Preparation, and Physicochemical Characterisation of Alginate-Based Honey-Loaded Topica|mic
+1|PMC8145095|2021.0|Transcriptomic Analysis of |mic
+1|PMC12992230|2026.0|Manuka honey and its component, methyl syringate, shift neutrophil release profiles from pro-in|phenol
+1|PMC12299362|2025.0|Nutritional Composition, Volatile Profiles, and Biological Evaluation of Honeys from |mic
+1|PMC12891082|2025.0|Activity of Biocidin|mic
+1|PMC12325679|2025.0|Synthesis and properties of carbon quantum dots as an antimicrobial agent and detection of cipr|mic
+1|PMC12379519|2025.0|Probiotic potential of ‘lactobacilli’ isolated from traditionally fermented Ethiopian honey win|mic
+1|PMC11210353|2024.0|Comparison of transfer of different sulphonamides from contaminated beeswax to honey|mic
+1|PMC12686235|2026.0|nan|mic
+1|PMC12107304|2024.0|In Vitro Synergistic Antibacterial Effects of Extract and Honey
+Derived from Nigella Sativa on |mic
+1|PMC11941748|2025.0|Brazilian Organic Honeydew Reduces In Vitro and In Vivo Periodontal Disease-Related Subgingival|mic
+1|PMC11699800|2025.0|3D printed cacao-based formulations as nutrient carriers for immune system enhancement|mic
+1|PMC11858503|2025.0|Probiotics and Honey: Boosting Functional Properties in Dry Fermented Sausages|mic
+1|PMC12189821|2025.0|Chemical Composition and Antioxidant Activity of Prokupac Grape Pomace Extract: Implications fo|phenol
+1|PMC12023948|2025.0|Antibacterial Properties, Arabinogalactan Proteins, and Bioactivities of New Zealand Honey|phenol
+1|PMC12240352|2025.0|Multidimensional analysis of honey from Eastern Anatolia (Kars): Pollen spectrum, physicochemic|mic
+1|PMC11311187|2024.0|Characterization of Antibiofilm and Antimicrobial Effects of |mic
+1|PMC9505312|2022.0|Determination of Chemical Compounds and Investigation of Biological Properties of |mic
+1|PMC11585709|2024.0|Bio-fabrication of biologically active copper nanocomposite|mic
+1|PMC7765399|2020.0|Antibiofilm Activity of Heather and Manuka Honeys and Antivirulence Potential of Some of Their |methylglyoxal
+1|PMC7531947|2020.0|Antibacterial and Antivirulence Activity of Manuka Honey against Genetically Diverse |mic
+1|PMC7168267|2020.0|Honey as a Strategy to Fight |mic
+1|PMC13514261|2026.0|The Effect of Temperature Variations on the 5-Hydroxymethylfurfural Content, Antioxidant and An|phenol
+1|PMC5538150|2017.0|Isolation of Abscisic Acid from Korean Acacia Honey with Anti-|mic
+1|PMC6835506|2019.0|Oligosaccharides Isolated from MGO™ Manuka Honey Inhibit the Adhesion of |mgo
+1|PMC9703798|2022.0|Manuka honey in combination with azithromycin shows potential for improved activity against |mgo
+1|PMC7884280|2020.0|Antibacterial properties of selected Malaysian Tualang honey against |mic
+1|PMC8272120|2021.0|Promising Antimicrobial Properties of Bioactive Compounds from Different Honeybee Products|mic
+1|PMC8709083|2021.0|Bee Venom, Honey, and Royal Jelly in the Treatment of Bacterial Infections of the Oral Cavity: |mic
+1|PMC9326441|2022.0|Antibacterial and Biofilm Degradation Effects of Hungarian Honeys Linked With Botanical Origin,|mic
+0|PMC10649667|2023.0|Novel Biocement/Honey Composites for Bone Regenerative Medicine|
+0|PMC11376693|2024.0|Biological studies of the activity of Manuka honey against Carbapenem-resistant Enterobacterale|
+0|PMC8307090|2021.0|In Vitro Screening Potential Antibacterial Properties of the Greek Oregano Honey against Clinic|

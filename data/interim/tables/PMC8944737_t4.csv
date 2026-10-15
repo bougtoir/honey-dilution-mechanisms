@@ -1,0 +1,6 @@
+Bacterial Species,Number of Samples in the MIC95 Values (% v/v) Assessment,,,p-Value
+Crude Samples,Catalase Addition,Protease Addition,,
+Enterobacter cloacae subsp. dissolvens,8,41,19,<0.0001
+Pseudomonas aeruginosa,5,2,1,p = 0.178575
+Klebsiella pneumoniae subsp. pneumoniae (1) *,1,31,18,<0.0001
+Klebsiella pneumoniae subsp. pneumoniae (2) **,6,29,17,<0.0001

@@ -1,0 +1,117 @@
+DONE ok=304 fail=11
+tables: 1324, relevant-flagged: 1231
+python3 scripts/06_autoextract.py
+outcomes_A 5361 rows from 112 studies
+chem_B 2635 rows from 59 studies
+series_C 94 rows from 5 studies
+python3 scripts/07_manual_extraction.py
+manual extraction rows: 545 | studies: 11
+python3 scripts/08_build_dataset.py
+/home/ubuntu/repos/wip/honey-dilution-mechanisms/scripts/08_build_dataset.py:137: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  df = pd.concat([a[cols], man.reindex(columns=cols), ser.reindex(columns=cols)],
+deduped identical observation rows: 376
+extraction rows: 4650 | studies: 103
+outcome
+H2O2                     23
+MBC                     628
+MBEC                     12
+MIC                    2378
+MIC50                    10
+TPC                      12
+aw                       10
+color                    12
+n_outperform_manuka      19
+pH                       10
+pct_inhib_biofilm         8
+pct_viable               15
+phenol                   17
+phenol_equiv             50
+series                   84
+zone                   1362
+organisms: organism
+E. coli               808
+S. aureus             763
+P. aeruginosa         651
+other                 399
+Salmonella            369
+MRSA                  226
+fungal                219
+B. cereus/Bacillus    207
+K. pneumoniae         205
+E. faecalis           165
+S. epidermidis         90
+S. pyogenes            81
+H. influenzae          78
+L. monocytogenes       73
+Proteus                65
+python3 scripts/09_dictionary_rob.py
+rating
+some    93
+low      7
+high     3
+Name: count, dtype: int64
+      D1_assay_std  D2_comparator  D3_dispersion  conc_series_available  D5_mechanism  D6_reporting     total
+mean      1.718447        1.07767       1.009709                0.07767      1.174757      1.427184  6.407767
+wrote data_dictionary.md and risk_of_bias.csv
+python3 scripts/10_analyze.py
+Dataset: 4650 rows, 103 studies
+A1: 10 activity concentration-series; positive slope 10, negative 0, flat 0; median rho=1.00
+     pH-vs-dilution series: median rho=-1.00 (n=4; pH rises as honey is diluted)
+A2: 21 natural-vs-artificial pairs; zone pairs=10 median diff=0.6 mm (p=0.00195); MIC pairs=11 median ratio=0.81
+A3 join: 685 outcome rows with chemistry, 18 studies
+A3: H2O2 vs MIC: rho=0.46 (n=29, 2 studies, p=0.0122)
+A3: MGO vs MIC: rho=-0.52 (n=116, 1 studies, p=2.78e-09)
+A3: aw vs MIC: rho=-0.06 (n=20, 1 studies, p=0.807)
+A3: pH vs MIC: rho=0.07 (n=359, 7 studies, p=0.179)
+A3: pH vs zone: rho=-0.52 (n=53, 2 studies, p=6.99e-05)
+A3: TPC vs MIC: rho=-0.15 (n=172, 5 studies, p=0.0459)
+A3: TPC vs zone: rho=0.26 (n=54, 1 studies, p=0.0586)
+A3: moisture vs MIC: rho=0.17 (n=112, 3 studies, p=0.0812)
+A3: moisture vs zone: rho=-0.07 (n=45, 1 studies, p=0.658)
+A4: 13 catalase pairs from 2 studies; median residual fraction=0.92
+A5: log10(MIC%) ~ chemistry R2=0.296; label-only R2=0.000; combined R2=0.296
+A6: MIC% differs across organisms (Kruskal H=170.1, p=8.85e-27)
+      S. epidermidis: median MIC 11.25%
+      S. aureus: median MIC 12.5%
+      MRSA: median MIC 12.5%
+      B. cereus/Bacillus: median MIC 16.5%
+      K. pneumoniae: median MIC 17.75%
+      E. coli: median MIC 20.0%
+      other: median MIC 20.0%
+      P. aeruginosa: median MIC 21.0%
+      E. faecalis: median MIC 22.0%
+      Salmonella: median MIC 24.8%
+      Proteus: median MIC 25.0%
+      fungal: median MIC 27.5%
+A6: manuka median MIC 15.0% vs other 20.0% (MWU p=0.0112)
+S1: low-RoB subset 6 studies, 185 MIC rows, median 25.0%
+wrote analysis_results.json, analysis_summary.txt
+python3 scripts/10b_analyze_fri.py
+B1: eligible 412; PMCID 255; OA-XML 234; extracted 103. Median year ex vs non-ex: 2022 vs 2020 (p=0.000215)
+A1b: log-log slope zone~conc = 0.33 +/- 0.55 (sub-linear if <1)
+A5-CV: LOSO-CV R2 chem=-32.317 label=-0.119 both=-32.317 null=-0.119
+S-low_rob: {'n': 185, 'studies': 6, 'median': 25.0}
+S-manuka_excluded: {'n': 1932, 'median': 20.0}
+S-manuka_only: {'n': 123, 'median': 15.0}
+S-w_v_basis_only: {'n': 315, 'median': 15.0}
+S-v_v_basis_only: {'n': 157, 'median': 8.0}
+S-aw_measured_studies: {'n': 126, 'studies': 2, 'median': 25.0}
+S-h2o2_measured_studies: {'n': 226, 'studies': 7, 'median': 16.0}
+S-peer_reviewed_only: {'n': 2055, 'median': 19.7, 'note': 'extracted corpus contains no preprint-DOI rows'}
+S-loo_manuka_ns_frac: 0.38
+A2 by-study (ratio>1 = natural more potent): PMC11111008/MIC:n=3,r=1.19; PMC3406342/MIC:n=1,r=1.30; PMC6659206/MIC:n=3,r=2.69; PMC7076972/zone:n=4,r=nan; PMC8234392/MBC:n=2,r=1.06; PMC8234392/MIC:n=2,r=1.06; PMC8304482/zone:n=6,r=1.46
+A2 direction: 16/21 pairs natural more potent (median ratio 1.38)
+wrote analysis_results.json (extended) + analysis_summary_fri.txt
+python3 scripts/11_figures.py
+wrote fig1_prisma
+wrote fig2_conc_response
+wrote fig3_natural_vs_artificial
+wrote fig4_chemistry
+wrote fig5_catalase
+wrote fig6_organisms
+python3 scripts/12b_references_fri.py
+  File "/home/ubuntu/repos/wip/honey-dilution-mechanisms/scripts/12b_references_fri.py", line 171
+    f"{a.split()[-1]}" for a in auth[::1]] if m else []
+                       ^^^
+SyntaxError: f-string expression part cannot include a backslash
+make: *** [Makefile:33: figures] Error 1

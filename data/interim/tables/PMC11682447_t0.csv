@@ -1,0 +1,7 @@
+Bacteriophage,Phi6DSM 21518,MS2DSM 13767,T7DSM 4623,PhiX174DSM 4497
+Host,P. syringae DSM 21482,E. coli DSM 5695,E. coli DSM 613,E. coli DSM 13127
+Genome,dsRNA,ssRNA,dsDNA,ssDNA
+Family,Cystoviridae,Fiersviridae,Autographiviridae,Microviridae
+Morphology capsid,Enveloped spherical virion covered by spikes hexagonal icosahedral,"Non-enveloped, isometric, icosahedral","Enveloped, icosahedral","Non-enveloped, icosahedral"
+Size (nm),60–100,25,"60-head, 19-tail",25
+Growth conditions,"25 °C, TSA, semi-solid TSB + 0.7% agar","37 °C, LBA, semi-solid LB + 0.7% agar","37 °C, LBA, semi-solid LB + 0.7% agar","37 °C, LBA, semi-solid LB + 0.7% agar"

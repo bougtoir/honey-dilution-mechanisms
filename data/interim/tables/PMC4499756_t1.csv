@@ -1,0 +1,49 @@
+Antimicrobial,Escherichia coli,,,,Klebsiella pneumoniae (n = 2),,,Pseudomonas aeruginosa,,,,Proteus mirabilis,Methicillin resistant MRSA,,,VRE Enterococcus faecium,
+,1,2,3,4,1,2,3,1,2,3,4,1,1,2,3,1,2
+,E,E,E,N,,,E,,,,,E,,,,,
+,S,S,S,D,,,S,,,,,S,,,,,
+,B,B,B,M,,,B,,,,,B,,,,,
+,L,L,L,,,,L,,,,,L,,,,,
+Amikacin,S,S,S,R,R,R,S,S,S,R,R,S,,,,,
+Amoxicillin-Clavulanate,R,R,R,R,R,R,R,R,R,R,R,S,R,R,R,,
+Ampicillin,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+Aztreonam,R,R,R,S,R,R,R,I,S,I,I,S,,,,,
+Cefazolin,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+Cefepime,R,R,R,R,R,R,R,R,R,R,R,S,,,,,
+Ceftazidime,R,R,R,R,R,R,R,R,R,R,R,S,,,,,
+Cefoxitin,S,I,I,R,R,R,R,R,R,R,R,S,R,R,R,R,R
+Ceftriaxone,R,R,R,R,R,R,R,R,R,R,R,,,,,,
+Cephalexin,R,R,R,R,,R,R,,,,,,,,,,
+Chloramphenicol,S,S,S,S,R,R,S,R,R,R,R,S,S,S,S,S,S
+Ciprofloxacin,R,R,R,R,R,R,S,R,R,R,R,S,R,R,R,R,R
+Clindamycin,,,,,,,,,,,,,R,R,R,R,R
+Colistin,,,,,,R,,S,S,S,S,R,,,,,
+Daptomycin,,,,,,,,,,,,,S,S,S,S,S
+Doxycyline,,,,,,,,,,,,,S,S,S,S,S
+Ertapenem,S,S,S,R,R,R,R,R,R,R,R,S,,,,,
+Erythromycin,,,,,,,,,,,,,R,R,R,R,R
+Fosfomycin,S,S,S,S,,,,R,R,R,R,,,,,,
+Fusidic acid,,,,,,,,,,,,,,,,R,R
+Gentamicin,S,S,S,R,R,R,R,R,R,R,R,R,S,S,S,R,R
+Imipenem,S,S,S,R,R,S,S,R,R,R,R,,,,,,
+Linezoid,,,,,,,,,,,,,S,S,S,S,S
+Meropenem,S,S,S,R,R,I,S,R,R,R,R,S,,,,,
+Moxofloxacin,,,,,,,,,,,,,X,X,X,,
+Mupirocin high level,,,,,,,,,,,,,S,S,S,,
+Nitrofurantoin,S,S,S,R,R,R,R,R,R,R,R,R,S,S,S,R,R
+Norfloxacin,S,R,R,R,R,R,S,R,R,R,R,S,R,R,R,R,R
+Oxacillin,,,,,,,,,,,,,R,R,R,,
+Penicillin G,,,,,,,,,,,,,R,R,R,R,R
+Piperacillin-tazobactam,R,S,I,R,R,R,R,R,R,S,R,S,,,,,
+Pristinamycin,,,,,,,,,,,,,,,,,
+Quinupristin-dalfopristin,,,,,,,,,,,,,S,S,S,S,S
+Rifampin,,,,,,,,,,,,,S,S,S,,
+Streptomycin-syn,,,,,,,,,,,,,,,,R,R
+Teicoplanin,,,,,,,,,,,,,S,S,S,R,R
+Tetracycline,R,S,S,R,S,S,S,R,R,R,R,R,,,,,
+Ticarcillin-Clavulanate,I,S,R,R,R,R,R,R,R,I,R,S,,,,,
+Tigecycline,S,S,S,S,S,S,S,,,,,R,,,,,
+Tobramycin,R,S,R,R,R,R,R,R,R,R,R,R,,,,,
+Trimethoprim,R,S,R,R,R,R,S,R,R,R,R,S,S,S,S,R,R
+Trimethoprim-Sulfamethoxazole,R,S,R,R,R,R,S,R,R,R,R,S,S,S,S,R,R
+Vancomycin,,,,,,,,,,,,,S,S,S,R,R

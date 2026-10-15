@@ -1,0 +1,43 @@
+Parameters,Rutin,Rosmarinic Acid,Beta-Resorcylic Acid,Quercetin,Ferulic Acid,p-Coumaric Acid,Unit
+Absorption,,,,,,,
+Water solubility,−2.892,−3.059,−2.183,−2.925,−2.817,−2.37,Numeric (log mol/L)
+CaCO2 permeability,−0.949,−0.937,0.653,−0.229,0.176,1.61,Numeric (log Papp in 10−6 cm/s)
+Intestinal absorption (human),23.446,32.516,70.99,77.207,93.685,88.401,Numeric (% Absorbed)
+Skin permeability,−2.735,−2.735,−2.735,−2.735,−2.72,−2.735,Numeric (log Kp)
+P-glycoprotein substrate,Yes,Yes,No,Yes,No,No,Categorical (Yes/No)
+P-glycoprotein I inhibitor,No,No,No,No,No,No,Categorical (Yes/No)
+P-glycoprotein II inhibitor,No,No,No,No,No,No,Categorical (Yes/No)
+Distribution,,,,,,,
+VDss (human),1.663,0.393,−1.816,1.559,−1.367,0.011,Numeric (log L/kg)
+Fraction unbound (human),0.187,0.348,0.651,0.206,0.343,0.751,Numeric (Fu)
+BBB permeability,−1.899,−1.378,−0.757,−1.098,−0.239,0.181,Numeric (log BB)
+CNS permeability,−5.178,−3.347,−3.317,−3.065,−2.612,−3.24,Numeric (log PS)
+Metabolism,,,,,,,
+CYP2D6 substrate,No,No,No,No,No,No,Categorical (Yes/No)
+CYP3A4 substrate,No,No,No,No,No,No,Categorical (Yes/No)
+CYP1A2 inhibitor,No,No,No,Yes,No,No,Categorical (Yes/No)
+CYP2C19 inhibitor,No,No,No,No,No,No,Categorical (Yes/No)
+CYP2C9 inhibitor,No,No,No,No,No,No,Categorical (Yes/No)
+CYP2D6 inhibitor,No,No,No,No,No,No,Categorical (Yes/No)
+CYP3A4 inhibitor,No,No,No,No,No,No,Categorical (Yes/No)
+Excretion,,,,,,,
+Total Clearance,−0.369,0.25,0.603,0.407,0.623,−6.797,Numeric (log mL/min/kg)
+Renal OCT2 substrate,No,No,No,No,No,No,Categorical (Yes/No)
+Toxicity,,,,,,,
+AMES toxicity,No,No,No,No,No,Yes,Categorical (Yes/No)
+Maximum tolerated dose (human),0.452,0.152,0.89,0.499,1.082,0.593,Numeric (log mg/kg/day)
+hERG I inhibitor,No,No,No,No,No,No,Categorical (Yes/No)
+hERG II inhibitor,Yes,No,No,No,No,No,Categorical (Yes/No)
+Oral Rat Acute Toxicity (LD50),2.491,2.811,2.284,2.471,2.282,2.482,Numeric (mol/kg)
+Oral Rat Chronic Toxicity (LOAEL),3.673,2.907,1.857,2.612,2.065,4.375,Numeric (log mg/kg bw/day)
+Hepatoxicity,No,No,No,No,No,No,Categorical (Yes/No)
+Skin Sensitisation,No,No,No,No,No,No,Categorical (Yes/No)
+Tetrahymena Pyriformis toxicity,0.285,0.302,0.285,0.288,0.271,0.285,Numeric (log ug/L)
+Minnow toxicity,7.677,2.698,2.734,3.721,1.825,5.76,Numeric (log mM)
+Oral bioavailability,,,,,,,
+Lipinski’s rules,3,0,0,0,0,0,Violation (Numeric)
+Ghose rules,4,,3,,,,Violation (Numeric)
+Verber’s rules,1,1,,,,,Violation (Numeric)
+Egan’s rules,1,1,,,,,Violation (Numeric)
+Muegge rules,1,,1,,1,1,Violation (Numeric)
+Bioavailability score,0.17,0.56,0.56,0.55,0.85,0.85,

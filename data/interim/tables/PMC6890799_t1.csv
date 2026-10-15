@@ -1,0 +1,8 @@
+Honey,Initial susceptibilitya,,,,Susceptibility after exposure to honeyb,,,
+PAO1,,PA14,,PAO1,,PA14,,
+MIC,MBIC,MIC,MBIC,MIC,MBIC,MIC,MBIC,
+Manuka,16,16,16,8,32,32,32,32
+Medihoney,16,32,16,16,32,32,32,32
+Manuka-kanuka,16,16,16,16,32,32,32,32
+Clover,32,32,32,16,N/A,N/A,N/A,N/A
+Sugar solution,32,32,>32,32,N/A,N/A,N/A,N/A

@@ -1,0 +1,43 @@
+Agents,Test organisms,N,Mean,Standard deviation,Minimum,Maximum
+Honey*,Staphylococcus aureus (ATCC 25923),6,22.50,1.64,21.00,24.00
+Staphylococcus aureus (MRSA),6,15.50,1.517,13.00,17.00,
+Klebsiella pneumoniae(R),6,16.00,0.63,15.00,17.00,
+Escherichia coli (ATCC 25922),6,23.00,1.27,21.00,24.00,
+Escherichia coli (R),6,19.17,1.33,18.00,21.00,
+Total,30,19.23,3.42,13.00,24.00,
+,,,,,,
+Extract*,Staphylococcus aureus (ATCC 25923),6,22.50,1.64,21.00,24.00
+Staphylococcus aureus (MRSA),6,15.50,1.52,13.00,17.00,
+Klebsiella pneumoniae (R),6,16.00,0.63,15.00,17.00,
+Escherichia coli (ATCC 25922),6,23.00,1.26,21.00,24.00,
+Escherichia coli (R),6,19.17,1.33,18.00,21.00,
+Total,30,19.23,3.42,13.00,24.00,
+,,,,,,
+Mixture*,Staphylococcus aureus (ATCC 25923),12,28.25,1.14,27.00,30.00
+Staphylococcus aureus (MRSA),12,24.92,1.56,22.00,27.00,
+Klebsiella pneumoniae (R),12,22.50,1.57,19.00,25.00,
+Escherichia coli (ATCC 25922),12,27.92,1.38,26.00,30.00,
+Escherichia coli (R),12,24.50,0.90,23.00,26.00,
+Total,60,25.62,2.55,19.00,30.00,
+,,,,,,
+Methicillin*,Staphylococcus aureus (ATCC 25923),3,12.00,2.55,11.00,13.00
+Staphylococcus aureus (MRSA),3,0.00,1.00,0.00,0.00,
+Klebsiella pneumoniae (R),3,0.00,0.00,0.00,0.00,
+Escherichia coli (ATCC 25922),3,8.00,0.00,7.00,9.00,
+Escherichia coli (R),3,0.00,1.00,0.00,0.00,
+Total,12,4.00,0.00,0.00,13.00,
+,,,,,,
+Amoxicillin*,Staphylococcus aureus (ATCC 25923),3,21.00,5.26,20.00,22.00
+Staphylococcus aureus (MRSA),3,10.00,1.00,9.00,11.00,
+Klebsiella pneumoniae (R),3,—,1.00,—,—,
+Escherichia coli (ATCC 25922),3,10.00,—,10.00,10.00,
+Escherichia coli (R),3,8.00,0.00,7.00,9.00,
+Total,12,12.25,1.00,7.00,22.00,
+,,,,,,
+Penicillin*,Staphylococcus aureus (ATCC 25923),3,20.00,5.40,19.50,20.50
+Staphylococcus aureus (MRSA),3,13.00,0.50,12.00,14.00,
+Klebsiella pneumoniae (R),3,—,1.00,—,—,
+Escherichia coli (ATCC 25922),3,10.00,—,9.00,11.00,
+Escherichia coli (R),3,10.00,1.00,9.50,10.50,
+Total,12,13.25,0.50,9.00,20.50,
+,,,,4.32,,

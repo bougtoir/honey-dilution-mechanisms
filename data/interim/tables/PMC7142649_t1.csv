@@ -1,0 +1,9 @@
+Minimum Inhibitory Concentration (% v/v; µg/mL),,,,,,,,,,,,,,,,,,
+Antimicrobial Agent,E. coli ATCC 10536,,,,,,S. Typhi,,,,,,K. pneumoniae,,,,,
+,4th P at ¼ × MIC,,,4th P at ½ × MIC,,,4th P at ¼ × MIC,,,4th P at ½ × MIC,,,4th P at ¼ × MIC,,,4th P at ½ × MIC,,
+,C,M,R,C,M,R,C,M,R,C,M,R,C,M,R,C,M,R
+Branded honey (% v/v),25,25,25,25,25,25,12.5,12.5,12.5,12.5,12.5,12.5,25,25,25,25,25,25
+Unbranded honey (% v/v),25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25
+Gentamicin (µg/mL),2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Kanamycin (µg/mL),8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+Imipenem (µg/mL),0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12

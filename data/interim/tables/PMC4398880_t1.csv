@@ -1,0 +1,10 @@
+Antibiotic,Pseudomonas aeruginosa reference number,Test method,MIC (µg/ml) antibiotic,,FIC antibiotic
+Alone,With MH,,,,
+Colistin,867,Broth dilution,0.5,0.25,0.5
+E strip,0.38,0.19,0.5,,
+Tobramycin,867,Broth dilution,128,128,1
+E strip,32,32,1,,
+Colistin,1099,Broth dilution,16,4,0.25
+E strip,0.19,0.125,0.66,,
+Tobramycin,1099,Broth dilution,16,0.5,0.03
+E strip,2,0.5,0.25,,

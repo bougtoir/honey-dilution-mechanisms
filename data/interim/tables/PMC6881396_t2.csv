@@ -1,0 +1,14 @@
+Honey,Organism,Accumulation period,,Difference in MIC,P valuea
+1 h,3 h,,,,
+Jarrah 2,S. aureus ATCC 700699,8.7,4.0,−4.7,0.025
+E. faecalis NCTC 775,16.0,12.0,−4.0,0.158,
+E. coli ATCC 10538,16.7,14.0,−2.7,0.374,
+P. aeruginosa ATCC BAA-47,14.0,10.0,−4.0,0.116,
+Marri 2,S. aureus ATCC 700699,16.0,10.0,−6.0,0.012
+E. faecalis NCTC 775,28.0,24.0,−4.0,0.026,
+E. coli ATCC 10538,22.0,22.7,+0.7,0.374,
+P. aeruginosa ATCC BAA-47,18.0,18.0,0.0,1.000,
+Manuka,S. aureus ATCC 700699,12.0,10.0,−2.0,0.374
+E. faecalis NCTC 775,16.7,16.0,−0.7,0.374,
+E. coli ATCC 10538,16.7,16.0,−0.7,0.374,
+P. aeruginosa ATCC BAA-47,17.3,16.0,−1.3,0.374,

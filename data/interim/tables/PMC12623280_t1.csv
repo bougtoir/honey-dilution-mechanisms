@@ -1,0 +1,87 @@
+Bee product,Virus,IC50 a,EC50 b,SI values c,Samples,,References
+Bee bread,EV‐D68,"48, 110, and 280 μg mL−1 (Larissa multifloral); 310 and 530 μg mL−1 (Thesaly multifloral); 420 μg mL−1 (Mount Pelion multifloral); 30 μg mL−1 (Mount Pelion hedera); 52 μg mL−1 (Heraklion multifloral); 91 μg mL−1 (Kozani multifloral); 200 μg mL−1 (Rethymnon multifloral); 1003 μg mL−1 (Arta multifloral); 182 μg mL−1 (Chania multifloral); 87 μg mL−1 (Larissa cistus); 500 μg mL−1 (Lasithi multifloral); 580 μg mL−1 (Evia Multifloral); 130 μg mL−1 (Peloponnese multifloral); 340 μg mL−1 (Chalkidiki multifloral); 5450 μg mL−1 (Mount Athos castanea)",,"98.542, 78.182, and 3.679 (Larissa multifloral); 7.484 and 0.321 (Thesaly multifloral); 0.548 (Mount Pelion multifloral); 20.697 (Mount Pelion hedera); 24.615 (Heraklion multifloral); 6.923 (Kozani multifloral); 1.550 (Rethymnon multifloral); 5.234 (Arta multifloral); 20.769 (Chania multifloral); 5.977 (Larissa cistus); 7.740 (Lasithi multifloral); 7.155 (Evia Multifloral); 58.154 (Peloponnese multifloral); 23.618 (Chalkidiki multifloral); 0.059 (Mount Athos castanea)",Greek bee bread,,Didaras et al. (2022) 59
+H1N1,"160 μg mL−1 1‐BB, 180 μg mL−1 4‐BB, 97 μg mL−1 1‐BB‐P, 22 μg mL−1 4‐BB‐P, 2910 μg mL−1 1‐BB‐Bu",,"31.28 1‐BB, 4.6 4‐BB, 329.89 1‐BB‐P, 338.64 4‐BB‐P, 21.99 1‐BB‐Bu",Greek bee bread,,Dimitriou et al. (2023) 60,
+Bee pollen,EV‐D68,910 μg mL−1 (Mount Pelion hedera); 270 μg mL−1 (Thessaly multifloral),,5.330 (Mount Pelion hedera); 37.741 (Thessaly multifloral),Greek bee pollen,,Didaras et al. (2022) 59
+H1N1,"3910 μg mL−1 AF1, 10 040 μg mL−1 AF‐4, 2270 μg mL−1 AF‐5, 2470 μg mL−1 AF‐17, 3140 μg mL−1 AF1‐P, 2710 μg mL−1 AF‐4‐P, 3370 μg mL−1 AF‐5‐P, 460 μg mL−1 AF‐17‐P, 420 μg mL−1 6P‐BCP, 52 μg mL−1 6P‐BCP‐P",,"2.95 AF1, 1.06 AF‐4, 4.89 AF‐5, 4.85 AF‐17, 20.38 AF1‐P, 18.88 AF‐4‐P, 14.17 AF‐5‐P, 139.13 AF‐17‐P, 1.12 6P‐BCP, 75.38 6P‐BCP‐P",Greek bee pollen,,Dimitriou et al. (2023) 60,
+Bee venom,Human adenovirus serotype 7 (Adeno‐7),0.4 μg mL−1,,,bee venom,,Hassan et al. (2015) 64
+Rift Valley fever virus (RVFV),0.4 μg mL−1,,,bee venom,,,
+,Influenza A virus (H1N1),,1.81 ± 0.08 μg mL−1,4.61,bee venom,,Uddin et al. (2016) 66
+Vesicular stomatitis virus (VSV),,0.5 ± 0.06 μg mL−1,17.22,,,,
+Respiratory syncytial virus (RSV),,1.17 ± 0.09 μg mL−1,5.34,,,,
+Herpes simplex virus (HSV),,1.52 ± 0.11 μg mL−1,4.69,,,,
+Enterovirus‐71 (EV‐71),,0.49 ± 0.02 μg mL−1,18.3,,,,
+Coxsackie virus (H3),,0.5 ± 0.04 μg mL−1,17.96,,,,
+Hepatitis C virus (HCV),,0.05 ng mL−1,400,Egyptian bee venom (100 ng mL−1),,Sarhan et al. (2020) 67,
+Beeswax,Human adenovirus serotype 7 (Adeno‐7),1.6 μg mL−1 (ethanol and acetone),,,white wax extract,,Hassan et al. (2015) 64
+12.5 μg mL−1 (ethanol),,,black wax extract,,,,
+0.5 μg mL−1 (acetone),,,,,,,
+Rift Valley fever virus (RVFV),1.6 μg mL−1 (ethanol and acetone),,,white wax extract,,,
+12.5 μg mL−1 (ethanol),,,black wax extract,,,,
+0.5 μg mL−1 (acetone),,,,,,,
+Honey,Varicella zoster virus (VZV),,4.50%,,clover and manuka honey,,Shahzad and Cohrs (2012) 76
+,H1N1,3600 ± 1200 μg mL−1,,22.9,manuka (L. scoparium) honey,,Watanabe et al. (2014) 77
+6700 ± 500 μg mL−1,,12.1,soba (F. esculentum; buckwheat) honey,,,,
+8600 ± 1800 μg mL−1,,9.6,kanro (honeydew) honey,,,,
+10 300 ± 2700 μg mL,,7.9,acacia (R. pseudoacacia) honey,,,,
+11 300 ± 3700 μg mL−1,,7.1,renge (A. sinicus) honey,,,,
+,HIV‐1,,37.5 μg mL−1,21.4,honey from P. sativum,,Behbahani (2014) 78
+,88 μg mL−1,22.72,honey from N. sativa,,,,
+,70 μg mL−1,22.7,honey from C. sinensis,,,,
+,88 μg mL−1,350,honey from Z. multiflora,,,,
+,105 μg mL−1,17.04,honey from C. aurantium,,,,
+,5 μg mL−1,40,honey from Z. mauritiana,,,,
+Severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2),,85.7 μg mL−1 (after cell infection with 25–30 PFU),,honey extract ‘Camelyn’,,Kalėdienė et al. (2021) 79,
+116.27 ± 73.39 μg mL−1 (tablets),,,,,,,
+192.4 μg mL−1 (honey extract 145.3 μg mL−1),,,,,,,
+,Norovirus GII.4,4.72%,,,raspberry honey,,Ruoff et al. (2022) 80
+4.78%,,,Alpine forest honey,,,,
+5.85%,,,oak tree honey,,,,
+6.22%,,,eucalyptus honey,,,,
+Norovirus GII.10,5.60%,,,raspberry honey,,,
+3.38%,,,Alpine forest honey,,,,
+5.96%,,,oak tree honey,,,,
+6.11%,,,eucalyptus honey,,,,
+Propolis,Avian influenza virus (H7N7),,,8,Bulgarian,70% ethanol extracts of propolis,Kujumgiev et al. (1999) 101
+,,4,Mongolian,,,,
+,,4,Albanian,,,,
+,,4,Brazilian (Parana state),,,,
+,,4,Brazilian (Limera region),,,,
+,,35,Brazilian (Piani state produced by Melipona compressipes),,,,
+,,4,Brazilian (Parana state produced by Melipona quadrifasciata anthidioides).,,,,
+Influenza A virus (H1N1),,"62.0 ± 3.4 μg mL−1 AF‐05, 60.0 ± 3.7 μg mL−1 AF‐06, 59.1 ± 3.9 μg mL−1 AF‐07, 22.6 ± 2.0 μg mL−1 AF‐08, 19.5 ± 0.8 μg mL−1 AF‐17, 45.2 ± 7.8 μg mL−1 AF‐18, 34.6 ± 4.0 μg mL−1 AF‐19, <10 μg mL−1 AF‐20, 60.3 ± 8.1 μg mL−1 AF‐M1, 101.2 ± 2.0 μg mL−1 AF‐M2, 111.6 ± 25.1 μg mL−1 AF‐M3, 54.3 ± 3.5 μg mL−1 AF‐G1, 36.8 ± 16.9 μg mL−1 AF‐G12",,South Brazilian propolis ethanol extracts,,Shimizu et al. (2008) 102,
+,HSV‐2,0.00%,,80,aqueous propolis extract from the Czech Republic (Moravia),,Nolkemper et al. (2010) 98
+0.00%,,42.5,ethanolic propolis extract from the Czech Republic (Moravia),,,,
+,HSV‐1,0.00%,,100,aqueous propolis extract from the Czech Republic (Moravia),,Schnitzler et al. (2010) 90
+0.00%,,485,ethanolic propolis extract from the Czech Republic (Moravia),,,,
+,HSV‐1,,61.0 ± 0.2 μg mL−1,1.5,Rio Grande do Sul state from Baccharis erioclada,Brazilian propolis ethanol extract,Shimizu et al. (2011) 91
+,51.4 ± 1.3 μg mL−1,1.6,Minas Gerais state from Baccharis dracunculifolia,,,,
+,>50 μg mL−1,<0.9,Rio Grande do Sul state from Myrceugenia euosma,,,,
+Influenza A virus (H1N1),,183.1 ± 6.0 μM,,propolis water extract,Brazilian green propolis water extract,Urushisaki et al. (2011) 103,
+Varicella zoster virus (VZV),64 μg mL−1,,,The Czech Republic propolis special extract GH 2002,,Labska et al. (2018) 84,
+H1N1,35.29 ± 4.08 μg mL−1,,,Italian popular propolis,,Governa et al. (2019) 105,
+,HSV‐1,"90.5 μg mL−1 (simultaneous inhibition), 124 μg mL−1 (virucidal inhibition), 149 μg mL−1 (adsorption inhibition)",,"4.6 (simultaneous inhibition), 3.4 (virucidal inhibition), 2.8 (adsorption inhibition)",ethyl acetate fraction,Brazilian propolis extracts,Hochheim et al. (2019) 95
+294 μg mL−1 (simultaneous inhibition),,1.2 (simultaneous inhibition),butanol fraction,,,,
+188 μg mL−1 (simultaneous inhibition),,1.2 (simultaneous inhibition),dichloromethane fractions FM14,,,,
+"58.5 μg mL−1 (simultaneous inhibition), 36 μg mL−1 (virucidal inhibition), 227.9 μg mL−1 (adsorption inhibition)",,"4.9 (simultaneous inhibition), 8 (virucidal inhibition), 1.3 (adsorption inhibition)",Dichloromethane fractions FM48,,,,
+,HSV‐1,,86.6 ± 5.0 μg mL−1,6.8,Glycolic propolis extracts,,Demir et al. (2020) 96
+,90.9 ± 5.7 μg mL−1,4.1,Ethanolic propolis extracts,,,,
+,768.0 ± 6.7 μg mL−1,2.2,Glyceric propolis extracts,,,,
+,501.0 ± 7.4 μg mL,3.3,Soya oil propolis extracts,,,,
+HSV‐2,,92.1 ± 3.9 μg mL−1,6.4,Glycolic propolis extracts,,,
+,49.0 ± 5.4 μg mL−1,7.7,Ethanolic propolis extracts,,,,
+,904.1 ± 4.9 μg mL,1.9,Glyceric propolis extracts,,,,
+,396.1 ± 4.8 μg mL−1,4.2,Soya oil propolis extracts,,,,
+Newcastle disease virus (NDV),,78.31 ± 5.17 μg mL−1,1.39,Egyptian ethanolic propolis extract,,Alkhalefa et al. (2022) 100,
+,Norovirus GII.4,0.44%,,,96% ethanol propolis,,Ruoff et al. (2022) 80
+1.74%,,,DMSO propolis,,,,
+Norovirus GII.10,0.57%,,,96% ethanol propolis,,,
+5.38%,,,DMSO propolis,,,,
+HSV‐2,800 ± 160 μg mL−1,,3.12,Thailand's ethanolic extract of propolis,,Sangboonruang et al. (2022) 97,
+,Human coronavirus 229E (HCoV‐229E),,19.080 ± 1.23 μg mL−1,,Brazilian green propolis extract,,Silva‐Beltrán et al. (2022) 85
+,31.251 ± 0.98 μg mL−1,,Brazilian red propolis extract,,,,
+,11.240 ± 0.99 μg mL−1,,Mexican brown propolis extract,,,,
+,Human coronavirus strain OC‐43 (HCoV OC‐43),6.0 ± 0.5 μg mL−1,,20.2,propolis samples 1–6,,Vilhelmova‐Ilieva et al. (2023) 87
+HSV‐1,3.09 ± 0.65 μg mL,,27.2,,,,
+Human adenovirus type 5 (HAdV‐5),7.85 ± 0.25 μg mL−1,,7.9,,,,
+Respiratory syncytial virus type 2 (RSV‐2),30.32 ± 1.4 μg mL,,4.22,,,,
+Human rhinovirus type 14 (HRV‐14),7.2 ± 0.2 μg mL−1,,15.95,,,,

@@ -1,0 +1,15 @@
+comparison,statistic,p_value,n_extracted,n_nonextracted
+publication year (Mann-Whitney),"U=18722, medians 2022 vs 2020",0.0004934522433773742,100,304
+top-10 journal membership (chi2),"chi2=9.66, top10 share 0.45 vs 0.28",0.0018833811380916073,100,304
+open-access flag (chi2),"chi2=57.07, OA share 0.69 vs 0.26",4.198064649216053e-14,100,304
+flag f_dilution (chi2),"chi2=2.57, f_dilution share 0.41 vs 0.32",0.10859875313482636,100,304
+flag f_mic (chi2),"chi2=3.90, f_mic share 0.63 vs 0.51",0.04825722504583178,100,304
+flag f_peroxide (chi2),"chi2=0.37, f_peroxide share 0.26 vs 0.22",0.5424330075138674,100,304
+flag f_osmotic (chi2),"chi2=0.05, f_osmotic share 0.11 vs 0.12",0.824304962959777,100,304
+flag f_mgo (chi2),"chi2=1.47, f_mgo share 0.21 vs 0.15",0.22486586344972104,100,304
+flag f_chem (chi2),"chi2=5.72, f_chem share 0.90 vs 0.79",0.016803355647771325,100,304
+flag f_zone (chi2),"chi2=0.64, f_zone share 0.28 vs 0.23",0.4221284047839581,100,304
+flag f_orgs (chi2),"chi2=6.65, f_orgs share 0.79 vs 0.64",0.009902568781357934,100,304
+flag f_quant (chi2),"chi2=0.01, f_quant share 0.85 vs 0.84",0.9141179534232373,100,304
+flag f_manuka (chi2),"chi2=2.80, f_manuka share 0.50 vs 0.40",0.09419060435012547,100,304
+relevance score (Mann-Whitney),"U=20486, medians 7.0 vs 5.5",1.6275440447323134e-07,100,304

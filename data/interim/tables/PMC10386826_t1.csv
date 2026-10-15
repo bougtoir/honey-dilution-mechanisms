@@ -1,0 +1,14 @@
+Group,Species,Honeypot1,,,Artificial,Jarrah,Manuka
+MIC100,MIC80,MIC50,MIC100,,,,
+Bacteria,Staphylococcus aureus,8,8,8,>32,16,8
+Enterococcus faecalis,>32,32,32,>32,16,16,
+Pseudomonas aeruginosa,>32,>32,32,32,16,16,
+Escherichia coli,>32,32,32,>32,16,16,
+Yeasts,Candida albicans,>32,>32,>32,>32,16,16
+Candida glabrata,>32,>32,>32,>32,16,16,
+Cryptococcus neoformans,16,8,8,>32,16,16,
+Cryptococcus deuterogattii,32,16,16,>32,16,16,
+Moulds,Aspergillus fumigatus,16,16,16,>32,16,16
+Aspergillus flavus,16,16,8,>32,16,16,
+Fusarium oxysporum,32,32,32,>32,16,8,
+Microsporum gypseum,32,32,32,>32,8,8,

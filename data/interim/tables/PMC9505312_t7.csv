@@ -1,0 +1,12 @@
+Microorganisms,Samples % (v/v),,,,,,Controls (µg/mL),
+EO,,Honey,,Mixture,,Chloramphenicol,Nystatin,
+MIC,MBC,MIC,MBC,MIC,MBC,MIC/MBC,MIC,
+E. coli ATCC 25922,0.5,1,4,>8,2,2,4,NT
+P. mirabilis ATCC 25933,0.5,1,4,>8,2,2,4,NT
+S. enterica Typhimurium ATCC 700408,1,1,4,>8,2,2,64,NT
+Pseudomonas aeruginosa 27853,4,>8,>8,>8,4,>8,>64,NT
+S. aureus ATCC 29213,0.25,0.25,2,4,1,1,4,NT
+L. monocytogenes ATCC 13932,0.25,0.25,2,4,1,1,2,NT
+Candida albicans,0.5,NT,2,NT,1,NT,NT,4
+Trichophyton rubrum,2,NT,8,NT,4,NT,NT,16
+Aspergillus niger,1,NT,4,NT,2,NT,NT,16

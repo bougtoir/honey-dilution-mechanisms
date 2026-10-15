@@ -1,0 +1,20 @@
+,Minimum Inhibitory Concentrations of Each Honey Solution (75% w/v),,,,,,,,,,,,,,,,,,,,,,,
+Bacteria,75.00,,,37.50,,,18.75,,,9.38,,,4.70,,,,2.35,,,,,1.17,,
+M,CS,CW,M,CS,CW,M,CS,CW,M,CS,CW,M,CS,CW,,M,,CS,,CW,M,CS,CW,
+E. coli,−,−,−,−,−,−,−,−,−,+,+,+,+,+,+,,+,,+,,+,+,+,+
+S. aureus,−,−,−,−,−,−,−,−,−,+,+,+,+,+,+,,+,,+,,+,+,+,+
+P. aeruginosa,−,−,−,−,−,−,−,−,−,+,+,+,+,+,+,,+,,+,,+,+,+,+
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Minimum Inhibitory Concentrations of Each Honey Solution (50% w/v),,,,,,,,,,,,,,,,,,,,,,,
+Bacteria,50.00,,,25.00,,,12.50,,,6.25,,,3.12,,,,1.60,,,,,,,
+M,CS,CW,M,CS,CW,M,CS,CW,M,CS,CW,M,CS,CW,,M,,CS,,CW,,,,
+E. coli,−,−,−,−,−,−,−,−,−,+,+,+,+,+,+,,+,,+,,+,,,
+S. aureus,−,−,−,−,−,−,−,−,−,+,+,+,+,+,+,,+,,+,,+,,,
+P. aeruginosa,−,−,−,−,−,−,−,−,−,+,+,+,+,+,+,,+,,+,,+,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Minimum Inhibitory Concentrations of Each Honey Solution (10% w/v),,,,,,,,,,,,,,,,,,,,,,,
+Bacteria,10.00,,,5.00,,,2.50,,,1.25,,,,,,,,,,,,,,
+M,CS,CW,M,CS,CW,M,CS,CW,M,CS,CW,,,,,,,,,,,,,
+E. coli,−,−,−,+,+,+,+,+,+,+,+,+,,,,,,,,,,,,
+S. aureus,−,−,−,+,+,+,+,+,+,+,+,+,,,,,,,,,,,,
+P. aeruginosa,−,−,−,+,+,+,+,+,+,+,+,+,,,,,,,,,,,,

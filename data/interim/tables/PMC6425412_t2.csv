@@ -1,0 +1,8 @@
+Districts,,Regression Equation,R2,IC50 (mg/mL)
+Tigray,Axum,y = 0.255x + 15.870,0.962,133.84b
+,D/Tembien,y = 0.255x + 2.966,0.962,184.45a
+,R/Azebo,y = 0.233x + 29.950,0.959,86.05d
+Amhara,Burie,y = 0.246x + 31.230,0.954,76.30e
+,Geregera,y = 0.255x + 24.480,0.962,100.08c
+,Liben,y = 0.207x + 37.480,0.949,60.48f
+Ascorbic acid,,y = 419.5x + 41.170,0.999,0.021

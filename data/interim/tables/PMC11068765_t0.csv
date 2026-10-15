@@ -1,0 +1,13 @@
+"Honey type, plant name",Year,"Sensory characteristics (color, odor and consistency)",ABS450–720 (mAU),Electrical conductivity (mS/cm),pH
+"Black locust, Robinia pseudoacacia",2020,"Light amber, weak odor, liquid, viscous",103.1 ± 3.0a,0.132 ± 0.01,3.30 ± 0.02
+2021,"Light amber, weak odor, liquid, viscous",99.3 ± 3.3a,0.121 ± 0.01,3.22 ± 0.03,
+2022,"Pale, yellowish green, weak odor, liquid, viscous",44.4 ± 1.7b,0.126 ± 0.01,3.27 ± 0.06,
+"Goldenrod, Solidago gigantea",2020,"Dark amber, moderately intense odor, semisolid, fine granulated",280.7 ± 1.5a,0.624 ± 0.01,3.56 ± 0.03
+2021,"Dark amber, moderately intense odor, semisolid, fine granulated",279.4 ± 1.9a,0.609 ± 0.01,3.52 ± 0.04,
+2022,"Amber, moderately intense odor, semisolid, fine granulated",236.9 ± 3.2b,0.615 ± 0.00,3.59 ± 0.03,
+"Linden, Tilia spp.",2020,"Amber, strong odor, semisolid fine granulated",221.9 ± 1.7a,0.567 ± 0.03,4.27 ± 0.04
+2021,"Amber, strong odor, semisolid fine granulated",211.1 ± 3.4b,0.607 ± 0.02,4.32 ± 0.03,
+2022,"Light amber, strong odor, semisolid, fine granulated",166.3 ± 4.0c,0.592 ± 0.02,4.19 ± 0.03,
+"Sunflower, Helianthus annuus",2020,"Dark golden yellow, weak odor, semisolid, coarse granulated",422.8 ± 2.0a,0.221 ± 0.01,3.68 ± 0.04
+2021,"Dark golden yellow, weak odor, semisolid, coarse granulated",413.5 ± 4.2a,0.224 ± 0.01,3.61 ± 0.05,
+2022,"Golden yellow, weak odor, semisolid, coarse granulated",116.6 ± 1.5b,0.223 ± 0.01,3.66 ± 0.04,

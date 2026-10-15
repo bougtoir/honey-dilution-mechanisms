@@ -1,0 +1,11 @@
+Treatments,,Total protein,Albumin,Globulin,Uric acid,Creatinine,Triglycerides,Cholesterol,AST,ALT,HI
+,,( gdL-1 ),( gdL-1 ),( gdL-1 ),( mgdL-1 ),( mgdL-1 ),( mgdL-1 ),( mgdL-1 ),( UL-1 ),( UL-1 ),(log2)
+Control,,5.60b,3.00b,2.60b,5.00a,1.39a,186.00a,218.20a,60.14,67.10a,3.00e
+13 mL honey,Daily,6.20a,3.20a,3.00a,3.51b,1.30b,182.30b,212.50bc,59.60,65.12b,3.70c
+per L,Day after day,6.18a,3.17a,3.01a,3.42b,1.23c,183.30ab,213.30b,59.54,63.72bcd,3.60c
+,Day after 2 d,6.17a,3.16a,3.01a,3.31bc,1.22cd,184.40ab,213.59b,57.90,62.70cd,3.40d
+26 mL honey,Daily,6.30a,3.23a,3.07a,3.20cd,1.21cd,181.50b,208.30cd,59.19,64.04cb,4.30a
+per L,Day after day,6.28a,3.22a,3.06a,3.12cd,1.20d,182.50b,209.50cd,58.56,63.0cd,4.20a
+,Day after 2 d,6.26a,3.21a,3.05a,3.05d,1.11e,183.10b,210.30d,58.28,62.79d,3.90b
+P value,,0.002,0.001 >,0.001 >,0.001 >,0.001 >,0.026,0.001 >,0.865,0.001 >,0.001 >
+SEM,,0.02,0.01,0.02,0.03,0.01,0.92,0.98,0.68,0.60,0.06

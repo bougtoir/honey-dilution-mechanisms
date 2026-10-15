@@ -1,0 +1,6 @@
+,B. subtilis,,,E. coli,,,S. aureus,,,P. aeruginosa,,
+,Length,Lysis,DNA,Length,Lysis,DNA,Length,Lysis,DNA,Length,Lysis,DNA
+M3 lag,↓ (1.8x),–,Condensed (29%),↓ (1.8x),–,–,↓ (1.2x),–,Condensed (57%),↑ (1.1x),–,–
+M3 log,↓ (1.4x),–,Condensed (23%),↑ (1.6x),–,–,↓ (1.2x),–,Condensed (57%),↓ (1.1x),–,Condensed (2%)
+MK1 lag,↓ (1.2x),34%,Dispersed (90%),–,–,–,↓ (1.1x),–,–,–,–,–
+MK1 log,↓ (1.2x),2%,Dispersed (99%),–,–,–,–,–,–,↓ (1.6x),–,Condensed (2%)

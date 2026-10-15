@@ -1,0 +1,12 @@
+,Honey Sample,,Antibiotic Control,,,
+Bacteria,LHH,,Vancomycin,,Meropenem,
+,MIC,MBC,MIC,MBC,MIC,MBC
+S. aureus ATCC 25923,0.0125,0.0125,10−6,10−6,ND *,ND
+MRSA ATCC 43300,0.0125,0.0125,5 × 10−7,10−6,ND,ND
+P. aeruginosa ATCC 27853,0.1,0.1,ND,ND,6.4 × 10−8,6.4 × 10−8
+E. coli ATCC 25922,0.05,0.1,ND,ND,6 × 10−9,6 × 10−9
+A. baumannii 19606,0.05,0.05,ND,ND,>3.2 × 10–5,>3.2 × 10–5
+S. Typhimurium ATCC 14028,0.1,0.1,2.0 × 10−6,2.0 × 10−6,ND,ND
+E. faecalis ATCC 25212,0.1,0.2,1.0 × 10−6,1.0 × 10−6,ND,ND
+L. monocytogenes ATCC 1915,0.1,0.1,1.0 × 10−6,1.0 × 10−6,ND,ND
+B. cereus ATCC 10876,0.1,0.1,2.0 × 10−6,2.0 × 10−6,ND,ND

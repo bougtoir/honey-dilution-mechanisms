@@ -1,0 +1,12 @@
+No,Compound name,Chemical class,RT,MW,Chemical formula,[m/z]−,[m/z]+
+1,6-(alpha-D-Glucosaminyl)-1D-myo-inositol,Aminocyclitol glycosides,0.929,341.1312,C12 H23 N O10,—,342.1385
+2,L-Gulonate,Sugar acid,1.062,196.0579,C6 H12 O7,195.0507,—
+3,Pro-Arg,Dipeptide,1.223,271.1647,C11 H21 N5 O3,—,294.1539
+4,Anabasamine,Alkaloid,1.666,253.1543,C16 H19 N3,—,276.1435
+5,Bakankoside,Glycoside,3.038,357.144,C16 H23 N O8,—,380.133
+6,Asp-Trp-His,Tripeptide,3.922,456.1732,C21 H24 N6 O6,—,457.1808
+7,Trp-Arg-Ala,Tripeptide,12.066,431.230,C20 H29 N7 O4,,432.237
+8,Palmitic amide,Fatty acid amide,17.145,255.2559,C16 H33 N O,—,256.263
+9,Stearamide,Fatty acid amide,18.765,283.287,C18 H37 N O,—,284.2942
+10,"10,16-Heptadecadien-8-ynoic acid, 7-hydroxy, (E)",Fatty acid,20.188,278.1935,C17 H26 O3,277.1865,—
+11,14-Fluoro-myristic acid,Fatty acid,27.191,246.2011,C14 H27 F O2,291.1997,—

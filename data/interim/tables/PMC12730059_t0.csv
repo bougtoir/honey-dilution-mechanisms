@@ -1,0 +1,18 @@
+,Protegol,
+Gram-Positive Strains,MIC (mg/mL),MBC(mg/mL)
+Staphylococcus aureus ATCC 25923,1.5,3.1
+Staphylococcus aureus ATCC 29213,1.5,3.1
+Staphylococcus aureus ATCC 43300 (MRSA),3.1,6.2
+Streptococcus mutans ATCC 25175,3.1,6.2
+Streptococcus pneumoniae ATCC 10015,6.2,12.4
+Streptococcus pyogenes ATCC 19615,3.1,6.2
+Streptococcus salivarius ATCC 13419,6.2,12.4
+Streptococcus sanguinis ATCC 10556,3.1,6.2
+Gram-Negative Strains,,
+Klebsiella pneumoniae ATCC 13883,3.1,6.2
+Klebsiella pneumoniae ATCC 700603,6.2,12.4
+P. aeruginosa ATCC 27853,6.2,12.4
+Clinical Isolates,,
+Staphylococcus aureus BS,3.1,3.1
+Streptococcus pyogenes F,1.5,3.1
+Klebsiella pneumoniae BS,6.2,12.4

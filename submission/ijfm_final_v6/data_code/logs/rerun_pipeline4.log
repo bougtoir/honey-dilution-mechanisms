@@ -1,0 +1,32 @@
+103 refs; crossref-ok 103; fallback/missing ref text 0
+unresolved: []
+context refs: 5 | {'ok': 5}
+              intext cr_status
+ Willix et al., 1992        ok
+Kwakman et al., 2010        ok
+ Cooper et al., 1999        ok
+Kwakman et al., 2011        ok
+   Bang et al., 2003        ok
+python3 scripts/13b_manuscript_fri.py
+wrote manuscript_fri.docx; 10 cited references (+ 103 synthesis-corpus refs in Supplementary Table S11)
+python3 scripts/14b_supplement_fri.py
+wrote supplement_fri.docx
+python3 scripts/15b_fri_extras.py
+wrote graphical_abstract.png/.tiff
+wrote highlights.docx/.txt; [72, 62, 71, 70, 70]
+wrote cover_letter_fri.docx
+python3 scripts/16b_qc_fri.py
+wrote 01_fabrication_audit.txt
+wrote 02_consistency_audit.txt
+wrote 03_formatting_placeholder_audit.txt
+wrote 04_citation_audit.txt
+wrote 05_figtable_audit.txt
+wrote 06_doi_reference_audit.txt
+wrote 07_ip_firewall_scan.txt
+wrote 08_reproducibility_check.txt
+wrote 09_reviewer_assessment.txt
+wrote 10_rob_summary.txt
+python3 scripts/17b_package_fri.py
+wrote tables_fri.docx
+wrote /home/ubuntu/repos/wip/honey-dilution-mechanisms/submission/fri_final/Fri_submission_package.zip (97 files, 7.1 MB)
+wrote Fri_main_manuscript.docx (1.0 MB)

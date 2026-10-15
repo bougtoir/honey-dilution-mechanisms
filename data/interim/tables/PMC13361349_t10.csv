@@ -1,0 +1,15 @@
+Variable Pair,Pearson r,p-Value,Strength
+TPC vs. DPPH,0.78,(p < 0.01),Strong positive
+TPC vs. ABTS (IC50),−0.85,(p < 0.001),Strong negative
+TFC vs. DPPH,0.72,(p < 0.01),Strong positive
+TFC vs. ABTS (IC50),−0.79,(p < 0.001),Strong negative
+TPC vs. Anti-inflammatory,0.62,(p < 0.01),Moderate positive
+TFC vs. Anti-inflammatory,0.54,(p < 0.05),Moderate positive
+Vitamin C vs. DPPH,0.45,(p < 0.05),Moderate positive
+Vitamin C vs. ABTS (IC50),−0.38,(p < 0.05),Moderate negative
+Potassium (K) vs. DPPH,0.68,(p < 0.01),Moderate positive
+Potassium (K) vs. Anti-inflammatory,0.52,(p < 0.05),Moderate positive
+Magnesium (Mg) vs. DPPH,0.61,(p < 0.01),Moderate positive
+Fructose vs. GI,−0.71,(p < 0.01),Strong negative
+Fructose vs. ABTS (IC50),−0.42,(p < 0.05),Moderate negative
+TPC vs. GI,−0.35,(p < 0.05),Weak negative

@@ -1,0 +1,35 @@
+,Data Related to Figure 1a,,Data Related to Figure 1b,
+Principal Component (PC) Number,1,2,1,2
+Eigenvalue,11.693,5.220,6.952,0.666
+% variance,39.00%,17.40%,77.20%,7.40%
+Component score correlation,,,,
+Color intensity,−0.634,−0.698,,
+Moisture content,−0.764,−0.407,,
+Water activity,−0.560,−0.390,,
+Total soluble solid,0.763,0.408,,
+Proline,0.285,−0.608,,
+Electrical conductivity,−0.465,0.720,,
+Ash content,−0.822,0.334,−0.891,0.310
+Diastase,−0.330,0.206,,
+Hydrogen peroxide,−0.886,−0.147,−0.878,−0.324
+pH,−0.107,0.179,,
+Free acidity,−0.842,−0.201,−0.811,−0.438
+Gluconic acid,0.288,0.686,,
+Acetic acid,0.164,0.715,,
+HMF,−0.040,−0.666,,
+Na,−0.710,0.268,,
+K,−0.817,0.235,−0.892,0.307
+Mg,−0.876,0.245,−0.876,0.158
+Ca,−0.863,−0.127,−0.810,−0.229
+Fe,−0.452,0.413,,
+Zn,−0.375,0.654,,
+Mn,−0.137,0.450,,
+Cr,0.159,0.005,,
+Total mineral elements,−0.916,0.250,−0.945,0.219
+Total phenolic compounds,−0.817,−0.285,−0.851,−0.204
+ABTS radical scavenging activity,−0.653,−0.196,,
+DPPH radical scavenging activity,−0.300,0.478,,
+Superoxide radical scavenging activity,−0.632,−0.259,,
+Peroxyl radical inhibition,−0.598,−0.302,,
+Iron chelation,−0.658,0.290,,
+Ferric reducing power,−0.907,0.178,−0.945,0.110

@@ -1,0 +1,81 @@
+Disease,Pathogen,Honey varieties,Effect on pathogen,References
+Bacteria,,,,
+American foulbrood,Paenibacillus larvae,Black Locust (Robinia pseudoacacia),Growth inhibition,(65–68)
+,,Canola/Rape (Brassica rapa),,
+,,Citrus (Citrus spp.),,
+,,Clover (Trifolium alexandrium),,
+,,Cotton (Gossypin barbadens),,
+,,Heather (Calluna vulgaris),,
+,,Honeydew,,
+,,Linden (Tillia sp.),,
+,,Romanian Polyfloral,,
+,,Sunflower (Helianthus annuus),,
+European foulbrood,Melissococcus plutonius,Black Locust (Robinia pseudoacacia),Growth inhibition,(67)
+,,Romanian Polyfloral,,
+,,Sunflower (Helianthus annuus),,
+European foulbrood (Secondary invaders),Bacillus pumilus,Black Locust (Robinia pseudoacacia),Growth inhibition,(67)
+,,Romanian Polyfloral,,
+,,Sunflower (Helianthus annuus),,
+,Brevibacillus laterosporus,Black Locust (Robinia pseudoacacia),Growth inhibition,(67)
+,,Romanian Polyfloral,,
+,,Sunflower (Helianthus annuus),,
+,Enterococcus faecalis,Activon (Leptospermum spp.),Growth inhibition,(69–76)
+,,African Beech (Faurea saligna),,
+,,Algarrobo (Prosopis nigra),,
+,,Almond (Prunus dulcis),,
+,,Anzer Brand Turkish Honey,,
+,,Argentinian Polyfloral,,
+,,Australian Polyfloral,,
+,,Banksia (Banksia spp.),,
+,,Blackbutt (Eucalyptus patens),,
+,,Bottlebrush (Callistemon spp.),,
+,,Brazilian Polyfloral,,
+,,“Capilano” Brand Australian Honey,,
+,,Citrus (Citrus limon),,
+,,Cuban Polyfloral,,
+,,Eucalyptus (Eucalyptus spp.),,
+,,Jarrah (Eucalyptus marginata),,
+,,Lemon (Citrus limon),,
+,,Manuka (Leptospermum scoparium),,
+,,Manuka (Leptospermum subtenue),,
+,,Marri (Corymbia calophylla),,
+,,Medlar (Mespilus germanica),,
+,,Mexican polyfloral,,
+,,Moort (Eucalyptus platypus),,
+,,Orange (Citrus spp.),,
+,,Prickly Pear (Optunia spp.),,
+,,Rhododendron (Rhododendron spp.),,
+,,Rubus (Castnea sativa),,
+,,Spanish polyfloral,,
+,,Turkish polyfloral,,
+,,Wandoo (Eucalyptus wandoo),,
+,Paenibacillus alvei,Black locust (Robinia pseudoacacia),Growth inhibition,(67)
+,,Romanian Polyfloral,,
+,,Sunflower (Helianthus annuus),,
+Fungi,,,,
+Nosemosis,Nosema apis,Manuka (Leptospermum scoparium),Decreased spore viability,(77)
+,,New Zealand Polyfloral,,
+,Nosema ceranae,Black Locust (Robinia pseudoacacia),Decreased spore load in infected bees,(19)
+,,Sunflower (Helianthus annuus),,
+Stonebrood,Aspergillus flavus,Almond (Prunus dulcis),Growth inhibition,"(72, 78, 79)"
+,,Lemon (Citrus limon),,
+,,Manuka (Leptospermum scoparium),,
+,,Medlar (Mespilus germanica),,
+,,Orange (Citrus spp.),,
+,,Prickly Pear (Optunia spp.),,
+,,Unspecified Pakistani Honey,,
+,,Unspecified Nigerian Honey,Growth and sporulation reduction,(80)
+,,Orange (Citrus spp.),Prevention of aflatoxin production,(81)
+,Aspergillus fumigatus,Unspecified Nigerian Honey,Growth and sporulation reduction,(80)
+,,Beninese Polyfloral Honey,Growth inhibition,"(78, 79, 82)"
+,,Manuka (Leptospermum scoparium),,
+,,Unspecified Pakistani Honey,,
+,Aspergillus niger,Acacia (Robinia pseudoacacia),Growth inhibition,"(78, 83–85)"
+,,“Apis” Brand Himalayan Honey,,
+,,“Dabur” Brand Indian Honey,,
+,,“Khadi” Brand Indian Honey,,
+,,Malaysian Tualang Polyfloral,,
+,,Siddar (Ziziphus jujube),,
+,,Unspecified Pakistani Honey,,
+,Aspergillus parasiticus,Orange (Citrus spp.),Prevention of aflatoxin production,(81)
+,,Beninese Polyfloral Honey,Growth inhibition,(82)

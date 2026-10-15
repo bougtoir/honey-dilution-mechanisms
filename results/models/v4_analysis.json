@@ -1,0 +1,173 @@
+{
+  "A1_v4": {
+    "n_series_total": 17,
+    "n_activity_series": 10,
+    "n_activity_series_ge4": 7,
+    "positive": 10,
+    "negative": 0,
+    "flat": 0,
+    "median_rho": 0.9999999999999999,
+    "median_rho_ge4": 0.9999999999999999,
+    "studies": [
+      "PMC11376693",
+      "PMC11792292",
+      "PMC12532491"
+    ],
+    "criteria": "honey+organism+assay identified; concentration basis present; >=3 distinct ordered concentrations (>=4 in sensitivity). No outcome-side condition."
+  },
+  "A6_basis": {
+    "pooled_median_all_pct": 18.0,
+    "basis_n": {
+      "% (basis unspecified)": 1013,
+      "%v/v": 513,
+      "%w/v": 376,
+      "%w/w": 86
+    },
+    "basis_medians": {
+      "% (basis unspecified)": {
+        "B. cereus/Bacillus": 24.75,
+        "E. coli": 25.0,
+        "E. faecalis": 12.5,
+        "H. influenzae": 33.75,
+        "K. pneumoniae": 20.0,
+        "L. monocytogenes": 37.5,
+        "MRSA": 12.5,
+        "MSSA": 9.375,
+        "P. aeruginosa": 24.0,
+        "Proteus": 25.0,
+        "S. aureus": 14.1,
+        "S. epidermidis": 12.5,
+        "S. mutans": 10.0,
+        "S. pyogenes": 25.0,
+        "Salmonella": 25.0,
+        "fungal": 27.5,
+        "other": 20.0
+      },
+      "%v/v": {
+        "B. cereus/Bacillus": 12.5,
+        "E. coli": 8.0,
+        "H. pylori": 16.67,
+        "K. pneumoniae": 17.0,
+        "L. monocytogenes": 2.0,
+        "MRSA": 6.25,
+        "P. aeruginosa": 10.25,
+        "Proteus": 4.0,
+        "S. aureus": 12.5,
+        "Salmonella": 12.5,
+        "fungal": 4.0,
+        "other": 22.5
+      },
+      "%w/v": {
+        "Burkholderia": 4.0,
+        "E. coli": 14.0,
+        "E. faecalis": 24.0,
+        "K. pneumoniae": 20.0,
+        "MRSA": 10.0,
+        "MSSA": 10.0,
+        "P. aeruginosa": 22.0,
+        "Proteus": 10.0,
+        "S. aureus": 12.415,
+        "fungal": 50.0,
+        "other": 10.0
+      },
+      "%w/w": {
+        "E. faecalis": 30.0,
+        "P. aeruginosa": 15.0,
+        "S. aureus": 7.199999999999999
+      }
+    },
+    "note": "Organism medians below are computed within each %-basis class only; the pooled figure mixes predominantly unspecified-basis rows and is descriptive.",
+    "organism_medians_pct": {
+      "B. cereus/Bacillus": 16.5,
+      "Burkholderia": 4.0,
+      "E. coli": 20.0,
+      "E. faecalis": 21.5,
+      "H. influenzae": 33.75,
+      "H. pylori": 16.67,
+      "K. pneumoniae": 20.0,
+      "L. monocytogenes": 4.0,
+      "MRSA": 12.5,
+      "MSSA": 10.0,
+      "P. aeruginosa": 21.0,
+      "Proteus": 25.0,
+      "S. aureus": 12.5,
+      "S. epidermidis": 12.5,
+      "S. mutans": 10.0,
+      "S. pyogenes": 25.0,
+      "Salmonella": 12.5,
+      "fungal": 27.5,
+      "other": 20.0
+    }
+  },
+  "A2_cluster": {
+    "n_studies": 7,
+    "median_ratio": 1.4607487922705313,
+    "all_directional": true,
+    "wilcoxon_p": 0.015625,
+    "outcomes_separate": {
+      "zone": {
+        "zone": {
+          "n_studies": 2,
+          "median_ratio": Infinity
+        }
+      }
+    },
+    "by_outcome": {
+      "zone": {
+        "n_studies": 2,
+        "median_ratio": Infinity,
+        "ratios": {
+          "PMC7076972": Infinity,
+          "PMC8304482": 1.4607487922705313
+        }
+      },
+      "mic_mbc": {
+        "n_studies": 5,
+        "median_ratio": 1.302767840331388,
+        "wilcoxon_p": 0.0625,
+        "ratios": {
+          "PMC11111008": 1.1851851851851851,
+          "PMC13460517": 1.9523809523809523,
+          "PMC3406342": 1.302767840331388,
+          "PMC6659206": 2.6923076923076925,
+          "PMC8234392": 1.0571895424836601
+        }
+      }
+    }
+  },
+  "A6_cluster": {
+    "organism_n_studies": {
+      "B. cereus/Bacillus": 6,
+      "Burkholderia": 1,
+      "E. coli": 22,
+      "E. faecalis": 7,
+      "Enterobacter": 3,
+      "H. influenzae": 2,
+      "H. pylori": 2,
+      "K. pneumoniae": 10,
+      "L. monocytogenes": 4,
+      "MRSA": 11,
+      "MSSA": 4,
+      "Mycobacterium": 1,
+      "P. aeruginosa": 25,
+      "Proteus": 5,
+      "S. aureus": 25,
+      "S. epidermidis": 4,
+      "S. mutans": 3,
+      "S. pyogenes": 4,
+      "Salmonella": 11,
+      "fungal": 10,
+      "other": 9
+    },
+    "note": "Organism-level Kruskal-Wallis across rows pools within-study replicates; study-level medians per organism reported instead. Inferential organism contrast withheld: organism is confounded with study, so clusters are too few and non-exchangeable for a valid pooled test."
+  },
+  "A6_manuka_cluster": {
+    "n_studies_manuka": 12,
+    "n_studies_other": 43,
+    "n_studies_paired": 11,
+    "paired_median_diff": -5.0,
+    "study_level_medians_manuka": 14.5,
+    "study_level_medians_other": 17.5,
+    "note": "Row-level Mann-Whitney treats within-study MICs as independent; study-level medians reported as the defensible summary. Pooled MWU retained as descriptive nominal contrast only."
+  }
+}

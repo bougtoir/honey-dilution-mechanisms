@@ -1,0 +1,22 @@
+Sample number,Bacterial strain,Enzymes possessed,MIC Result for used Carbapenems,,
+Ertapenem,Imipenem,Meropenem,,,
+1,Klebsiella pneumoniae,"C, O",>8,2,>16
+2,Klebsiella pneumoniae,"C, O",>8,2,>16
+3,Klebsiella pneumoniae,"C, O",>8,2,>16
+4,Klebsiella pneumoniae,"C, O, N",>8,>16,>16
+5,Klebsiella pneumoniae,"C, O",>8,2,>16
+6,Klebsiella pneumoniae,"C, O",>8,2,>16
+7,Escherichia coli,"C, N",>8,>16,>16
+8,Klebsiella pneumoniae,"C, O",>8,2,>16
+9,Klebsiella pneumoniae,"C, N",>8,>16,>16
+10,Escherichia coli,"C, N",>8,>16,>16
+11,Klebsiella pneumoniae,"C, N",>8,>16,8
+12,Klebsiella pneumoniae,"C, O",>8,>2,4
+13,Klebsiella pneumoniae,"C, O",>8,>2,>16
+14,Klebsiella ozaenae,"C, O",>8,>16,>16
+15,Klebsiella pneumoniae,"C, O",>8,>2,4
+16,Klebsiella pneumoniae,"C, O",>8,8,>16
+17,Escherichia coli,"C, O",>8,>16,>16
+18,Escherichia coli,"C, O",>8,>2,4
+19,Klebsiella pneumoniae,"C, N",>8,>16,>16
+20,Klebsiella ozaenae,"C, O",>8,4,>16

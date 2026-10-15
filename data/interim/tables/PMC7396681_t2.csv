@@ -1,0 +1,13 @@
+Bacterial isolates,Binary combinations,Individual FIC,FIC index (FICI),Interaction interpretation
+S. mutans ATCC25175,PE + ME,0.500/0.500,=1,Synergy
+,ME + HE,1.000/0.667,>1,Indifference
+,HE + PE,0.667/1.000,>1,Indifference
+,AMX + PE,0.600/0.003,<1,Synergy
+,AMX + ME,0.600/0.003,<1,Synergy
+,AMX + HE,1.000/0.333,>1,Indifference
+R. dentocariosa Rd1,PE + ME,0.500/0.500,=1,Synergy
+,ME + HE,1.000/0.667,>1,Indifference
+,HE + PE,0.667/1.000,>1,Indifference
+,AMX + PE,0.667/0.002,<1,Synergy
+,AMX + ME,0.667/0.002,<1,Synergy
+,AMX + HE,1.000/0.002,>1,Indifference

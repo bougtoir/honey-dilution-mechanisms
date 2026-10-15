@@ -1,0 +1,1253 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="EN" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="iso-abbrev">ACS Appl Mater Interfaces</journal-id><journal-id journal-id-type="pmc-domain-id">822</journal-id><journal-id journal-id-type="pmc-domain">acssd</journal-id><journal-id journal-id-type="nlm-id">101504991</journal-id><journal-id journal-id-type="publisher-id">am</journal-id><journal-title-group><journal-title>ACS Applied Materials &amp; Interfaces</journal-title></journal-title-group><issn pub-type="ppub">1944-8244</issn><issn pub-type="epub">1944-8252</issn><?publisher_abbrev acs?><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>ACS AuthorChoice</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10739588</article-id><article-id pub-id-type="pmcid-ver">PMC10739588.1</article-id><article-id pub-id-type="pmcaid">10739588</article-id><article-id pub-id-type="pmcaiid">10739588</article-id><article-id pub-id-type="pmid">38055248</article-id><article-id pub-id-type="doi">10.1021/acsami.3c11910</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Layer-by-Layer Coatings
+of Collagen–Hyaluronic
+acid Loaded with an Antibacterial Manuka Honey Bioactive Compound
+to Fight Metallic Implant Infections</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name name-style="western"><surname>Udduttula</surname><given-names initials="A">Anjaneyulu</given-names></name><xref rid="aff1" ref-type="aff">†</xref><xref rid="aff5" ref-type="aff">⊥</xref></contrib><contrib contrib-type="author" id="ath2"><name name-style="western"><surname>Jakubovics</surname><given-names initials="N">Nicholas</given-names></name><xref rid="aff2" ref-type="aff">‡</xref></contrib><contrib contrib-type="author" id="ath3"><name name-style="western"><surname>Khan</surname><given-names initials="I">Imran</given-names></name><xref rid="aff3" ref-type="aff">§</xref></contrib><contrib contrib-type="author" id="ath4"><name name-style="western"><surname>Pontiroli</surname><given-names initials="L">Lucia</given-names></name><xref rid="aff3" ref-type="aff">§</xref></contrib><contrib contrib-type="author" id="ath5"><name name-style="western"><surname>Rankin</surname><given-names initials="KS">Kenneth S.</given-names></name><xref rid="aff4" ref-type="aff">∥</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath6"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3036-6594</contrib-id><name name-style="western"><surname>Gentile</surname><given-names initials="P">Piergiorgio</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">†</xref><xref rid="notes-2" ref-type="notes">#</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7728-1619</contrib-id><name name-style="western"><surname>Ferreira</surname><given-names initials="AM">Ana M.</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">†</xref><xref rid="notes-2" ref-type="notes">#</xref></contrib><aff id="aff1"><label>†</label>School
+of Engineering, <institution>Newcastle University</institution>, Newcastle Upon Tyne NE1
+7RU, <country>U.K.</country></aff><aff id="aff2"><label>‡</label>School
+of Dental Sciences, Faculty of Medical Sciences, <institution>Newcastle University</institution>, Newcastle
+Upon Tyne NE1 7RU, <country>U.K.</country></aff><aff id="aff3"><label>§</label><institution>Biomet
+UK Healthcare Ltd</institution>, Stella Building, Windmill Hill Business Park, Swindon SN5 6NX, <country>U.K.</country></aff><aff id="aff4"><label>∥</label>Translational
+and Clinical Research Institute, Faculty of Medical Sciences, <institution>Newcastle University</institution>, Newcastle upon Tyne NE2 4HH, <country>U.K.</country></aff><aff id="aff5"><label>⊥</label>Centre
+of Biomaterials, Cellular &amp; Molecular Theranostics (CBCMT), <institution>Vellore Institute of Technology (VIT)</institution>, Vellore, TN 632014, <country>India</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>piergiorgio.gentile@newcastle.ac.uk</email>.</corresp><corresp id="cor2"><label>*</label> Email: <email>ana.ferreira-duarte@newcastle.ac.uk</email>.</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>20</day><month>12</month><year>2023</year></pub-date><volume>15</volume><issue>50</issue><issue-id pub-id-type="pmc-issue-id">451535</issue-id><fpage>58119</fpage><lpage>58135</lpage><history><date date-type="received"><day>11</day><month>08</month><year>2023</year></date><date date-type="accepted"><day>16</day><month>11</month><year>2023</year></date><date date-type="rev-recd"><day>16</day><month>11</month><year>2023</year></date></history><pub-history><event event-type="pmc-release"><date><day>22</day><month>12</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>23</day><month>12</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-01-29 13:25:10.193"><day>29</day><month>01</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>© 2023 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="am3c11910.pdf"><?pdf-name am3c11910.pdf?><?pdf-size 5690536?><?pdf-md5 16cc427bd00b20aad50b89200c5c71b0?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:d995/10739588/16cc427bd00b/am3c11910.pdf?></self-uri><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="ab-tgr1" position="float" orientation="portrait" xlink:href="am3c11910_0009.jpg"><?image-name am3c11910_0009.jpg?><?image-size 96197?><?image-md5 155b39c59ebc1cea34f5c01edabf07e9?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 465?><?image-original-width 996?><?image-scaled-height 310?><?image-scaled-width 664?><?image-cloudpmc-urn urn:cdn:blobs/d995/10739588/155b39c59ebc/am3c11910_0009.jpg?><?thumb-name am3c11910_0009.gif?><?thumb-size 18159?><?thumb-md5 dd0ec6848f50057dbb8eb76fbf3d26e9?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 171?><?thumb-cloudpmc-urn urn:cdn:blobs/d995/10739588/dd0ec6848f50/am3c11910_0009.gif?></graphic></p><p>Implant-associated severe infections can result in catastrophic
+implant failures; thus, advanced antibacterial coatings are needed
+to combat infections. This study focuses on harnessing nature-inspired
+self-assembly of extracellular matrix (ECM)-like coatings on Ti alloy
+with a combination of jellyfish-derived collagen (J-COLL) and hyaluronic
+acid (HA) using our customized automated hybrid layer-by-layer apparatus.
+To improve the anti-infection efficacy of coatings, we have incorporated
+a natural antibacterial agent methylglyoxal (MGO, a Manuka honey compound)
+in optimized multilayer coatings. The obtainment of MGO-loaded multilayer
+coatings was successfully assessed by profilometry, contact angle,
+attenuated total reflectance (ATR)-Fourier transform infrared spectroscopy,
+scanning electron microscopy, and X-ray photoelectron spectroscopy. <italic toggle="yes">In vitro</italic> degradation confirmed the controlled release activity
+of MGO with a range of concentrations from 0.90 to 2.38 mM up to 21
+days. A bacterial cell culture study using <italic toggle="yes">Escherichia
+coli</italic> (<italic toggle="yes">E. coli</italic>) and <italic toggle="yes">Staphylococcus epidermidis</italic> (<italic toggle="yes">S. epidermidis</italic>) confirmed that the MGO incorporated within layers 7 and 9 had a
+favorable effect on preventing bacterial growth and colonization on
+their surfaces. An <italic toggle="yes">in vitro</italic> cytocompatibility study
+confirmed that MGO agents included in the layers did not affect or
+reduce the cellular functionalities of L929 fibroblasts. In addition,
+MGO-loaded layers with Immortalized Mesenchymal Stem Cells (Y201 TERT-hMSCs)
+were found to favor the growth and differentiation of Y201 cells and
+promote calcium nodule formation. Overall, these surface coatings
+are promising candidates for delivering antimicrobial activity with
+bone-inducing functions for future bone tissue engineering applications.</p></abstract><kwd-group><kwd>jellyfish collagen</kwd><kwd>hyaluronic acid</kwd><kwd>methylglyoxal</kwd><kwd>layer-by-layer</kwd><kwd>antibacterial coating</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>NIHR Newcastle Biomedical Research Centre</institution><institution-id institution-id-type="doi">10.13039/501100012295</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Orthopaedics Research UK</institution><institution-id institution-id-type="doi">NA</institution-id></institution-wrap></funding-source><award-id>536</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>am3c11910</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>am3c11910</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Implant-associated infections
+are a major concern in orthopedics.
+They can reduce implant function, lengthen the healing time, and cause
+implants to fail.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> These infections are
+often difficult to treat with antibiotics with potentially life-threatening
+consequences for patients and a severe economic burden.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> Extensive research has been directed toward improving
+the anti-infection ability of implants by different surface modification
+techniques including physical (etching, surface activation, ion implantation,
+etc.) and chemical (bioceramics, nanocomposites, polymeric coatings,
+etc.) approaches.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> In addition, implants have been
+coated with antibiotics<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> such as vancomycin,
+penicillin, and gentamycin and/or inorganic antibacterial agents<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> including silver, copper, gold, and zinc to reduce
+bacterial colonization and improve the performance of the implants.
+Furthermore, in recent years, a few studies have coated implants with
+antimicrobial peptides such as LL-37, HHC-36, GL13K, or bioabsorbable
+hydrogels to enhance the antibacterial activity of implant surfaces.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> However, some strategies for implant surfaces
+impregnated with antimicrobial agents involve complex manufacturing
+procedures and may be inefficient for combatting infections due to
+uncontrolled release, an effect on native tissue, and high costs to
+translate into clinical applications. Therefore, advanced strategies
+are needed for decreasing the incidence of infections and ensuring
+the long-term success of the implants. Our research groups have a
+strong background in the stimulation of bacterial resistance and osteogenic
+properties of implants by polyelectrolytic self-assembling coatings<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup> using our advanced hybrid layer-by-layer machine.</p><p>Titanium
+and its alloys (Ti-6Al-4V; Ti64) have been widely used
+in orthopedic and dental surgery due to their superior mechanical,
+corrosion-resistant, and biocompatible properties.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> For improving the implant properties by surface modification,
+the layer-by-layer (LbL) technique has gained popularity because it
+can mimic natural ECM microenvironments for the regeneration of tissue
+by enabling the self-assembly of oppositely charged polyelectrolytes
+with highly ordered three-dimensional (3D) complex structures <italic toggle="yes">in vitro</italic>. Also, matrices generated by LbL can incorporate
+small bioactive molecules such as peptides, growth factors, and antimicrobial
+agents into the polyelectrolytic multilayer (PEM) coatings.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> Previous works used the LbL technique to develop
+PEM coatings on Ti alloys using mammalian-derived collagen (COLL)
+and hyaluronic acid (HA) as cationic and anionic polyelectrolytes,
+respectively, to improve the biocompatibility and osteogenic induction
+abilities of implants. COLL is a naturally occurring protein in human
+connective tissues and plays a major role in the development of the
+ECM,<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> whereas HA is a nonprotein glycosaminoglycan
+that occurs in the synovial fluid of cartilage.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> COLL and HA have been Food and Drug Administration (FDA)
+approved and widely used in different industrial applications including
+cosmetics and food.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> They can be easily
+adopted for clinical applications.</p><p>Some examples using dipping
+LbL include research work by Haiyong
+et al. that developed stable COLL/HA multilayer coatings on modified
+Ti alloy by a covalent immobilization-induced LbL technique and evaluated <italic toggle="yes">in vivo</italic> osseointegration performance for avoiding aseptic
+loosening of implants.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> Also, Qiaojie
+et al. studied the LbL stability of RGD and basic fibroblast growth
+factor (bFGF) biomolecules incorporated into a COLL/HA coating on
+Ti alloy and their effects on MC3T3-E1 cell growth and found early-stage
+healing ability <italic toggle="yes">in vivo</italic>.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> Chengzhong et al. fabricated COLL/HA multilayer coatings with grafting
+of BMP2/7 peptide molecules by the LbL process and compared its biological
+effects against BMP2, BMP7, and their mixture. They proved that PEM
+with BMP2/7 strongly promoted the differentiation of osteoblast cells.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> Ying et al. developed RGD-functionalized COLL/HA
+multilayer coatings on Ti by LbL and found these coatings rapidly
+influenced the attachment, proliferation, and differentiation of preosteoblast
+cells.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> Xiaojun et al. prepared LbL-developed
+COLL/HA PEM coatings on Ti and examined the effects on preosteoblast
+cells in terms of proliferation and differentiation.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> From the literature, it was found that the COLL/HA PEM
+has a tremendous response to bone regeneration and an easier fabrication
+process. All of these reports greatly suggest that COLL- and HA-based
+coatings on implants can induce better osteointegration function and
+improve the healing time of bone defects; however, these coatings
+do not possess any activity toward controlling infections. In addition,
+mammalian-derived COLL has drawbacks including immunogenicity, sustainability,
+and cost.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> Hence, this work explored the
+use of a more sustainable alternative material to mammalian COLL.
+As a novel approach, we used marine-derived jellyfish collagen (J-COLL)
+as a cationic PE, which is a bovine spongiform encephalopathy (BSE)-free
+and immunologically safer material. To the best of our literature
+survey, no reports exist on the use of J-COLL as PE for fabrication
+of multilayer coatings on Ti64 by the LbL process; hence, our work
+is intended to develop LbL coatings of J-COLL and HA on Ti64.</p><p>Moreover, the selection of an antimicrobial agent is a key factor
+in bone tissue engineering that should not compromise the osteogenic
+behavior of cells or effectiveness in the killing of drug-resistant
+bacteria. In this study, we explored the incorporation of methylglyoxal
+(MGO), which is a natural antimicrobial agent derived from Manuka
+honey. Also, this compound is a reactive dicarbonyl, produced during
+the metabolic fatty acid pathways and as a byproduct of glucose in
+the body.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> Through inhibition of mitochondrial
+respiration and glycolysis, MGO restricts bacterial growth and eradicates
+biofilm formation.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> Few reports exist
+on using MGO in combination with natural polymers for various applications
+such as combatting infections, wound dressings, fighting tumor cells,
+or regenerating connective tissues. Shaheer et al. fabricated MGO-conjugated
+chitosan nanoparticles and studied their effects on antimicrobial
+resistance in fungal infections.<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> Adrita
+et al. used the Schiff base reaction to synthesize MGO-conjugated
+chitosan nanoparticles and found they acted as an immunostimulant,
+combatting the sarcoma-180 cells in tumors.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> Manni et al. developed bacterial cellulose and MGO nanocomposites
+and demonstrated antimicrobial activity against a broad spectrum of
+bacteria, suggesting that they could be useful for antimicrobial wound
+dressing materials.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> Amy et al. fabricated
+MGO-grafted COLL and studied effects on myofibroblast cells, which
+were found to undergo faster differentiation.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> However, there has been no research on MGO-integrated PEM coatings
+on implants by the LbL process and their anti-infection studies for
+bone regeneration application. Also, no reports have been delivered
+so far on the function of MGO in bone healing. Therefore, the novelty
+of our work is to develop MGO-loaded ECM-based J-COLL and HA molecules
+as layer-by-layer coatings on the Ti64 alloy using our customized
+automated hybrid LbL machine and study their anti-infection capabilities
+and bone-inducing activities.</p><p>In this study, multilayered coatings
+on Ti64 substrates based on
+J-COLL and HA polyelectrolytes with the incorporation of the MGO compound
+were manufactured by exploiting a patented hybrid LbL machine developed
+by Ferreira and Gentile at the Newcastle University, U.K. (US Patent
+20220388024A1). The MGO-loaded HA/J-COLL-coated Ti64 were characterized
+by different analytical techniques to evaluate their physicochemical
+properties and examined for <italic toggle="yes">in vitro</italic> cytocompatibility
+using L929 cells and functionality via immortalized human mesenchymal
+stem cells (TERT-hMSCs, Y201). Furthermore, the antibacterial activity
+of MGO-loaded HA/J-COLL coatings against two key pathogens in implant-associated
+infections, <italic toggle="yes">Escherichia coli</italic> and <italic toggle="yes">Staphylococcus epidermidis</italic> was assessed by qualitative
+and quantitative techniques.</p></sec><sec id="sec2"><label>2</label><title>Materials and Methods</title><sec id="sec2.1"><label>2.1</label><title>Materials</title><p>Ti-6Al-4V (Grade V; 20
+mm × 2 mm) was purchased from Smith Metal Centre, Gateshead,
+U.K. 3-Aminopropyl triethoxysilane (APTES: 99%, Sigma-Aldrich, U.K.),
+methylglyoxal (MGO: 40% in H<sub>2</sub>O, Sigma-Aldrich, U.K.), sodium
+hyaluronate (HA: 750–1000 kDA, Contipro Inc. Czech Republic),
+and jellyfish collagen (J-COLL, 4 mg/mL concentration in 0.02 M acetic
+acid, Jellagen, U.K.) were used without further purification. All
+other commonly used chemical reagents, such as acids, bases, solvents,
+and buffer solutions, were purchased from Sigma-Aldrich (U.K.). Mouse-derived
+L929 fibroblast cells were purchased by Sigma-Aldrich (U.K.), while
+immortalized TERT-human mesenchymal stem cells (hMSCs) were developed
+at the University of York (Y201 line). The cell culture-related reagents,
+such as low glucose-Dulbecco’s modified eagle medium (LG-DMEM,
+phenol red free), fetal bovine serum (FBS), <sc>l</sc>-glutamine,
+and antibiotics, were purchased from Sigma-Aldrich (U.K.).</p></sec><sec id="sec2.2"><label>2.2</label><title>Surface Modification of Ti Alloys</title><sec id="sec2.2.1"><label>2.2.1</label><title>Acid–Alkali Treatment of Ti64 Substrates</title><p>Ti-6Al-4V discs (20 mm × 2 mm) underwent three polishing steps:
+silicon carbide papers (120–1200# grit), velvet cloth polishing
+(Struers LaboPol-5, Denmark), and finally distilled water (DD H<sub>2</sub>O) washing. The polished discs were subjected to ultrasonic
+cleaning with acetone for 15 min. To enhance the surface roughness
+and facilitate the formation of an oxide layer, the disc samples were
+immersed in a mixture of acids (H<sub>2</sub>SO<sub>4</sub>/HCl/H<sub>2</sub>O, 1:1:1 ratio) at 60 °C for 1 h. Next, the acid-treated
+samples were incubated in a 10 M NaOH solution at 60 °C for 24
+h to promote hydrophilicity by the formation of Ti-OH layers. The
+discs were then washed with DD H<sub>2</sub>O and dried in an oven
+for 24 h at 45 °C.</p></sec><sec id="sec2.2.2"><label>2.2.2</label><title>Silanization of Alkali-Ti64</title><p>To
+get the surface of the Ti64 samples to be activated with a positive
+charge, the alkali-Ti64 samples were treated with 10% APTES (pH 3)
+at 100 °C for 45 min and then dried with air in a fume hood for
+24 h. The obtained APTES-Ti64 samples were further assessed for amine
+density using the acid orange II assay (Sigma-Aldrich, U.K.) by following
+the protocol of our previous work.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup></p></sec></sec><sec id="sec2.3"><label>2.3</label><title>Layer-by-Layer Self-Assembly of HA/J-Coll
+on APTES-Ti64</title><sec id="sec2.3.1"><label>2.3.1</label><title>Optimization of HA/J-Coll Layers</title><p>Based on our previous works on layer-by-layer coatings,<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref27">27</xref></sup> we have determined the parameters,
+such as time and temperature, for our LbL deposition of HA/J-COLL
+on a Ti64 substrate. To obtain the LbL self-assembly of HA/J-COLL
+on APTES-Ti64, HA (1 mg/mL) and J-COLL (2 mg/mL) in a sodium acetate
+buffer (pH 5) solution were prepared by using an LbL automated machine.
+The positively charged APTES-Ti64 samples were first dipped into a
+negatively charged HA solution for 10 min, followed by a buffer wash
+for 5 min to develop the first layer. Subsequently, the second layer
+was deposited by being dipped into positively charged J-COLL solution
+for 10 min and then washed with the buffer for 5 min to remove the
+physically adsorbed molecules. Further, the abovementioned first and
+second layer deposition processes were repeated another five times
+to obtain the overall 12 layers. Finally, the fabricated HA and J-COLL
+self-assembled Ti64 were dried at room temperature and stored in a
+fridge to be used for further physicochemical characterization and
+biological studies.</p></sec><sec id="sec2.3.2"><label>2.3.2</label><title>Incorporation of MGO into HA/J-Coll Layers</title><p>To incorporate the MGO antibacterial agent into layers, a mixture
+of solutions composed of negatively charged HA (1 mg/mL) and MGO (9
+mM = 0.0625%) was prepared. Based on the optimization of HA and J-COLL
+layers on Ti64 samples, the fifth (L5), seventh (L7), and ninth (L9)
+layers were selected to incorporate the MGO agent. The loading of
+MGO increased with respect to these layers in terms of 1× (L5),
+2× (L5, L7), and 3× (L5, L7, and L9) by following a similar
+protocol as described in <xref rid="sec2.1" ref-type="other">Section <xref rid="sec2.1" ref-type="other">2.1</xref></xref>, and controls were fabricated for the same number
+of layers without the addition of MGO.</p></sec></sec><sec id="sec2.4"><label>2.4</label><title>Determination of MGO Quantification and Its
+Release Profile</title><p>Samples with 5, 7, and 9 layers forming the
+multilayered coating, with and without MGO, were put into a 12-well
+plate, and then 1 mL of DI H<sub>2</sub>O was added. The layers were
+solubilized in water by vigorously pipetting in and out several times,
+followed by incubation for 2 h under shaking conditions at room temperature.
+Then, a calorimetric-based MGO assay kit was used to determine the
+concentration of MGO in the coated samples. In this test, 20 μL
+of resulting solutions from L5 to L9 samples were transferred into
+a 96-well plate, and then 80 μL of MGO assay kit solution (Abcam,
+U.K.) was added and incubated for 2 h at room temperature. The MGO
+content in the layers was measured by using OD values at 450 nm using
+a microplate reader (BMG Labtech, FLUOstar Omega, Germany). Similarly,
+the MGO standard curve was built by preparing standard MGO solutions
+(0–0.5 mM) and mixing them with the MGO assay kit, followed
+by reading their absorbance values at 450 nm. The degradation of multilayers
+to MGO release from L5, L7, and L9 layers at different time points
+(1, 3, 7, 14, and 21 days) was carried out in phosphate-buffered saline
+(PBS) solution at 37 °C (Thermo Scientific, MIDI 40) and estimated
+using the abovementioned MGO quantification protocol.</p></sec><sec id="sec2.5"><label>2.5</label><title>Physicochemical Characterization</title><p>Optimized and MGO-incorporated HA/J-COLL-Ti64 were characterized
+by water contact angle, profilometry, attenuated total reflectance-Fourier
+transform infrared (ATR-FTIR) spectroscopy, scanning electron microscopy
+(SEM), and X-ray photoelectron spectroscopy (XPS) analyses. The ζ-potentials
+of HA, J-COLL, and MGO aqueous solutions used for coating were determined
+by injecting 800 μL of each into a folded capillary cell and
+placing it in a Zetasizer instrument (Malvern NANO ZS, U.K.). The
+functional groups of optimized and MGO-incorporated HA/J-COLL-Ti64
+were determined by ATR-FTIR (Nicolet iN5, Thermo Fisher Scientific,
+U.K.) using 120 scans per min and a resolution of 2 cm<sup>–1</sup> with a range of wavenumbers from 600 to 4000 cm<sup>–1</sup>. The surface morphology of optimized and MGO-incorporated HA/J-COLL-Ti64
+was examined by SEM analysis (Jeol JSM-5600LV, U.K.) at 20 kV with
+support of gold sputtering of samples. The surface roughness was analyzed
+by a profilometer (Alicona SL-2014) with the measurements taken by
+a magnification of 5× lens, and the wetting behavior of optimized
+and MGO-incorporated substrates was observed by the liquid drop method
+(DD H<sub>2</sub>O) using a contact angle instrument (Rame-Hart instrument,
+Germany, 290-U1-170620) with a camera of German-MadeU4 Series. The
+surface composition of optimized and MGO-incorporated samples was
+determined by X-ray photoelectron spectroscopy (XPS; Theta Probe,
+Thermo Scientific, East Grinstead, U.K.). Survey spectra and high-resolution
+spectra were collected at a pass energy (200 and 40 eV), a step size
+(1 and 0.1 eV), and a dwell time (50 and 200 ms). The CasaXPS software
+was used to obtain the deconvolution contributions for high-resolution
+spectra.</p></sec><sec id="sec2.6"><label>2.6</label><title>Antibacterial Study of MGO-Loaded Samples</title><sec id="sec2.6.1"><label>2.6.1</label><title>Minimum Inhibitory Concentration (MIC) and
+Minimum Bactericidal Concentration (MBC)</title><p><italic toggle="yes">Escherichia
+coli</italic> MG-3739 (<italic toggle="yes">E. coli</italic>) and <italic toggle="yes">Staphylococcus epidermidis</italic> NCTC-11047
+(<italic toggle="yes">S. epidermidis</italic>) were used to study
+the antibacterial activity of MGO. <italic toggle="yes">E. coli</italic> was routinely cultured in Luria–Bertani broth (10 g/L, HIMEDIA,
+U.K.), while <italic toggle="yes">S. epidermidis</italic> was cultured
+in BHYE containing (per L, HIMEDIA, U.K.) 37 g of Brain Heart Infusion
+and 5 g of Yeast Extract. Different concentrations of MGO solutions
+(144 mM (1%), 72 mM (0.5%), 36 mM (0.25%), 18 mM (0.125%), 9 mM (0.0625%),
+4.5 mM (0.0312%), 2.25 mM (0.0156%), and 1.125 mM (0.0075%)) were
+prepared by dilution with respective pathogen growth media (LB-<italic toggle="yes">E. coli</italic> and BHYE-<italic toggle="yes">S. epidermidis</italic>). The two separate sets of growth medium (4 mL) containing falcon
+tubes with different concentrations of MGO were inoculated with 2.5
+μL of <italic toggle="yes">S. epidermidis</italic> and <italic toggle="yes">E. coli</italic> stock pathogen solutions. The <italic toggle="yes">E. coli</italic> inoculated samples were placed in a shaking
+incubator (180 RPM) at 37 °C, whereas <italic toggle="yes">S. epidermidis</italic> samples were kept at 37 °C in an incubator without shaking
+for 24 h. After the incubation period, both pathogen-treated samples
+were visually checked for the growth of bacteria, and their O.D. values
+were collected. To determine the MBC of MGO, aliquots of 150 μL
+of MIC-detected samples with no visible bacterial growth of <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> were subcultured onto LB and BHYE plates, respectively, and incubated
+overnight at 37 °C.</p></sec><sec id="sec2.6.2"><label>2.6.2</label><title>Planktonic and Biofilm Quantification by
+the Spread Plate Method and Colony Forming Unit (CFU) Analysis</title><p>The APTES-Ti64, control, and MGO-loaded samples with L5, L7, and
+L9 layers were sterilized by placing them under a UV lamp at a wavelength
+of 240 nm for 30 min on each side. Then, samples were placed in a
+12-well plate with the coating area exposed to the outside. To the
+samples, 1 mL of <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> bacterial suspension containing 1
+× 10<sup>6</sup> CFU (0.1 OD) was added and incubated for 24
+h at 37 °C. Samples were then diluted from 10<sup>–1</sup> to 10<sup>–8</sup>, and triplicate 20 μL drops were
+placed on an agar plate and allowed to dry. After incubation at 37
+°C overnight, dilutions that produced between 10 and 100 colonies
+were selected, and colonies were counted. A similar method was performed
+to enumerate viable bacteria in biofilms, except that an extra step
+was included to detach bacteria from the surface of samples using
+cell scrapers.</p></sec><sec id="sec2.6.3"><label>2.6.3</label><title>Bacterial Growth Assessment by Live/Dead
+Staining</title><p>The APTES-Ti64, control, and MGO-loaded samples
+were treated with 1 mL of growth medium containing <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> and were incubated for 24 h at 37 °C, followed by washing three
+times with PBS. Dyes were prepared by adding Syto-9 (1.5 μL)
+and propidium iodide (PI, 1.5 μL) reagents (LIVE/DEAD BacLightTM
+Bacterial Viability Kit, Thermo Fisher, U.K.) to 1 mL of PBS. One
+mL of Syto-9 and PI mixture was added to the samples and stored for
+15 min in the dark, followed by rinsing twice with PBS. Finally, the
+samples were inverted in wells with PBS to avoid drying and observed
+under a confocal laser scanning microscope (CLSM, Zeiss LSM800, U.K.).</p></sec><sec id="sec2.6.4"><label>2.6.4</label><title>Bacterial Adhesion by SEM Analysis</title><p>The APTES-Ti64, control, and MGO-loaded L5, L7, and L9 layers were
+cultured with <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> microbes for 24 h of incubation as
+described above. Samples were fixed by incubation with 2.5% glutaraldehyde
+overnight at 4 °C. Samples were dehydrated by washing with a
+gradient series of ethanol solutions up to 100% and dried at the critical
+point of CO<sub>2</sub>. Samples were sputter-coated with gold and
+observed under SEM (Tescan Vega 3LMU, U.K.).</p></sec></sec><sec id="sec2.7"><label>2.7</label><title><italic toggle="yes">In Vitro</italic> Cell Culture Study
+Using L929 Fibroblast Cells</title><p>Mouse-derived L929 fibroblast
+cells were used to assess the cytocompatibility of APTES-Ti64, control,
+and MGO-loaded L5, L7, and L9 samples via metabolic activity assays
+(PrestoBlue Cell viability Reagent, Invitrogen, Thermo Fisher, U.K.),
+live/dead assay (ReadyProbes Cell viability imaging kit, Blue/Green,
+Invitrogen, Thermo Fisher, U.K.), and cytoskeleton staining (ActinRed
+555 ReadyProbes reagent, Invitrogen, Thermo Fisher, U.K. and Fluoroshield
+with DAPI, Sigma-Aldrich, U.K.). All sterilized samples were placed
+in a 12-well plate, followed by the addition of 200 μL of DMEM
+medium with 30,000 cells and gently spread on the surface of the samples.
+To the cells with samples, we added 1 mL of DMEM medium (10% FBS,
+1% penicillin/streptomycin) as a growth medium and incubated at 37
+°C in 5% CO<sub>2</sub> for 1, 3, and 7 days.</p><sec id="sec2.7.1"><label>2.7.1</label><title>PrestoBlue Assay</title><p>The medium was
+removed from the samples at the end of each incubation period and
+washed twice with PBS. Then, 1 mL of 10% PrestoBlue solution (1 mL
+of PrestoBlue in 10 mL of PBS) was added to each sample and incubated
+for 2 h and protected from light. Then, 100 μL of metabolized
+solution was transferred from each well to a 96-well plate, and the
+fluorescence was measured at 480/590 nm by fluorescence spectroscopy
+(BMG Labtech, FLUOstar Omega, Germany). All of the experiments were
+performed independently three times, and the obtained values were
+normalized using a tissue culture plate (TCP) and control values.</p></sec><sec id="sec2.7.2"><label>2.7.2</label><title>Live/Dead Assay</title><p>The live/dead assay
+was employed to study the cell viability of L929 cells at 1 and 7
+days under different sample conditions. The samples were washed with
+PBS solution, followed by the addition of a mixture of NucBlue (live
+cell staining) and NucGreen (dead cell staining) reagents (2 drops
+of each reagent per 1 mL of PBS as per the protocol of Invitrogen,
+Thermos Fisher, U.K.). Then, the samples were incubated for 15 min
+at 37 °C in 5% CO<sub>2</sub> and observed under fluorescence
+microscopy (Invitrogen EVOS-M5000, U.K.).</p></sec><sec id="sec2.7.3"><label>2.7.3</label><title>Cytoskeleton Staining</title><p>On day 7,
+the medium was removed from the different samples and washed with
+PBS, followed by fixing the cells by adding 4% paraformaldehyde and
+placing them at 4 °C overnight. Then, the samples were washed
+with PBS twice, and ActinRed solution was added (2 drops in 1 mL of
+PBS + 0.1% Tween) and incubated at room temperature for 30 min to
+stain the cellular cytoskeleton. The samples were washed in PBS solution,
+followed by the addition of one drop of DAPI solution directly on
+the surface of the samples and stored for 10 min at room temperature.
+Finally, the samples were imaged by fluorescence microscopy (Invitrogen
+EVOS-M5000, U.K.).</p></sec><sec id="sec2.7.4"><label>2.7.4</label><title>SEM Analysis</title><p>At day 7, the cell
+medium was removed from the different samples and washed with PBS,
+followed by fixing the cells by adding 2.5% glutaraldehyde and storing
+them overnight at 4 °C. Then, the samples were dehydrated by
+a series of ethanol solutions (70, 80, 90, and 100%), followed by
+critical point drying and gold sputtering for SEM analysis (Tescan
+Vega 3LMU, U.K.).</p></sec></sec><sec id="sec2.8"><label>2.8</label><title><italic toggle="yes">In Vitro</italic> Cell Culture Study
+Using Y201 MSCs</title><sec id="sec2.8.1"><label>2.8.1</label><title>Cytoskeleton Staining and SEM Analysis</title><p>The UV-sterilized APTES-Ti64, control, and MGO-loaded samples were
+placed in a 12-well plate, and their surfaces were seeded by Y201
+TERT-hMSCs with a density of 2 × 10<sup>5</sup> cells per substrate.
+Further, the samples were incubated for 7 days at 37 °C with
+interval refreshment of DMEM growth medium. At day 7, the samples
+were washed twice with PBS solution, and 4% paraformaldehyde was added
+to fix the cells, followed by storage at 4 °C. The cytoskeleton
+staining and SEM analysis were performed by following the protocol
+described previously.</p></sec><sec id="sec2.8.2"><label>2.8.2</label><title>Alizarin Red Staining Assay</title><p>To
+assess the calcium deposition by Y201 TERT-hMSC cells after 7 days
+of incubation, the samples were treated with an Alizarin Red staining
+solution. For this, samples were washed twice with DD H<sub>2</sub>O, followed by the addition of 1 mL of Alizarin Red staining solution
+and stored at room temperature for 30 min. After staining, the samples
+were washed with DD H<sub>2</sub>O several times until the water was
+clear and then imaged in a Brightfield (Leica LED5000 SLI microscope,
+U.K.).</p></sec></sec><sec id="sec2.9"><label>2.9</label><title>Statistical Analysis</title><p>For every sample,
+tests were run at least three times independently. The mean and standard
+deviation were used to represent the results. The statistical analysis,
+which considered Parametric One-Way Analysis of Variance on Ranks
+(ANOVA) with Turkey and Dunnett posthoc test for the statistical differences
+between the groups and compared with control, was conducted using
+GraphPad Prism 9. Differences were considered statistically significant
+(*) at <italic toggle="yes">p</italic> &lt; 0.05. Significance levels (<italic toggle="yes">p</italic> &lt; 0.001) were indicated where appropriate (**).</p></sec></sec><sec id="sec3"><label>3</label><title>Results</title><sec id="sec3.1"><label>3.1</label><title>Assessment of J-Collagen, Hyaluronic Acid,
+and MGO Charge via ζ-Potential</title><p>The surface charges
+of J-COLL, HA, MGO, and HA–MGO were measured by a ζ-potential
+instrument using a sodium acetate buffer (pH 5), and the data are
+shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A.
+The J-COLL (2 mg/mL) had a weak positive charge (ζ = +3.11 mV),
+while HA (1 mg/mL) exhibited a strong negative charge (ζ = −29.36
+mV) on its surface. MGO (0.625 mg/mL) was found to be a negatively
+charged compound (ζ = −3.08 mV); hence, we prepared a
+simple mixture of solution by addition of HA since it is negatively
+charged for further incorporation of MGO into a multilayer system
+of HA/J-COLL on Ti64. The surface of Ti64 substrates was activated
+with positively charged ammonium ions by silanization to allow the
+layer-by-layer self-assembly of oppositely charged polyelectrolytes,
+and the amount of amine group deposition was assessed by the Acid
+Orange test, as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c11910/suppl_file/am3c11910_si_001.pdf">Figure S1A,B</ext-link>.
+The amine density (109 μM/cm<sup>2</sup>) was found to be significantly
+higher for APTES-Ti64 than for polished and alkali-treated Ti64.</p><fig id="fig1" position="float" orientation="portrait"><label>Figure 1</label><caption><p>(A) ζ-Potential
+results of collagen, hyaluronic acid, MGO,
+and HA–MGO mixture; contact angle analysis of (B) optimized
+HA/COLL layers, (C) MGO-incorporated L5, L7, and L9 layers; (D) profilometry
+analysis of APTES-Ti64, control, and MGO-incorporated L5, L7, and
+L9; (E) SEM images of (a) APTES-Ti64, control, and MGO-incorporated
+L5 (b, e), L7 (c, f), and L9 (d, g); scale bars correspond to 100
+μm and inset image’s scale bar corresponds to 10 μm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr1" position="float" orientation="portrait" xlink:href="am3c11910_0001.jpg"><?image-name am3c11910_0001.jpg?><?image-size 90803?><?image-md5 72ed17b4f6102f81898e86b64ca7f13f?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1009?><?image-original-width 2088?><?image-scaled-height 336?><?image-scaled-width 696?><?image-cloudpmc-urn urn:cdn:blobs/d995/10739588/72ed17b4f610/am3c11910_0001.jpg?><?thumb-name am3c11910_0001.gif?><?thumb-size 16007?><?thumb-md5 18ac1a63b16007c145131bfa4445336a?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 165?><?thumb-cloudpmc-urn urn:cdn:blobs/d995/10739588/18ac1a63b160/am3c11910_0001.gif?></graphic></fig></sec><sec id="sec3.2"><label>3.2</label><title>Assessment of Coated Ti64 Substrates Wettability
+via Contact Angle Analysis</title><p>The contact angle data in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B represent the layer-by-layer
+deposition of HA and J-COLL on Ti64. From these data, it was observed
+that the polished Ti64 exhibited hydrophobic behavior with a higher
+water contact angle (WCA) of 88.2°. The APTES-treated Ti64 showed
+a wettable surface with WCA 28.1° due to surface attachment and
+condensation of positively charged ammonium ions (NH<sub>4</sub><sup>+</sup>) with the silane network.<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> Next, the
+first layer deposition displayed a slightly higher WCA value of 54.5°
+than that of APTES-Ti64, which indicates the presence of an HA layer
+with good hydrophilicity, while the second layer has a hydrophobic
+nature with 88.7°, which denotes deposition of a J-COLL layer.
+According to the literature, COLL type I is hydrophobic with WCA values
+of 110°, while HA has a hydrophilic nature with associated values
+around 30°.<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> Subsequent deposition
+of the third layer showed a lower WCA value of 67.8°, which indicates
+the initiation of the self-assembly of HA and J-COLL via electrostatic
+interactions. From the fourth to the ninth layer, WCA values present
+a typical LbL “zigzag” trend as per the oppositely charged
+HA and J-COLL PEs, suggesting a successful buildup of multilayers.
+Finally, the layers from 9 to 10th and 11 to 12th have a similar trend
+of WCA behavior due to the physical adsorption of HA and J-COLL on
+each other. Therefore, from these WCA results, we confirmed that,
+up to the ninth layer, effective self-assembly occurred between HA
+and J-COLL, and the coatings were stable with a good hydrophilic nature.</p><sec id="sec3.2.1"><label>3.2.1</label><title>Incorporation of MGO into HA/COLL-Ti64</title><p>HA and J-COLL self-assemblies and their stable multilayer deposition
+were optimized up to the ninth layer. Further, based on the effective
+built-up layers, we have selected the fifth, seventh, and ninth layers
+to incorporate the Manuka honey-derived antibacterial MGO compound. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C displays the WCA
+values of control and MGO-incorporated samples; from these data, it
+can be observed that MGO-added L5, L7, and L9 have a slight increase
+in WCA values when compared to control samples due to the incorporation
+of the MGO compound within the HA layer and the change in the surface
+topography. Also, significant differences in WCA values were observed
+from L5 to L9 with the inclusion of MGO. This WCA result confirmed
+that MGO does not have an adverse influence on the hydrophilic nature
+of HA/J-COLL multilayer coatings on Ti64.</p></sec></sec><sec id="sec3.3"><label>3.3</label><title>Morphological Analysis of Coated Ti64 Substrates
+via Profilometry Analysis</title><p>The surface roughness of control
+and MGO-incorporated L5, L7, and L9 samples was further assessed by
+surface topography profilometry (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>D). The APTES-Ti64 exhibited roughness values
+(<italic toggle="yes">R</italic><sub>a</sub>) of 1.037 μm, which from similar
+works<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> can be attributed to the formation
+of a silanization network. The control samples such as L5, L7, and
+L9 had no statistically significant differences among their surface
+roughness values (<italic toggle="yes">R</italic><sub>a</sub> = 1.1032–1.2658
+μm) due to uniform surface deposition of layers and porous structures.
+The MGO incorporating L5, L7, and L9 displayed nonstatistically significant
+differences (<italic toggle="yes">R</italic><sub>a</sub> = 1.1636–1.3466
+μm) when compared to controls. This behavior denotes the well-ordered
+accumulation of MGO into L5, L7, and L9 layers with no influence on
+the surface roughness. The change in surface roughness from APTES
+to control and MGO-included samples represents deposition of multilayers
+on Ti64. The profilometry two-dimensional (2D) and 3D images (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c11910/suppl_file/am3c11910_si_001.pdf">Figure S2A,B</ext-link>) of control and MGO-loaded multilayers
+were found to be substantiated by the statistical results of surface
+roughness.</p></sec><sec id="sec3.4"><label>3.4</label><title>Morphological Analysis of Coated Ti64 Substrates
+via SEM Analysis</title><p><xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>E shows SEM images of APTES-Ti64, control, and MGO-included
+samples. From SEM micrographs, it was observed that the APTES-Ti64
+disc surface exhibits a porous nature with minimal cracks. The control
+and MGO-incorporated samples displayed highly porous structures, and
+the pores were well-interconnected with the accumulation of polyelectrolyte
+molecules. However, with the increased number of layers from L5 to
+L9 for control and MGO samples, the dense nature of coatings was found
+to increase when compared with APTES-Ti64.</p></sec><sec id="sec3.5"><label>3.5</label><title>Chemical Analysis of Assembled HA/J-COLL Coating
+onto Ti64 via XPS Analysis</title><p>Polished, APTES, control, and
+MGO-incorporated L5, L7, and L9 samples were analyzed for their incidence
+of surface chemical states of elements and their concentrations by
+XPS analysis, which is a surface-sensitive quantitative method. From
+XPS results (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A–C), the polished Ti64 showed peaks at 530.6, 458.5, 284.8,
+and 74.9 eV, which correspond to O 1s, Ti 2p, C 1s, and Al 2p elements,
+whereas APTES-Ti64 had characteristic peaks for N 1s and Si 2p at
+401.2 and 101.9 eV, respectively. These peak positions confirmed the
+surface activation of Ti64 with APTES treatment by the inclusion of
+ammonium ions (C–NH<sub>4</sub><sup>+</sup>) and a silica network
+(C–Si–O). The control samples such as L5, L7, and L9
+exhibited distinctive peaks at 400.0 and 285.1 eV, which were assigned
+to N 1s and C 1s, representing HA and J-COLL because both polyelectrolytes
+have major content of N and C elements.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> However, we found that the relative peak intensities of N 1s and
+C 1s were significantly increased compared with APTES and Polish-Ti64
+samples, implying deposition of HA/J-COLL multilayers on Ti64 samples.
+Also, the peaks for Ti 2p, Al 2p, and Si 2p disappeared in control
+samples due to the buildup of HA/J-COLL coatings with thickness. The
+XPS spectra for MGO including L5, L7, and L9 samples showed similar
+characteristic peaks as control samples, with no significant evidence
+observed for MGO due to its dicarbonyl compound nature and lower-concentration
+incorporation into multilayer coatings. The atomic concentrations
+of polish, APTES, control, and MGO-included samples were reported
+in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>D. The polish-Ti64
+has Ti 2p (16.8%), Al 2p (7.9%), C 1s (39.67%), and O 1s (35.7%),
+whereas APTES-Ti64 has additional elemental concentrations such as
+N 1s (5.7%) and Si 2p (6.3%). The control and MGO-included samples
+showed comparable C 1s and N 1s concentrations from L5 to L9 in the
+ranges of 65.9–67.3 and 10.6–14.1%.</p><fig id="fig2" position="float" orientation="portrait"><label>Figure 2</label><caption><p>XPS analysis of APTES-Ti64,
+control, and MGO-incorporated L5, L7,
+and L9. (A) Survey spectra, (B, C) deconvolution spectra for C 1s
+and N 1s, and (D) elemental composition.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr2" position="float" orientation="portrait" xlink:href="am3c11910_0002.jpg"><?image-name am3c11910_0002.jpg?><?image-size 107913?><?image-md5 0b3e0558462e1bf097e7f5638f31c88f?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1094?><?image-original-width 2088?><?image-scaled-height 365?><?image-scaled-width 696?><?image-cloudpmc-urn urn:cdn:blobs/d995/10739588/0b3e0558462e/am3c11910_0002.jpg?><?thumb-name am3c11910_0002.gif?><?thumb-size 15793?><?thumb-md5 f230dcd4914bab2c535093e197b3ef88?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 152?><?thumb-cloudpmc-urn urn:cdn:blobs/d995/10739588/f230dcd4914b/am3c11910_0002.gif?></graphic></fig></sec><sec id="sec3.6"><label>3.6</label><title>Chemical Analysis of the Assembled HA/J-COLL
+Coating onto Ti64 via ATR-FTIR Spectroscopy</title><p>The chemical
+composition and functional groups of APTES, control, and MGO-incorporated
+samples were assessed by ATR-FTIR spectroscopy, as shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A. From ATR-FTIR
+spectra, the APTES-Ti64 exhibited characteristic absorption bands
+at 893, 1346, 1588, 1634, and 3432 cm<sup>–1</sup>, which indicate
+the presence of stretching modes of Si–O–Ti, C–N,
+bending vibration of N–H, bending mode of O–H (OH<sup>–</sup>), and stretching of N–H bonds (NH<sub>3</sub><sup>+</sup>), respectively.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> It is apparent
+that HA and J-COLL polyelectrolytes combined provide a distinctive
+FTIR spectrum that has some notable peaks in a similar band range
+for each of the individual components. The typical characteristic
+bands at 1648, 1525, and 1232 cm<sup>–1</sup> are attributed
+to C=O (amide-I), N–H (amide-II), and C–N (amide-II)
+groups in J-Coll. However, HA’s existence is confirmed by the
+peak position at 1584 cm<sup>–1</sup> (C=O) of the carboxylic
+acid group. It was noticed that all control samples (L5, L7, and L9)
+displayed an intensified peak at 1584 cm<sup>–1</sup> (C=O)
+due to the presence of the outermost layer of HA, and with an increase
+in J-COLL layer deposition, the peak position was slightly shifted
+to 1674 cm<sup>–1</sup> (C=O, amide-I), which indicates
+the electrostatic deposition of oppositely charged J-Coll on HA.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref33">33</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> The vibrational band at 1241
+cm<sup>–1</sup> corresponds to the stretching mode of C–N
+groups in the amides of HA/J-COLL multilayers; the intensity increased
+with an increase in the layers from L5 to L9. The MGO-included samples
+exhibited similar ATR-FTIR spectra as control samples; however, it
+was obviously noted that a strong distinctive band occurred at 1644
+cm<sup>–1</sup> where it was not identified in the control
+samples. Also, this vibrational peak position was found to be slightly
+shifted toward a lower wavenumber due to the existence of the carbonyl
+group (C=O) in the MGO compound.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> In contrast to control samples, the peak intensity at 1584 cm<sup>–1</sup> was slightly minimized due to the mixture of MGO
+and HA. These ATR-FTIR spectra confirmed the presence of the MGO compound
+in the multilayers of HA/J-COLL-Ti64.</p><fig id="fig3" position="float" orientation="portrait"><label>Figure 3</label><caption><p>(A) ATR-FTIR analysis of APTES-Ti64, control,
+and MGO-incorporated
+L5, L7, and L9; (B) Estimation of MGO loading efficacy into L5, L7,
+and L9 layers and (C) MGO release (in mM) from coatings at different
+time points.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr3" position="float" orientation="portrait" xlink:href="am3c11910_0003.jpg"><?image-name am3c11910_0003.jpg?><?image-size 141145?><?image-md5 dde49a0009c975ad1d93f17640dc4ad1?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1510?><?image-original-width 1750?><?image-scaled-height 604?><?image-scaled-width 700?><?image-cloudpmc-urn urn:cdn:blobs/d995/10739588/dde49a0009c9/am3c11910_0003.jpg?><?thumb-name am3c11910_0003.gif?><?thumb-size 18442?><?thumb-md5 4338370104de536fdc28f198eda79f5c?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 86?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/d995/10739588/4338370104de/am3c11910_0003.gif?></graphic></fig></sec><sec id="sec3.7"><label>3.7</label><title>Assessment of MGO Compound and Its Release
+from HA/J-COLL-Ti64</title><sec id="sec3.7.1"><label>3.7.1</label><title>Quantification of MGO Concentration</title><p>The colorimetric-based MGO assay kit was used to estimate the MGO
+concentration in MGO-incorporated L5, L7, and L9 samples, with results
+presented in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>B. From an MGO standard curve, we determined the unknown concentration
+of MGO incorporated in each multilayered coating composed of 5 (L5),
+7 (L7), and 9 (L9) layers, which were in the range of concentrations
+from 6.60 to 7.82 mM. These concentrations of MGO from multilayers
+were in good correlation with the theoretical MGO concentration added
+into multilayer coatings (9 mM) during the fabrication of HA/COLL
+LbL coatings on Ti64, with L5 showing a significantly lower amount
+of MGO compared to L7 and L9.</p></sec><sec id="sec3.7.2"><label>3.7.2</label><title>Releasing Profile of MGO from Assembled
+HA/J-COLL Coating onto Ti64</title><p>The releasing behavior of MGO
+content from L5, L7, and L9 layers was quantitatively determined by
+an MGO assay kit at 1, 3, 7, 14, and 21 days, as shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>C. From the release
+profile, it was noticed that MGO-loaded L5, L7, and L9 samples exhibited
+a gradual release of MGO content (0.90–2.38 mM) from their
+layers with an increase in the incubation period from 1 to 14 days,
+while at day 21, all samples demonstrated a lower concentration of
+released MGO (1.30 mM). The MGO-loaded layers exhibited a significant
+difference in releasing activity among their incubation points, an
+evidence that MGO is released from layers in a controlled manner throughout
+the incubation period.</p></sec></sec><sec id="sec3.8"><label>3.8</label><title><italic toggle="yes">In Vitro</italic> Assessment of MGO-Loaded
+HA/J-COLL Coating Impact on Bacterial Activity</title><sec id="sec3.8.1"><label>3.8.1</label><title>Assessment of Antibacterial Activity of
+the MGO Compound at Different Concentrations</title><p>The conventional
+microbiological tests, MIC, and MBC assays were used to assess the
+antimicrobial activity of the MGO compound against <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> bacteria. From the MIC assay (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c11910/suppl_file/am3c11910_si_001.pdf">Figure S3B</ext-link>), it was found that <italic toggle="yes">E. coli</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c11910/suppl_file/am3c11910_si_001.pdf">Figure S3A-i</ext-link>) and <italic toggle="yes">S. epidermidis</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c11910/suppl_file/am3c11910_si_001.pdf">Figure S3A-ii</ext-link>) bacteria were completely
+inhibited at MGO concentrations of 2.25 mM (0.0156%) and 9 mM (0.0625%),
+respectively. Also, similar concentrations showed killing efficacy
+in MBC assays (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c11910/suppl_file/am3c11910_si_001.pdf">Figure S3Ci-ii</ext-link>), as observed
+in similar works.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup></p></sec><sec id="sec3.8.2"><label>3.8.2</label><title>Planktonic and Biofilm Quantification</title><p><italic toggle="yes">In vitro</italic> evaluation of the bactericidal property
+of MGO-incorporated L5, L7, and L9 samples was assessed by qualitative
+(SEM and CLSM) and quantitative (CFU) methods by inhibiting planktonic
+colonization and biofilm formation of bacteria. APTES-Ti64, control,
+and MGO-layered samples treated with both bacteria for 24 h were serially
+diluted, and colonies were quantified. Dilutions of 10<sup>–6</sup> and 10<sup>–8</sup> were selected for counting <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic>, respectively, as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c11910/suppl_file/am3c11910_si_001.pdf">Figure S4a,b</ext-link>. The planktonic viability of <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> was determined
+for APTES-T64, LbL control, and MGO-loaded samples, and the results
+are shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>A. From planktonic quantification results, it was observed that MGO-loaded
+layers of L5, L7, and L9 showed significantly less viability of both
+bacteria than the control layered samples. Among the MGO-layered samples,
+the L7 and L9 layers with MGO exhibited better efficacy at preventing
+bacterial colonization than the MGO-loaded L5 layer. However, both
+MGO-loaded L7 and L9 showed similar bactericidal activity with no
+significant difference between them. This inhibition of planktonic <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> confirms that the MGO could be released from the layers and exhibit
+the consequent killing behavior on bacteria. Also, the biofilm bacterial
+growth on the surface of APTES-Ti64, control, and MGO-loaded layers
+was investigated (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B). Dilutions in the range of 10<sup>–5</sup> for both
+bacterial samples were selected for counting (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c11910/suppl_file/am3c11910_si_001.pdf">Figure S5a,b</ext-link>). From <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B, it was found that the colonies of <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> biofilm bacteria showed a trend analogous to that of planktonic
+bacteria. The viability of biofilm bacteria was found to be significantly
+reduced for MGO-L7 and L9 layers and higher for APTES-Ti64 and control
+samples. From planktonic and biofilm quantification results, the MGO
+content at an increased concentration in layers 7 and 9 has a favorable
+effect on inhibiting bacterial growth and colonization on their surfaces.</p><fig id="fig4" position="float" orientation="portrait"><label>Figure 4</label><caption><p>(A) Planktonic
+bacteria and (B) biofilm bacteria quantification
+of control and MGO-incorporated HA/COLL LbL-coated Ti64 using <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> for 24 h by the CFU method; SEM images of (C) <italic toggle="yes">E.
+coli</italic> and (D) <italic toggle="yes">S. epidermidis</italic> bacteria on the surface of control and MGO-incorporated layers:
+(a) APTES-Ti64, (b) L5, (c) L7, (d) L9, (e) L5-MGO, (f) L7-MGO, and
+(g) L9-MGO. (*<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt;
+0.01, ***<italic toggle="yes">p</italic> &lt; 0.001, ****<italic toggle="yes">p</italic> &lt;
+0.0001). Scale bars correspond to 100 μm and inset image’s
+scale bar is 5 μm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr4" position="float" orientation="portrait" xlink:href="am3c11910_0004.jpg"><?image-name am3c11910_0004.jpg?><?image-size 208392?><?image-md5 822aa844e68a6938d259305aa7b654f7?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 2122?><?image-original-width 2088?><?image-scaled-height 707?><?image-scaled-width 696?><?image-cloudpmc-urn urn:cdn:blobs/d995/10739588/822aa844e68a/am3c11910_0004.jpg?><?thumb-name am3c11910_0004.gif?><?thumb-size 19545?><?thumb-md5 6cabda01bc8c94356bd8eb1db2deaa2d?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 102?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/d995/10739588/6cabda01bc8c/am3c11910_0004.gif?></graphic></fig></sec><sec id="sec3.8.3"><label>3.8.3</label><title>Morphological Analysis of <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> Bacterial Adhesion via SEM Analysis</title><p><italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> bacterial adhesion
+and their morphological features on the surface of APTES-Ti64, control,
+and MGO-L5, L7, and L9 samples were examined by SEM analysis and micrographs
+illustrated in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>C,D. <italic toggle="yes">E. coli</italic> (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>C) and <italic toggle="yes">S. epidermidis</italic> (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>D) treated
+samples exhibited rod- and spherical-shaped cell deposition, respectively.
+Extensive biofilms were formed on the surfaces of APTES-Ti64 and control
+samples without any obvious damage or disruption of bacterial cell
+integrity. Although MGO-incorporated layered surfaces displayed reduced
+bacterial growth of <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> with impairment of the cell structure,
+it was observed that no significant difference among MGO-loaded samples
+was observed for both bacterial cells. These images confirmed that
+HA/J-COLL layers with the integration of MGO could strongly inhibit
+bacterial colonization and biofilm formation.</p></sec><sec id="sec3.8.4"><label>3.8.4</label><title>Assessment of MGO-Loaded HA/J-COLL Coating
+Impact on Bacterial Viability</title><p>The live and dead bacterial
+staining was used to examine <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> colonization on
+the surfaces of APTES-Ti64, control, and MGO-loaded samples by CLSM
+analysis. The confocal laser scanning microscopy (CLSM) results are
+represented in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A,B. From CLSM images, it was observed that <italic toggle="yes">E. coli</italic> (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A) and <italic toggle="yes">S. epidermidis</italic> (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>B) bacterial cells were well-colonized and
+developed as biofilms on the surface of the APTES-Ti64 and control
+samples. The surfaces of all APTES-64 and control samples were completely
+occupied with green color due to the existence of live bacterial cells.
+In contrast, the surfaces of the MGO-loaded L5, L7, and L9 samples
+had intense red staining, reflecting high levels of cell damage. The
+red color intensity increased for MGO-loaded L7 and L9 samples compared
+with L5, likely due to an increase of the MGO content in the additional
+layers, resulting in higher death of both strains (quantification
+shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c11910/suppl_file/am3c11910_si_001.pdf">Figure S6</ext-link>). From CLSM results,
+it appears that MGO-incorporated sample surfaces could minimize the
+growth of cells and were favorable for contact-killing of both bacterial
+strains.</p><fig id="fig5" position="float" orientation="portrait"><label>Figure 5</label><caption><p>Live/dead staining of (A) <italic toggle="yes">E. coli</italic> and
+(B) <italic toggle="yes">S. epidermidis</italic> bacteria on
+the surface of control and MGO-incorporated layers for 24 h: (a) APTES-Ti64,
+(b) L5, (c) L7, (d) L9, (e) L5-MGO, (f) L7-MGO ,and (g) L9-MGO (green―live
+and red―dead bacteria). Scale bar: 50 μm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr5" position="float" orientation="portrait" xlink:href="am3c11910_0005.jpg"><?image-name am3c11910_0005.jpg?><?image-size 457315?><?image-md5 b13f2f1bb938f42844b67c1358848bec?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1876?><?image-original-width 2088?><?image-scaled-height 625?><?image-scaled-width 696?><?image-cloudpmc-urn urn:cdn:blobs/d995/10739588/b13f2f1bb938/am3c11910_0005.jpg?><?thumb-name am3c11910_0005.gif?><?thumb-size 25873?><?thumb-md5 98f84d92459888972e4d881b5cdf84f5?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 90?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/d995/10739588/98f84d924598/am3c11910_0005.gif?></graphic></fig></sec></sec><sec id="sec3.9"><label>3.9</label><title><italic toggle="yes">In Vitro</italic> Assessment of MGO-Loaded
+HA/J-COLL Coating on Cellular Behaviors</title><p>To examine the cytocompatibility
+behavior of developed MGO incorporated into L5, L7, and L9 samples,
+we used two types of cells: L929 fibroblasts and Y201 immortalized
+human stem cells. Both cells were found to have responsive interactions
+with our samples, as evidenced by the data in <xref rid="fig6" ref-type="fig">Figures <xref rid="fig6" ref-type="fig">6</xref></xref>–<xref rid="fig8" ref-type="fig">8</xref>.</p><fig id="fig6" position="float" orientation="portrait"><label>Figure 6</label><caption><p>(A) PrestoBlue
+assay analysis of control and MGO-incorporated L5,
+L7, and L9 samples for 1, 3, and 7 days using L929 fibroblast cells;
+(B) Live/dead staining of (a) blank, (b) APTES-Ti64, (c–e)
+control, and (f–h) MGO-incorporated L5, L7, and L9 at 1 (a–h)
+and 7 (a-1 to h-1) days; scale bar: 300 μm (live cells = blue,
+dead cells= green/highlighted in red circles).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr6" position="float" orientation="portrait" xlink:href="am3c11910_0006.jpg"><?image-name am3c11910_0006.jpg?><?image-size 252135?><?image-md5 a4020fae738a37a60d4d9641695f51ad?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 2156?><?image-original-width 1750?><?image-scaled-height 862?><?image-scaled-width 700?><?image-cloudpmc-urn urn:cdn:blobs/d995/10739588/a4020fae738a/am3c11910_0006.jpg?><?thumb-name am3c11910_0006.gif?><?thumb-size 18576?><?thumb-md5 0025aa13db73b6565e6e93d3706113bb?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 123?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/d995/10739588/0025aa13db73/am3c11910_0006.gif?></graphic></fig><sec id="sec3.9.1"><label>3.9.1</label><title>Metabolic Activity of Fibroblast (L929)
+Cells onto MGO-Loaded Samples</title><p>The cellular metabolic activity
+of L929 cells was assessed by the PrestoBlue assay against the tissue
+culture plate (TCP), APTES-Ti64, control, and MGO-loaded samples for
+1, 3, and 7 days. From the PrestoBlue results (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>A), statistically significant increases in
+cellular metabolic activity were seen over the period of incubation
+(from 1 to 7 days) for the different samples. The TCP showed a higher
+proliferation rate of L929 cells at all time points when compared
+to the rest of the samples. The cells seeded onto the control samples
+(without MGO) such as L5, L7, and L9 evidenced a higher metabolic
+activity (86–89%, <italic toggle="yes">p</italic> &lt; 0.05) when compared
+to the APTES-Ti64 (41%, <italic toggle="yes">p</italic> &lt; 0.05). MGO-loaded
+L5, L7, and L9 layers demonstrated suitable metabolic activity of
+L929 cells (93–96%, <italic toggle="yes">p</italic> &lt; 0.05) at each time
+point and found to have no statistically significant difference when
+compared with control samples. However, the control and MGO-loaded
+samples showed incremental L929 cellular activity with an increase
+in treating periods from 1 to 7 days (42–96%, <italic toggle="yes">p</italic> &lt; 0.05). From these data, it can be confirmed that the presence
+of MGO within the HA/J-COLL multilayered coating did not affect the
+cellular metabolism of L929 fibroblasts, evidencing a suitable cytocompatibility
+of the multilayers containing MGO.</p></sec><sec id="sec3.9.2"><label>3.9.2</label><title>Viability Assessment via Live/Dead Assay</title><p>Qualitative examination of L929 cellular interactions with APTES-Ti64,
+control, and MGO-loaded samples was evaluated by fluorescence-based
+live/dead assays at 1 and 7 days (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>B). On day 1, it was noticed that all of
+the sample surfaces showed minimal covering of cells with good cell
+viability along with staining of a blue color, which indicates the
+live cells. On day 7, the control and MGO-loaded layers showed better
+cell expansion on their surfaces than APTES-Ti64. The control and
+MGO-loaded sample surfaces were completely covered by L929 cells,
+and their growth was found to be strong with no qualitative significant
+difference. The thick cell monolayer was deposited on the surface
+of samples with an increase in time point from 1 to 7 days. The seeded
+cells appeared mostly stained in blue color, which indicates a higher
+number of live cells, and very few/no green stained cells were observed
+evidencing very few/no dead cells. These results were consistent with
+metabolic activity results and confirmed MGO-loaded layers supporting
+suitable and proper cell viability.</p></sec><sec id="sec3.9.3"><label>3.9.3</label><title>Morphological Analysis of Fibroblast (L929)
+Attachment onto Coated Samples</title><p>The actin and nuclei of L929
+cells were stained with phalloidin (red) and DAPI (blue), respectively,
+on the surface of APTES-Ti64, control, and MGO-loaded samples on day
+7 (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>A). From
+the images, it was observed that TCP and APTES-Ti64 presented a round-shaped
+morphology with minimal expansion. In contrast, cells seeded onto
+multilayered samples with and without MGO appeared uniformly distributed
+onto the substrates, displaying elongated polygonal shape morphology
+and proper cellular spreading onto the substrates. In addition, L929
+cells’ cytoskeleton presented an expansion of actin protein
+filament with points of focal adhesion (stained in red color and nucleus
+in blue color). These results demonstrate that multilayered samples,
+with and without MGO, promoted cellular attachment and growth, visually
+supporting the results obtained by PrestoBlue and live/dead assays.</p><fig id="fig7" position="float" orientation="portrait"><label>Figure 7</label><caption><p>(A) Cytoskeleton
+imaging of L929 cells treated with (a) blank,
+(b) APTES, (c–e) control, and (f–h) MGO-incorporated
+L5, L7, and L9 at 7th day; scale bar: 300 μm; (B) L929 cell
+adhesion examination by SEM analysis for (a) APTES, (b–d) control,
+and (e–g) MGO-incorporated L5, L7, and L9 at 7th day, the filopodia
+of cells was denoted by a green arrow. Scale bar corresponds to 100
+μm, and inset images scale bar corresponds to 10 μm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr7" position="float" orientation="portrait" xlink:href="am3c11910_0007.jpg"><?image-name am3c11910_0007.jpg?><?image-size 244515?><?image-md5 0be6ffd161e71ae647dca2b0854efc43?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1513?><?image-original-width 2088?><?image-scaled-height 504?><?image-scaled-width 696?><?image-cloudpmc-urn urn:cdn:blobs/d995/10739588/0be6ffd161e7/am3c11910_0007.jpg?><?thumb-name am3c11910_0007.gif?><?thumb-size 19270?><?thumb-md5 26553dec97c58773ffdd0ced3babaf41?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 110?><?thumb-cloudpmc-urn urn:cdn:blobs/d995/10739588/26553dec97c5/am3c11910_0007.gif?></graphic></fig><p>Moreover, on day 7, we used SEM analysis to examine
+the attachment
+of L929 cells on the surface of APTES-Ti64, multilayered samples with
+and without MGO. From SEM images (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>B), it was observed that APTES-Ti64 revealed
+less attachment of L929 cells, whereas multilayered samples with and
+without MGO samples displayed a higher amount of cellular adhesion
+with homogeneous distribution over their surfaces. The shape of the
+cells was found to have a spindle-like structure and extended filopodia,
+fully adhered to the multilayered substrates with and without MGO.
+SEM analysis evidenced that MGO-incorporated layers supported the
+L929 cells’ attachment.</p></sec><sec id="sec3.9.4"><label>3.9.4</label><title>Impact of MGO-Loaded HA/J-COLL Coating on
+Immortalized Stem Cells (TERT-hMSCs, Y201)</title><p>The cytoskeletal
+structure of Y201 hMSCs was examined on day 7 for APTES-Ti64, multilayered
+(L5, L7, and L9) samples with and without MGO (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>A). The multilayered samples without MGO supported the growth
+of Y201 with a spindle-shaped morphology, whereas APTES-Ti64 has a
+slight spread of cells on its surface. The cells seeded onto MGO-loaded
+sample surfaces displayed elongated filament structures; however,
+the MGO-loaded L5 layer suggested less growth of cells, and they appeared
+highly clustered. The immunostaining images confirm that the MGO agent
+in different layers of HA/J-COLL facilitates the growth of Y201 cells
+for L7 and L9. SEM images (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>B) demonstrate the attachment of Y201 cells on the
+surface of all samples on day 7. In contrast, the multilayered samples
+with and without MGO showed comparable cellular attachment, spreading,
+and confluence with no significant difference.</p><fig id="fig8" position="float" orientation="portrait"><label>Figure 8</label><caption><p><italic toggle="yes">In vitro</italic> Y201 MSCs cellular interactions. (A)
+DAPI/phalloidin fluorescence imaging and (B) SEM images. (C) Alizarin
+Red staining images of (a) APTES-Ti64, (b–d) control. and (e–g)
+MGO-incorporated L5, L7. and L9 at 7th day.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="gr8" position="float" orientation="portrait" xlink:href="am3c11910_0008.jpg"><?image-name am3c11910_0008.jpg?><?image-size 331790?><?image-md5 70014a20414ae0031ba2f72f975ff82b?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1593?><?image-original-width 1500?><?image-scaled-height 797?><?image-scaled-width 750?><?image-cloudpmc-urn urn:cdn:blobs/d995/10739588/70014a20414a/am3c11910_0008.jpg?><?thumb-name am3c11910_0008.gif?><?thumb-size 23619?><?thumb-md5 ad32763934667a81dad154eb067f72ba?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 106?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/d995/10739588/ad3276393466/am3c11910_0008.gif?></graphic></fig><p>The Y201 cells’ differentiation and deposition
+of calcium
+minerals onto multilayered samples with and without MGO were studied
+by the qualitative alizarin red staining (ARS) method. From ARS images
+(<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>C), the multilayered
+samples with and without MGO showed a red color staining of deposited
+calcium mineral, whereas APTES-Ti64 did not show any red staining.
+On day 7, it was noted that MGO-loaded samples displayed less red
+staining than the control samples due to a lower amount of calcium
+mineral deposition. The multilayered samples without MGO showed higher
+calcium deposition due to the presence of HA and J-COLL.</p></sec></sec></sec><sec id="sec4"><label>4</label><title>Discussion</title><p>In this study, for the first
+time, to improve the anti-infection
+efficacy of HA/J-COLL multilayer coatings, we explored the potential
+of the Manuka honey-derived MGO antibacterial agent by incorporating
+it in multilayers of HA/J-COLL coatings developed on Ti64 by our customized
+hybrid LbL machine. The MGO-loaded HA/J-COLL coatings significantly
+reduced <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> bacterial growth and colonization
+on their surface. The cytocompatibility tests revealed that the MGO-loaded
+coatings did not affect cellular metabolism and supported cellular
+attachment, growth, and differentiation of L929 fibroblasts; also,
+the MGO-loaded coatings differentiated Y201 cells and secreted a minimal
+amount of calcium minerals on their surface.</p><p>Our team created
+a hybrid layer-by-layer automated machine (US
+Patent: US20220388024A1) for thin-film fabrication and layer-by-layer
+deposition on metal and polymeric substrates. To deposit a layer on
+a substrate, this instrument includes the processes of (i) partially
+submerging the substrate in a reservoir of a charged solution and
+(ii) spraying the substrate with an atomized charged solution. When
+compared with conventional techniques, our LbL equipment shortens
+the overall duration of coating growth. In one instance, 20 nanolayers
+can be produced in 15–0 min rather than in 350–400 min
+using the traditional immersive LbL method.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> The surface of Ti64 substrates was positively activated by ammonium
+ions (NH<sub>4</sub><sup>+</sup>) to favor the electrostatic deposition
+of oppositely charged polyelectrolytes. The ζ-potential results
+confirmed the surface charges of J-COLL (2 mg/mL), HA (1 mg/mL), and
+MGO (0.625 mg/mL) as +3.11, −29.36, and −3.08 mV, respectively.
+From the literature, it was found that the surface charge on J-COLL
+was not yet reported, but our study strived to confirm the positive
+charge on J-COLL, which is analogous to the ζ-potential value
+of 2.5 mV of mammalian-derived COLL (rat tail tendon)reported by Niu
+et al.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> The self-assembling interactions
+between HA and J-COLL were confirmed by the typical trend of zigzag
+contact angle values, and the electrostatic interactions were strong
+up to the ninth layer deposition of HA. Our reported contact angle
+values of J-COLL and HA were substantiated by Zhao et al.’s<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> report on hydrophilic (30°) and hydrophobic
+(110°) values of HA and COLL, respectively. In optimized self-assembly
+multilayers, we have selected L5, L7, and L9 to include the MGO compound.
+However, the control and MGO-included samples have good hydrophilicity
+because the main composition of the terminal layer is the HA material.
+The surface roughness of HA/J-COLL multilayer coatings with and without
+MGO showed statistically no significance of <italic toggle="yes">R</italic><sub>a</sub> values in the range of <italic toggle="yes">R</italic><sub>a</sub> = 1.1032–1.3466
+μm, whereas the surface morphology results demonstrated dense
+coatings with the accumulation of HA/J-COLL multilayers. The incorporation
+of the MGO compound into multilayers did not influence the surface
+roughness and morphology due to well-ordered integration in multilayers.
+ATR-FTIR spectra confirmed the inclusion of the MGO compound into
+multilayers via a minor lower shift of the vibrational band at 1644
+cm<sup>–1</sup>, which indicates the presence of the keto group
+(C=O) in the MGO and matches with the literature.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> XPS analysis confirmed deposition of HA and
+J-COLL molecules and that the atomic concentrations of N 1s and C
+1s were higher than APTES-Ti64. The N 1s and C 1s are major elements
+of HA and J-COLL, which provide strong evidence of multilayer deposition
+on Ti64 and are substantiated by previous reports.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> The MGO was quantified at 6.60–7.82 mM, which matched
+the actual included MGO (9 mM) in multilayers, and the releasing profile
+was found to be controlled for up to 21 days.</p><p>The MIC and MBC
+values of MGO against <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> were similar to
+an existing report<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> and the minimum concentration
+of MGO required to kill both bacteria was estimated as 9 mM. It is
+well-known from the literature that when implantation occurs in the
+body, early-stage infections can occur, and treating them with antibiotics
+is difficult if they persist in forming biofilms.<sup><xref ref-type="bibr" rid="ref39">39</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> In our work, we explored two strategies: (i) the release of MGO
+for the prevention of bacteria and (ii) the contact-killing of bacteria.
+Therefore, we have included MGO in the top layers (L5―1×,
+L7―2×, and L9―3×) to enhance the bacterial
+killing efficacy of the HA/J-Coll LbL coating through the release
+of MGO and contact-killing. The planktonic and biofilm bacterial quantification
+by viable counts confirmed that MGO-loaded layers 7 and 9 have a favorable
+effect on preventing <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> bacterial growth and inhibit their
+colonization on the surfaces. It is important to note that these assays
+were performed in rich growth media, where bacterial growth is likely
+to outpace the accumulation of MGO in the medium. Therefore, we would
+not expect large reductions, particularly in planktonic cell growth.
+Nevertheless, significant reductions in the growth of bacteria were
+observed and were supported by qualitative assessments by microscopy
+(SEM and CLSM). In the human body, bacterial growth will be far slower,
+providing additional time for MGO to accumulate and aid the immune
+system in clearing bacterial cells. Animal models will be needed to
+determine the impact of these membranes on microbial growth under
+more realistic conditions.</p><p>These antibacterial studies showed
+that MGO was released from the
+multilayers in a controlled manner to kill both planktonic bacteria
+and support the contact-killing behavior to prevent the adhesion and
+colonization of biofilm bacteria. Our reported antibacterial results
+of MGO-loaded HA/J-COLL coatings agreed with the report by Haiyong
+et al. on the contact and release killing of pathogens.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> The Gram-positive bacteria (<italic toggle="yes">S.
+epidermidis</italic>) possess a cell membrane and a thick layer
+of peptidoglycan, while Gram-negative bacteria (<italic toggle="yes">E.
+coli</italic>) have an inner cell membrane, peptidoglycan layer,
+and outer membrane. Bacteria are shielded by these layers from the
+hostile extracellular environment. The proteins of the flagella and
+fimbriae, on the other hand, come into contact with the environment.
+MGO can bind directly to fimbriae and flagellar proteins including
+FimA/PapA and flagellin, causing loss of structural integrity and
+subsequently function in addition to altering gene expression and
+flagellum motility.<sup><xref ref-type="bibr" rid="ref42">42</xref>,<xref ref-type="bibr" rid="ref43">43</xref></sup> Also, due to its electrophilic
+nature, MGO can bind to DNA and protein chemical moieties such as
+guanine, arginine, lysin, etc. than alter their synthetic derivatives,
+structures, and functions.<sup><xref ref-type="bibr" rid="ref44">44</xref>,<xref ref-type="bibr" rid="ref45">45</xref></sup> Roberts et al. demonstrated
+that manuka honey prevented the growth of bacteria by constraining
+flagella-allied genes.<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> Rabie et al. observed
+that MGO at a concentration of 2 mM causes the loss of <italic toggle="yes">E. coli</italic>, <italic toggle="yes">Pseudomonas aeruginosa</italic>, <italic toggle="yes">Staphylococcus aureus</italic>, <italic toggle="yes">Bacillus subtilis</italic> bacterial fimbriae and flagella
+in addition to damaging cell membranes, shrinkage, and rounding of
+bacterial cells.<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> Few studies demonstrated
+the effectiveness of MGO toward methicillin- and oxacillin-resistant <italic toggle="yes">S. aureus</italic>.<sup><xref ref-type="bibr" rid="ref48">48</xref>,<xref ref-type="bibr" rid="ref49">49</xref></sup> According to Kilty
+et al., MGO was efficient against methicillin-resistant <italic toggle="yes">S. aureus</italic> (MRSA) biofilms <italic toggle="yes">P. aeruginosa</italic> and <italic toggle="yes">S. aureus</italic>. The effective concentrations
+of MGO for planktonic MRSA and <italic toggle="yes">P. aeruginosa</italic> were found to be 1.1–4.16 and 2.08–16.65 mM, respectively,
+whereas for biofilms, the MRSA was significantly greater than for
+planktonic bacteria (6.94–50.0 and 24.98–101.30 mM).<sup><xref ref-type="bibr" rid="ref50">50</xref></sup> However, <italic toggle="yes">in vivo</italic> tests, such
+as percutaneous and subcutaneous infection studies, are highly needed
+to understand the impact of MGO on bacterial elimination by either
+protein or gene damage.</p><p><italic toggle="yes">In vitro</italic> cytocompatibility
+studies of multilayers
+with and without MGO demonstrated no toxicity toward L929 fibroblast
+cells; however, the cellular metabolic activity was found to increase
+for control and MGO-loaded multilayers than APTES-Ti64, and the activity
+was gradually increased with an increase in time points from 1 to
+7 days. The live/dead images of control and MGO-loaded multilayers
+displayed the thick monolayer of cellular growth on their surfaces
+with active cells from days 1 to 7. The cytoskeleton staining and
+SEM images of control and MGO-loaded multilayers on day 7 showed that
+L929 cells had an elongated polygonal shape morphology with the expansion
+of actin protein filament and focal adhesion. The reason behind the
+improvement of L929 cellular functions is due to the physicochemical
+properties of multilayer coatings including surface roughness, morphology,
+wettability, and chemical composition. The surface roughness and morphology
+were found to be similar for control and MGO-loaded multilayer coatings
+in terms of the roughness nature, which are key factors due to deposition
+of oppositely charged HA and J-COLL, which deliver the appropriate
+location to adhere the cells, infiltration, and growth. The surface
+wettabilities of control and MGO-loaded multilayers were found to
+be in the range of 51.17–66.73°, which is aligned with
+an earlier report on that the contact angle value of about 60°
+is optimal wettability for supporting the cellular interactions.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup></p><p>Usually, there are three stages in cellular
+communications with
+the surfaces: (i) the attachment of cell numbers increasing with time,
+(ii) the flattening of cells, and (iii) the elongation of cell structures.<sup><xref ref-type="bibr" rid="ref51">51</xref></sup> The chemical composition of multilayers was
+J-COLL and HA, which positively affect the cellular behavior of L929
+in terms of adhesion, growth, proliferation, and hMSCs (Y201) differentiation.
+So far, few reports exist on the usage of marine-derived COLL for
+biomedical applications, including in bone, cartilage, and industries.
+Ranny et al. fabricated jellyfish (<italic toggle="yes">Aurelia aurita</italic>)-extracted collagen scaffolds for the regeneration of the alveolar
+bone. They controlled the degradation of the scaffold by chemical
+cross-linking and proved their nontoxic nature against hMSCs.<sup><xref ref-type="bibr" rid="ref52">52</xref></sup> Andrew et al. proved that J-COLL (<italic toggle="yes">Rhizostoma
+pulmo: R. pulmo</italic>) is a promising next generation of biomaterials
+and regenerative medicine. They studied the cell adhesion, cell viability,
+and immunocytochemistry assays of J-COLL against induced pluripotent
+stem cells (iPSC)-derived microglial-like cells (MGL) and confirmed
+their superior biofunctions over mammalian-derived collagen (rat tail
+COLL).<sup><xref ref-type="bibr" rid="ref53">53</xref></sup> Ahmed et al. found that J-COLL
+(<italic toggle="yes">R. pulmo</italic>) exhibits promise as a unique,
+structurally compatible, cleaner, next-generation collagen source
+that is more reliable for tissue engineering in osteoarthritis healing.
+J-COLL has structural and biodegradable material qualities, as well
+as the biocompatibility and immunogenic profiles, necessary for therapeutic
+usage in OA patients’ cartilage healing.<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> HA is the outermost component of multilayer coatings, which
+have strong intrinsic biological functions such as bone-promoting
+osteogenic, anti-inflammatory, and antibacterial properties. Through
+controlling Wnt/-Catenin signaling, HA significantly promotes the
+proliferation and differentiation of stem cells in a dose-dependent
+manner without affecting the cytophenotype.<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> Limited research has been conducted on MGO to reveal its antibacterial
+and anticancer functions,<sup><xref ref-type="bibr" rid="ref56">56</xref>,<xref ref-type="bibr" rid="ref57">57</xref></sup> yet a few contradictory
+reports exist on the bone cells’ interactions with MGO.<sup><xref ref-type="bibr" rid="ref58">58</xref>−<xref ref-type="bibr" rid="ref60">60</xref></sup> The role of the MGO in the differentiation of human bone marrow-derived
+stromal cells (hBMSCs) into osteoblasts is still not clear. However,
+in our study, the MGO-loaded multilayers did not show potential toxicity
+toward L929 and Y201 cells due to the lower concentration (9 mM),
+controlled release behavior, and synergistic effect of their combination
+with HA and J-COLL biomolecules.</p><p>On the other hand, we have
+evaluated the osteogenic ability of
+control and MGO-loaded multilayer coatings with Y201 hMSCs at 7 days
+by qualitative in vitro assays such as cytoskeleton staining, SEM,
+and ARS staining tests. The immunostaining images displayed the growth
+of Y201 cells with spindle shape morphology on control and MGO-loaded
+multilayers, whereas SEM micrographs showed comparable cellular attachment,
+spreading, and confluence. The ARS staining confirms the calcium mineralization
+competence of the control and MGO-loaded multilayers and their capability
+to differentiate Y201 hMSCs into osteoblast cells. Our study is the
+first report of the influence of J-COLL on the differentiation of
+Y201 cells and calcium secretion ability. Therefore, these primary
+results confirm that J-COLL in the coating supported the calcium deposition
+from the mineralization phase, indicating better differentiation than
+APTES-Ti64 (uncoated model). In the MGO-loaded samples, there was
+less presence of calcium compared to the multilayered samples without
+MGO. There was also evidence that the increased MGO attendance possibly
+led to a slower increase in the Ca<sup>2+</sup>.<sup><xref ref-type="bibr" rid="ref61">61</xref></sup> There is still limited literature regarding MGO’s
+role in the calcification of bone cells, yet research has reported
+that MGO generates mitochondrial dysfunction in liver cells.<sup><xref ref-type="bibr" rid="ref62">62</xref></sup> It has been reported that certain collagen amino
+acids, such as glycine, alanine, glutamine, and asparagine, can selectively
+induce osteogenesis by activating the focal adhesion kinase/JNK signaling
+cascade and runt-related transcription factors in bone marrow-derived
+MSCs.<sup><xref ref-type="bibr" rid="ref63">63</xref></sup> Rena et al. proved that the enhanced
+rates of fibril production by tilapia-scale COLL may promote early
+osteogenic induction via upregulating <italic toggle="yes">alp</italic>, <italic toggle="yes">opn</italic>, and <italic toggle="yes">bmp-2.</italic>(<xref ref-type="bibr" rid="ref64">64</xref>) Elango et al. studied that hydrolyzed Mahi Mahi fish COLL treated
+with BMSCs showed significantly elevated expression of the osteogenesis
+markers <italic toggle="yes">alp</italic>, <italic toggle="yes">coll, and ocn</italic>.<sup><xref ref-type="bibr" rid="ref65">65</xref></sup> Pugliano et al. developed a novel therapeutic
+implant for cartilage repair by combining J-COLL (<italic toggle="yes">R.
+pulmo</italic>), transforming growth factor-3 (TGF-3), and
+human BMSCs. <italic toggle="yes">In vitro</italic> cellular differentiation results
+showed that the J-COLL-containing implant prompted chondrogenesis
+in human MSCs.<sup><xref ref-type="bibr" rid="ref66">66</xref></sup> However, there is no strong
+evidence of the impact of J-COLL on osteogenic differentiation and
+its applications in bone regeneration. In this study, we have successfully
+proved the antibacterial activity and cytocompatibility of MGO-loaded
+multilayers, but this work has limitations in terms of broad antibacterial
+spectrum analysis, and osteogenic and angiogenic evaluation of multilayers
+with and without MGO. In the future work, we will extend our developed
+MGO-loaded multilayer coatings toward treating <italic toggle="yes">in vivo</italic> infection models and regenerating animal calvarial bone defects.</p></sec><sec id="sec5"><label>5</label><title>Conclusions</title><p>For the first time, multilayered
+coatings based on J-COLL and HA
+have been manufactured via the layer-by-layer method on Ti64 alloy
+substrates by incorporating the MGO compound in the outermost layers.
+A number of HA/J-COLL multilayers were successfully optimized toward
+building-up stable electrostatic interactions, evidencing the coatings
+have strong electrostatic interactions up to the ninth layer. Planktonic
+and biofilm quantification results confirmed that the MGO concentration
+in layers 7 and 9 has a favorable effect on preventing bacterial growth
+and colonization on their surfaces. Moreover, this work has demonstrated
+that the incorporation of MGO into the multilayered coatings prevented
+the growth of <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic>, being favorable for contact-killing
+of both bacterial strains. An <italic toggle="yes">in vitro</italic> cytocompatibility
+study confirmed that MGO agents including HA/Coll layers did not affect
+or reduce the cellular metabolism of L929 fibroblasts, demonstrating
+the suitable cytocompatibility of MGO-incorporated L5, L7, and L9
+samples. Indeed, the cytocompatibility tests evidenced that MGO-loaded
+HA/J-COLL layers sustained cellular attachment and growth of L929
+and Y201 cells. Moreover, the MGO-loaded sample supported TERT-hMSCs
+(Y201) differentiation and mineral deposition after 7 days of incubation
+as detected by ARS. Therefore, the outcomes from this work show how
+the use of a MGO natural antibacterial agent incorporated within HA/J-COLL
+coatings on Ti64 substrates can act as an ideal antimicrobial coating
+and potential alternative to prevent antimicrobial resistance while
+favoring bone-inducing functions suitable for metallic orthopedic
+implants and bone tissue engineering applications.</p></sec></body><back><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsami.3c11910?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsami.3c11910</ext-link>.<list id="silist" list-type="simple"><list-item><p>Acridine Orange quantification of amine groups and staining
+images of untreated-Ti64, alkali-Ti64, and silanized-Ti64 sample surfaces
+(Figure S1A,B); profilometry 2D and 3D images of APTES-Ti64, control,
+and MGO-incorporated L5, L7, and L9 (Figure S2A,B); antibacterial
+activity of MGO component and determination of its MIC and MBC using <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> bacteria (Figure S3A–C); spread plate method used to determine <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> planktonic viable bacteria on the surfaces of samples for 24 h (Figure
+S4); spread plate method used to determine <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> biofilm viable
+bacteria on the surface of samples for 24 h (Figure S5); and quantification
+of mean fluorescence intensities of <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> from CLSM images
+by ImageJ software (Figure S6) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsami.3c11910/suppl_file/am3c11910_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1" position="float" orientation="portrait"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="am3c11910_si_001.pdf" position="float" orientation="portrait"><?suppdata-name am3c11910_si_001.pdf?><?suppdata-size 1010108?><?suppdata-md5 176456e3c41a386b54b6966eb86a2067?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:d995/10739588/176456e3c41a/am3c11910_si_001.pdf?><caption><p>am3c11910_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes-2"><title>Author Contributions</title><p><sup>#</sup> P.G. and A.M.F. contributed equally.</p></notes><notes notes-type="COI-statement" id="NOTES-d14e1181-autogenerated"><p>The authors
+declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>The authors acknowledge the Orthopaedic Research United Kingdom
+(ORUK #536) for financial support. The authors express their gratitude
+toward Zimmer Biomet and their NIH clinical partners for their scientific
+support. The authors also acknowledge support from the NIHR Newcastle
+Biomedical Research Centre, a partnership between Newcastle Hospitals
+NHS Foundation Trust, Newcastle University, and Cumbria Northumberland
+and Tyne and Wear NHS Foundation Trust that is funded by the National
+Institute for Health and Care Research (NIHR). The views expressed
+are those of the authors and not necessarily those of the NIHR or
+the Department of Health and Social Care. Also, the authors thank
+the Newcastle University for providing access to all of the research
+facilities. The views expressed are those of the author(s) and not
+necessarily those of the NIHR or the Department of Health and Social
+Care.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name name-style="western"><surname>Garg</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Matai</surname><given-names>I.</given-names></name>; <name name-style="western"><surname>Sachdev</surname><given-names>A.</given-names></name>
+<article-title>Toward designing of anti-infective
+hydrogels for orthopedic implants: from lab to clinic</article-title>. <source>ACS Biomater. Sci. Eng.</source>
+<year>2021</year>, <volume>7</volume>, <fpage>1933</fpage>–<lpage>1961</lpage>. <pub-id pub-id-type="doi">10.1021/acsbiomaterials.0c01408</pub-id>.<pub-id pub-id-type="pmid">33826312</pub-id>
+</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name name-style="western"><surname>Wu</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Chan</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Low</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Chu</surname><given-names>J. J. H.</given-names></name>; <name name-style="western"><surname>Hey</surname><given-names>H. W. D.</given-names></name>; <name name-style="western"><surname>Tay</surname><given-names>A.</given-names></name>
+<article-title>Microbial resistance
+to nanotechnologies: An important
+but understudied consideration using antimicrobial nanotechnologies
+in orthopaedic implants</article-title>. <source>Bioact. Mater.</source>
+<year>2022</year>, <volume>16</volume>, <fpage>249</fpage>–<lpage>270</lpage>. <pub-id pub-id-type="doi">10.1016/j.bioactmat.2022.02.014</pub-id>.<pub-id pub-id-type="pmid">35415290</pub-id>
+<pub-id pub-id-type="pmcid">PMC8965851</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name name-style="western"><surname>Sui</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>H.</given-names></name>
+<article-title>Surface Bio-Functionalization of
+Anti-Bacterial Titanium Implants: A Review</article-title>. <source>Coatings</source>
+<year>2022</year>, <volume>12</volume>, <fpage>1125</fpage><pub-id pub-id-type="doi">10.3390/coatings12081125</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name name-style="western"><surname>Nouri</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Shirvan</surname><given-names>A. R.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Wen</surname><given-names>C.</given-names></name>
+<article-title>Surface modification
+of additively manufactured metallic biomaterials with active antipathogenic
+properties</article-title>. <source>Smart Mater. Manuf.</source>
+<year>2023</year>, <volume>1</volume>, <elocation-id>100001</elocation-id><pub-id pub-id-type="doi">10.1016/j.smmf.2022.100001</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name name-style="western"><surname>Aggarwal</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Kumar</surname><given-names>V.</given-names></name>; <name name-style="western"><surname>Sharma</surname><given-names>S.</given-names></name>
+<article-title>Drug-loaded biomaterials
+for orthopedic
+applications: A review</article-title>. <source>J. Controlled Release</source>
+<year>2022</year>, <volume>344</volume>, <fpage>113</fpage>–<lpage>133</lpage>. <pub-id pub-id-type="doi">10.1016/j.jconrel.2022.02.029</pub-id>.<pub-id pub-id-type="pmid">35240227</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name name-style="western"><surname>Spirescu</surname><given-names>V. A.</given-names></name>; <name name-style="western"><surname>Chircov</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Grumezescu</surname><given-names>A. M.</given-names></name>; <name name-style="western"><surname>Vasile</surname><given-names>B. Ş.</given-names></name>; <name name-style="western"><surname>Andronescu</surname><given-names>E.</given-names></name>
+<article-title>Inorganic nanoparticles and composite
+films for antimicrobial
+therapies</article-title>. <source>Int. J. Mol. Sci</source>
+<year>2021</year>, <volume>22</volume>, <fpage>4595</fpage><pub-id pub-id-type="doi">10.3390/ijms22094595</pub-id>.<pub-id pub-id-type="pmid">33925617</pub-id>
+<pub-id pub-id-type="pmcid">PMC8123905</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name name-style="western"><surname>Drexelius</surname><given-names>M. G.</given-names></name>; <name name-style="western"><surname>Neundorf</surname><given-names>I.</given-names></name>
+<article-title>Application of antimicrobial peptides on biomedical
+implants: Three ways to pursue peptide coatings</article-title>. <source>Int. J. Mol. Sci</source>
+<year>2021</year>, <volume>22</volume>, <fpage>13212</fpage><pub-id pub-id-type="doi">10.3390/ijms222413212</pub-id>.<pub-id pub-id-type="pmid">34948009</pub-id>
+<pub-id pub-id-type="pmcid">PMC8703712</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name name-style="western"><surname>Ferreira</surname><given-names>A. M.</given-names></name>; <name name-style="western"><surname>Gentile</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Toumpaniari</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Ciardelli</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Birch</surname><given-names>M. A.</given-names></name>
+<article-title>Impact of collagen/heparin multilayers
+for regulating
+bone cellular functions</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2016</year>, <volume>8</volume>, <fpage>29923</fpage>–<lpage>29932</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.6b09241</pub-id>.<pub-id pub-id-type="pmid">27762547</pub-id>
+</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name name-style="western"><surname>Gentile</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Ferreira</surname><given-names>A. M.</given-names></name>; <name name-style="western"><surname>Callaghan</surname><given-names>J. T.</given-names></name>; <name name-style="western"><surname>Miller</surname><given-names>C. A.</given-names></name>; <name name-style="western"><surname>Atkinson</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Freeman</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Hatton</surname><given-names>P. V.</given-names></name>
+<article-title>Multilayer
+nanoscale encapsulation
+of biofunctional peptides to enhance bone tissue regeneration <italic toggle="yes">in vivo</italic></article-title>. <source>Adv. Healthcare Mater.</source>
+<year>2017</year>, <volume>6</volume>, <elocation-id>1601182</elocation-id><pub-id pub-id-type="doi">10.1002/adhm.201601182</pub-id>.<pub-id pub-id-type="pmid">28169513</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name name-style="western"><surname>Udduttula</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Ma</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Teng</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>J. V.</given-names></name>; <name name-style="western"><surname>Ferreira</surname><given-names>A. M.</given-names></name>; <name name-style="western"><surname>Ren</surname><given-names>P. G.</given-names></name>; et al. <article-title>A novel
+apatite-inspired Sr5 (PO4) 2SiO4 plasma-sprayed
+coating on Ti alloy promoting biomineralization, osteogenesis and
+angiogenesis</article-title>. <source>Ceram. Int.</source>
+<year>2022</year>, <volume>48</volume>, <fpage>10979</fpage>–<lpage>10989</lpage>. <pub-id pub-id-type="doi">10.1016/j.ceramint.2021.12.317</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name name-style="western"><surname>Gentile</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Ghione</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Ferreira</surname><given-names>A. M.</given-names></name>; <name name-style="western"><surname>Crawford</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Hatton</surname><given-names>P. V.</given-names></name>
+<article-title>Alginate-based
+hydrogels functionalised at the nanoscale using layer-by-layer assembly
+for potential cartilage repair</article-title>. <source>Biomater. Sci.</source>
+<year>2017</year>, <volume>5</volume>, <fpage>1922</fpage>–<lpage>1931</lpage>. <pub-id pub-id-type="doi">10.1039/C7BM00525C</pub-id>.<pub-id pub-id-type="pmid">28752866</pub-id>
+</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name name-style="western"><surname>Cen</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Liu</surname><given-names>W. E. I.</given-names></name>; <name name-style="western"><surname>Cui</surname><given-names>L. E. I.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Cao</surname><given-names>Y.</given-names></name>
+<article-title>Collagen tissue
+engineering: development of novel biomaterials and applications</article-title>. <source>Pediatr. Res.</source>
+<year>2008</year>, <volume>63</volume> (<issue>5</issue>), <fpage>492</fpage>–<lpage>496</lpage>. <pub-id pub-id-type="doi">10.1203/PDR.0b013e31816c5bc3</pub-id>.<pub-id pub-id-type="pmid">18427293</pub-id>
+</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name name-style="western"><surname>Kosiński</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Jarecki</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Przepiórka-Kosińska</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Ratajczak</surname><given-names>M.</given-names></name>
+<article-title>Hyaluronic acid in orthopedics</article-title>. <source>Wiad Lek</source>
+<year>2020</year>, <volume>73</volume>, <fpage>1878</fpage>–<lpage>1881</lpage>. <pub-id pub-id-type="doi">10.36740/WLek202009114</pub-id>.<pub-id pub-id-type="pmid">33099534</pub-id>
+</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name name-style="western"><surname>Kim</surname><given-names>J. E.</given-names></name>; <name name-style="western"><surname>Sykes</surname><given-names>J. M.</given-names></name>
+<article-title>Hyaluronic
+acid fillers: history and overview</article-title>. <source>Facial plast.
+surg.</source>
+<year>2011</year>, <volume>27</volume>, <fpage>523</fpage>–<lpage>528</lpage>. <pub-id pub-id-type="doi">10.1055/s-0031-1298785</pub-id>.<pub-id pub-id-type="pmid">22205525</pub-id>
+</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name name-style="western"><surname>Ao</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Zong</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Nie</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Wan</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Zheng</surname><given-names>X.</given-names></name>
+<article-title>An <italic toggle="yes">in vivo</italic> study
+on the effect of coating stability on osteointegration
+performance of collagen/hyaluronic acid multilayer modified titanium
+implants</article-title>. <source>Bioact. Mater.</source>
+<year>2018</year>, <volume>3</volume>, <fpage>97</fpage>–<lpage>101</lpage>. <pub-id pub-id-type="doi">10.1016/j.bioactmat.2017.07.004</pub-id>.<pub-id pub-id-type="pmid">29744446</pub-id>
+<pub-id pub-id-type="pmcid">PMC5935658</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name name-style="western"><surname>Luo</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Huang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Deng</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>X.</given-names></name>
+<article-title>Polyelectrolyte
+multilayer coating
+with two regulatory molecules on titanium: construction and its biological
+effects</article-title>. <source>Nanomedicine</source>
+<year>2013</year>, <volume>8</volume>, <fpage>739</fpage>–<lpage>755</lpage>. <pub-id pub-id-type="doi">10.2217/nnm.12.151</pub-id>.<pub-id pub-id-type="pmid">23384699</pub-id>
+</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name name-style="western"><surname>Wu</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Shao</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Lin</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Gao</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Fang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>J.</given-names></name>
+<article-title>Surface modification of titanium
+with collagen/hyaluronic acid and
+bone morphogenetic protein 2/7 heterodimer promotes osteoblastic differentiation</article-title>. <source>Dent. Mater. J.</source>
+<year>2020</year>, <volume>39</volume>, <fpage>1072</fpage>–<lpage>1079</lpage>. <pub-id pub-id-type="doi">10.4012/dmj.2019-249</pub-id>.<pub-id pub-id-type="pmid">33028783</pub-id>
+</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name name-style="western"><surname>Huang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Luo</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>S.</given-names></name>
+<article-title>Fabrication and in
+vitro evaluation of the collagen/hyaluronic acid PEM coating crosslinked
+with functionalized RGD peptide on titanium</article-title>. <source>Acta Biomater.</source>
+<year>2012</year>, <volume>8</volume>, <fpage>866</fpage>–<lpage>877</lpage>. <pub-id pub-id-type="doi">10.1016/j.actbio.2011.10.020</pub-id>.<pub-id pub-id-type="pmid">22040683</pub-id>
+</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name name-style="western"><surname>Li</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Luo</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Huang</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Zhao</surname><given-names>S.</given-names></name>
+<article-title>The responses
+of preosteoblasts to collagen/hyaluronic acid polyelectrolyte multilayer
+coating on titanium</article-title>. <source>Polym. Adv. Technol.</source>
+<year>2012</year>, <volume>23</volume>, <fpage>756</fpage>–<lpage>764</lpage>. <pub-id pub-id-type="doi">10.1002/pat.1953</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name name-style="western"><surname>Senadheera</surname><given-names>T. R.</given-names></name>; <name name-style="western"><surname>Dave</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Shahidi</surname><given-names>F.</given-names></name>
+<article-title>Sea cucumber
+derived type I collagen:
+A comprehensive review</article-title>. <source>Mar. Drugs.</source>
+<year>2020</year>, <volume>18</volume>, <fpage>471</fpage><pub-id pub-id-type="doi">10.3390/md18090471</pub-id>.<pub-id pub-id-type="pmid">32961970</pub-id>
+<pub-id pub-id-type="pmcid">PMC7551324</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name name-style="western"><surname>Alvarez-Suarez</surname><given-names>J. M.</given-names></name>; <name name-style="western"><surname>Gasparrini</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Forbes-Hernández</surname><given-names>T. Y.</given-names></name>; <name name-style="western"><surname>Mazzoni</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Giampieri</surname><given-names>F.</given-names></name>
+<article-title>The composition
+and biological activity of honey: a
+focus on Manuka honey</article-title>. <source>Foods</source>
+<year>2014</year>, <volume>3</volume>, <fpage>420</fpage>–<lpage>432</lpage>. <pub-id pub-id-type="doi">10.3390/foods3030420</pub-id>.<pub-id pub-id-type="pmid">28234328</pub-id>
+<pub-id pub-id-type="pmcid">PMC5302252</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name name-style="western"><surname>Talukdar</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Ray</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Ray</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Das</surname><given-names>S.</given-names></name>
+<article-title>A brief critical overview of the
+biological effects of methylglyoxal and further evaluation of a methylglyoxal-based
+anticancer formulation in treating cancer patients</article-title>. <source>Drug Metab. Drug Interact.</source>
+<year>2008</year>, <volume>23</volume>, <fpage>175</fpage>–<lpage>210</lpage>. <pub-id pub-id-type="doi">10.1515/DMDI.2008.23.1-2.175</pub-id>.<pub-id pub-id-type="pmid">18533369</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name name-style="western"><surname>Khan</surname><given-names>S. H.</given-names></name>; <name name-style="western"><surname>Younus</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Allemailem</surname><given-names>K. S.</given-names></name>; <name name-style="western"><surname>Almatroudi</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Alrumaihi</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Alruwetei</surname><given-names>A. M.</given-names></name>; <name name-style="western"><surname>Khan</surname><given-names>M. A.</given-names></name>
+<article-title>Potential of methylglyoxal-conjugated
+chitosan nanoparticles in treatment of fluconazole-resistant <italic toggle="yes">Candida albicans</italic> infection in a murine model</article-title>. <source>Int. J. Nanomed.</source>
+<year>2020</year>, <fpage>3681</fpage>–<lpage>3693</lpage>. <pub-id pub-id-type="doi">10.2147/ijn.s249625</pub-id>.<pub-id pub-id-type="pmcid">PMC7261666</pub-id><pub-id pub-id-type="pmid">32547022</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name name-style="western"><surname>Chakrabarti</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Talukdar</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Pal</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Ray</surname><given-names>M.</given-names></name>
+<article-title>Immunomodulation of
+macrophages by methylglyoxal conjugated with chitosan nanoparticles
+against Sarcoma-180 tumor in mice</article-title>. <source>Cell. Immunol.</source>
+<year>2014</year>, <volume>287</volume>, <fpage>27</fpage>–<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1016/j.cellimm.2013.11.006</pub-id>.<pub-id pub-id-type="pmid">24368179</pub-id>
+</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name name-style="western"><surname>Yang</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Ward</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Choy</surname><given-names>K. L.</given-names></name>
+<article-title>Nature-inspired
+bacterial cellulose/methylglyoxal
+(BC/MGO) nanocomposite for broad-spectrum antimicrobial wound dressing</article-title>. <source>Macromol. Biosci.</source>
+<year>2020</year>, <volume>20</volume>, <elocation-id>2000070</elocation-id><pub-id pub-id-type="doi">10.1002/mabi.202000070</pub-id>.<pub-id pub-id-type="pmid">32567254</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name name-style="western"><surname>Yuen</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Laschinger</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Talior</surname><given-names>I.</given-names></name>; <name name-style="western"><surname>Lee</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Chan</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Birek</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>McCulloch</surname><given-names>C. A.</given-names></name>; et al. <article-title>Methylglyoxal-modified
+collagen promotes myofibroblast differentiation</article-title>. <source>Matrix Biol.</source>
+<year>2010</year>, <volume>29</volume>, <fpage>537</fpage>–<lpage>548</lpage>. <pub-id pub-id-type="doi">10.1016/j.matbio.2010.04.004</pub-id>.<pub-id pub-id-type="pmid">20423729</pub-id>
+</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name name-style="western"><surname>Gentile</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Frongia</surname><given-names>M. E.</given-names></name>; <name name-style="western"><surname>Cardellach</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Miller</surname><given-names>C. A.</given-names></name>; <name name-style="western"><surname>Stafford</surname><given-names>G. P.</given-names></name>; <name name-style="western"><surname>Leggett</surname><given-names>G. J.</given-names></name>; <name name-style="western"><surname>Hatton</surname><given-names>P. V.</given-names></name>
+<article-title>Functionalised
+nanoscale coatings
+using layer-by-layer assembly for imparting antibacterial properties
+to polylactide-co-glycolide surfaces</article-title>. <source>Acta Biomater.</source>
+<year>2015</year>, <volume>21</volume>, <fpage>35</fpage>–<lpage>43</lpage>. <pub-id pub-id-type="doi">10.1016/j.actbio.2015.04.009</pub-id>.<pub-id pub-id-type="pmid">25871538</pub-id>
+</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name name-style="western"><surname>Sánchez-Bodón</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Andrade del Olmo</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Alonso</surname><given-names>J. M.</given-names></name>; <name name-style="western"><surname>Moreno-Benítez</surname><given-names>I.</given-names></name>; <name name-style="western"><surname>Vilas-Vilela</surname><given-names>J. L.</given-names></name>; <name name-style="western"><surname>Pérez-Álvarez</surname><given-names>L.</given-names></name>
+<article-title>Bioactive
+coatings on titanium: a review on hydroxylation, self-assembled monolayers
+(SAMs) and surface modification strategies</article-title>. <source>Polymers</source>
+<year>2022</year>, <volume>14</volume>, <fpage>165</fpage><pub-id pub-id-type="doi">10.3390/polym14010165</pub-id>.<pub-id pub-id-type="pmcid">PMC8747097</pub-id><pub-id pub-id-type="pmid">35012187</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name name-style="western"><surname>Lu</surname><given-names>K. W.</given-names></name>; <name name-style="western"><surname>Lin</surname><given-names>Y. T.</given-names></name>; <name name-style="western"><surname>Wei</surname><given-names>H. S.</given-names></name>; <name name-style="western"><surname>Kuo</surname><given-names>C. C.</given-names></name>
+<article-title>Super hydrophilic
+Modification of Polycarbonate Substrate Surface by Organic Plasma
+Polymerization Film</article-title>. <source>Materials</source>
+<year>2022</year>, <volume>15</volume>, <fpage>4411</fpage><pub-id pub-id-type="doi">10.3390/ma15134411</pub-id>.<pub-id pub-id-type="pmid">35806536</pub-id>
+<pub-id pub-id-type="pmcid">PMC9267533</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name name-style="western"><surname>Zhao</surname><given-names>M. Y.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>L. H.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Zhou</surname><given-names>C. R.</given-names></name>
+<article-title>LBL coating of type
+I collagen and hyaluronic acid on aminolyzed PLLA to enhance the cell-material
+interaction</article-title>. <source>Express Polym. Lett.</source>
+<year>2014</year>, <volume>8</volume>, <fpage>322</fpage>–<lpage>335</lpage>. <pub-id pub-id-type="doi">10.3144/expresspolymlett.2014.36</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name name-style="western"><surname>Ghensi</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Bettio</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Maniglio</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Bonomi</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Piccoli</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Gross</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Tessarolo</surname><given-names>F.</given-names></name>; et al. <article-title>Dental implants with
+anti-biofilm properties: a pilot study for developing a new sericin-based
+coating</article-title>. <source>Materials</source>
+<year>2019</year>, <volume>12</volume>, <fpage>2429</fpage><pub-id pub-id-type="doi">10.3390/ma12152429</pub-id>.<pub-id pub-id-type="pmid">31366076</pub-id>
+<pub-id pub-id-type="pmcid">PMC6695694</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name name-style="western"><surname>Ye</surname><given-names>S. H.</given-names></name>; <name name-style="western"><surname>Johnson</surname><given-names>C. A.</given-names><suffix>Jr</suffix></name>; <name name-style="western"><surname>Woolley</surname><given-names>J. R.</given-names></name>; <name name-style="western"><surname>Murata</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Gamble</surname><given-names>L. J.</given-names></name>; <name name-style="western"><surname>Ishihara</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Wagner</surname><given-names>W. R.</given-names></name>
+<article-title>Simple surface modification
+of a titanium alloy with silanated zwitterionic phosphorylcholine
+or sulfobetaine modifiers to reduce thrombogenicity</article-title>. <source>Colloids Surf. B</source>
+<year>2010</year>, <volume>79</volume>, <fpage>357</fpage>–<lpage>364</lpage>. <pub-id pub-id-type="doi">10.1016/j.colsurfb.2010.04.018</pub-id>.<pub-id pub-id-type="pmcid">PMC3178391</pub-id><pub-id pub-id-type="pmid">20547042</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name name-style="western"><surname>Jia</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Kang</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Gu</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Guo</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Chen</surname><given-names>Z.</given-names></name>
+<article-title>Fabrication
+and comprehensive characterization of biomimetic extracellular matrix
+electrospun scaffold for vascular tissue engineering applications</article-title>. <source>J. Mater. Sci.</source>
+<year>2019</year>, <volume>54</volume> (<issue>15</issue>), <fpage>10871</fpage>–<lpage>10883</lpage>. <pub-id pub-id-type="doi">10.1007/s10853-019-03667-6</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name name-style="western"><surname>Ao</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Xie</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Tan</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Yang</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Zheng</surname><given-names>X.</given-names></name>; <name name-style="western"><surname>Tang</surname><given-names>T.</given-names></name>
+<article-title>Fabrication and in vitro evaluation
+of stable collagen/hyaluronic acid biomimetic multilayer on titanium
+coatings</article-title>. <source>J. R. Soc., Interface</source>
+<year>2013</year>, <volume>10</volume>, <elocation-id>20130070</elocation-id><pub-id pub-id-type="doi">10.1098/rsif.2013.0070</pub-id>.<pub-id pub-id-type="pmid">23635490</pub-id>
+<pub-id pub-id-type="pmcid">PMC3673146</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name name-style="western"><surname>Ellerbrock</surname><given-names>R. H.</given-names></name>; <name name-style="western"><surname>Gerke</surname><given-names>H. H.</given-names></name>
+<article-title>FTIR spectral band shifts explained
+by OM–cation
+interactions</article-title>. <source>J. Plant Nutr. Soil Sci.</source>
+<year>2021</year>, <volume>184</volume>, <fpage>388</fpage>–<lpage>397</lpage>. <pub-id pub-id-type="doi">10.1002/jpln.202100056</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name name-style="western"><surname>Juliano</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Magrini</surname><given-names>G. A.</given-names></name>
+<article-title>Methylglyoxal, the
+major antibacterial factor in manuka
+honey: an alternative to preserve natural cosmetics?</article-title>. <source>Cosmetics</source>
+<year>2019</year>, <volume>6</volume>, <fpage>1</fpage><pub-id pub-id-type="doi">10.3390/cosmetics6010001</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="patent" id="cit37"><person-group person-group-type="allauthors"><name name-style="western"><surname>Ferreira</surname><given-names>A. M.</given-names></name>; <name name-style="western"><surname>Gentile</surname><given-names>P.</given-names></name></person-group><article-title>Thin film fabrication
+method and apparatus</article-title> US Patent<patent>US2022/0388024A1</patent>, <year>2022</year>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name name-style="western"><surname>Niu</surname><given-names>L. N.</given-names></name>; <name name-style="western"><surname>Jee</surname><given-names>S. E.</given-names></name>; <name name-style="western"><surname>Jiao</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Tonggu</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Li</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Wang</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Tay</surname><given-names>F. R.</given-names></name>; et al. <article-title>Collagen intrafibrillar
+mineralization as a result of the balance between osmotic equilibrium
+and electroneutrality</article-title>. <source>Nat. Mater.</source>
+<year>2017</year>, <volume>16</volume>, <fpage>370</fpage>–<lpage>378</lpage>. <pub-id pub-id-type="doi">10.1038/nmat4789</pub-id>.<pub-id pub-id-type="pmid">27820813</pub-id>
+<pub-id pub-id-type="pmcid">PMC5321866</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name name-style="western"><surname>Khatoon</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>McTiernan</surname><given-names>C. D.</given-names></name>; <name name-style="western"><surname>Suuronen</surname><given-names>E. J.</given-names></name>; <name name-style="western"><surname>Mah</surname><given-names>T. F.</given-names></name>; <name name-style="western"><surname>Alarcon</surname><given-names>E. I.</given-names></name>
+<article-title>Bacterial
+biofilm formation on implantable devices and approaches to its treatment
+and prevention</article-title>. <source>Heliyon</source>
+<year>2018</year>, <volume>4</volume> (<issue>12</issue>), <elocation-id>e01067</elocation-id><pub-id pub-id-type="doi">10.1016/j.heliyon.2018.e01067</pub-id>.<pub-id pub-id-type="pmid">30619958</pub-id>
+<pub-id pub-id-type="pmcid">PMC6312881</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name name-style="western"><surname>Li</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Yin</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Cheng</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Lin</surname><given-names>J.</given-names></name>
+<article-title>Bacterial Biofilm Formation on Biomaterials
+and Approaches to Its Treatment and Prevention</article-title>. <source>Int. J. Mol. Sci.</source>
+<year>2023</year>, <volume>24</volume> (<issue>14</issue>), <fpage>11680</fpage><pub-id pub-id-type="doi">10.3390/ijms241411680</pub-id>.<pub-id pub-id-type="pmid">37511440</pub-id>
+<pub-id pub-id-type="pmcid">PMC10380251</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name name-style="western"><surname>Ao</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Yang</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Fan</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>Q.</given-names></name>; <name name-style="western"><surname>Zong</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Guo</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Tang</surname><given-names>T.</given-names></name>; et al. <article-title>Improved antibacterial properties of collagen
+I/hyaluronic acid/quaternized chitosan multilayer modified titanium
+coatings with both contact-killing and release-killing functions</article-title>. <source>J. Mater. Chem. B</source>
+<year>2019</year>, <volume>7</volume>, <fpage>1951</fpage>–<lpage>1961</lpage>. <pub-id pub-id-type="doi">10.1039/C8TB02425A</pub-id>.<pub-id pub-id-type="pmid">32255058</pub-id>
+</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name name-style="western"><surname>Nolan</surname><given-names>V. C.</given-names></name>; <name name-style="western"><surname>Harrison</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Cox</surname><given-names>J. A.</given-names></name>
+<article-title>Dissecting
+the antimicrobial composition
+of honey</article-title>. <source>Antibiotics</source>
+<year>2019</year>, <volume>8</volume>, <fpage>251</fpage><pub-id pub-id-type="doi">10.3390/antibiotics8040251</pub-id>.<pub-id pub-id-type="pmid">31817375</pub-id>
+<pub-id pub-id-type="pmcid">PMC6963415</pub-id></mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name name-style="western"><surname>Guttenplan</surname><given-names>S. B.</given-names></name>; <name name-style="western"><surname>Kearns</surname><given-names>D. B.</given-names></name>
+<article-title>Regulation of flagellar motility
+during biofilm formation</article-title>. <source>FEMS Microbiol. Rev.</source>
+<year>2013</year>, <volume>37</volume> (<issue>6</issue>), <fpage>849</fpage>–<lpage>871</lpage>. <pub-id pub-id-type="doi">10.1111/1574-6976.12018</pub-id>.<pub-id pub-id-type="pmid">23480406</pub-id>
+<pub-id pub-id-type="pmcid">PMC3718880</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name name-style="western"><surname>Ferguson</surname><given-names>G. P.</given-names></name>; <name name-style="western"><surname>Tötemeyer</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>MacLean</surname><given-names>M. J.</given-names></name>; <name name-style="western"><surname>Booth</surname><given-names>I. R.</given-names></name>
+<article-title>Methylglyoxal production
+in bacteria: suicide or survival?</article-title>. <source>Arch. Microbiol.</source>
+<year>1998</year>, <volume>170</volume>, <fpage>209</fpage>–<lpage>218</lpage>. <pub-id pub-id-type="doi">10.1007/s002030050635</pub-id>.<pub-id pub-id-type="pmid">9732434</pub-id>
+</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name name-style="western"><surname>Yadav</surname><given-names>S. K.</given-names></name>; <name name-style="western"><surname>Singla-Pareek</surname><given-names>S. L.</given-names></name>; <name name-style="western"><surname>Ray</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Reddy</surname><given-names>M. K.</given-names></name>; <name name-style="western"><surname>Sopory</surname><given-names>S. K.</given-names></name>
+<article-title>Methylglyoxal
+levels in plants under salinity stress are dependent on glyoxalase
+I and glutathione</article-title>. <source>Biochem. Biophys. Res. Commun.</source>
+<year>2005</year>, <volume>337</volume> (<issue>1</issue>), <fpage>61</fpage>–<lpage>67</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbrc.2005.08.263</pub-id>.<pub-id pub-id-type="pmid">16176800</pub-id>
+</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name name-style="western"><surname>Roberts</surname><given-names>A. E. L.</given-names></name>; <name name-style="western"><surname>Maddocks</surname><given-names>S. E.</given-names></name>; <name name-style="western"><surname>Cooper</surname><given-names>R. A.</given-names></name>
+<article-title>Manuka honey reduces the motility
+of <italic toggle="yes">Pseudomonas aeruginosa</italic> by suppression
+of flagella-associated genes</article-title>. <source>J. Antimicrob.
+Chemother.</source>
+<year>2015</year>, <volume>70</volume> (<issue>3</issue>), <fpage>716</fpage>–<lpage>725</lpage>. <pub-id pub-id-type="doi">10.1093/jac/dku448</pub-id>.<pub-id pub-id-type="pmid">25404649</pub-id>
+</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name name-style="western"><surname>Rabie</surname><given-names>E.</given-names></name>; <name name-style="western"><surname>Serem</surname><given-names>J. C.</given-names></name>; <name name-style="western"><surname>Oberholzer</surname><given-names>H. M.</given-names></name>; <name name-style="western"><surname>Gaspar</surname><given-names>A. R. M.</given-names></name>; <name name-style="western"><surname>Bester</surname><given-names>M. J.</given-names></name>
+<article-title>How methylglyoxal
+kills bacteria: An ultrastructural study</article-title>. <source>Ultrastruct.
+Pathol.</source>
+<year>2016</year>, <volume>40</volume>, <fpage>107</fpage>–<lpage>111</lpage>. <pub-id pub-id-type="doi">10.3109/01913123.2016.1154914</pub-id>.<pub-id pub-id-type="pmid">26986806</pub-id>
+</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name name-style="western"><surname>Jenkins</surname><given-names>R. E.</given-names></name>; <name name-style="western"><surname>Cooper</surname><given-names>R.</given-names></name>
+<article-title>Synergy between oxacillin and manuka honey sensitizes
+methicillin-resistant <italic toggle="yes">Staphylococcus aureus</italic> to oxacillin</article-title>. <source>J. Antimicrob. Chemother.</source>
+<year>2012</year>, <volume>67</volume>, <fpage>1405</fpage>–<lpage>1407</lpage>. <pub-id pub-id-type="doi">10.1093/jac/dks071</pub-id>.<pub-id pub-id-type="pmid">22382468</pub-id>
+</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name name-style="western"><surname>Stewart</surname><given-names>J. A.</given-names></name>; <name name-style="western"><surname>McGrane</surname><given-names>O. L.</given-names></name>; <name name-style="western"><surname>Wedmore</surname><given-names>I. S.</given-names></name>
+<article-title>Wound care
+in the wilderness: is
+there evidence for honey?</article-title>. <source>Wilderness Environ.
+Med.</source>
+<year>2014</year>, <volume>25</volume>, <fpage>103</fpage>–<lpage>110</lpage>. <pub-id pub-id-type="doi">10.1016/j.wem.2013.08.006</pub-id>.<pub-id pub-id-type="pmid">24393701</pub-id>
+</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="book" id="cit50"><person-group person-group-type="allauthors"><name name-style="western"><surname>Kilty</surname><given-names>S. J.</given-names></name>; <name name-style="western"><surname>Duval</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Chan</surname><given-names>F.
+T.</given-names></name>; <name name-style="western"><surname>Ferris</surname><given-names>W.</given-names></name>; <name name-style="western"><surname>Slinger</surname><given-names>R.</given-names></name></person-group><article-title>Methylglyoxal:(active agent
+of manuka honey) in vitro activity against bacterial biofilms</article-title>. In. . In <source>International Forum of Allergy &amp; Rhinology</source>; <publisher-name>Wiley Subscription Services, Inc., A Wiley Company</publisher-name>: <publisher-loc>Hoboken</publisher-loc>, <year>2011</year>; Vol. <volume>1</volume>, pp <fpage>348</fpage>–<lpage>350</lpage>.<pub-id pub-id-type="pmid">22287464</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alr.20073</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name name-style="western"><surname>Majhy</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Priyadarshini</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Sen</surname><given-names>A. K.</given-names></name>
+<article-title>Effect of surface
+energy and roughness
+on cell adhesion and growth–facile surface modification for
+enhanced cell culture</article-title>. <source>RSC Adv.</source>
+<year>2021</year>, <volume>11</volume>, <fpage>15467</fpage>–<lpage>15476</lpage>. <pub-id pub-id-type="doi">10.1039/D1RA02402G</pub-id>.<pub-id pub-id-type="pmid">35424027</pub-id>
+<pub-id pub-id-type="pmcid">PMC8698786</pub-id></mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name name-style="western"><surname>Rachmawati</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Hidayat</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Permatasari</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Widyarti</surname><given-names>S.</given-names></name>
+<article-title>Jellyfish (<italic toggle="yes">Aurelia aurita</italic>) collagen scaffolds potential in alveolar
+bone regeneration</article-title>. <source>F1000Research</source>
+<year>2021</year>, <volume>10</volume>, <fpage>318</fpage><pub-id pub-id-type="doi">10.12688/f1000research.28402.1)</pub-id>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name name-style="western"><surname>Mearns-Spragg</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Tilman</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Tams</surname><given-names>D.</given-names></name>; <name name-style="western"><surname>Barnes</surname><given-names>A.</given-names></name>
+<article-title>The biological evaluation
+of jellyfish collagen as a new research tool for the growth and culture
+of iPSC derived microglia</article-title>. <source>Front. Mar. Sci.</source>
+<year>2020</year>, <volume>7</volume>, <fpage>689</fpage><pub-id pub-id-type="doi">10.3389/fmars.2020.00689</pub-id>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name name-style="western"><surname>Ahmed</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Powell</surname><given-names>L. C.</given-names></name>; <name name-style="western"><surname>Matin</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>Mearns-Spragg</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Thornton</surname><given-names>C. A.</given-names></name>; <name name-style="western"><surname>Khan</surname><given-names>I. M.</given-names></name>; <name name-style="western"><surname>Francis</surname><given-names>L. W.</given-names></name>
+<article-title>Jellyfish collagen:
+A biocompatible collagen source for 3d scaffold fabrication and enhanced
+chondrogenicity</article-title>. <source>Mar. Drugs</source>
+<year>2021</year>, <volume>19</volume>, <fpage>405</fpage><pub-id pub-id-type="doi">10.3390/md19080405</pub-id>.<pub-id pub-id-type="pmid">34436244</pub-id>
+<pub-id pub-id-type="pmcid">PMC8400217</pub-id></mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name name-style="western"><surname>Agarwal</surname><given-names>G.</given-names></name>; <name name-style="western"><surname>Agiwal</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Srivastava</surname><given-names>A.</given-names></name>
+<article-title>Hyaluronic acid containing scaffolds
+ameliorate stem cell function for tissue repair and regeneration</article-title>. <source>Int. J. Biol. Macromol.</source>
+<year>2020</year>, <volume>165</volume>, <fpage>388</fpage>–<lpage>401</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijbiomac.2020.09.107</pub-id>.<pub-id pub-id-type="pmid">32961192</pub-id>
+</mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name name-style="western"><surname>Leone</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Nigro</surname><given-names>C.</given-names></name>; <name name-style="western"><surname>Nicolò</surname><given-names>A.</given-names></name>; <name name-style="western"><surname>Prevenzano</surname><given-names>I.</given-names></name>; <name name-style="western"><surname>Formisano</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Beguinot</surname><given-names>F.</given-names></name>; <name name-style="western"><surname>Miele</surname><given-names>C.</given-names></name>
+<article-title>The dual-role
+of methylglyoxal
+in tumor progression–novel therapeutic approaches</article-title>. <source>Front. Oncol.</source>
+<year>2021</year>, <volume>11</volume>, <elocation-id>645686</elocation-id><pub-id pub-id-type="doi">10.3389/fonc.2021.645686</pub-id>.<pub-id pub-id-type="pmid">33869040</pub-id>
+<pub-id pub-id-type="pmcid">PMC8044862</pub-id></mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name name-style="western"><surname>Ghosh</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Chakraborty</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Saha</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Acharya</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Ray</surname><given-names>M.</given-names></name>
+<article-title>Polymer based
+nanoformulation of methylglyoxal as an antimicrobial agent: efficacy
+against resistant bacteria</article-title>. <source>RSC Adv.</source>
+<year>2014</year>, <volume>4</volume>, <fpage>23251</fpage>–<lpage>23261</lpage>. <pub-id pub-id-type="doi">10.1039/C4RA00075G</pub-id>.</mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name name-style="western"><surname>Waqas</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Muller</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>Koedam</surname><given-names>M.</given-names></name>; <name name-style="western"><surname>El Kadi</surname><given-names>Y.</given-names></name>; <name name-style="western"><surname>Zillikens</surname><given-names>M. C.</given-names></name>; <name name-style="western"><surname>Van der Eerden</surname><given-names>B. C. J.</given-names></name>
+<article-title>Methylglyoxal–an
+advanced glycation end products
+(AGEs) precursor–Inhibits differentiation of human MSC-derived
+osteoblasts in vitro independently of receptor for AGEs (RAGE)</article-title>. <source>Bone</source>
+<year>2022</year>, <volume>164</volume>, <elocation-id>116526</elocation-id><pub-id pub-id-type="doi">10.1016/j.bone.2022.116526</pub-id>.<pub-id pub-id-type="pmid">35995334</pub-id>
+</mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name name-style="western"><surname>Takanche</surname><given-names>J. S.</given-names></name>; <name name-style="western"><surname>Kim</surname><given-names>J. E.</given-names></name>; <name name-style="western"><surname>Jang</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Yi</surname><given-names>H. K.</given-names></name>
+<article-title>Insulin growth factor
+binding protein-3 enhances dental implant osseointegration against
+methylglyoxal-induced bone deterioration in a rat model</article-title>. <source>J Periodontal Implant Sci.</source>
+<year>2022</year>, <volume>52</volume>, <fpage>155</fpage><pub-id pub-id-type="doi">10.5051/jpis.2101200060</pub-id>.<pub-id pub-id-type="pmid">35505576</pub-id>
+<pub-id pub-id-type="pmcid">PMC9064780</pub-id></mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name name-style="western"><surname>Aikawa</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Matsubara</surname><given-names>H.</given-names></name>; <name name-style="western"><surname>Ugaji</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Shirakawa</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Nagai</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Munesue</surname><given-names>S.</given-names></name>; <name name-style="western"><surname>Tsuchiya</surname><given-names>H.</given-names></name>; et al. <article-title>Contribution
+of methylglyoxal to delayed healing of bone injury in diabetes</article-title>. <source>Mol. Med. Rep.</source>
+<year>2017</year>, <volume>16</volume>, <fpage>403</fpage>–<lpage>409</lpage>. <pub-id pub-id-type="doi">10.3892/mmr.2017.6589</pub-id>.<pub-id pub-id-type="pmid">28534951</pub-id>
+</mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name name-style="western"><surname>Lai</surname><given-names>S. W. T.</given-names></name>; <name name-style="western"><surname>Lopez Gonzalez</surname><given-names>E. D. J.</given-names></name>; <name name-style="western"><surname>Zoukari</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Ki</surname><given-names>P.</given-names></name>; <name name-style="western"><surname>Shuck</surname><given-names>S. C.</given-names></name>
+<article-title>Methylglyoxal and
+its adducts: Induction, repair, and
+association with disease</article-title>. <source>Chem. Res. Toxicol.</source>
+<year>2022</year>, <volume>35</volume>, <fpage>1720</fpage>–<lpage>1746</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrestox.2c00160</pub-id>.<pub-id pub-id-type="pmid">36197742</pub-id>
+<pub-id pub-id-type="pmcid">PMC9580021</pub-id></mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name name-style="western"><surname>Seo</surname><given-names>K.</given-names></name>; <name name-style="western"><surname>Ki</surname><given-names>S. H.</given-names></name>; <name name-style="western"><surname>Shin</surname><given-names>S. M.</given-names></name>
+<article-title>Methylglyoxal
+induces mitochondrial
+dysfunction and cell death in liver</article-title>. <source>Toxicol.
+Res.</source>
+<year>2014</year>, <volume>30</volume>, <fpage>193</fpage>–<lpage>198</lpage>. <pub-id pub-id-type="doi">10.5487/TR.2014.30.3.193</pub-id>.<pub-id pub-id-type="pmid">25343013</pub-id>
+<pub-id pub-id-type="pmcid">PMC4206746</pub-id></mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name name-style="western"><surname>Liu</surname><given-names>C.</given-names></name>
+<article-title>Application
+of marine collagen for stem-cell-based therapy and tissue
+regeneration (Review)</article-title>. <source>Med. Int.</source>
+<year>2021</year>, <volume>1</volume> (<issue>3</issue>), <fpage>6</fpage><pub-id pub-id-type="doi">10.3892/mi.2021.5</pub-id>.<pub-id pub-id-type="pmcid">PMC9855277</pub-id><pub-id pub-id-type="pmid">36698868</pub-id></mixed-citation></ref><ref id="ref64"><mixed-citation publication-type="journal" id="cit64"><name name-style="western"><surname>Matsumoto</surname><given-names>R.</given-names></name>; <name name-style="western"><surname>Uemura</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Xu</surname><given-names>Z.</given-names></name>; <name name-style="western"><surname>Yamaguchi</surname><given-names>I.</given-names></name>; <name name-style="western"><surname>Ikoma</surname><given-names>T.</given-names></name>; <name name-style="western"><surname>Tanaka</surname><given-names>J.</given-names></name>
+<article-title>Rapid oriented fibril formation of
+fish scale collagen facilitates early osteoblastic differentiation
+of human mesenchymal stem cells</article-title>. <source>J. Biomed.
+Mater. Res. A</source>
+<year>2015</year>, <volume>103</volume>, <fpage>2531</fpage>–<lpage>2539</lpage>. <pub-id pub-id-type="doi">10.1002/jbm.a.35387</pub-id>.<pub-id pub-id-type="pmid">25546439</pub-id>
+</mixed-citation></ref><ref id="ref65"><mixed-citation publication-type="journal" id="cit65"><name name-style="western"><surname>Elango</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Robinson</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Zhang</surname><given-names>J.</given-names></name>; <name name-style="western"><surname>Bao</surname><given-names>B.</given-names></name>; <name name-style="western"><surname>Ma</surname><given-names>N.</given-names></name>; <name name-style="western"><surname>De Val</surname><given-names>J. E. M. S.</given-names></name>; <name name-style="western"><surname>Wu</surname><given-names>W.</given-names></name>
+<article-title>Collagen peptide upregulates osteoblastogenesis
+from bone marrow mesenchymal stem cells through MAPK-Runx2</article-title>. <source>Cells</source>
+<year>2019</year>, <volume>8</volume>, <fpage>446</fpage><pub-id pub-id-type="doi">10.3390/cells8050446</pub-id>.<pub-id pub-id-type="pmid">31083501</pub-id>
+<pub-id pub-id-type="pmcid">PMC6562845</pub-id></mixed-citation></ref><ref id="ref66"><mixed-citation publication-type="journal" id="cit66"><name name-style="western"><surname>Keller</surname><given-names>L.</given-names></name>; <name name-style="western"><surname>Pugliano</surname><given-names>M.</given-names></name>
+<article-title>Combined Jellyfish
+Collagen Type II, Human Stem Cells
+and Tgf-β3 as a Therapeutic Implant for Cartilage Repair</article-title>. <source>J. Stem Cell Res. Ther.</source>
+<year>2017</year>, <volume>07</volume>, <fpage>2</fpage><pub-id pub-id-type="doi">10.4172/2157-7633.1000382</pub-id>.</mixed-citation></ref></ref-list></back></article>

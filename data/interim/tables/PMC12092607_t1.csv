@@ -1,0 +1,7 @@
+pathogen,Mean diameter of inhibition zone(mm) ± SE,,,
+Petroleum ether,Chloroform,Ethyl acetate,N-butanol,
+E. coli,9.00c ± 0.67,10.67b ± 0.67,12.00a ± 0.00,11.00ab ± 0.00
+K. pneumoniae,0.00c ± 0.00,10.33b ± 0.58,10.88ab ± 0.33,11.67a ± 0.67
+P. aeruginosa,10.58b ± 0.17,11.00b ± 0.17,13.67a ± 0.67,13.00a ± 0.10
+S. saprophyticus,11.33c ± 0.33,15.00b ± 0.00,20.33a ± 0.88,19.33a ± 0.58
+C. albicans,15.33d ± 0.67,18.33c ± 0.33,28.00a ± 0.58,24.67b ± 0.33

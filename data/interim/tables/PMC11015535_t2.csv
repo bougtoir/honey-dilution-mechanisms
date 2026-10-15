@@ -1,0 +1,6 @@
+NPs,Polydispersity index,Surface charge (mv),Size (nm) (FESEM),Hydrodynamic diameter (nm),EE (%)
+Meropenem,1.858 ± 0.029,+127 ± 3.5,125.025,439.0 ± 1.5,0
+Meropenem + honey,2.04 ± 0.015,+228 ± 4,132.81,328.8 ± 0.5,16.5 ± 1.5
+Meropenem + Cs,0.179 ±1.001,+45 ± 0.5,70.12,277.5 ± 0.75,66.16 ± 5.04
+Honey + Cs,0.245 ± 0.01,+39.0 ± 1,67.27,190.30 ± 0.25,71.66 ± 3.54
+Cs + meropenem + honey,0.118 ± 0.004,+48.0 ± 1,119.885,266.2 ± 0.28,88.33 ± 0.97

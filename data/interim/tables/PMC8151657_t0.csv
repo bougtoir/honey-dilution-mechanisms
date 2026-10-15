@@ -1,0 +1,46 @@
+Species,Ribosomal Peptides,Nonribosomal Peptides,,,,Target,Ref.
+,,Antibiotics,Lipopetides,Siderophores,Polyketides,,
+B. subtilis,subtilin,,,,,,"[64,110,111,112]"
+,subtilosin A,,,,,Gram+ L.monocytogenes Gardnerella vaginalis S. agalactiae,"[64,110,111,112]"
+,sublancin,,,,,B. cereus S. pyogenes S. aureus,"[64,110,111]"
+,,,surfactin,,,"Bacteria, viruses fungi",[64]
+,,,fengycin,,,fungi,
+,,,bacillomycin,,,bacteria,[64]
+,,,,bacillibactin,,,[111]
+,,bacitracin,,,,Gram+ PP synthesis C55-PP carrier,"[64,111]"
+,,bacilysin,,,,"Gram+, PP synthesis fungi",
+,,,,,bacillaene,,
+B. licheniformis,lichenin,bacitracin,,,,"PP synthesis, Gram+","[110,111]"
+,lichenicidin,,,,,L. monocytogenesMRSA VRE,[110]
+,,,lychenisin,,,,[111]
+B. amyloliquefa-ciens,amylolysin,,iturin,,bacillaene,,
+,,bacilysin,,,,S. aureus,[111]
+,Subtiliosin,,fengycin,,,,
+,,,surfactin,,,,
+B. cereus,,,cereins,,,"B. cereus, B.coagulans, B. subtilis, B. pumilus","[110,111]"
+,,,,bacillibactin,,,
+,,,thuricin,,,,"[110,111]"
+B. thuringiensis,,,thuricin 17,,,"B.thuringiensis, B. cereusE. coli MM294","[110,111]"
+,,,thurincin H,,,"B. cereus, B. subtilis, B. megaterium, L. monocytogenes, L. innocua, L. ivanovii, S. aureus, Carnobacterim psicola, Geobacillus stearothermophillus",[115]
+,,,thuricin CD,,,C. difficile,[117]
+B. mycoides,,,,,,,
+B. pumilis,pumilicin,,surfactin,,,,
+,,bacilysin,,,,,[110]
+,,,Pumilacidin,,,,[112]
+,,bacitracin,,,,,
+B. safensis,,,,,,,
+B. altitudinis,,,,,,,
+B. mojavensis,,,,,,,
+B. megaterium,megacin,,surfactin,,,,
+,,,fengycin,,,,
+,,,bacillomycins,,,,[112]
+B. aerius,,,,,,,
+B. altitudinis,,,,,,,
+P. alvei,,,,,,,
+P. larvae,,,paenibacterin,,,,
+P. polymyxa,paeniba-cillin,,,,,"Bacillus spp., C. sporogenes, Lactobacillus spp., L. lactis, Leuconostoc mesenteroides, Listeria spp., Pediococcus cerevisiae, S. aureus S. agalactiae",[110]
+,,,,bacillibactin,,,
+,,,,,bacillaene,,[111]
+,,,polymyxin,,,Gram-positive Gram-negative,[111]
+,,,,,paenima-crolidin,S. aureus,[111]
+B. brevis,,gramicidin,,,,,[112]

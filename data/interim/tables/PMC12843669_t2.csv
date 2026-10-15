@@ -1,0 +1,16 @@
+Bee-Made Product,Strains Used to Build Calibration Curves,% Recovery,Goodness-of-Fit Tests,Coefficient of Correlation
+Apitoxin–royal-jelly-based anti-aging creams,S. aureus,81,1.0000,0.9500
+E. coli,100,0.9940,0.9700,
+P. aeruginosa,102,1.0000,0.9700,
+C. albicans,75,0.9870,0.9700,
+A. brasiliensis,100,1.0000,0.9692,
+Propolis–honey-based toothpaste,S. aureus,103,1.0000,0.9600
+E. coli,100,1.0000,0.9600,
+P. aeruginosa,107,0.9920,0.9500,
+C. albicans,86,0.9080,0.9600,
+A. brasiliensis,118,0.9990,0.9700,
+Capillary treatments,S. aureus,90,0.9980,0.9613
+E. coli,100,0.9990,0.9574,
+P. aeruginosa,89,1.0000,0.9594,
+C. albicans,103,0.9990,0.9595,
+A. brasiliensis,87,1.0000,0.9543,

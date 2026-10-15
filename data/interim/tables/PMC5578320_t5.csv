@@ -1,0 +1,10 @@
+Test Organism,MIC (mg L−1),MIC (mM),MBC (mg L−1),MBC (mM)
+Pseudomonas aeruginosa ATCC27853,512,7.1,1024,14.2
+Pseudomonas aeruginosa patient 1,512,7.1,512,7.1
+Pseudomonas aeruginosa patient 2,1024,14.2,1024,14.2
+Staphylococcus aureus ATCC29213,128,1.8,256,3.6
+Staphylococcus aureus patient 1,256,3.6,256,3.6
+Staphylococcus aureus patient 2,256,3.6,256,3.6
+Enterococcus faecalis ATCC21292,256,3.6,256,3.6
+VRE patient 1,512,7.1,512,7.1
+VRE patient 2,512,7.1,512,7.1

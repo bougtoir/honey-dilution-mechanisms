@@ -1,0 +1,19 @@
+Biofilm inhibition,,,,
+Treatments,Concentrations (mg/mL),,,
+64,128,256,512,
+Honey,1.253,0.908,0.829,0.748
+Miswak extract,0.955,0.866,0.682,0.667
+Sumac fruit extract,0.339,0.324,0.324,0.322
+Royal jelly,1.395,1.052,0.961,0.847
+Lactogum,1.009,0.868,0.737,0.573
+Silver diamine fluoride,0.141,0.138,0.131,0.120
+Chlorhexidine (Control+),0.169,0.124,0.105,0.100
+S. mutans (Control-),1.415,,,
+Biofilm’s metabolic activity,,,,
+Honey,1.285,1.286,1.611,1.681
+Miswak extract,1.470,1.440,1.319,1.170
+Sumac fruit extract,1.143,1.266,1.686,1.893
+Royal jelly,1.439,1.739,1.387,1.205
+Lactogum,1.479,1.478,1.436,1.390
+Silver diamine fluoride,0.638,0.655,0.517,0.509
+Control+,1.552,,,

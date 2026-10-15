@@ -1,0 +1,10 @@
+Variable,,MIC % (w/v)
+Microorganisms,B. cereus,1.51 ± 0.90 d
+S. aureus,4.73 ± 2.09 c,
+E. coli,7.60 ± 3.69 b,
+P. aeruginosa,11.63 ± 5.23 a,
+Catalase,Absence,5.25 ± 4.29 b
+Presence,7.48 ± 5.47 a,
+Effects significance,Microorganisms,***
+Catalase,***,
+Interaction,NS,

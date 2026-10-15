@@ -1,0 +1,16 @@
+,Concentration,,,,
+Antibiotics,(μg),BMOBR013,BMOBR061,BMOBR041,L. acidophilus
+Chloramphenicol (C),30,S,S,S,S
+Tetracycline (TE),30,S,S,S,I
+Erythromycin (E),15,I,S,S,S
+Ampicillin (AMP),10,S,S,I,S
+Clindamycin (CD),2,R,I,I,R
+Ceftriaxone (CTR),10,I,R,R,R
+Kanamycin (K),30,R,R,R,R
+Lincomycin (L),10,R,R,R,R
+Streptomycin (S),10,R,R,R,R
+Rifampicin (RIF),5,R,R,R,R
+Ciprofloxacin (CIP),5,R,R,R,R
+Gentamycin (GEN),10,R,R,R,R
+Vancomycin (VA),30,R,R,R,R
+Penicillin-G (P),10 Units,R,R,R,R

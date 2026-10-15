@@ -1,0 +1,9 @@
+{
+ "raw_records": 4042,
+ "duplicates_removed": 1811,
+ "unique_screened": 2231,
+ "excluded_screen1": 1367,
+ "screen1_passed": 864,
+ "mech_candidates": 726,
+ "candidates_with_pmcid": 315
+}

@@ -1,0 +1,15 @@
+Polarity,Compounds,Formula,Mass,Classification,,Bioactivities,References
+Negative,"2-Hydroxy-2,4-pentadienoate",C5H6O3,114.0317,Fatty acid,N/A,,
+Purine,C5H4N4,120.0436,Nucleoside,"Novel series of purine benzimidazole hybrids showed antimicrobial activities against S. aureus, Enterococcus faecalis, E. coli, Pseudomonas aeruginosa, Acinetobacter baumannii, C. albicans, Candida tropicalis, Aspergillus fumigatus, Candida parapsilosis.",,[38],
+Pteridine,C6H4N4,132.0434,Heterocyclic compound,"Pteridine derivatives showed antimicrobial activities against S. aureus, B. subtilis, E. coli, C. albicans.",,[39],
+Theobromine,C7H8N4O2,180.065,Alkaloids,"Antimicrobial effects against Streptococcus mutans, Lactobacillus acidophilus, Enterococcus faecalis and C. albicans.",,"[40, 42]",
+Nebularine,C10H12N4O4,252.0856,Nucleoside,Antifungal activities against Magnaporthe grisea and Trichophyton mentagrophyte.,,[41],
+Asn-Asn-OH,C13H14N4O8,354.0815,Dipeptide,N/A,,,
+Fructoselysine 6-phosphate,C12H25N2O10P,388.124,Hexose phosphates,N/A,,,
+"(3R,5 S,6E)-rel-7-[3-(4-fluorophenyl)−1 H-indol-2-yl]−3,5-dihydroxy-6-Heptenoic acid",C21H20FNO4,369.1375,Statin-like indole derivatives,N/A,,,
+Glucosylgalactosyl hydroxylysine,C18H34N2O13,486.2055,Glycosylated amino acid,N/A,,,
+Positive,3-Hydroxy-3-methyl-glutaric acid,C6H10O5,162.0527,Dicarboxylic acid,No antimicrobial activities were reported but it promoted lipid and protein oxidative damage.,,[43]
+L-Galactose,C6H12O6,180.0632,Carbohydrates,N/A,,,
+Starch acetate,C12H18O9,306.0949,Carbohydrate derivative,N/A,,,
+Nigerose (Sakebiose),C12H22O11,342.116,Carbohydrates,Potential antimicrobial activities against Streptococcus sanguinis.,,[40],
+Panose,C18H32O16,504.1686,Carbohydrates,N/A,,,

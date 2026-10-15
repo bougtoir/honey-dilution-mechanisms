@@ -1,0 +1,10 @@
+Variable,,MIC % (w/v)
+Microorganisms,C. krusei,14.33 ± 5.68 c
+C. neoformans,19.33 ± 8.15 b,
+C. famata,22.38 ± 9.14 a,
+C. albicans,23.33 ± 10.31 a,
+Catalase,Absence,17.52 ± 7.30 b
+Presence,22.17 ± 10.32 a,
+Effects Significance,Microorganisms,***
+Catalase,***,
+Interaction,NS,

@@ -1,0 +1,29 @@
+,Time,MHME,Saline control,p
+Conjunctival hyperaemia grade,Baseline,0.500 (0.00-0.75),0.500 (0.00-0.75),>0.99
+30 s,1.125 (1.00-1.5),0.500 (0.25-0.75),<0.001*,
+5 min,1.000 (0.75-1.25),0.625 (0.25-1.00),<0.001*,
+10 min,0.500 (0.50-1.00),0.500 (0.00-0.75),0.85,
+RM-ANOVA for treatment effect,,,0.001*,
+RM-ANOVA for time effect,,,0.002*,
+RM-ANOVA for interaction effect,,,<0.001*,
+Corneal opacity grade,Baseline,0 (0–0),0 (0–0),>0.99
+30 s,0 (0–0),0 (0–0),>0.99,
+5 min,0 (0–0),0 (0–0),>0.99,
+10 min,0 (0–0),0 (0–0),>0.99,
+RM-ANOVA for treatment effect,,,>0.99,
+RM-ANOVA for time effect,,,>0.99,
+RM-ANOVA for interaction effect,,,>0.99,
+Iris appearance grade,Baseline,0 (0–0),0 (0–0),>0.99
+30 s,0 (0–0),0 (0–0),>0.99,
+5 min,0 (0–0),0 (0–0),>0.99,
+10 min,0 (0–0),0 (0–0),>0.99,
+RM-ANOVA for treatment effect,,,>0.99,
+RM-ANOVA for time effect,,,>0.99,
+RM-ANOVA for interaction effect,,,>0.99,
+Ocular surface sodium fluorescein staining score,Baseline,0 (0–0.250),0 (0–0),0.58
+30 s,0 (0–0.250),0 (0–0),0.58,
+5 min,0 (0–0.125),0 (0–0),0.94,
+10 min,0 (0–0.050),0 (0–0),0.99,
+RM-ANOVA for treatment effect,,,0.36,
+RM-ANOVA for time effect,,,0.42,
+RM-ANOVA for interaction effect,,,0.42,

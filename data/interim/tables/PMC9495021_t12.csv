@@ -1,0 +1,101 @@
+Code,Producer,Town/Country,Locality or Market,Type
+1,beekeeper,Bratislava/SK,town,multifloral
+2,beekeeper,Bratislava/SK,town,multifloral
+3,beekeeper,Bratislava/SK,town,multifloral
+4,beekeeper,Bratislava/SK,town,multifloral
+5,beekeeper,Bratislava/SK,town,multifloral
+6,beekeeper,Trnava/SK,town,multifloral
+7,beekeeper,Trnava/SK,town,multifloral
+8,beekeeper,Trnava/SL,town,multifloral
+9,beekeeper,Prešov/SK,town,multifloral
+10,beekeeper,Prešov/SK,town,multifloral
+11,beekeeper,Košice/SK,town,multifloral
+12,beekeeper,B. Bystrica/SK,town,multifloral
+13,beekeeper,Žilina/SK,town,multifloral
+14,beekeeper,Nitra/SK,town,acacia
+15,beekeeper,Nitra/SK,town,linden
+16,beekeeper,Zvolen/SK,town,multifloral
+17,beekeeper,Zvolen/SK,town,multifloral
+18,beekeeper,Zvolen/SK,town,linden
+19,beekeeper,Pezinok/SK,town,multifloral
+20,beekeeper,Prievidza/SK,town,multifloral
+21,beekeeper,Prievidza/SK,town,multifloral
+22,beekeeper,Kremnická lesy/SK,forest,linden
+23,beekeeper,B. Štiavnica/SK,forest,multifloral
+24,beekeeper,Štrbské pleso/SK,forest,multifloral
+25,beekeeper,Kraskovo/SK,forest,multifloral
+26,beekeeper,Sabinov/SK,forest,multifloral
+27,beekeeper,Sabinov/SK,forest,honeydew
+28,beekeeper,Nitra/SK,town,honeydew
+29,beekeeper,Kremnica/SK,forest,honeydew
+30,beekeeper,Poltár/SK,forest,multifloral
+31,beekeeper,Detva/SK,forest,multifloral
+32,beekeeper,Detva/SK,forest,honeydew
+33,beekeeper,Senec/SK,countryside,honeydew
+34,beekeeper,Levoča/SK,forest,honeydew
+35,beekeeper,Choča/SK,forest,chestnut
+36,beekeeper,Oponice/SK,forest,chestnut
+37,beekeeper,Senec/SK,countryside,multifloral
+38,beekeeper,Senec/SK,countryside,phacelia
+39,beekeeper,Choča/SK,countryside,rapeseed
+40,beekeeper,Choča/SK,countryside,acacia
+41,beekeeper,Hlohovec/SK,countryside,sunflower
+42,beekeeper,Oponice/SK,countryside,sunflower
+43,beekeeper,Oponice/SK,countryside,acacia
+44,beekeeper,Oponice/SK,countryside,rapeseed
+45,beekeeper,Šala/SK,countryside,rapeseed
+46,beekeeper,Šala/SK,countryside,sunflower
+47,beekeeper,Šala/SK,countryside,acacia
+48,beekeeper,Levice/SK,countryside,acacia
+49,beekeeper,Levice/SK,countryside,sunflower
+50,beekeeper,Levice/SK,countryside,phacelia
+51,beekeeper,Krupina/SK,countryside,linden
+52,beekeeper,Krupina/SK,countryside,acacia
+53,beekeeper,Krupina/SK,countryside,fruit trees
+54,beekeeper,Kysucké Nové mesto/SK,town,acacia
+55,beekeeper,Kysucké Nové mesto/SK,town,fruit trees
+56,beekeeper,Kysucké Nové mesto/SK,town,sunflower
+57,beekeeper,Záhorie/SK,countryside,linden
+58,beekeeper,Záhorie/SK,countryside,rapeseed
+59,beekeeper,Záhorie/SK,countryside,sinapis
+60,beekeeper,Liptov/SK,forest,multifloral
+61,beekeeper,Horná Streda/SK,town,multifloral
+62,beekeeper,Senec/SK,countryside,rapeseed
+63,beekeeper,Senec/SK,countryside,sunflower
+64,beekeeper,Nitra/SK,countryside,buckwheat
+65,beekeeper,Kolíňany/SK,countryside,sunflower
+66,beekeeper,Kolíňany/SK,countryside,fruit trees
+67,beekeeper,Hlohovec/SK,countryside,multifloral
+68,beekeeper,Hlohovec/SK,countryside,multifloral
+69,beekeeper,Šamorín/SK,countryside,buckwheat
+70,beekeeper,Šamorín/SK,countryside,linden
+71,beekeeper,Šamorín/SK,countryside,fruit trees
+72,beekeeper,Kysucké Nové mesto/SK,countryside,sunflower
+73,beekeeper,Kysucké Nové mesto/SK,countryside,acacia
+74,beekeeper,Kysucké Nové mesto/SK,countryside,rapeseed
+75,beekeeper,Kysucké Nové mesto/SK,countryside,linden
+76,commercially,SK,CBA—private label,multifloral
+77,commercially,EU—outside EU,LIDL,multifloral
+78,commercially,EU—outside EU,COOP,multifloral
+79,commercially,SK,COOP,acacia
+80,commercially,SK,COOP,multifloral
+81,commercially,SK,COOP,multifloral
+82,commercially,SK,COOP,multifloral
+83,commercially,SK,COOP—private label,multifloral
+84,commercially,EU—outside EU,COOP,linden
+85,commercially,SK,Billa,acacia
+86,commercially,EU—outside EU,Billa—private label,multifloral
+87,commercially,SK,Billa,creamed rapeseed
+88,commercially,SK,Tesco,linden
+89,commercially,EU—outside EU,Tesco,multifloral
+90,commercially,EU—outside EU,Tesco,multifloral
+91,commercially,EU,Kraj,multifloral
+92,commercially,EU—outside EU,Kraj,multifloral
+93,commercially,New Zealand,Ceramel,manuka
+94,commercially,Turkey,Kaufland,honeydew
+95,commercially,EU—outside EU,Kaufland,honeydew
+96,commercially,EU—outside EU,Kaufland,fruit trees
+97,commercially,SK,Kaufland,acacia
+98,commercially,SK,Kaufland,multifloral
+99,commercially,EU,Kaufland,multifloral
+100,beekeeper,SK,countryside,phacelia

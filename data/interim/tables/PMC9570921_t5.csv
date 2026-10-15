@@ -1,0 +1,9 @@
+Parameters,"2,4-Dihydroxy-2,5-Dimethyl 3(2H)-Furan-3-One (Furan)","Beta.-D-Glucopyranose,1,6-Anhydro","4H-Pyran-4-One,2,3-Dihydro 3,5-Dihydroxy-6-Methyl"
+Molecular weight,144.13 g/mol,162.14 g/mol,144.13 g/mol
+Num. H-bond acceptors,4,5,4
+Num. H-bond donors,2,3,2
+TPSA (S),66.76 Å²,79.15 Å²,66.76 Å²
+BBB permeability,No,,No
+Human intestinal absorption,High,High,High
+P-glycoprotein substrate,No,No,No
+Lipinski rule of five,Yes; 0 violation,Yes; 0 violation,Yes; 0 violation

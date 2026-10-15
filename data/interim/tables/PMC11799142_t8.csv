@@ -1,0 +1,7 @@
+Variables,MBC S. aureus,MIC S. aureus,MBC Salmonella,MIC Salmonella,MBC P. aeruginosa,MIC P. aeruginosa,MBC E. coli,MIC E. coli
+MBC Salmonella,"0,862","0,636",1,"0,777","0,805","0,680","0,753","0,662"
+MIC Salmonella,"0,683","0,759","0,777",1,"0,707","0,687","0,599","0,727"
+MBC P. aeruginosa,"0,775","0,705","0,805","0,707",1,"0,874","0,893","0,780"
+MIC P. aeruginosa,"0,642","0,715","0,680","0,687","0,874",1,"0,767","0,784"
+MBC E. coli,"0,841","0,719","0,753","0,599","0,893","0,767",1,"0,834"
+MIC E. coli,"0,719","0,742","0,662","0,727","0,780","0,784","0,834",1

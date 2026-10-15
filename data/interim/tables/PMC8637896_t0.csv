@@ -1,0 +1,7 @@
+GO solution in PBS (U/L) (Solution A),GO concentration in HB PEGDA solution (40% w/w) (U/L) (Solution B),G concentration in HA-SH solution (4% w/w) (w/w%) (Solution C),GO concentration in the HB PEGDA/ HA-SH 10.0–1.0 hydrogel (U/L)
+0,0,5,0
+100,50,5,25
+200,100,5,50
+500,250,5,125
+"1,000",500,5,250
+"2,000","1,000",5,500

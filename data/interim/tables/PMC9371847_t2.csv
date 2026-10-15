@@ -1,0 +1,26 @@
+Test systems,Acacia honey,(BHT),(AA)
+,,,
+Tested microorganisms,Acacia honey,,MBC/MIC ratio
+MIC,MBC,,
+,,,
+P. aeruginosa (clinical strain SP-40),150,300,2
+S. aureus ATCC 29213,75,600,8
+S. epidermidis ATCC 12228,75,600,8
+E. coli ATCC 10536,150,300,2
+K. pneumoniae (clinical strain 140),75,300,4
+E. coli (clinical strain 217),150,300,2
+S. aureus (clinical strain),150,300,2
+S. sciuri (environmental strain),75,600,8
+Se. marcescens (clinical strain),75,300,4
+A. baumannii (clinical strain 146),300,600,2
+Enterobacter cloacae (clinical strain 155),150,>600,>4
+S. aureus MR (clinical strain 136),300,600,2
+,,,
+Tested microorganisms,Acacia honey,,MFC/MIC ratio
+MIC,MFC,,
+,,,
+C. albicans ATCC 20402,150,600,4
+S. cerevisiae (instant yeast),150,>600,>4
+C. vaginalis (clinical strain 136),300,>600,>2
+C. guilliermondii ATCC 6260,150,>600,>4
+C. tropicalis ATCC 1362,150,>600,>4

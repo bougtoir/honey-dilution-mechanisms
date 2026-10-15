@@ -1,0 +1,8 @@
+(I) Honey,(J) Honey,Mean Difference (I-J),Std. Error,Sig.,95% Confidence interval,
+Lower Bound,Upper Bound,,,,,
+Manuka honey,Sumra honey,1.8a,.37,.000,.95,2.8
+Simulated honey,−20.4a,.37,.000,−21.4,−19.5,
+Sumra honey,Manuka honey,−1.8a,.37,.000,−2.8,−.95
+Simulated honey,−22.3a,.37,.000,−23.3,−21.4,
+Simulated honey,Manuka honey,20.4a,.37,.000,19.5,21.4
+Sumra honey,22.3a,.37,.000,21.4,23.3,

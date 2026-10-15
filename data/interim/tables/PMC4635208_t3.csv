@@ -1,0 +1,13 @@
+Variables,Sum Sq.,Df,F,P,Sig
+Bacterial strains,2340.3,3,67.11,< 0.001,***
+Floral origins,1207.8,7,14.84,< 0.001,***
+Bacterial strains × Floral origins,2554.3,21,10.46,< 0.001,***
+Water content (WC),49.6,1,4.27,0.040,*
+pH,10.2,1,0.88,0.349,ns
+Electrical conductivity (EC),84.6,1,7.28,0.007,**
+Hydroxymethylfurfural (HMF),12.4,1,1.06,0.303,ns
+Total sugars,41.3,1,3.55,0.060,ns
+Reducing sugars,51.5,1,4.43,0.036,*
+Pollen density,27.0,1,2.32,0.128,ns
+Proline,< 0.1,1,< 0.01,0.973,ns
+Residuals,3998.9,344,,,

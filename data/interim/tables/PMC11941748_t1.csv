@@ -1,0 +1,8 @@
+Compound,RT (min),m/z,Fragmentation,Molecular Formula
+Apigenidin isomer (I),5.5,256.07,(MS2) 256.05; 255.00; 257.05; 253.8,C15H11O4
+Matairesinol,6.4,359.14,(MS2) 341.14; 323.08; 274.97; 342.12,C20H22O6
+Quercetin,12.7,303.05,(MS2) 284.98; 285.93; 303.03; 301.06,C15H10O7
+Apigenidin isomer (II),18.2,256.07,(MS2) 256.04; 254.94; 257.04; 238.88,C15H11O4
+Hesperidin,24.2,611.18,(MS2) 302.87; 465.08; 303.89; 575.22,C27H30O16
+"5,6,7,3′,4′ pentahydroxyisoflavone",13.5,303.02,(MS2) 284.97; 285.94; 303.04; 257.81,C15H10O7
+Anhydrosecoisolariciresinol,25.1,345.16,(MS2) 327.09; 200.78; 164.73; 136.76,C20H24O5

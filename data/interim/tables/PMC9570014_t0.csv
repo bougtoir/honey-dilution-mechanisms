@@ -1,0 +1,6 @@
+Microorganisms/Cell Type,MH,MHWE,GOH,GDH,GLH,GMH
+MRSA/Gram+,++,++,++,++,+,+
+B. subtilis/Gram+,+++,+++,+++,+++,+++,+++
+C. bombicola/Yeast,0,0,+++,+,0,0
+E. coli/Gram–,++,++,+++,+++,+++,+++
+P. putida/Gram–,+,+,++,+,+,+

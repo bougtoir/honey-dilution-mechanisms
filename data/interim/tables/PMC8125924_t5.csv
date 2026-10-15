@@ -1,0 +1,8 @@
+,Total Phenols,Total Flavonoids,Radical Scavenging Activity,Total Antioxidant Capacity,Inhibition Diameters,H2O2,Chroma Value
+Total phenols,1.000,,,,,,
+Total flavonoids,0.509,1.000,,,,,
+Radical scavenging activity,0.342,0.846 **,1.000,,,,
+Total antioxidant capacity,0.958 ***,0.462,0.428,1.000,,,
+Inhibition diameters,0.795 **,0.666,0.653,0.853 **,1.000,,
+H2O2,0.525,0.263,0.065,0.466,0.535,1.000,
+Chroma value,0.948 ***,0.577,0.507,0.940 ***,0.746 *,0.337,1.000

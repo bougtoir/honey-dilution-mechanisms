@@ -1,0 +1,14 @@
+Growth phases,Type of antibiotic,Zone of inhibition/mm,
+E. coli,S. aureus,,
+Early log phase,Ampicillin 10 μg,6,6
+Polymexin 300 μg,10,6,
+Tetracycline 30 μg,20,6,
+Ciprofloxacin 5 μg,31,28,
+Mid log phase,Ampicillin 10 μg,6,6
+Polymexin 300 μg,14,6,
+Tetracycline 30 μg,17,6,
+Ciprofloxacin 5 μg,34,31,
+Late log phase,Ampicillin 10 μg,6,6
+Polymexin 300 μg,6,6,
+Tetracycline 30 μg,6,6,
+Ciprofloxacin 5 μg,6,6,

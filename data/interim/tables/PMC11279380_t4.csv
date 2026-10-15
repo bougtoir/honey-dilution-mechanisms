@@ -1,0 +1,12 @@
+Strains,,H1,,H2,,H3,,H4,
+MIC,MBC,MIC,MBC,MIC,MBC,MIC,MBC,,
+Bacteria,Enterobactercloacae,6.25,6.25,12.5,12.5,25,25,25,25
+Klebsiellapneumoniae,25,25,25,25,25,25,25,25,
+Escherichia coli sauvage,25,25,25,25,25,25,25,25,
+Staphylococcus aureus BLACT,25,25,25,25,25,25,25,25,
+Staphylococcus epidermidis,25,25,25,25,25,25,25,25,
+Fungi,Candida albicans,3.125,3.125,6.25,6.25,6.25,6.25,6.25,6.25
+Candida dubliniensis,6.25,6.25,6.25,6.25,6.25,6.25,12.5,12.5,
+Candida tropicalis,6.25,6.25,12.5,12.5,12.5,12.5,12.5,12.5,
+Candida parapsilosis,6.25,6.25,12.5,12.5,12.5,12.5,12.5,12.5,
+Aspergillus niger,6.25,6.25,12.5,12.5,12.5,12.5,12.5,12.5,

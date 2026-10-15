@@ -1,0 +1,18 @@
+Bacterial strain,MIC alone (%),,MIC combined (%),,FIC,Interaction
+SB,SP,SB,SP,,,
+Enterococcus faecalis ATCC29212,1.25,1.25,0.31,0.31,0.50,Synergic
+E. faecium ATCC6569,5.00,10.00,0.63,2.50,0.38,Synergic
+Escherichia coli ATCC25922,5.00,5.00,1.25,1.25,0.50,Synergic
+E. coli ATCC8739,5.00,5.00,1.25,0.63,0.38,Synergic
+Klebsiella pneumoniae ATCC700603,10.00,10.00,2.50,0.31,0.28,Synergic
+Pseudomonas aeruginosa ATCC27853,2.50,2.50,0.63,0.63,0.50,Synergic
+P. aeruginosa ATCC9027,5.00,5.00,1.25,0.63,0.38,Synergic
+Salmonella enterica Enteritidis ATCC13076,5.00,5.00,1.25,1.25,0.50,Synergic
+S.enterica Typhimurium UK1,5.00,10.00,1.25,0.63,0.31,Synergic
+Staphylococcus aureus ATCC25923,0.62,1.25,0.16,0.31,0.50,Synergic
+S. aureus ATCC29213,2.50,2.50,0.63,0.63,0.50,Synergic
+S. aureus methicillin-resistantBEC9393,0.62,1.25,0.16,0.31,0.50,Synergic
+S. aureus methicillin-resistantN315,1.25,1.25,0.31,0.16,0.38,Synergic
+S. epidermidis ATCC12228,2.50,2.50,0.62,0.62,0.50,Synergic
+Streptococcus mutans UA159,2.50,2.50,0.63,0.63,0.50,Synergic
+S. pyogenes ATCC19615,1.25,1.25,0.31,0.31,0.50,Synergic

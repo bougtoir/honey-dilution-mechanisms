@@ -1,0 +1,7 @@
+,MBC (S. aureus),MBC (E. coli)
+TPC,0.306,0.360
+DPPH,0.332,0.445 *
+ABTS,0.558 **,0.550 **
+FRAP,0.137,0.255
+MBC (S. aureus),1,0.790 **
+MBC (E. coli),0.790 **,1

@@ -1,0 +1,12 @@
+Source,DF,Adj SS,Adj MS,F-Value,P-Value
+Honey concentration,10,565.748,56.5748,378.29,0.001
+Honey type,6,8.203,1.6406,10.97,0.001
+Bacterial strain,8,54.014,7.7163,51.59,0.001
+Honey concentration*Honey type,60,26.230,0.5246,7.08,0.001
+Honey concentration*Bacterial strain,80,67.405,0.9629,13.00,0.001
+Honey type*Bacterial strain,48,9.582,0.2738,3.70,0.001
+Honey concentration*Honey type*Bacterial strain,480,60.781,0.1737,2.34,0.001
+Error,1056,78.223,0.0741,,
+Total,1583,866.844,,,
+S,R-sq,R-sq(adj),R-sq(pred),,
+0.272167,90.98%,86.47%,79.70%,,

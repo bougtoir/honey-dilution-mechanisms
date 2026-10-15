@@ -1,0 +1,5 @@
+Sample name,Observed species,Shannon (Evenness),Simpson (Richness),Chao1 index,ACE index,Good’s coverage,PD whole tree
+H. itama,1005,1.834,0.278,1117.734,1134.378,0.998,94.738
+G. thoracica,68,0.877,0.215,89.111,89.425,1,14.132
+T. melanoleuca,78,2.559,0.607,78.75,79.996,1,16.22
+T. binghami,275,3.013,0.748,298.786,296.928,1,33.128
